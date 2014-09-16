@@ -1,0 +1,47 @@
+2         Threads
+50        Connections per thread
+1000      Requests per thread
+Type        Ops/sec     Hits/sec   Misses/sec      Latency       KB/sec
+------------------------------------------------------------------------
+Sets        4550.00          ---          ---      2.32200     68704.00
+Gets       45450.00         0.00     45450.00      2.20100      1148.00
+Totals     50000.00         0.00     45450.00      2.21200     69852.00
+
+
+Request Latency Distribution
+Type        <= msec      Percent
+------------------------------------------------------------------------
+SET               0         5.65
+SET               1        47.64
+SET               2        83.32
+SET               3        92.56
+SET               4        96.04
+SET               5        97.81
+SET               6        98.89
+SET               7        99.27
+SET               8        99.38
+SET               9        99.57
+SET              10        99.67
+SET              11        99.73
+SET              12        99.93
+SET              13        99.96
+SET              15        99.99
+SET              17       100.00
+---
+GET               0         6.32
+GET               1        56.52
+GET               2        85.70
+GET               3        93.39
+GET               4        96.41
+GET               5        98.25
+GET               6        99.04
+GET               7        99.31
+GET               8        99.43
+GET               9        99.53
+GET              10        99.69
+GET              11        99.76
+GET              12        99.91
+GET              13        99.91
+GET              14        99.93
+GET              15        99.99
+GET              17       100.00

@@ -1,0 +1,50 @@
+[18:18:03] t/00-startup.t ....... ok     7420 ms
+[18:18:03] t/64bit.t ............ ok      183 ms
+[18:18:03] t/binary-get.t ....... ok      166 ms
+[18:18:03] t/binary-sasl.t ...... skipped: Skipping SASL tests
+[18:18:26] t/binary.t ........... ok    23382 ms
+[18:18:27] t/bogus-commands.t ... ok      163 ms
+[18:18:27] t/cas.t .............. ok      642 ms
+[18:18:28] t/daemonize.t ........ ok     1184 ms
+[18:18:29] t/dash-M.t ........... ok      215 ms
+[18:18:29] t/evictions.t ........ ok      200 ms
+[18:18:36] t/expirations.t ...... ok     6693 ms
+[18:18:36] t/flags.t ............ ok      166 ms
+[18:18:39] t/flush-all.t ........ ok     3297 ms
+[18:18:40] t/getset.t ........... ok      750 ms
+[18:18:40] t/incrdecr.t ......... ok      173 ms
+[18:18:40] t/issue_104.t ........ ok      167 ms
+[18:18:40] t/issue_108.t ........ ok      169 ms
+[18:18:44] t/issue_14.t ......... ok     4178 ms
+[18:18:45] t/issue_140.t ........ skipped: Fix for Issue 140 was only an illusion
+[18:18:45] t/issue_152.t ........ ok      170 ms
+[18:18:48] t/issue_163.t ........ ok     3172 ms
+[18:18:50] t/issue_183.t ........ ok     2172 ms
+[18:18:51] t/issue_192.t ........ ok      668 ms
+[18:18:51] t/issue_22.t ......... ok      198 ms
+[18:18:51] t/issue_29.t ......... ok      165 ms
+[18:18:51] t/issue_3.t .......... ok      170 ms
+[18:18:52] t/issue_41.t ......... ok      478 ms
+[18:18:52] t/issue_42.t ......... ok      169 ms
+[18:18:52] t/issue_50.t ......... ok      162 ms
+[18:18:52] t/issue_61.t ......... ok      165 ms
+[18:18:53] t/issue_67.t ......... ok     1189 ms
+[18:18:54] t/issue_68.t ......... ok      424 ms
+[18:18:54] t/issue_70.t ......... ok      169 ms
+[18:18:59] t/item_size_max.t .... ok     4769 ms
+[18:18:59] t/line-lengths.t ..... ok       26 ms
+[18:18:59] t/lru.t .............. ok      513 ms
+[18:19:00] t/maxconns.t ......... ok      169 ms
+[18:19:00] t/multiversioning.t .. ok      179 ms
+[18:19:00] t/noreply.t .......... ok      170 ms
+[18:19:02] t/slabs_reassign.t ... ok     2208 ms
+[18:19:02] t/stats-detail.t ..... ok      172 ms
+[18:19:03] t/stats.t ............ ok      186 ms
+[18:19:05] t/touch.t ............ ok     2170 ms
+[18:19:05] t/udp.t .............. ok      194 ms
+[18:19:06] t/unixsocket.t ....... ok     1066 ms
+[18:19:06] t/whitespace.t ....... ok       63 ms
+[18:19:06]
+All tests successful.
+Files=46, Tests=6963, 71 wallclock secs ( 1.43 usr  0.21 sys +  4.91 cusr  2.24 csys =  8.79 CPU)
+Result: PASS

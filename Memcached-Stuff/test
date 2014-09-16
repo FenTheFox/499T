@@ -1,0 +1,35 @@
+#! /bin/sh
+
+PORT=11111
+RESULT_PREFIX=./test-no-replace/memtier_benchmark
+OPTIONS="-p $PORT -t 2 --data-size-range=32-32768 --requests=1000"
+RANDOM_OPTIONS="-p $PORT -t 2 --random-data --requests=1000"
+
+RESULT_FILE=$RESULT_PREFIX/text-test.txt
+memtier_benchmark $OPTIONS --out-file=$RESULT_FILE -P memcache_text
+
+RESULT_FILE=$RESULT_PREFIX/random-text-test.txt
+memtier_benchmark $OPTIONS --out-file=$RESULT_FILE -P memcache_text
+
+RESULT_FILE=$RESULT_PREFIX/binary-test.txt
+memtier_benchmark $OPTIONS --out-file=$RESULT_FILE -P memcache_binary
+
+RESULT_FILE=$RESULT_PREFIX/random-binary-test.txt
+memtier_benchmark $OPTIONS --out-file=$RESULT_FILE -P memcache_binary
+
+PORT=22222
+RESULT_PREFIX=$RESULT_PREFIX/more_memory
+OPTIONS="-p $PORT -t 2 --data-size-range=32-32768 --requests=1000"
+RANDOM_OPTIONS="-p $PORT -t 2 --random-data --requests=1000"
+
+RESULT_FILE=$RESULT_PREFIX/text-test.txt
+memtier_benchmark $OPTIONS --out-file=$RESULT_FILE -P memcache_text
+
+RESULT_FILE=$RESULT_PREFIX/random-text-test.txt
+memtier_benchmark $OPTIONS --out-file=$RESULT_FILE -P memcache_text
+
+RESULT_FILE=$RESULT_PREFIX/binary-test.txt
+memtier_benchmark $OPTIONS --out-file=$RESULT_FILE -P memcache_binary
+
+RESULT_FILE=$RESULT_PREFIX/random-binary-test.txt
+memtier_benchmark $OPTIONS --out-file=$RESULT_FILE -P memcache_binary

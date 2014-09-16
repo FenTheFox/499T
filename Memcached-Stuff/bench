@@ -1,0 +1,48 @@
+#! /bin/bash
+
+#cd memcached
+#for (( i = 0; i < 30; i++ )); do
+#	RESULT_FILE=../test-no-replace/memcached-test/test$i.txt
+#	prove --timer t > $RESULT_FILE
+#done
+#cd ..
+
+PORT=11111
+RESULT_PREFIX=./test-no-replace/memtier_benchmark
+OPTIONS="-p $PORT -t 2 --data-size-range=32-32768"
+RANDOM_OPTIONS="-p $PORT -t 2 --random-data"
+
+for (( i = 0; i < 30; i++ ))
+do
+	RESULT_FILE=$RESULT_PREFIX/text-test$i.txt
+	memtier_benchmark $OPTIONS --out-file=$RESULT_FILE -P memcache_text
+
+	RESULT_FILE=$RESULT_PREFIX/random-text-test$i.txt
+	memtier_benchmark $RANDOM_OPTIONS --out-file=$RESULT_FILE -P memcache_text
+
+	RESULT_FILE=$RESULT_PREFIX/binary-test$i.txt
+	memtier_benchmark $OPTIONS --out-file=$RESULT_FILE -P memcache_binary
+
+	RESULT_FILE=$RESULT_PREFIX/random-binary-test$i.txt
+	memtier_benchmark $RANDOM_OPTIONS --out-file=$RESULT_FILE -P memcache_binary
+done
+
+PORT=22222
+RESULT_PREFIX=$RESULT_PREFIX/more_memory
+OPTIONS="-p $PORT -t 2 --data-size-range=32-32768"
+RANDOM_OPTIONS="-p $PORT -t 2 --random-data"
+
+for (( i = 0; i < 30; i++ ))
+do
+	RESULT_FILE=$RESULT_PREFIX/text-test$i.txt
+	memtier_benchmark $OPTIONS --out-file=$RESULT_FILE -P memcache_text
+
+	RESULT_FILE=$RESULT_PREFIX/random-text-test$i.txt
+	memtier_benchmark $RANDOM_OPTIONS --out-file=$RESULT_FILE -P memcache_text
+
+	RESULT_FILE=$RESULT_PREFIX/binary-test$i.txt
+	memtier_benchmark $OPTIONS --out-file=$RESULT_FILE -P memcache_binary
+
+	RESULT_FILE=$RESULT_PREFIX/random-binary-test$i.txt
+	memtier_benchmark $RANDOM_OPTIONS --out-file=$RESULT_FILE -P memcache_binary
+done
