@@ -30,5 +30,4 @@ namespace HL {
 		}
 	};
 }
-
 #endif
