@@ -1,1 +1,2 @@
-Sources/**
+source/sqlite/*
+source/firefox/*
