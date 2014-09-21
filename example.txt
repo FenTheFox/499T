@@ -1,3 +1,0 @@
-Hello from thread 0x7fff792f3310
-start: 38624308496983
-end: 38624308801639
