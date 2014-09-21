@@ -11,16 +11,17 @@ inline uint64_t hwtime(){
 
 int main(int argc, char const *argv[])
 {
-	uint64_t start = hwtime(), end;
 	ofstream *file = new ofstream("./example.txt");
 	if(!file)
 	{
 		cerr << "Cannot open the output file." << endl;
 		return 1;
 	}
-	*file << "Hello from thread " << pthread_self() << endl;
-	end = hwtime();
-	*file << "start: " << start << endl << "end: " << end;
 	file->close();
+	
+	uint64_t start = hwtime(), end;
+	cout << "Hello from thread " << pthread_self() << endl;
+	end = hwtime();
+	cout << "start: " << start << endl << "end: " << end;
 	return 0;
 }

@@ -1,0 +1,3 @@
+[submodule "Malloc-Implementations"]
+	path = Malloc-Implementations
+	url = https://github.com/timm-allman/Malloc-Implementations.git
