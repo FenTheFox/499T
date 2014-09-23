@@ -1,13 +1,14 @@
+/*
+* compile with:
+* 	clang++ example.cpp -I.
+*/
+
 #include <iostream>
 #include <fstream>
 
-using namespace std;
+#include "hwtime.h"
 
-inline uint64_t hwtime(){
-	unsigned int lo, hi;
-	__asm__ __volatile__ ("rdtsc" : "=a" (lo), "=d" (hi));
-	return ((uint64_t)hi << 32) | lo;
-}
+using namespace std;
 
 int main(int argc, char const *argv[])
 {
@@ -18,7 +19,7 @@ int main(int argc, char const *argv[])
 		return 1;
 	}
 	file->close();
-	
+
 	uint64_t start = hwtime(), end;
 	cout << "Hello from thread " << pthread_self() << endl;
 	end = hwtime();
