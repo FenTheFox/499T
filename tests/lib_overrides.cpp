@@ -4,12 +4,14 @@
 
 #include <string>
 
-void log(int size, char *method)
+using namespace std;
+
+void log(int size, string from)
 {
-    // const char *bytes = std::to_string(size).c_str();
+    const char *bytes = std::to_string(size).c_str(), *method = from.c_str();
     write(1, method, sizeof(method)-1);
     write(1, "'d ", 4);
-    // write(1, bytes, sizeof(bytes)-1);
+    write(1, bytes, sizeof(bytes)-1);
     write(1, " bytes\n", 8);
 }
 

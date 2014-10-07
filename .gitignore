@@ -1,4 +1,3 @@
 source/firefox/*
 source/sqlite/*
 source/sqlite-bld/*
-*.dylib

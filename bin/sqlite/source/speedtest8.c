@@ -33,12 +33,6 @@
 #include "sqlite3.h"
 
 /*
-** hwtime.h contains inline assembler code for implementing
-** high-performance timing routines.
-*/
-#include "hwtime.h"
-
-/*
 ** Timers
 */
 static uint64_t prepTime = 0;

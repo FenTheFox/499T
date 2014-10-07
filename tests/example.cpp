@@ -8,16 +8,19 @@
 #include <stdlib.h>
 
 #include "hwtime.h"
+#include "replacemalloc.h"
 
 using namespace std;
 
-int main(int argc, char const *argv[])
+extern "C" void *xxmalloc(size_t size) __attribute__((weak_import));
+
+void test_1()
 {
 	ofstream *file = new ofstream("./example.txt");
 	if(!file)
 	{
 		cerr << "Cannot open the output file." << endl;
-		return 1;
+		return;
 	}
 	file->close();
 	
@@ -29,5 +32,22 @@ int main(int argc, char const *argv[])
 	cout << "Hello from thread " << pthread_self() << endl;
 	end = hwtime();
 	cout << "start: " << start << endl << "end: " << end;
+}
+
+void test_rmalloc()
+{
+	replace_malloc(1);
+}
+
+void test_xxmalloc()
+{
+	xxmalloc(2);
+}
+
+int main(int argc, char const *argv[])
+{
+	// test_1();
+	test_xxmalloc();
+	test_rmalloc();
 	return 0;
 }

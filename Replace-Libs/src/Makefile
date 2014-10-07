@@ -1,6 +1,6 @@
 CXX=clang++
 CPPFLAGS=-O3
-LIBFLAGS=-dynamiclib $(CPPFLAGS)
+LIBFLAGS=-shared -Wl,-flat_namespace,-undefined,dynamic_lookup -dynamiclib $(CPPFLAGS)
 
 # all: libslqite libfirefox
 #
@@ -11,7 +11,7 @@ LIBFLAGS=-dynamiclib $(CPPFLAGS)
 # 	$(CXX) libfirefox.cpp -o libfirefox.dylib $(CPPFLAGS)
 
 replacemalloc: replacemalloc.cpp
-	$(CXX) replacemalloc.cpp -o replacemalloc.dylib $(LIBFLAGS)
+	$(CXX) replacemalloc.cpp -o ../replacemalloc.dylib $(LIBFLAGS)
 	
 clean:
 	rm *.dylib
