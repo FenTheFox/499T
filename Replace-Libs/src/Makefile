@@ -14,4 +14,4 @@ replacemalloc: replacemalloc.cpp
 	$(CXX) replacemalloc.cpp -o ../replacemalloc.dylib $(LIBFLAGS)
 	
 clean:
-	rm *.dylib
+	rm ../replacemalloc.dylib

@@ -1,0 +1,513 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		24FB416819F72770000E5935 /* speedtest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24FB416019F72770000E5935 /* speedtest.cpp */; };
+		24FB416C19F72770000E5935 /* sqlite3.o in Frameworks */ = {isa = PBXBuildFile; fileRef = 24FB416519F72770000E5935 /* sqlite3.o */; };
+		24FB418E19F7292D000E5935 /* speedtest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24FB416019F72770000E5935 /* speedtest.cpp */; };
+		24FB418F19F7292D000E5935 /* speedtest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24FB416019F72770000E5935 /* speedtest.cpp */; };
+		24FB419019F7292E000E5935 /* speedtest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24FB416019F72770000E5935 /* speedtest.cpp */; };
+		24FB419119F72940000E5935 /* sqlite3-zone.o in Frameworks */ = {isa = PBXBuildFile; fileRef = 24FB416319F72770000E5935 /* sqlite3-zone.o */; };
+		24FB419219F72944000E5935 /* sqlite3-mem3.o in Frameworks */ = {isa = PBXBuildFile; fileRef = 24FB416119F72770000E5935 /* sqlite3-mem3.o */; };
+		24FB419319F72948000E5935 /* sqlite3-mem5.o in Frameworks */ = {isa = PBXBuildFile; fileRef = 24FB416219F72770000E5935 /* sqlite3-mem5.o */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		24FB415219F72759000E5935 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		24FB416F19F72880000E5935 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		24FB417A19F728D3000E5935 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		24FB418519F728E1000E5935 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		24583E8E19F7FA0C00432533 /* stringops.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = stringops.h; sourceTree = "<group>"; };
+		24FB415419F72759000E5935 /* sqlite-test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "sqlite-test"; sourceTree = BUILT_PRODUCTS_DIR; };
+		24FB415E19F72770000E5935 /* speedtest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = speedtest.h; sourceTree = "<group>"; };
+		24FB416019F72770000E5935 /* speedtest.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = speedtest.cpp; sourceTree = "<group>"; };
+		24FB416119F72770000E5935 /* sqlite3-mem3.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; name = "sqlite3-mem3.o"; path = "../sqlite3-mem3.o"; sourceTree = "<group>"; };
+		24FB416219F72770000E5935 /* sqlite3-mem5.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; name = "sqlite3-mem5.o"; path = "../sqlite3-mem5.o"; sourceTree = "<group>"; };
+		24FB416319F72770000E5935 /* sqlite3-zone.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; name = "sqlite3-zone.o"; path = "../sqlite3-zone.o"; sourceTree = "<group>"; };
+		24FB416419F72770000E5935 /* sqlite3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sqlite3.h; sourceTree = "<group>"; };
+		24FB416519F72770000E5935 /* sqlite3.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; name = sqlite3.o; path = ../sqlite3.o; sourceTree = "<group>"; };
+		24FB416619F72770000E5935 /* time.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = time.h; sourceTree = "<group>"; };
+		24FB417119F72880000E5935 /* sqlite-zone-test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "sqlite-zone-test"; sourceTree = BUILT_PRODUCTS_DIR; };
+		24FB417C19F728D3000E5935 /* sqlite-mem3-test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "sqlite-mem3-test"; sourceTree = BUILT_PRODUCTS_DIR; };
+		24FB418719F728E1000E5935 /* sqlite-mem5-test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "sqlite-mem5-test"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		24FB415119F72759000E5935 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24FB416C19F72770000E5935 /* sqlite3.o in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24FB416E19F72880000E5935 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24FB419119F72940000E5935 /* sqlite3-zone.o in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24FB417919F728D3000E5935 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24FB419219F72944000E5935 /* sqlite3-mem3.o in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24FB418419F728E1000E5935 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24FB419319F72948000E5935 /* sqlite3-mem5.o in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		24FB414B19F72759000E5935 = {
+			isa = PBXGroup;
+			children = (
+				24583E8E19F7FA0C00432533 /* stringops.h */,
+				24FB415E19F72770000E5935 /* speedtest.h */,
+				24FB416019F72770000E5935 /* speedtest.cpp */,
+				24FB416419F72770000E5935 /* sqlite3.h */,
+				24FB416619F72770000E5935 /* time.h */,
+				24FB415619F72759000E5935 /* sqlite-test */,
+				24FB417219F72880000E5935 /* sqlite-zone-test */,
+				24FB417D19F728D3000E5935 /* sqlite-mem3-test */,
+				24FB418819F728E2000E5935 /* sqlite-mem5-test */,
+				24FB415519F72759000E5935 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		24FB415519F72759000E5935 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				24FB415419F72759000E5935 /* sqlite-test */,
+				24FB417119F72880000E5935 /* sqlite-zone-test */,
+				24FB417C19F728D3000E5935 /* sqlite-mem3-test */,
+				24FB418719F728E1000E5935 /* sqlite-mem5-test */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		24FB415619F72759000E5935 /* sqlite-test */ = {
+			isa = PBXGroup;
+			children = (
+				24FB416519F72770000E5935 /* sqlite3.o */,
+			);
+			path = "sqlite-test";
+			sourceTree = "<group>";
+		};
+		24FB417219F72880000E5935 /* sqlite-zone-test */ = {
+			isa = PBXGroup;
+			children = (
+				24FB416319F72770000E5935 /* sqlite3-zone.o */,
+			);
+			path = "sqlite-zone-test";
+			sourceTree = "<group>";
+		};
+		24FB417D19F728D3000E5935 /* sqlite-mem3-test */ = {
+			isa = PBXGroup;
+			children = (
+				24FB416119F72770000E5935 /* sqlite3-mem3.o */,
+			);
+			path = "sqlite-mem3-test";
+			sourceTree = "<group>";
+		};
+		24FB418819F728E2000E5935 /* sqlite-mem5-test */ = {
+			isa = PBXGroup;
+			children = (
+				24FB416219F72770000E5935 /* sqlite3-mem5.o */,
+			);
+			path = "sqlite-mem5-test";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		24FB415319F72759000E5935 /* sqlite-test */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24FB415B19F72759000E5935 /* Build configuration list for PBXNativeTarget "sqlite-test" */;
+			buildPhases = (
+				24FB415019F72759000E5935 /* Sources */,
+				24FB415119F72759000E5935 /* Frameworks */,
+				24FB415219F72759000E5935 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "sqlite-test";
+			productName = "sqlite-test";
+			productReference = 24FB415419F72759000E5935 /* sqlite-test */;
+			productType = "com.apple.product-type.tool";
+		};
+		24FB417019F72880000E5935 /* sqlite-zone-test */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24FB417519F72880000E5935 /* Build configuration list for PBXNativeTarget "sqlite-zone-test" */;
+			buildPhases = (
+				24FB416D19F72880000E5935 /* Sources */,
+				24FB416E19F72880000E5935 /* Frameworks */,
+				24FB416F19F72880000E5935 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "sqlite-zone-test";
+			productName = "sqlite-zone-test";
+			productReference = 24FB417119F72880000E5935 /* sqlite-zone-test */;
+			productType = "com.apple.product-type.tool";
+		};
+		24FB417B19F728D3000E5935 /* sqlite-mem3-test */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24FB418019F728D3000E5935 /* Build configuration list for PBXNativeTarget "sqlite-mem3-test" */;
+			buildPhases = (
+				24FB417819F728D3000E5935 /* Sources */,
+				24FB417919F728D3000E5935 /* Frameworks */,
+				24FB417A19F728D3000E5935 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "sqlite-mem3-test";
+			productName = "sqlite-mem3-test";
+			productReference = 24FB417C19F728D3000E5935 /* sqlite-mem3-test */;
+			productType = "com.apple.product-type.tool";
+		};
+		24FB418619F728E1000E5935 /* sqlite-mem5-test */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24FB418B19F728E2000E5935 /* Build configuration list for PBXNativeTarget "sqlite-mem5-test" */;
+			buildPhases = (
+				24FB418319F728E1000E5935 /* Sources */,
+				24FB418419F728E1000E5935 /* Frameworks */,
+				24FB418519F728E1000E5935 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "sqlite-mem5-test";
+			productName = "sqlite-mem5-test";
+			productReference = 24FB418719F728E1000E5935 /* sqlite-mem5-test */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		24FB414C19F72759000E5935 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+				ORGANIZATIONNAME = UMass;
+				TargetAttributes = {
+					24FB415319F72759000E5935 = {
+						CreatedOnToolsVersion = 6.0.1;
+					};
+					24FB417019F72880000E5935 = {
+						CreatedOnToolsVersion = 6.0.1;
+					};
+					24FB417B19F728D3000E5935 = {
+						CreatedOnToolsVersion = 6.0.1;
+					};
+					24FB418619F728E1000E5935 = {
+						CreatedOnToolsVersion = 6.0.1;
+					};
+				};
+			};
+			buildConfigurationList = 24FB414F19F72759000E5935 /* Build configuration list for PBXProject "sqlite-test" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 24FB414B19F72759000E5935;
+			productRefGroup = 24FB415519F72759000E5935 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				24FB415319F72759000E5935 /* sqlite-test */,
+				24FB417019F72880000E5935 /* sqlite-zone-test */,
+				24FB417B19F728D3000E5935 /* sqlite-mem3-test */,
+				24FB418619F728E1000E5935 /* sqlite-mem5-test */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		24FB415019F72759000E5935 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24FB416819F72770000E5935 /* speedtest.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24FB416D19F72880000E5935 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24FB418E19F7292D000E5935 /* speedtest.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24FB417819F728D3000E5935 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24FB418F19F7292D000E5935 /* speedtest.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24FB418319F728E1000E5935 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24FB419019F7292E000E5935 /* speedtest.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		24FB415919F72759000E5935 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		24FB415A19F72759000E5935 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		24FB415C19F72759000E5935 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		24FB415D19F72759000E5935 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		24FB417619F72880000E5935 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		24FB417719F72880000E5935 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		24FB418119F728D3000E5935 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		24FB418219F728D3000E5935 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		24FB418C19F728E2000E5935 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		24FB418D19F728E2000E5935 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		24FB414F19F72759000E5935 /* Build configuration list for PBXProject "sqlite-test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24FB415919F72759000E5935 /* Debug */,
+				24FB415A19F72759000E5935 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		24FB415B19F72759000E5935 /* Build configuration list for PBXNativeTarget "sqlite-test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24FB415C19F72759000E5935 /* Debug */,
+				24FB415D19F72759000E5935 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		24FB417519F72880000E5935 /* Build configuration list for PBXNativeTarget "sqlite-zone-test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24FB417619F72880000E5935 /* Debug */,
+				24FB417719F72880000E5935 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		24FB418019F728D3000E5935 /* Build configuration list for PBXNativeTarget "sqlite-mem3-test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24FB418119F728D3000E5935 /* Debug */,
+				24FB418219F728D3000E5935 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		24FB418B19F728E2000E5935 /* Build configuration list for PBXNativeTarget "sqlite-mem5-test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24FB418C19F728E2000E5935 /* Debug */,
+				24FB418D19F728E2000E5935 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 24FB414C19F72759000E5935 /* Project object */;
+}

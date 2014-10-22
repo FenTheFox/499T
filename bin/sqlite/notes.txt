@@ -1,0 +1,6 @@
+sqlite3* generated/compiled with -DSQLITE_TEMP_STORE=2 -DSQLITE_THREADSAFE=2 -O3
+
+sqlite3 compiled with -DSQLITE_WITHOUT_ZONEMALLOC
+
+sqlite3-mem* compiled with -DSQLITE_ZERO_MALLOC
+sqlite3-mem(3|5) compiled with -DSQLITE_ENABLE_MEMSYS$1
