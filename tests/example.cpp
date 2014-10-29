@@ -3,51 +3,71 @@
 * 	clang++ example.cpp -I./source
 */
 
-#include <iostream>
-#include <fstream>
-#include <stdlib.h>
-
-#include "hwtime.h"
-#include "replacemalloc.h"
-
-using namespace std;
-
-extern "C" void *xxmalloc(size_t size) __attribute__((weak_import));
-
-void test_1()
-{
-	ofstream *file = new ofstream("./example.txt");
-	if(!file)
-	{
-		cerr << "Cannot open the output file." << endl;
-		return;
-	}
-	file->close();
-	
-	replace_malloc(10);
-	replace_malloc(100);
-	replace_malloc(1000);
-
-	uint64_t start = hwtime(), end;
-	cout << "Hello from thread " << pthread_self() << endl;
-	end = hwtime();
-	cout << "start: " << start << endl << "end: " << end;
+extern "C" {
+	int xxfunc1(int);
+	void xxfunc2(long);
 }
 
-void test_rmalloc()
+#ifndef CUSTOM_PREFIX
+#define CUSTOM_PREFIX(x) x
+#endif
+
+#define CUSTOM_MALLOC(x)     CUSTOM_PREFIX(malloc)(x)
+#define CUSTOM_FREE(x)       CUSTOM_PREFIX(free)(x)
+
+int func1(int i)
 {
-	replace_malloc(1);
+	return i;
 }
 
-void test_xxmalloc()
+void func2(long l){};
+
+extern "C" int CUSTOM_MALLOC (int i)
 {
-	xxmalloc(2);
+	return func1(i);
 }
 
-int main(int argc, char const *argv[])
+extern "C" void CUSTOM_FREE(long l)
 {
-	// test_1();
-	test_xxmalloc();
-	test_rmalloc();
-	return 0;
+	func2(l);
 }
+
+// extern "C" void *xxmalloc(size_t size) __attribute__((weak_import));
+//
+// void test_1()
+// {
+// 	ofstream *file = new ofstream("./example.txt");
+// 	if(!file)
+// 	{
+// 		cerr << "Cannot open the output file." << endl;
+// 		return;
+// 	}
+// 	file->close();
+//
+// 	replace_malloc(10);
+// 	replace_malloc(100);
+// 	replace_malloc(1000);
+//
+// 	uint64_t start = hwtime(), end;
+// 	cout << "Hello from thread " << pthread_self() << endl;
+// 	end = hwtime();
+// 	cout << "start: " << start << endl << "end: " << end;
+// }
+//
+// void test_rmalloc()
+// {
+// 	replace_malloc(1);
+// }
+//
+// void test_xxmalloc()
+// {
+// 	xxmalloc(2);
+// }
+//
+// int main(int argc, const char *argv[])
+// {
+// 	test_1();
+// 	test_xxmalloc();
+// 	test_rmalloc();
+// 	return 0;
+// }

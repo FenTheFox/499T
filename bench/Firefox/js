@@ -1,0 +1,5 @@
+#!/bin/zsh
+
+for (( i = 0; i < 5; i++ )); do
+	../../bin/firefox/firefox/Contents/MacOS/firefox -P "jsbench" `pwd`/jsbench/index.html
+done

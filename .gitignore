@@ -1,3 +1,5 @@
-source/firefox-release/*
+source/firefox-*
 source/sqlite/*
 source/sqlite-bld/*
+
+**/xcuserdata/*

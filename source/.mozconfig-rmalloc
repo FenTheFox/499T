@@ -2,7 +2,7 @@
 
 # Define where build files should go. This places them in the directory
 # "obj-ff-dbg" under the current source directory
-mk_add_options MOZ_OBJDIR=@TOPSRCDIR@/obj-ff-rmalloc
+mk_add_options MOZ_OBJDIR=@TOPSRCDIR@/../firefox-bld-rmalloc
 
 # -s makes builds quieter by default
 # -j4 allows 4 tasks to run in parallel. Set the number to be the amount of
@@ -11,6 +11,9 @@ mk_add_options MOZ_MAKE_FLAGS="-s -j4"
 
 ac_add_options --enable-replace-malloc
 ac_add_options --with-ccache
+ac_add_options --disable-tests
+ac_add_options --enable-update-channel=${MOZ_UPDATE_CHANNEL}
+ac_add_options --enable-update-packaging
 
 # Package js shell.
 export MOZ_PACKAGE_JSSHELL=1

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		240B14161A005673006E48D3 /* custom_wrapper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 240B14151A005673006E48D3 /* custom_wrapper.cpp */; };
 		243284C919E47E2A0095B58F /* replacemallocfirefox.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 243284C719E47E2A0095B58F /* replacemallocfirefox.cpp */; };
 		243284CA19E47E2A0095B58F /* replacemallocfirefox.h in Headers */ = {isa = PBXBuildFile; fileRef = 243284C819E47E2A0095B58F /* replacemallocfirefox.h */; };
 		243284E619E47EFE0095B58F /* replacemallocsqlite.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 243284E419E47EFE0095B58F /* replacemallocsqlite.cpp */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		240B14151A005673006E48D3 /* custom_wrapper.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = custom_wrapper.cpp; sourceTree = "<group>"; };
 		243284BC19E47DA70095B58F /* libreplacemalloc.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = libreplacemalloc.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
 		243284C719E47E2A0095B58F /* replacemallocfirefox.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = replacemallocfirefox.cpp; sourceTree = "<group>"; };
 		243284C819E47E2A0095B58F /* replacemallocfirefox.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = replacemallocfirefox.h; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				2440A13119E4A27300CE8849 /* time.hpp */,
+				240B14151A005673006E48D3 /* custom_wrapper.cpp */,
 			);
 			name = shared;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				243284E619E47EFE0095B58F /* replacemallocsqlite.cpp in Sources */,
+				240B14161A005673006E48D3 /* custom_wrapper.cpp in Sources */,
 				243284C919E47E2A0095B58F /* replacemallocfirefox.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

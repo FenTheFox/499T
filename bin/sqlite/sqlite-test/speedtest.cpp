@@ -59,7 +59,7 @@ void prepareAndRun(sqlite3 *db, string stmt)
  */
 int runScriptFile(sqlite3 *db, string name)
 {
-	int stmts = 0, rc;
+	int stmts = 0;
 
 	ifstream script;
 	string stmt;
@@ -77,10 +77,8 @@ int runScriptFile(sqlite3 *db, string name)
 
 		stmt.push_back(';');
 
-		if(!(rc = sqlite3_complete(stmt.c_str())))
+		if(!(sqlite3_complete(stmt.c_str())))
 			continue;
-
-		cout << rc << endl;
 
 		stmts++;
 		prepareAndRun(db, stmt);
@@ -93,7 +91,7 @@ int runScriptFile(sqlite3 *db, string name)
  * Parses command line args and opens a database connection
  *	@Return list of sql scripts to execute
  */
-list<string> setup(int argc, char *argv[], sqlite3 *db)
+list<string> setup(int argc, char *argv[], sqlite3 **db)
 {
 	int rc;
 
@@ -126,7 +124,7 @@ list<string> setup(int argc, char *argv[], sqlite3 *db)
 		cout << "sqlite3_config() returned " << rc << endl;
 #endif
 
-	rc = sqlite3_open_v2(dbfile.c_str(), &db, SQLITE_OPEN_CREATE | SQLITE_OPEN_READWRITE, NULL);
+	rc = sqlite3_open_v2(dbfile.c_str(), db, SQLITE_OPEN_CREATE | SQLITE_OPEN_READWRITE, NULL);
 	setupTimer.end();
 
 	if (!quiet)
@@ -135,7 +133,7 @@ list<string> setup(int argc, char *argv[], sqlite3 *db)
 	if (argc >= 4 && strcmp(argv[1], "-s")) {
 		int n = atoi(argv[2]);
 		for (int i = 3; i < n + 3; i++)
-			runScriptFile(db, argv[i]);
+			runScriptFile(*db, argv[i]);
 
 		argv += 2 + n;
 		argc -= 2 + n;
@@ -168,7 +166,7 @@ int main(int argc, char **argv)
 	int stmts = 0;
 	sqlite3 *db;
 
-	list<string> scripts = setup(argc, argv, db);
+	list<string> scripts = setup(argc, argv, &db);
 
 	clkStart = times(&tmsStart);
 

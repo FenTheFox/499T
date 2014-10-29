@@ -10,8 +10,8 @@
 		24FB416819F72770000E5935 /* speedtest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24FB416019F72770000E5935 /* speedtest.cpp */; };
 		24FB416C19F72770000E5935 /* sqlite3.o in Frameworks */ = {isa = PBXBuildFile; fileRef = 24FB416519F72770000E5935 /* sqlite3.o */; };
 		24FB418E19F7292D000E5935 /* speedtest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24FB416019F72770000E5935 /* speedtest.cpp */; };
-		24FB418F19F7292D000E5935 /* speedtest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24FB416019F72770000E5935 /* speedtest.cpp */; };
-		24FB419019F7292E000E5935 /* speedtest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24FB416019F72770000E5935 /* speedtest.cpp */; };
+		24FB418F19F7292D000E5935 /* speedtest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24FB416019F72770000E5935 /* speedtest.cpp */; settings = {COMPILER_FLAGS = "-DREPLACE_MALLOC"; }; };
+		24FB419019F7292E000E5935 /* speedtest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24FB416019F72770000E5935 /* speedtest.cpp */; settings = {COMPILER_FLAGS = "-DREPLACE_MALLOC"; }; };
 		24FB419119F72940000E5935 /* sqlite3-zone.o in Frameworks */ = {isa = PBXBuildFile; fileRef = 24FB416319F72770000E5935 /* sqlite3-zone.o */; };
 		24FB419219F72944000E5935 /* sqlite3-mem3.o in Frameworks */ = {isa = PBXBuildFile; fileRef = 24FB416119F72770000E5935 /* sqlite3-mem3.o */; };
 		24FB419319F72948000E5935 /* sqlite3-mem5.o in Frameworks */ = {isa = PBXBuildFile; fileRef = 24FB416219F72770000E5935 /* sqlite3-mem5.o */; };
