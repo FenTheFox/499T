@@ -12,8 +12,11 @@
 #include <fstream>
 #include <iostream>
 #include <list>
+#include <mutex>
 #include <sstream>
 #include <string>
+#include <thread>
+#include <vector>
 
 #include <sys/times.h>
 #include <sys/mman.h>

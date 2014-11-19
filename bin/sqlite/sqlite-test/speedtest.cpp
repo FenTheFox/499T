@@ -8,65 +8,65 @@
 using namespace std;
 
 // Global Variables
-timer setupTimer = timer(), prepTimer = timer(), runTimer = timer(), finalizeTimer = timer();
+timer setupTimer, prepTimer, runTimer, finalizeTimer;
+
+mutex timers, stmt_count;
 
 bool quiet;
+
+int stmts = 0;
 
 /**
  * Prepare and runTimer a single statement of SQL.
  */
-void prepareAndRun(sqlite3 *db, string stmt)
-{
+void prepareAndRun(sqlite3 *db, string stmt) {
 	sqlite3_stmt *pStmt;
-	uint64_t iElapse;
 	int rc;
+
+	timer p = timer(), r = timer(), f = timer();
 
 	if (!quiet)
 		cout << "***************************************************************" << endl
-		     << "SQL statement: [" << stmt << "]" << endl;
+		     << "SQL statement: ["
+		     << stmt
+		     << "]" << endl;
 
-	prepTimer.start();
+	p.start();
 	rc = sqlite3_prepare_v2(db, stmt.c_str(), -1, &pStmt, NULL);
-	prepTimer.end();
-	iElapse = prepTimer.duration();
-
-	if (!quiet)
-		printf("sqlite3_prepare_v2() returns %d in %llu cycles\n", rc, iElapse);
+	p.end();
 
 	if (rc == SQLITE_OK) {
 		int nRow = 0;
-		runTimer.start();
+
+		r.start();
 		while ((rc = sqlite3_step(pStmt)) == SQLITE_ROW)
 			nRow++;
-		runTimer.end();
-		iElapse += runTimer.duration();
+		r.end();
 
-		if (!quiet)
-			printf("sqlite3_step() returns %d after %d rows in %llu cycles\n", rc, nRow, iElapse);
-
-		finalizeTimer.start();
+		f.start();
 		rc = sqlite3_finalize(pStmt);
-		finalizeTimer.end();
-		iElapse += finalizeTimer.duration();
-
-		if (!quiet)
-			printf("sqlite3_finalize() returns %d in %llu cycles\n", rc, iElapse);
+		f.end();
 	}
+
+	lock_guard<mutex> lock(timers);
+	prepTimer.merge(p);
+	runTimer.merge(r);
+	finalizeTimer.merge(f);
 }
 
 /**
  * runTimer all of the statements in a file
  */
-int runScriptFile(sqlite3 *db, string name)
-{
-	int stmts = 0;
-
+void runScriptFile(sqlite3 *db, string name) {
 	ifstream script;
 	string stmt;
 
 	script.open(name);
 
-	while(true) {
+	if (!quiet)
+		cout << name << endl;
+
+	while (true) {
 		getline(script, stmt, ';');
 
 		stmt = trim(stmt, "\n \t");
@@ -77,22 +77,22 @@ int runScriptFile(sqlite3 *db, string name)
 
 		stmt.push_back(';');
 
-		if(!(sqlite3_complete(stmt.c_str())))
+		if (!(sqlite3_complete(stmt.c_str())))
 			continue;
 
+//		unique_lock<mutex> lock(stmt_count);
 		stmts++;
+//		unique_lock<mutex> unlock(stmt_count);
+
 		prepareAndRun(db, stmt);
 	}
-
-	return stmts;
 }
 
 /**
  * Parses command line args and opens a database connection
  *	@Return list of sql scripts to execute
  */
-list<string> setup(int argc, char *argv[], sqlite3 **db)
-{
+list<string> setup(int argc, char *argv[], sqlite3 **db) {
 	int rc;
 
 	string dbfile = ":memory:";
@@ -116,6 +116,7 @@ list<string> setup(int argc, char *argv[], sqlite3 **db)
 	}
 
 	setupTimer.start();
+
 #ifdef REPLACE_MALLOC
 	void *ptr = mmap(NULL, MMAP_SIZE, PROT_READ | PROT_WRITE | PROT_EXEC, MAP_PRIVATE | MAP_ANON, -1, 0);
 	rc = sqlite3_config(SQLITE_CONFIG_HEAP, ptr, MMAP_SIZE, 8);
@@ -130,51 +131,51 @@ list<string> setup(int argc, char *argv[], sqlite3 **db)
 	if (!quiet)
 		printf("sqlite3_open_v2() returns %d in %f ns\n", rc, setupTimer.duration());
 
-	if (argc >= 4 && strcmp(argv[1], "-s")) {
+	if (argc >= 4 && strcmp(argv[1], "-s") == 0) {
 		int n = atoi(argv[2]);
-		for (int i = 3; i < n + 3; i++)
+		argv += 2;
+		argc -= 2;
+
+		for (int i = 1; i <= n; i++)
 			runScriptFile(*db, argv[i]);
 
-		argv += 2 + n;
-		argc -= 2 + n;
-	}
-
-	if (argc < 2) {
-		cerr << "Usage: " << argv[0] << " [-q] [-p <val>] [-f <filename>] [-s <script>] sql-script ..." << endl
+		argv += n;
+		argc -= n;
+	} else if (argc < 2) {
+		cerr << "Usage: " << argv[0] << " [-q] [-f <filename>] [-s <val>] sql-script ..." << endl
 		     << "Runs the sql-scripts against a UTF8 database" << endl
-		     << "\toptions:" << endl
+		     << "options:" << endl
 		     << "\t-q : only display summary results" << endl
 		     << "\t-f <filename> : use filename as a database file. an in-memory database is used by default" << endl
-		     << "\t-s n : use the first n scripts as the schema and initial seed data of the database. all other scripts are runTimer in parallel" << endl;
+		     << "\t-s n : use the first n scripts as the schema and initial seed data of the database. all other scripts are run in parallel" << endl;
 		exit(1);
 	}
 
-	cout << "Sqlite version: " << sqlite3_libversion_number() << endl;
+	if (!quiet)
+		cout << "Sqlite version: " << sqlite3_libversion_number() << endl;
 
-	for (int i = 1; i < argc; i++) {
+	for (int i = 1; i < argc; i++)
 		scripts.push_back(argv[i]);
-	}
 
 	return scripts;
 }
 
-int main(int argc, char **argv)
-{
+double test_main(int argc, char *argv[]) {
 	struct tms tmsStart, tmsEnd;
 	clock_t clkStart, clkEnd;
 
-	int stmts = 0;
 	sqlite3 *db;
 
 	list<string> scripts = setup(argc, argv, &db);
+	vector<thread> threads = vector<thread>();
 
 	clkStart = times(&tmsStart);
 
-	for (string fname : scripts) {
-		cout << fname << endl;
-		//TODO spawn a new thread for each script at this point
-		stmts += runScriptFile(db, fname);
-	}
+	for (string fname : scripts)
+		threads.emplace_back(runScriptFile, db, fname);
+
+	for (int i = 0; i < threads.size(); i++)
+		threads[i].join();
 
 	setupTimer.start();
 	sqlite3_close(db);
@@ -184,20 +185,40 @@ int main(int argc, char **argv)
 	if (!quiet)
 		cout << "sqlite3_close() returns in " << setupTimer.duration() << " ns" << endl;
 
-	cout << endl;
-	printf("Statements runTimer:      %15d stmts\n", stmts);
-	printf("Total prepare time:  %15f ns\n", prepTimer.total_duration());
-	printf("Total runTimer time:      %15f ns\n", runTimer.total_duration());
-	printf("Total finalizeTimer time: %15f ns\n", finalizeTimer.total_duration());
-	printf("Open/Close time:     %15f ns\n", setupTimer.total_duration());
-	printf("Total time:          %15f ns\n",
-	       prepTimer.total_duration() + runTimer.total_duration() +
-	       finalizeTimer.total_duration() + setupTimer.total_duration());
+//	cout << endl;
+//	printf("Statements run:      %d ish stmts\n", stmts);
+//	printf("Total prepare time:  %f ns\n", prepTimer.total_duration());
+//	printf("Total run time:      %f ns\n", runTimer.total_duration());
+//	printf("Total finalize time: %f ns\n", finalizeTimer.total_duration());
+//	printf("Open/Close time:     %f ns\n", setupTimer.total_duration());
+	printf("Total time:          %f ns\n", prepTimer.total_duration() + runTimer.total_duration() +
+	                                             finalizeTimer.total_duration() + setupTimer.total_duration());
+	
+//	cout << endl;
+//	printf("Total user CPU time:   %15.3g secs\n", (tmsEnd.tms_utime - tmsStart.tms_utime) / (double)CLOCKS_PER_SEC);
+//	printf("Total system CPU time: %15.3g secs\n", (tmsEnd.tms_stime - tmsStart.tms_stime) / (double)CLOCKS_PER_SEC);
+//	printf("Total real time:	   %15.3g secs\n", (clkEnd - clkStart) / (double)CLOCKS_PER_SEC);
 
-	cout << endl;
-	printf("Total user CPU time:   %15.3g secs\n", (tmsEnd.tms_utime - tmsStart.tms_utime)/(double)CLOCKS_PER_SEC );
-	printf("Total system CPU time: %15.3g secs\n", (tmsEnd.tms_stime - tmsStart.tms_stime)/(double)CLOCKS_PER_SEC );
-	printf("Total real time:	   %15.3g secs\n", (clkEnd - clkStart)/(double)CLOCKS_PER_SEC );
+	return prepTimer.total_duration() + runTimer.total_duration() + finalizeTimer.total_duration() + setupTimer.total_duration();
+}
+
+int main(int argc, char *argv[]) {
+	int itrs = atoi(argv[1]);
+	double time;
+
+	argc--;
+	argv++;
+
+	for(int i = 0; i < itrs; i++) {
+		setupTimer = timer();
+		prepTimer = timer();
+		runTimer = timer();
+		finalizeTimer = timer();
+
+		time += test_main(argc, argv);
+	}
+
+	printf("Average: %f\n", time/itrs);
 
 	return 0;
 }

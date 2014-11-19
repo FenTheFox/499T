@@ -34,10 +34,10 @@ void LOCK_FUNC(unlock)(void);
 #define CUSTOM_MALLOC_LOCK(x) CUSTOM_PREFIX(malloc_lock)(x)
 #define CUSTOM_MALLOC_UNLOCK(x) CUSTOM_PREFIX(malloc_unlock)(x)
 
-void *CUSTOM_MALLOC(size_t sz) { return malloc(sz); }
-void CUSTOM_FREE(void *ptr) { free(ptr); }
-size_t CUSTOM_MALLOC_USABLE_SIZE(void *ptr) { return malloc_usable_size(ptr); }
+extern "C" void *CUSTOM_MALLOC(size_t sz) { return malloc(sz); }
+extern "C" void CUSTOM_FREE(void *ptr) { free(ptr); }
+extern "C" size_t CUSTOM_MALLOC_USABLE_SIZE(void *ptr) { return malloc_usable_size(ptr); }
 #ifdef LOCK_FUNC
-void CUSTOM_MALLOC_LOCK() { return malloc_lock(); }
-void CUSTOM_MALLOC_UNLOCK() { return malloc_unlock(); }
+extern "C" void CUSTOM_MALLOC_LOCK() { return malloc_lock(); }
+extern "C" void CUSTOM_MALLOC_UNLOCK() { return malloc_unlock(); }
 #endif
