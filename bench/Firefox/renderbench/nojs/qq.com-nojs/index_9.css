@@ -1,0 +1,37 @@
+html, body { padding: 0px; margin: 0px; }
+body { font: 12px/1.5 "Tahoma","arial"; }
+.c2014-9-148719-1413919911657-global { text-align: center; font-size: 12px; font-family: "helvetica neue",tahoma,"hiragino sans gb",stheiti,"wenquanyi micro hei",微软雅黑,宋体,sans-serif; width: 700px; height: 90px; background: none repeat scroll 0% 0% rgb(255, 255, 255); position: relative; overflow: hidden; }
+.c2014-9-148719-1413919911657-global a:link, .c2014-9-148719-1413919911657-global a:visited, .c2014-9-148719-1413919911657-global a:active { text-decoration: none; }
+.c2014-9-148719-1413919911657-global img { border: medium none; }
+.c2014-9-148719-1413919911657-global-bd { border: 1px solid rgb(177, 0, 0); height: 88px; width: 698px; }
+.c2014-9-148719-1413919911657-box { position: absolute; left: 113px; top: 1px; width: 586px; }
+.c2014-9-148719-1413919911657-prev, .c2014-9-148719-1413919911657-next { display: block; width: 30px; height: 88px; position: absolute; top: 1px; z-index: 9999; background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+.c2014-9-148719-1413919911657-prev span, .c2014-9-148719-1413919911657-next span { display: block; margin: 15px 0px 0px 10px; cursor: pointer; width: 9px; height: 58px; overflow: hidden; background: url('t1gfmdfhbcxxbslfhq-9-116.gif') no-repeat scroll 0px 0px transparent; }
+.c2014-9-148719-1413919911657-prev { left: 83px; }
+.c2014-9-148719-1413919911657-next { right: 0px; border-right: 1px solid rgb(177, 0, 0); }
+.c2014-9-148719-1413919911657-next span { background-position: 0px -58px; }
+.c2014-9-148719-1413919911657-prev:hover span, .c2014-9-148719-1413919911657-next:hover span { background-image: url('t1uyoofktcxxalb6bn-8-116.gif'); }
+.c2014-9-148719-1413919911657-next:hover span { background-position: 1px -58px; }
+.c2014-9-148719-1413919911657-logo { display: block; position: absolute; left: -113px; top: 0px; width: 84px; height: 88px; z-index: 1000; text-indent: 100%; white-space: nowrap; overflow: hidden; background: url('t1xkxaft0dxxb1upjx.jpg') no-repeat scroll 0px 0px rgb(255, 255, 255); border-left: 1px solid rgb(177, 0, 0); }
+.c2014-9-148719-1413919911657-frames { width: 2400px; }
+.c2014-9-148719-1413919911657-frame { float: left; text-align: left; width: 700px; margin-left: 0px; }
+.c2014-9-148719-1413919911657-info { display: none; }
+.c2014-9-148719-1413919911657-info a { color: rgb(102, 102, 102); }
+.c2014-9-148719-1413919911657-item { float: left; width: 80px; height: 80px; margin: 4px 30px 4px 0px; background: none repeat scroll 0% 0% rgb(248, 248, 248); }
+.c2014-9-148719-1413919911657-item-current { width: 215px; }
+.c2014-9-148719-1413919911657-item-current .c2014-9-148719-1413919911657-pic-box { float: left; }
+.c2014-9-148719-1413919911657-item-current .c2014-9-148719-1413919911657-info { float: left; width: 115px; padding: 5px 10px; display: block; }
+.c2014-9-148719-1413919911657-item-current .c2014-9-148719-1413919911657-logo { z-index: 10000; }
+.c2014-9-148719-1413919911657-title { display: block; height: 16px; line-height: 16px; overflow: hidden; margin: 4px 0px; font-family: "Microsoft yahei",Arial,sans-serif; }
+.c2014-9-148719-1413919911657-title:hover { color: rgb(255, 68, 0); }
+.c2014-9-148719-1413919911657-price { margin-bottom: 4px; font-size: 14px; display: inline-block; margin-right: 5px; }
+.c2014-9-148719-1413919911657-price .c2014-9-148719-1413919911657-price-promo { color: rgb(255, 68, 0); font-size: 14px; padding-right: 4px; font-weight: bold; font-style: normal; }
+.c2014-9-148719-1413919911657-price .c2014-9-148719-1413919911657-price-old { color: rgb(136, 136, 136); font-size: 13px; text-decoration: line-through; font-style: normal; }
+.c2014-9-148719-1413919911657-price i { font-family: "Microsoft YaHei"; font-style: normal; }
+.c2014-9-148719-1413919911657-price .c2014-9-148719-1413919911657-price-promo em, .c2014-9-148719-1413919911657-price .c2014-9-148719-1413919911657-price-promo i { padding-left: 1px; font-style: normal; }
+.c2014-9-148719-1413919911657-price .c2014-9-148719-1413919911657-price-old em, .c2014-9-148719-1413919911657-price .c2014-9-148719-1413919911657-price-old i { font-style: normal; }
+.c2014-9-148719-1413919911657-hidden { display: none; }
+.c2014-9-148719-1413919911657-item-tmall .c2014-9-148719-1413919911657-price .c2014-9-148719-1413919911657-price-promo em, .c2014-9-148719-1413919911657-item-tmall .c2014-9-148719-1413919911657-price .c2014-9-148719-1413919911657-price-promo i { color: rgb(177, 0, 0); }
+.c2014-9-148719-1413919911657-rank, .c2014-9-148719-1413919911657-mall { display: block; }
+.c2014-9-148719-1413919911657-pic { display: table-cell; width: 80px; height: 80px; text-align: center; vertical-align: middle; background-color: rgb(248, 248, 248); }
+.c2014-9-148719-1413919911657-pic img { vertical-align: middle; width: 100%; }

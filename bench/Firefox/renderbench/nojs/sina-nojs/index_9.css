@@ -1,0 +1,30 @@
+/* ::::: http://img.adbox.sina.com.cn/static/css/base.css ::::: */
+
+body, html { margin: 0px; padding: 0px; background: none repeat scroll 0% 0% rgb(255, 255, 255); font-size: 12px; font-family: Arial,Helvetica,sans-serif; }
+.ui { position: absolute; }
+.fset { overflow: hidden; position: relative; float: left; }
+img { border: 0px none; }
+.usera a, .wba a { overflow: hidden; border-color: rgb(204, 204, 204); border-style: solid; }
+.usera a:hover, .wba a:hover { border-color: rgb(255, 204, 0); }
+.wba img { width: 100%; height: 100%; }
+.wbn, .usern { font-size: 12px; height: 20px; overflow: hidden; }
+.wbn a:link, .wbn a:visited, .usern a:link, .usern a:visited { text-decoration: none; }
+.wbn a:hover, .usern a:hover { text-decoration: underline; }
+.wbn-v { position: relative; top: 2px; width: 14px; height: 11px; background: url('wb2.png') no-repeat scroll 0px 0px transparent; }
+.approve_blue { background-position: 0px -11px; }
+.wbf { display: inline-block; cursor: pointer; background: none repeat scroll 0% 0% rgb(238, 238, 238); text-align: center; vertical-align: middle; border-radius: 2px; border: 1px solid rgb(204, 204, 204); overflow: hidden; }
+.wbf table { border: 1px solid rgb(255, 255, 255); }
+.wbfdefault .add-icon { color: rgb(255, 160, 10); font-weight: bold; padding-right: 3px; font-size: 16px; font-family: "Arial"; }
+.slider-mask { position: absolute; left: 0px; top: 0px; overflow: hidden; }
+.fade-in-out { position: absolute; transition: opacity 1s ease 0s; }
+.fade-in-out div { position: absolute; transition: opacity 1s ease 0s; }
+.overlap-block div { position: absolute; }
+.slider-b, .slider-s { float: left; font-size: 12px; text-decoration: none; }
+.slider-s { border: 1px solid rgb(255, 255, 255); margin: 2px; }
+.slider-t { position: absolute; }
+.slider-s-h { border: 1px solid rgb(82, 175, 252); box-shadow: 0px 0px 2px 0px rgb(82, 175, 252); }
+.adbox-logo { background: url('logo-bg-s.png') no-repeat scroll 0px 0px transparent; position: absolute; right: 0px; bottom: 0px; display: block; width: 24px; height: 17px; font-size: 12px; line-height: 17px; z-index: 99999; overflow: hidden; text-decoration: none; color: rgb(255, 255, 255); outline: medium none; }
+.adbox-logo:hover { width: 96px; background-image: url('logo-bg-f.png'); }
+#stage-obj11413357161548 a:link, #stage-obj11413357161548 a:visited { color: rgb(51, 51, 51); }
+#stage-obj31413357263955 a:link, #stage-obj31413357263955 a:visited { color: rgb(51, 51, 51); }
+#stage-obj41413357264539 a:link, #stage-obj41413357264539 a:visited { color: rgb(255, 255, 255); }

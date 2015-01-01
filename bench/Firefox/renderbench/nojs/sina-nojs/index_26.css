@@ -1,0 +1,33 @@
+html, body { padding: 0px; margin: 0px; }
+body { font: 12px/1.5 "Tahoma","arial"; }
+.c2014-7-141552-1413920149962-global { width: 240px; height: 355px; background-color: rgb(255, 255, 255); font-family: Tahoma,Arial; overflow: hidden; position: relative; }
+.c2014-7-141552-1413920149962-global div, .c2014-7-141552-1413920149962-global a, .c2014-7-141552-1413920149962-global em, .c2014-7-141552-1413920149962-global span, .c2014-7-141552-1413920149962-global i { margin: 0px; padding: 0px; font-style: normal; }
+.c2014-7-141552-1413920149962-global img { border: 0px none; }
+.c2014-7-141552-1413920149962-global a { font-size: 12px; text-decoration: none; }
+.c2014-7-141552-1413920149962-global .c2014-7-141552-1413920149962-global_box { width: 238px; height: 353px; border: 1px solid rgb(229, 229, 229); position: relative; }
+.c2014-7-141552-1413920149962-global a:hover { text-decoration: none; }
+.c2014-7-141552-1413920149962-logo { display: block; overflow: hidden; width: 53px; height: 40px; background: url('t1b1q0fenixxb1upjx.jpg') no-repeat scroll 0px 0px transparent; position: absolute; bottom: 0px; left: 0px; z-index: 99; }
+.c2014-7-141552-1413920149962-rank, .c2014-7-141552-1413920149962-mall { position: absolute; bottom: 1px; right: -3px; z-index: 99; display: block; height: 17px; line-height: 17px; overflow: hidden; color: rgb(255, 255, 255); text-align: right; }
+.c2014-7-141552-1413920149962-global .c2014-7-141552-1413920149962-frames { width: 232px; height: 272px; overflow: hidden; margin: 3px auto; position: relative; }
+.c2014-7-141552-1413920149962-frames .c2014-7-141552-1413920149962-item { display: none; width: 230px; height: 270px; position: relative; }
+.c2014-7-141552-1413920149962-item .c2014-7-141552-1413920149962-pic { background-color: rgb(248, 248, 248); display: table-cell; vertical-align: middle; width: 230px; height: 230px; text-align: center; font: 12px/1.5 arial; overflow: hidden; }
+.c2014-7-141552-1413920149962-item .c2014-7-141552-1413920149962-pic img { border: medium none; vertical-align: middle; }
+.c2014-7-141552-1413920149962-frames .c2014-7-141552-1413920149962-current { display: block; }
+.c2014-7-141552-1413920149962-item .c2014-7-141552-1413920149962-info { height: 40px; width: 167px; padding: 0px 5px 0px 58px; position: absolute; bottom: 0px; left: 0px; background: none repeat scroll 0% 0% rgba(255, 255, 255, 0.9); }
+:root .c2014-7-141552-1413920149962-item .c2014-7-141552-1413920149962-info {  }
+.c2014-7-141552-1413920149962-item .c2014-7-141552-1413920149962-info .c2014-7-141552-1413920149962-title { font-family: "Microsoft YaHei"; display: block; line-height: 20px; height: 20px; width: 167px; font-size: 12px; text-align: left; color: rgb(102, 102, 102); white-space: nowrap; text-overflow: ellipsis; overflow: hidden; }
+.c2014-7-141552-1413920149962-price { width: 135px; height: 20px; line-height: 20px; display: block; font-family: "Tahoma","arial"; font-style: normal; text-align: left; overflow: hidden; }
+.c2014-7-141552-1413920149962-price .c2014-7-141552-1413920149962-price-promo { color: rgb(255, 68, 0); font-size: 14px; padding-right: 4px; font-weight: bold; }
+.c2014-7-141552-1413920149962-price .c2014-7-141552-1413920149962-price-old { color: rgb(136, 136, 136); font-size: 13px; text-decoration: line-through; }
+.c2014-7-141552-1413920149962-price i { font-family: "Microsoft YaHei"; }
+.c2014-7-141552-1413920149962-price .c2014-7-141552-1413920149962-price-promo em, .c2014-7-141552-1413920149962-price .c2014-7-141552-1413920149962-price-promo i { padding-left: 1px; }
+.c2014-7-141552-1413920149962-hidden { display: none; }
+.c2014-7-141552-1413920149962-item-tmall .c2014-7-141552-1413920149962-price .c2014-7-141552-1413920149962-price-promo em, .c2014-7-141552-1413920149962-item-tmall .c2014-7-141552-1413920149962-price .c2014-7-141552-1413920149962-price-promo i { color: rgb(177, 0, 0); }
+.c2014-7-141552-1413920149962-item-tmall .c2014-7-141552-1413920149962-logo { background: url('t1b1q0fenixxb1upjx.jpg') no-repeat scroll 0px -40px transparent; }
+.c2014-7-141552-1413920149962-triggers { overflow: hidden; width: 230px; height: 36px; margin: 4px 0px 0px; }
+.c2014-7-141552-1413920149962-global .c2014-7-141552-1413920149962-triggers a { background-color: rgb(248, 248, 248); display: table-cell; vertical-align: middle; float: left; width: 30px; height: 30px; line-height: 28px; margin: 3px 0px 0px 8px; font-family: arial,sans-serif; overflow: visible; position: relative; }
+.c2014-7-141552-1413920149962-global .c2014-7-141552-1413920149962-triggers a img { border: medium none; vertical-align: middle; }
+.c2014-7-141552-1413920149962-global .c2014-7-141552-1413920149962-cover { opacity: 0.6; background: none repeat scroll 0% 0% rgb(255, 255, 255); width: 30px; height: 30px; position: absolute; top: 0px; left: 0px; }
+.c2014-7-141552-1413920149962-global .c2014-7-141552-1413920149962-triggers a:hover .c2014-7-141552-1413920149962-cover, .c2014-7-141552-1413920149962-global .c2014-7-141552-1413920149962-triggers a.c2014-7-141552-1413920149962-current .c2014-7-141552-1413920149962-cover { opacity: 0; border: 2px solid rgb(0, 0, 0); }
+.c2014-7-141552-1413920149962-global .c2014-7-141552-1413920149962-border { width: 30px; height: 30px; position: absolute; top: -1px; left: -1px; border: 1px solid rgb(51, 51, 51); display: none; }
+.c2014-7-141552-1413920149962-global .c2014-7-141552-1413920149962-triggers a:hover .c2014-7-141552-1413920149962-border, .c2014-7-141552-1413920149962-global .c2014-7-141552-1413920149962-triggers a.c2014-7-141552-1413920149962-current .c2014-7-141552-1413920149962-border { display: block; }

@@ -1,0 +1,32 @@
+html, body { padding: 0px; margin: 0px; }
+body { font: 12px/1.5 "Tahoma","arial"; }
+.c2014-7-141557-1413920147224-global { text-align: center; font-size: 12px; font-family: tahoma,Arial; overflow: hidden; width: 240px; height: 200px; background-color: rgb(255, 255, 255); position: relative; }
+.c2014-7-141557-1413920147224-global_box { position: relative; overflow: hidden; width: 238px; height: 198px; border: 1px solid rgb(229, 229, 229); background: none repeat scroll 0% 0% rgb(255, 255, 255); top: 0px; left: 0px; }
+.c2014-7-141557-1413920147224-global, .c2014-7-141557-1413920147224-global a, .c2014-7-141557-1413920147224-global img, ul, li { padding: 0px; margin: 0px; text-decoration: none; list-style: none outside none; }
+.c2014-7-141557-1413920147224-global i { font-style: normal; }
+.c2014-7-141557-1413920147224-frames { width: 190px; height: 194px; position: relative; margin: 2px 0px 0px 6px; overflow: hidden; }
+.c2014-7-141557-1413920147224-global .c2014-7-141557-1413920147224-frames .c2014-7-141557-1413920147224-current { display: block; }
+.c2014-7-141557-1413920147224-item { width: 190px; height: 194px; position: relative; display: none; overflow: hidden; }
+.c2014-7-141557-1413920147224-global .c2014-7-141557-1413920147224-pic { left: 0px; top: 0px; display: table-cell; vertical-align: middle; width: 190px; height: 190px; text-align: center; font: 12px/1 arial; overflow: hidden; background-color: rgb(248, 248, 248); position: relative; }
+.c2014-7-141557-1413920147224-global .c2014-7-141557-1413920147224-pic img { vertical-align: middle; border: medium none; }
+.c2014-7-141557-1413920147224-global .c2014-7-141557-1413920147224-triggers .c2014-7-141557-1413920147224-trigger .c2014-7-141557-1413920147224-cover { z-index: 999; background: none repeat scroll 0% 0% rgba(255, 255, 255, 0.8); width: 26px; height: 26px; position: absolute; top: 0px; left: 0px; }
+.c2014-7-141557-1413920147224-item .c2014-7-141557-1413920147224-info { width: 190px; height: 40px; position: absolute; bottom: 0px; left: 0px; overflow: hidden; background: none repeat scroll 0% 0% rgba(255, 255, 255, 0.9); }
+.c2014-7-141557-1413920147224-price { width: 135px; height: 20px; line-height: 20px; display: block; font-family: "Tahoma","arial"; font-style: normal; text-align: left; overflow: hidden; }
+.c2014-7-141557-1413920147224-price .c2014-7-141557-1413920147224-price-promo { color: rgb(255, 68, 0); font-size: 14px; padding-right: 4px; font-weight: bold; }
+.c2014-7-141557-1413920147224-price .c2014-7-141557-1413920147224-price-old { color: rgb(136, 136, 136); font-size: 13px; text-decoration: line-through; }
+.c2014-7-141557-1413920147224-price i { font-family: "Microsoft YaHei"; }
+.c2014-7-141557-1413920147224-price .c2014-7-141557-1413920147224-price-promo em, .c2014-7-141557-1413920147224-price .c2014-7-141557-1413920147224-price-promo i { padding-left: 1px; }
+.c2014-7-141557-1413920147224-hidden { display: none; }
+.c2014-7-141557-1413920147224-global img { border: medium none; }
+.c2014-7-141557-1413920147224-global .c2014-7-141557-1413920147224-triggers-cover { margin: 22px 0px 18px; width: 26px; height: 156px; position: absolute; top: 0px; left: 203px; overflow: hidden; }
+.c2014-7-141557-1413920147224-global .c2014-7-141557-1413920147224-triggers { width: 26px; height: 312px; position: relative; top: 0px; }
+.c2014-7-141557-1413920147224-global .c2014-7-141557-1413920147224-trigger { overflow: hidden; vertical-align: middle; display: block; width: 24px; height: 24px; border: 1px solid rgb(255, 255, 255); position: relative; text-align: center; font: 12px/1 arial; }
+.c2014-7-141557-1413920147224-global .c2014-7-141557-1413920147224-triggers .c2014-7-141557-1413920147224-current { border: 1px solid rgb(102, 102, 102); }
+.c2014-7-141557-1413920147224-global .c2014-7-141557-1413920147224-triggers a:hover .c2014-7-141557-1413920147224-cover, .c2014-7-141557-1413920147224-global .c2014-7-141557-1413920147224-triggers a.c2014-7-141557-1413920147224-current .c2014-7-141557-1413920147224-cover { display: none; }
+:root .c2014-7-141557-1413920147224-info, :root .c2014-7-141557-1413920147224-triggers {  }
+.c2014-7-141557-1413920147224-hidden { display: none; }
+.c2014-7-141557-1413920147224-global .c2014-7-141557-1413920147224-rank, .c2014-7-141557-1413920147224-global .c2014-7-141557-1413920147224-mall { display: block; font-family: "Tahoma"; margin-left: 4px; height: 20px; color: rgb(255, 255, 255); line-height: 20px; text-align: left; float: left; }
+.c2014-7-141557-1413920147224-global .c2014-7-141557-1413920147224-mall { margin-top: -1px; }
+.c2014-7-141557-1413920147224-global .c2014-7-141557-1413920147224-prev { position: absolute; left: 209px; top: 9px; background: url('t1jtlifaloxxb1upjx.jpg') no-repeat scroll 0px 0px transparent; display: block; width: 14px; height: 7px; z-index: 999999; overflow: hidden; }
+.c2014-7-141557-1413920147224-global .c2014-7-141557-1413920147224-logo { display: block; background: url('t1b1q0fenixxb1upjx.jpg') no-repeat scroll 0px 0px transparent; width: 53px; height: 40px; float: left; }
+.c2014-7-141557-1413920147224-global .c2014-7-141557-1413920147224-global_box .c2014-7-141557-1413920147224-frames .c2014-7-141557-1413920147224-tmall .c2014-7-141557-1413920147224-info .c2014-7-141557-1413920147224-logo { background: url('t1b1q0fenixxb1upjx.jpg') no-repeat scroll 0px -40px transparent; }

@@ -1,0 +1,915 @@
+body, ol, ul, h1, h2, h3, h4, h5, h6, p, th, td, dl, dd, form, fieldset, legend, input, textarea, select { margin: 0px; padding: 0px; }
+body { font: 12px "宋体","Arial Narrow",HELVETICA; background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+a { color: rgb(23, 44, 69); text-decoration: none; }
+a:hover { color: rgb(205, 2, 0); text-decoration: underline; }
+li { list-style: none outside none; }
+img { border: 0px none; vertical-align: middle; }
+table { border-collapse: collapse; border-spacing: 0px; }
+p { word-wrap: break-word; }
+.noborder { border: 0px none; }
+.Q-bold { font-weight: bold ! important; }
+.layout:after, .hd:after, .bd:after, .ft:after, .cf:after, .Q-tList:after, .Q-tList ul:after, .Q-tList ol:after, .Q-pList:after, .Q-pList ul:after, .Q-tpList:after, .Q-tpList ul:after, .Q-tpWrap:after { content: ""; display: table; clear: both; }
+.layout, .hd, .bd, .ft, .cf, .Q-tList, .Q-tList ul, .Q-tList ol, .Q-pList, .Q-pList ul, .Q-tpList, .Q-tpList ul, .Q-tpWrap {  }
+@media screen {
+  .fl, .layout .fl, .chief { float: left; display: inline; }
+  .fr, .layout .fr, .extra { float: right; display: inline; }
+  .fn { font-weight: bold; }
+  .layout { width: 1000px; margin: 0px auto; }
+  .leftArea { width: 660px; float: left; }
+  .rightArea { width: 318px; border-top: 1px solid rgb(109, 170, 234); background: none repeat scroll 0% 0% rgb(255, 255, 255); float: right; }
+  .mt8 { margin-top: 8px; }
+  .mt12 { margin-top: 12px; }
+  .mt15 { margin-top: 15px; }
+  .mb10 { margin-bottom: 10px; }
+  #guess { position: absolute; top: -9999px; left: -9999px; }
+  #toTop, .mininavInner .loginSmartTop, .mininavInner .loginSmartBottom, .adEdu .hd, .leftTech .ft, .leftHisMil .ft, .leftAuto .ft, .rightHouse .ft, .rightXingzuo .ft, .rightWenhua .ft, .leftLady .ft, .leftBlog .ft, .leftEdu .ft, .leftKid .ft, .leftSociety .ft, .leftGame .ft, .leftRushidao .ft, .leftGongyi .ft, .leftMeishi .ft, .leftLive .ft, .txDynamic .ft, .mininav, .rightAikanTab .hd .aikanTimeGreen, .rightAikanTab .hd .aikanTimeBlue, .rightAikan .aikanGreen, .rightAikan .aikanBlue, .rightAikan .aikanLine, .rightAikanTitle, .leftNews .hd .newsTab h2#newsDifangH2, .financeSearch button, .myBookIcon, .myVideoIcon, .myConstellationIcon, .leftFinance .myFinanceBox .myFinanceIcon, .leftVideoNews .hd, .leftLive .bd .txtArea dd .price, .nav, .soso .searchBtn button, .soso .search .searchMenu .searchSelectedUp, .soso .search .searchMenu .searchSelected, .soso .search .searchSmart li.searchSmartTip .smartX, .financeSearch #search_btn, #picFocusScroll .prev, #picFocusScroll .prev:hover, #picFocusScroll .next, #picFocusScroll .next:hover, .leftDajiaaikan .hd .more, .leftDajiaaikan .hd .more:hover, .rightAikanTitle .refresh, .rightAikanTitle .refresh:hover { background-image: url('qqbg_1.6.1.png'); background-repeat: no-repeat; }
+  .mininavInner .mininavLeft .mobileIcon, .mininavInner .mininavLeft .mobileIcon:hover, .mininavInner .mininavLeft .ipadIcon, .mininavInner .mininavLeft .ipadIcon:hover, .mininavInner .mininavLeft .qqHelp, .mininavInner .mininavLeft .qqHelp:hover, .nav div .navMore, .nav div .navMore:hover, .adEdu .hd .adEduTab li, .adEdu .bd li, .leftAreaContent .ft li, #qqHelpContent, .vico, .tico, .picico, .zhiboico { background-image: url('icobg_1.4.png'); background-repeat: no-repeat; }
+  .layoutLeft { width: 700px; height: 971px; float: left; overflow: hidden; }
+  .layoutRight { width: 280px; height: 971px; float: right; }
+  .imgTxtArea { padding: 15px 0px; }
+  .imgArea { width: 108px; height: 70px; float: left; }
+  .imgArea img { width: 108px; height: 70px; }
+  .txtArea { width: 182px; float: right; padding: 5px 15px 0px 0px; overflow: hidden; }
+  .txtArea h3 { width: 100%; line-height: 26px; font-size: 14px; float: left; }
+  .txtArea h3 a { color: rgb(59, 99, 159); }
+  .txtArea dt { width: 100%; line-height: 26px; font-size: 14px; font-weight: bold; }
+  .txtArea dt a { color: rgb(59, 99, 159); }
+  .txtArea dd { width: 100%; line-height: 22px; color: rgb(140, 140, 140); display: none; }
+  .txtArea dd a { color: rgb(59, 99, 159); }
+  .txtArea dd a:hover { color: rgb(205, 2, 0); }
+  .soso { width: 1000px; height: 48px; margin: 0px auto; padding: 23px 0px 19px; }
+  .soso .logo { float: left; display: inline; margin-left: 160px; }
+  .soso .logo .qqlogo { display: block; width: 134px; height: 44px; background-image: url('qqlogo_1x.png'); background-repeat: no-repeat; }
+  .soso .search { float: left; padding: 5px 0px 0px 42px; }
+  .soso .searchTxt { float: left; width: 290px; height: 35px; border-width: 1px 0px 1px 1px; border-style: solid none solid solid; border-color: rgb(193, 196, 203) -moz-use-text-color rgb(193, 196, 203) rgb(193, 196, 203); -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; position: relative; z-index: 20; background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+  .soso .searchTxtHover { float: left; width: 290px; height: 35px; border-width: 1px 0px 1px 1px; border-style: solid none solid solid; border-color: rgb(50, 151, 216) -moz-use-text-color rgb(50, 151, 216) rgb(50, 151, 216); -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; position: relative; z-index: 20; background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+  .soso .search .searchMenu { float: left; }
+  .soso .search .searchMenu .searchSelected { color: rgb(168, 168, 168); cursor: pointer; font-size: 14px; font-weight: bold; height: 35px; line-height: 35px; padding: 0px 10px; width: 48px; background-position: -877px -199px; }
+  .soso .search .searchMenu .searchSelectedUp { color: rgb(168, 168, 168); cursor: pointer; font-size: 14px; font-weight: bold; height: 35px; line-height: 35px; padding: 0px 10px; width: 48px; background-position: -552px -200px; }
+  .soso .search .searchMenu .searchTab { display: none; position: absolute; top: 35px; left: -1px; width: 58px; border-right: 1px solid rgb(50, 151, 216); border-width: 0px 1px 1px; border-style: none solid solid; border-color: -moz-use-text-color rgb(50, 151, 216) rgb(50, 151, 216); -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; background: none repeat scroll 0% 0% rgb(255, 255, 255); height: 258px; z-index: 20; }
+  .soso .search .searchMenu .searchTab li { width: 58px; height: 28px; line-height: 28px; color: rgb(168, 168, 168); font-size: 14px; font-weight: bold; text-indent: 10px; cursor: pointer; }
+  .soso .search .searchMenu .searchTab li.selected { background: none repeat scroll 0% 0% rgb(237, 243, 252); color: rgb(105, 148, 193); }
+  .soso .search .searchSmart { position: absolute; top: 35px; left: 60px; width: 318px; border: 1px solid rgb(205, 205, 205); background: none repeat scroll 0% 0% rgb(255, 255, 255); visibility: hidden; z-index: 11; }
+  .soso .search .searchSmart ul { width: 100%; float: left; }
+  .soso .search .searchSmart li { width: 100%; height: 28px; line-height: 28px; float: left; color: rgb(55, 69, 98); font-size: 14px; text-indent: 10px; cursor: pointer; white-space: nowrap; overflow: hidden; }
+  .soso .search .searchSmart li.selected { background: none repeat scroll 0% 0% rgb(237, 243, 252); }
+  .soso .search .searchSmart li.searchSmartTip { background: none repeat scroll 0% 0% rgb(247, 247, 247); color: rgb(169, 186, 205); }
+  .soso .search .searchSmart li.searchSmartTip .smartX { width: 13px; height: 12px; overflow: hidden; background-position: -700px -210px; float: right; display: inline; margin: 8px 10px 0px 0px; cursor: pointer; }
+  .soso .search input { float: left; border: 0px none; background: none repeat scroll 0% 0% rgb(255, 255, 255); color: rgb(51, 51, 51); font-size: 14px; line-height: 22px; width: 175px; height: 25px; margin: 0px; outline: medium none; padding: 4px; }
+  .soso .search .sosoLogo { float: right; margin: 5px 6px 0px 0px; }
+  .soso .searchBtn { float: left; }
+  .soso .searchBtn button { background: url('sogousearchbtn.png') no-repeat scroll 0% 0% transparent; border: 0px none; color: rgb(255, 255, 255); cursor: pointer; float: left; font-size: 16px; height: 37px; text-indent: -9999px; width: 90px; }
+  .soso .searchBtn .searchBtnHover { background: url('sogousearchbtn.png') no-repeat scroll 0% 0% transparent; }
+  .soso .searchTxt .radius { width: 1px; height: 1px; overflow: hidden; background: none repeat scroll 0% 0% rgb(244, 244, 244); position: absolute; top: -2px; left: -1px; }
+  .soso .searchTxtHover .radius { width: 1px; height: 1px; overflow: hidden; background: none repeat scroll 0% 0% rgb(204, 229, 245); position: absolute; top: -2px; left: -1px; }
+  .nav { width: 987px; height: 51px; padding: 9px 5px 0px 8px; line-height: 22px; font-size: 12px; margin: 0px auto; background-position: left -35px; background-color: rgb(50, 140, 201); position: relative; }
+  .nav .navInner { width: 987px; height: 51px; margin: 0px; padding: 0px; overflow: hidden; }
+  .nav a { color: rgb(255, 255, 255); padding: 3px; margin: 0px 4px 0px 3px; }
+  .nav a:hover { text-decoration: none; color: rgb(13, 81, 156); background: none repeat scroll 0% 0% rgb(202, 225, 238); }
+  .nav div { float: left; padding: 0px 6px 0px 7px; width: 156px; text-align: left; }
+  .nav a.Q-yellow { color: rgb(255, 204, 0); }
+  .nav a.Q-yellow:hover { color: rgb(13, 81, 156); }
+  .nav .erweima { width: 103px; height: 145px; border: 1px solid rgb(219, 219, 219); padding: 0px; position: absolute; top: 0px; right: -115px; background: url('erweimanews1.1.png') no-repeat scroll 0% 0% transparent; }
+  .nav .erweima .shutDown { width: 18px; height: 18px; display: block; float: right; cursor: pointer; padding: 0px; margin: 0px; overflow: hidden; }
+  .nav .erweima .shutDown:hover { background: none repeat scroll 0% 0% transparent; padding: 0px; margin: 0px; }
+  .nav .erweima .erweimaPic { width: 103px; height: 80px; float: left; padding: 0px; margin: 4px 0px 0px; text-align: center; }
+  .nav .erweima .erweimaPic a { margin: 0px; padding: 0px; }
+  .nav .erweima .erweimaPic a:hover { background: none repeat scroll 0% 0% transparent; margin: 0px; padding: 0px; }
+  .nav .erweima .ft { width: 100%; padding: 5px 0px 0px; float: left; line-height: 17px; color: rgb(107, 107, 107); text-align: center; }
+  .nav .erweima .ft a { color: rgb(107, 107, 107); margin: 0px; padding: 0px; }
+  .nav .erweima .ft a:hover { background: none repeat scroll 0% 0% transparent; margin: 0px; padding: 0px; }
+  #erweimaNews { width: 103px; padding: 0px; position: absolute; top: 18px; left: 0px; }
+  #erweimaV { width: 103px; padding: 0px; position: absolute; top: 18px; left: 0px; }
+  #erweimaWeishi { width: 103px; padding: 0px; position: absolute; top: 18px; left: 0px; }
+  .navBeta .erweima { width: 103px; height: 145px; border: 1px solid rgb(219, 219, 219); padding: 0px; font-size: 12px; position: absolute; top: 0px; right: -115px; background: url('erweimanews1.1.png') no-repeat scroll 0% 0% transparent; }
+  .navBeta .erweima .shutDown { width: 18px; height: 18px; display: block; float: right; cursor: pointer; padding: 0px; margin: 0px; overflow: hidden; }
+  .navBeta .erweima .shutDown:hover { background: none repeat scroll 0% 0% transparent; padding: 0px; margin: 0px; }
+  .navBeta .erweima .erweimaPic { width: 103px; height: 80px; float: left; padding: 0px; margin: 4px 0px 0px; text-align: center; }
+  .navBeta .erweima .erweimaPic a { margin: 0px; padding: 0px; }
+  .navBeta .erweima .erweimaPic a:hover { background: none repeat scroll 0% 0% transparent; margin: 0px; padding: 0px; }
+  .navBeta .erweima .ft { width: 100%; padding: 5px 0px 0px; float: left; line-height: 17px; color: rgb(107, 107, 107); text-align: center; }
+  .navBeta .erweima .ft a { color: rgb(107, 107, 107); margin: 0px; padding: 0px; }
+  .navBeta .erweima .ft a:hover { background: none repeat scroll 0% 0% transparent; margin: 0px; padding: 0px; }
+  #erweimaNewsBeta { width: 103px; padding: 0px; position: absolute; top: 18px; left: 0px; }
+  #erweimaVBeta { width: 103px; padding: 0px; position: absolute; top: 18px; left: 0px; }
+  #erweimaWeishiBeta { width: 103px; padding: 0px; position: absolute; top: 18px; left: 0px; }
+  .adScroll { width: 280px; height: 75px; overflow: hidden; }
+  .adScroll img { width: 320px; height: 75px; float: left; }
+  .adEdu { width: 660px; height: 180px; overflow: hidden; }
+  .adEdu .hd { width: 660px; height: 30px; background-color: rgb(251, 251, 251); border-bottom: 1px solid rgb(222, 234, 248); position: relative; }
+  .adEdu .hd .adEduTab { width: 660px; height: 31px; position: absolute; top: 0px; left: 0px; }
+  .adEdu .hd .adEduTab ul { float: left; }
+  .adEdu .hd .adEduTab li { width: 70px; height: 31px; line-height: 31px; float: left; font-size: 14px; text-align: center; background-position: right -362px; }
+  .adEdu .hd .adEduTab li.selected { width: 68px; height: 30px; line-height: 30px; float: left; display: inline; margin-left: -1px; font-size: 14px; background: none repeat scroll 0% 0% rgb(255, 255, 255); border-top: 1px solid rgb(125, 176, 223); border-left: 1px solid rgb(205, 224, 246); border-right: 1px solid rgb(205, 224, 246); }
+  .adEdu .hd .adEduTab li a { color: rgb(72, 143, 209); }
+  .adEdu .hd .adEduTab p { float: right; line-height: 30px; padding-right: 11px; }
+  .adEdu .bd ul { width: 100%; margin-top: 7px; }
+  .adEdu .bd li { width: 50%; float: left; height: 26px; line-height: 26px; color: rgb(157, 169, 180); font-size: 14px; text-indent: 11px; background-position: left -389px; overflow: hidden; }
+  .adEdu .bd li.s { text-indent: 22px; background-position: 11px -389px; }
+  .leftAreaContent .hd { width: 100%; height: 29px; border-top: 1px solid rgb(200, 220, 242); }
+  #qqMeishi .hd { border-top: 1px solid rgb(109, 170, 234); }
+  .leftAreaContent .hd h2 { color: rgb(8, 115, 192); font-size: 14px; margin-top: 8px; float: left; text-indent: 5px; }
+  #newsQuanguoH2, #newsDifangH2 { text-indent: 0px; }
+  .leftAreaContent .hd h2 a { color: rgb(8, 115, 192); }
+  .leftAreaContent .bd { width: 320px; padding: 16px 0px 8px; }
+  .leftAreaContent .ft { width: 320px; background: none repeat scroll 0% 0% transparent; }
+  .leftAreaContent .ft ul { width: 100%; float: left; }
+  .leftAreaContent .ft li { width: 100%; float: left; height: 26px; line-height: 26px; color: rgb(116, 128, 143); font-size: 14px; background: none repeat scroll 0% 0% transparent; overflow: hidden; }
+  .leftAreaContent .ft ul.nostyle li { text-indent: 0px; background: none repeat scroll 0% 0% transparent; }
+  .leftAreaContent .ft ul.vlist li { width: 291px; height: 28px; line-height: 28px; padding-left: 19px; background: url('iconnew.png') no-repeat scroll left -42px transparent; }
+  .leftLive, .leftMeishi, .leftEnt, .leftSports, .leftFinance, .leftGongyi { width: 320px; background: none repeat scroll 0% 0% rgb(255, 255, 255); overflow: hidden; }
+  .leftSports { height: 266px; }
+  .leftSociety, .leftGame, .leftHisMil, .leftLady, .leftKid, .leftEdu, .leftBlog, .leftTech, .leftAuto, .leftRushidao { width: 320px; }
+  .leftAuto .hd .autoTab { float: left; width: 100%; height: 29px; position: relative; }
+  .leftAuto .hd .autoTab a { float: left; display: block; font-size: 14px; font-weight: bold; color: rgb(69, 143, 206); width: 80px; text-align: center; height: 30px; line-height: 30px; margin-top: 0px; padding: 0px 1px; overflow: hidden; position: absolute; top: 0px; left: 0px; }
+  .leftAuto .hd .autoTab a.selected { font-weight: bold; padding: 0px; border-left: 1px solid rgb(189, 215, 242); border-right: 1px solid rgb(189, 215, 242); background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+  .leftAuto .hd .autoTab a#tripTAB { left: 81px; width: 81px; border-left: 1px solid rgb(189, 215, 242); border-right: 1px solid rgb(189, 215, 242); }
+  .leftAuto .hd .autoTab a#tripTAB.selected { width: 83px; }
+  #arealife .hd, #gongyi .hd { border-top: 1px solid rgb(109, 170, 234); }
+  .leftMeishi .bd .txtArea dt { line-height: 26px; overflow: hidden; }
+  .leftMeishi .bd .txtArea dd { line-height: 22px; height: 44px; overflow: hidden; }
+  .leftMeishi .bd .txtArea dd .download { float: left; margin-right: 6px; }
+  .leftKid .bd { padding: 13px 0px 9px; }
+  .kidArea { width: 60px; height: 78px; float: left; display: inline; margin-right: 20px; overflow: hidden; }
+  .kidArea img { width: 60px; height: 60px; overflow: hidden; }
+  .kidArea p { width: 60px; height: 15px; text-align: center; margin-top: 3px; overflow: hidden; }
+  .leftEnt .bd, .leftSports .bd, .leftFinance .bd { padding-bottom: 0px; }
+  .leftEnt .ft, .leftSports .ft, .leftFinance .ft { border: 0px none; }
+  .leftEntRight .bd { width: 305px; }
+  .leftEntRight .bd .txtArea { width: 157px; }
+  .leftEntRight .ft { width: 305px; }
+  .leftSports .bd .txtArea { padding-top: 2px; }
+  .leftSportsRight .bd { width: 305px; }
+  .leftSportsRight .bd .txtArea { width: 157px; }
+  .leftSportsRight .ft { width: 305px; }
+  .leftSports .bd .txtArea dd, .leftEntRight .bd .txtArea dd, .leftTech .bd .txtArea dd, .leftAuto .bd .txtArea dd, .leftLady .bd .txtArea dd, .leftBlog .bd .txtArea dd, .leftEdu .bd .txtArea dd, .leftSociety .bd .txtArea dd, .leftGame .bd .txtArea dd, .leftGongyi .bd .txtArea dd, .rightHouse .bd .txtArea dd, .rightBook .bd .txtArea dd, .rightXingzuo .bd .txtArea dd, .rightWenhua .bd .txtArea dd { height: 44px; overflow: hidden; }
+  .rightAreaContent .hd { width: 100%; height: 35px; overflow: hidden; }
+  .rightAreaContent .hd h2 { color: rgb(8, 115, 192); font-size: 14px; margin-top: 8px; text-indent: 15px; float: left; }
+  .rightAreaContent .hd h2 a { color: rgb(8, 115, 192); }
+  .rightAreaContent .ft { width: 320px; background: none repeat scroll 0% 0% transparent; }
+  .rightAreaContent .ft li { width: 100%; height: 26px; line-height: 26px; color: rgb(157, 169, 180); font-size: 14px; text-indent: 15px; overflow: hidden; }
+  .rightBook { height: 331px; position: relative; overflow: hidden; }
+  .rightBook .bd, .rightHouse .bd, .rightVideo .bd, .rightXingzuo .bd, .rightWenhua .bd { width: 288px; padding: 12px 15px 6px; }
+  .rightBook .bd { width: 297px; height: 110px; margin: 0px auto; padding: 10px 0px 6px; }
+  .rightBook .bd .txtArea, .rightHouse .bd .txtArea, .rightVideo .bd .txtArea, .rightXingzuo .bd .txtArea, .rightWenhua .bd .txtArea { width: 138px; }
+  .rightBook .bd .imgArea { width: 85px; height: 110px; float: left; display: inline; margin: 0px 7px; }
+  .rightBook .bd .imgArea img { width: 85px; height: 110px; }
+  .rightAreaContent .hd .more { float: right; margin: 10px 16px 0px 0px; color: rgb(59, 99, 159); }
+  #bookCount { font: 13px Tahoma bold; }
+  #bookMessageCount { margin-left: 3px; font-family: Tahoma; }
+  .myBookBox { position: absolute; bottom: 36px; left: 15px; width: 285px; border-bottom: 2px solid rgb(242, 242, 242); background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+  .myBookBoxInner { width: 283px; border: 1px solid rgb(207, 220, 234); padding: 5px 0px; }
+  .myBookBoxInner table { margin: 0px auto; width: 90%; }
+  .myBookBoxInner td { font-size: 12px; height: 23px; text-align: left; vertical-align: middle; color: rgb(68, 68, 68); }
+  .myBookBoxInner td p { height: 23px; line-height: 23px; text-align: left; overflow: hidden; }
+  .myBookBoxInner td a { color: rgb(13, 81, 156); }
+  .myBookIcon { width: 11px; height: 9px; overflow: hidden; background-position: -700px -230px; position: absolute; bottom: -8px; }
+  .rightBook li.rightLogin, .rightHouse li.rightLogin, .rightVideo li.rightLogin, .rightConstellation li.rightLogin, .leftFinance li.financeLogin { color: rgb(51, 51, 51); }
+  .rightBook li.rightLogin a, .rightHouse li.rightLogin a, .rightVideo li.rightLogin a, .rightConstellation li.rightLogin a, .leftFinance li.financeLogin a { color: rgb(59, 99, 159); }
+  .rightBook .orange, .rightHouse li.rightLogin .orange, .rightVideo li.rightLogin .orange, .rightConstellation li.rightLogin .orange, .leftFinance li.financeLogin .orange { color: rgb(239, 88, 20); }
+  .leftSociety { height: 281px; overflow: hidden; }
+  #societynews { height: 130px; overflow: hidden; }
+  .rightHouse { height: 333px; overflow: hidden; position: relative; }
+  .rightHouse .hd h2 { padding: 8px 0px 7px; margin: 0px; position: absolute; top: 0px; left: 0px; z-index: 10; }
+  .rightHouse .hd h2 a { padding-right: 16px; background: url('houseicon.png') no-repeat scroll right 5px transparent; }
+  .rightHouse .hd h2.spread { padding: 8px 16px 6px 0px; border-bottom: 1px solid rgb(255, 255, 255); border-right: 1px solid rgb(219, 236, 236); }
+  .rightHouse .hd h2.spread a { background: url('houseicon.png') no-repeat scroll right -90px transparent; }
+  .rightHouse .hd .houseSelect { display: none; position: absolute; top: 30px; left: 0px; z-index: 9; width: 255px; padding: 5px 0px; background: none repeat scroll 0% 0% rgb(255, 255, 255); border-top: 1px solid rgb(102, 159, 230); border-right: 1px solid rgb(219, 236, 236); border-bottom: 1px solid rgb(219, 236, 236); }
+  .rightHouse .hd .houseSelect ul { width: 100%; float: left; }
+  .rightHouse .hd .houseSelect li { width: 51px; float: left; text-align: center; line-height: 30px; }
+  #rightHouseIp { width: 318px; position: absolute; top: 31px; left: 0px; z-index: 8; }
+  .rightXingzuo { height: 281px; overflow: hidden; }
+  .rightWenhua { height: 330px; overflow: hidden; }
+  .rightVideo { width: 318px; height: 266px; position: relative; overflow: hidden; }
+  .rightVideo .bd { height: 75px; padding: 13px 15px 7px; overflow: hidden; }
+  .rightVideo .bd .videoArea { width: 130px; height: 75px; overflow: hidden; }
+  .rightVideo .bd .videoArea img { width: 130px; height: 75px; }
+  .rightVideo .ft { border: 0px none; padding-top: 0px; }
+  #videoCount { margin: 0px 3px; font-family: Tahoma; }
+  .myVideoBox { position: absolute; bottom: 36px; left: 15px; width: 285px; border-bottom: 2px solid rgb(242, 242, 242); background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+  .myVideoBoxInner { width: 283px; border: 1px solid rgb(207, 220, 234); padding: 4px 0px; }
+  .myVideoBoxInner table { margin: 0px auto; width: 90%; }
+  .myVideoBoxInner td { font-size: 12px; height: 23px; text-align: left; vertical-align: middle; color: rgb(68, 68, 68); }
+  .myVideoBoxInner td p { height: 23px; line-height: 23px; text-align: left; overflow: hidden; }
+  .myVideoBoxInner td a { color: rgb(13, 81, 156); }
+  .myVideoIcon { width: 11px; height: 9px; overflow: hidden; background-position: -700px -230px; position: absolute; bottom: -8px; }
+  .rightCulture { height: 163px; overflow: hidden; }
+  .rightCulture .bd { width: 90px; height: 110px; padding: 6px 15px 0px; float: left; overflow: hidden; }
+  .rightCulture .bd .imgArea { width: 90px; height: 110px; float: left; overflow: hidden; }
+  .rightCulture .bd .imgArea img { width: 90px; height: 110px; }
+  .rightCulture .ft { width: 198px; padding-top: 9px; float: left; border: 0px none; }
+  .rightCulture .ft li { text-indent: 0px; height: 26px; line-height: 26px; overflow: hidden; }
+  .rightConstellation { width: 318px; height: 167px; position: relative; overflow: hidden; }
+  .rightConstellation .hd .constellationSelect { padding: 10px 16px 0px 0px; }
+  .rightConstellation .bd { width: 90px; height: 110px; padding: 12px 15px 0px; float: left; overflow: hidden; }
+  .rightConstellation .bd .imgArea { width: 90px; height: 110px; float: left; overflow: hidden; }
+  .rightConstellation .bd .imgArea img { width: 90px; height: 110px; }
+  .rightConstellation .ft { width: 198px; padding-top: 16px; float: left; border: 0px none; }
+  .rightConstellation .ft li { text-indent: 0px; height: 26px; line-height: 26px; overflow: hidden; }
+  .myConstellationBox { position: absolute; bottom: 44px; left: 10px; width: 285px; border-bottom: 2px solid rgb(242, 242, 242); background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+  .myConstellationBoxInner { width: 283px; border: 1px solid rgb(207, 220, 234); padding: 8px 0px; }
+  .myConstellationIcon { width: 11px; height: 9px; overflow: hidden; background-position: -700px -230px; position: absolute; bottom: -8px; }
+  #pronav { position: relative; border: 1px solid rgb(210, 225, 241); width: 278px; height: 226px; font-size: 14px; }
+  .rightProduct { width: 248px; padding-right: 30px; background: url("http://mat1.gtimg.com/www/images/qq2012/temp/productNavBg1.5.png") no-repeat scroll 248px top transparent; }
+  .rightProduct .productLine01 { width: 238px; padding-left: 10px; height: 26px; padding-top: 10px; }
+  .rightProduct .productLine02 { width: 238px; padding-left: 10px; height: 26px; padding-top: 11px; background: none repeat scroll 0% 0% rgb(245, 248, 252); }
+  .rightProduct .productLine03 { width: 238px; padding-left: 10px; height: 50px; padding-top: 8px; line-height: 22px; }
+  .rightProduct .productLine04 { width: 238px; padding-left: 10px; height: 48px; padding-top: 8px; line-height: 22px; background: none repeat scroll 0% 0% rgb(245, 248, 252); }
+  .rightProduct .productLine05 { width: 238px; padding-left: 10px; height: 29px; padding-top: 10px; }
+  .rightProduct div a { margin-right: 10px; }
+  .rightProduct div .qq { font-family: Tahoma,"微软雅黑","MicrosoftYahei","宋体"; }
+  .rightProduct div .proRed { color: rgb(238, 87, 56); }
+  .rightProduct .productFloatLayout { position: absolute; top: -1px; right: 279px; width: 14px; height: 228px; }
+  .rightProduct .productFloatLayout .productFloat { float: right; text-align: right; border-width: 1px 0px 1px 1px; border-style: solid none solid solid; border-color: rgb(210, 225, 241) -moz-use-text-color rgb(210, 225, 241) rgb(210, 225, 241); -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; width: 0px; height: 226px; overflow: hidden; display: none; }
+  .rightProduct .productFloatLayout .productFloat .productLine01 { padding-left: 0px; width: 350px; background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+  .rightProduct .productFloatLayout .productFloat .productLine02 { padding-left: 0px; width: 350px; }
+  .rightProduct .productFloatLayout .productFloat .productLine03 { padding-left: 0px; width: 350px; background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+  .rightProduct .productFloatLayout .productFloat .productLine04 { padding-left: 0px; width: 350px; }
+  .rightProduct .productFloatLayout .productFloat .productLine05 { padding-left: 0px; width: 350px; background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+  .rightProduct .productFloatLayout .productFloatBtn { float: right; width: 14px; height: 37px; overflow: hidden; margin-right: -1px; cursor: pointer; background: url("http://mat1.gtimg.com/www/images/qq2012/productNavBg1.4.png") no-repeat scroll right top transparent; }
+  .rightProduct .productFloatLayout .productFloatBtnHover { float: right; width: 14px; height: 37px; overflow: hidden; margin-right: -1px; cursor: pointer; background: url("http://mat1.gtimg.com/www/images/qq2012/productNavBg1.4.png") no-repeat scroll right -80px transparent; }
+  .rightProduct .productFloatLayout .productFloatBtnClicked { float: right; width: 14px; height: 37px; margin-right: -1px; cursor: pointer; background: url("http://mat1.gtimg.com/www/images/qq2012/productNavBg1.4.png") no-repeat scroll right bottom transparent; }
+  .qqDownloadBg { display: none; width: 148px; height: 97px; position: absolute; z-index: 20; top: 28px; left: -8px; background: url("http://mat1.gtimg.com/www/images/qq2012/qqDownloadBg.png") no-repeat scroll 0% 0% transparent; }
+  .qqDownload { display: none; width: 148px; height: 97px; position: absolute; z-index: 30; top: 28px; left: -8px; line-height: 29px; padding: 5px 0px 0px 28px; }
+  .qqDownload a { color: rgb(69, 143, 206); }
+  .qqDownload .qq { font-family: Tahoma,"宋体"; }
+  .rightZixuangu { position: relative; width: 278px; height: 189px; float: right; overflow: hidden; border: 1px solid rgb(210, 225, 241); }
+  .rightZixuangu .hd .financeSearch { float: right; display: inline; margin: 10px 14px 0px 0px; }
+  .rightZixuangu .hd .financeSearch input { border-width: 1px 0px 1px 1px; border-style: solid none solid solid; border-color: rgb(212, 212, 212) -moz-use-text-color rgb(212, 212, 212) rgb(212, 212, 212); -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; color: rgb(160, 160, 160); width: 103px; height: 19px; line-height: 19px; font-size: 12px; padding-left: 4px; float: left; }
+  .rightZixuangu .hd .financeSearch #search_btn { background-position: -600px -160px; border: 0px none; margin: 0px; padding: 0px; height: 21px; width: 35px; float: left; text-indent: -9999px; cursor: pointer; }
+  .rightZixuangu .bd { padding: 13px 0px 0px 14px; }
+  .rightZixuangu .financeTab { width: 100%; height: 22px; overflow: hidden; }
+  .rightZixuangu .financeTab li { float: left; width: 47px; height: 22px; line-height: 22px; text-align: center; border-right: 1px solid rgb(221, 231, 242); cursor: pointer; color: rgb(59, 99, 159); overflow: hidden; }
+  .rightZixuangu .financeTab li.selected { background: none repeat scroll 0% 0% rgb(69, 143, 206); color: rgb(255, 255, 255); }
+  .rightZixuangu .financeTab li a { color: rgb(59, 99, 159); }
+  .rightZixuangu .financeTab li.selected a { color: rgb(255, 255, 255); }
+  .rightZixuangu .financeTab li.selected a:hover { text-decoration: none; }
+  .rightZixuangu .financeContent { width: 100%; margin-top: 5px; }
+  .rightZixuangu .financeContent .imgArea { width: 145px; height: 70px; overflow: hidden; }
+  .rightZixuangu .financeContent .imgArea img { width: 143px; height: 68px; overflow: hidden; }
+  .rightZixuangu .financeContent .txtArea { width: 110px; padding: 1px 0px 0px 9px; }
+  .rightZixuangu .financeContent .txtArea dt { width: 132px; font-size: 12px; line-height: 14px; font-weight: normal; margin-top: 2px; overflow: hidden; }
+  .rightZixuangu .financeContent .txtArea dt a { color: rgb(55, 69, 98); }
+  .rightZixuangu .financeContent .txtArea dt a:hover { text-decoration: underline; color: rgb(205, 2, 0); }
+  .rightZixuangu .financeContent .txtArea dd { font: bold 20px/38px Tahoma; color: rgb(65, 169, 141); display: block; }
+  .rightZixuangu .financeContent .txtArea dd.s { font: 12px/14px Tahoma; }
+  .rightZixuangu .ft { width: 100%; }
+  .rightZixuangu .ft li { text-indent: 0px; color: rgb(157, 169, 180); }
+  .rightZixuangu .ft li .zixuangu { float: left; }
+  .rightZixuangu .myZhang { color: rgb(241, 78, 78); font-family: Arial; margin-left: 2px; }
+  .rightZixuangu .myDie { color: rgb(46, 157, 36); font-family: Arial; margin-left: 2px; }
+  .rightZixuangu .myPing { color: rgb(13, 81, 156); font-family: Arial; margin-left: 2px; }
+  .rightZixuangu .myFinanceBox { position: absolute; bottom: 38px; left: -1px; width: 280px; border-bottom: 2px solid rgb(242, 242, 242); background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+  .rightZixuangu .myFinanceBoxInner { width: 278px; border: 1px solid rgb(207, 220, 234); padding: 8px 0px; }
+  .rightZixuangu .myFinanceBox .myFinanceIcon { width: 11px; height: 9px; overflow: hidden; background-position: -700px -230px; position: absolute; bottom: -8px; }
+  .rightZixuangu .myFinanceBoxInner table { margin: 0px auto; width: 80%; }
+  .rightZixuangu .myFinanceBoxInner td { font-size: 12px; height: 21px; text-align: left; vertical-align: middle; }
+  .rightZixuangu .myFinanceBoxInner td a { color: rgb(13, 81, 156); }
+  .rightZixuanguRight .bd { width: 305px; }
+  .rightZixuanguRight .financeContent .txtArea { width: 117px; overflow: hidden; }
+  .rightZixuanguRight .ft { width: 305px; }
+  #mymsg a { color: rgb(45, 55, 75); }
+  #mymsg a .mymsg { color: rgb(59, 99, 159); }
+  #myz a { color: rgb(45, 55, 75); }
+  #myz a .myZhang { color: rgb(241, 78, 78); }
+  #myd a { color: rgb(45, 55, 75); }
+  #myd a .myDie { color: rgb(46, 157, 36); }
+  #myp a { color: rgb(45, 55, 75); }
+  #myp a .myPing { color: rgb(13, 81, 156); }
+  .rightXingzuoyunshi { width: 278px; height: 194px; float: right; border: 1px solid rgb(210, 225, 241); overflow: hidden; }
+  .rightXingzuoyunshi .bd { width: 240px; height: 50px; padding: 0px 19px; }
+  .rightXingzuoyunshi .bd .bdLeft { width: 50px; height: 50px; float: left; text-align: center; }
+  .rightXingzuoyunshi .bd .bdLeft .astroIcon { width: 50px; height: 50px; display: block; background: url("http://mat1.gtimg.com/www/images/qq2012/temp/astroIcon.png") no-repeat scroll left top transparent; }
+  .rightXingzuoyunshi .bd .bdRight { width: 180px; float: right; }
+  .rightXingzuoyunshi .bd .bdRight .yunshiLayout { width: 100%; float: left; margin-top: 6px; }
+  .rightXingzuoyunshi .bd .bdRight .yunshiLayout p { width: 65px; float: left; height: 18px; line-height: 18px; }
+  .rightXingzuoyunshi .bd .bdRight .yunshiLayout .yunshiBg { width: 80px; height: 13px; float: left; margin-top: 1px; background: url("http://mat1.gtimg.com/www/images/qq2012/temp/yunshi.png") no-repeat scroll left top transparent; }
+  .rightXingzuoyunshi .bd .bdRight .yunshiLayout .yunshiBg .yunshi { width: 80%; height: 13px; float: left; background: url("http://mat1.gtimg.com/www/images/qq2012/temp/yunshi.png") no-repeat scroll left bottom transparent; }
+  .rightXingzuoyunshi .ft { width: 240px; height: 85px; padding: 0px 19px; overflow: hidden; }
+  .rightXingzuoyunshi .ft p { width: 100%; font-size: 14px; height: 72px; line-height: 24px; color: rgb(50, 63, 90); overflow: hidden; }
+  .rightXingzuoyunshi .ft p a { color: rgb(59, 99, 159); }
+  .leftVideoNews { width: 310px; height: 397px; }
+  .leftVideoNews .hd { height: 32px; border-top: 1px solid rgb(200, 220, 242); background: url("http://mat1.gtimg.com/www/images/qq2012/temp/newsHd.png") repeat-x scroll center top transparent; }
+  .leftVideoNews .hd h2 { text-indent: 14px; }
+  .leftVideoNews .bd { width: 290px; padding: 12px 10px 7px; }
+  .leftVideoNews .bd .videoArea { width: 135px; }
+  .leftVideoNews .bd .videoArea img { width: 135px; height: 80px; float: left; }
+  .leftVideoNews .bd .videoArea p { width: 100%; height: 18px; line-height: 18px; float: left; text-align: center; margin-top: 5px; overflow: hidden; }
+  .leftVideoNews .ft { width: 310px; }
+  .leftView { width: 310px; height: 240px; overflow: hidden; }
+  .leftView .hd { height: 32px; border-top: 1px solid rgb(200, 220, 242); }
+  .leftView .ft { width: 100%; border: 0px none; padding-top: 5px; }
+  .leftView .ft h3 { text-align: center; width: 100%; height: 28px; line-height: 28px; float: left; font-size: 16px; overflow: hidden; }
+  .leftView .ft h3 a { color: rgb(59, 99, 159); }
+  .leftView .ft ul { width: 306px; }
+  .leftNews { width: 370px; height: 971px; overflow: hidden; position: relative; z-index: 2; }
+  .leftNews .diaocha { width: 370px; height: 30px; line-height: 30px; background: none repeat scroll 0% 0% rgb(255, 255, 255); font-size: 16px; position: absolute; left: 0px; bottom: 0px; z-index: 3; }
+  .leftNews .hd { height: 33px; }
+  .leftNews .hd #newsH2 { float: left; margin-top: 1px; line-height: 30px; }
+  .leftNews .hd .newsTab { float: left; height: 33px; overflow: hidden; margin-top: -1px; }
+  .leftNews .hd .newsTab h2 { float: left; color: rgb(8, 115, 192); font-weight: bold; width: auto; text-align: center; height: 30px; line-height: 28px; margin-top: 0px; padding: 3px 18px 0px; overflow: hidden; }
+  .leftNews .hd .newsTab h2#newsDifangH2 { background: url("http://mat1.gtimg.com/www/images/qq2012/tabBg04_0702.png") repeat-x scroll left top rgb(255, 255, 255); }
+  .leftNews .hd .newsTab h2.selected { width: auto; line-height: 32px; font-weight: bold; background: url("http://mat1.gtimg.com/www/images/qq2012/tabBg02_0702.png") repeat-x scroll 0% 0% transparent ! important; border-left: 1px solid rgb(255, 255, 255); border-right: 1px solid rgb(255, 255, 255); padding: 1px 17px 0px; }
+  .leftNews .hd .weather { float: right; color: rgb(102, 102, 102); padding: 8px 15px 2px 2px; height: 22px; position: relative; }
+  .weatherMoreProviceDefault, .weatherMoreCityDefault, .weatherMoreSet, .weatherMoreBtn .weatherMoreSubmit, .weatherMoreBtn .weatherMoreCancel, #weatherMoreNewsCheckbox { background-image: url("http://mat1.gtimg.com/www/images/qq2012/weather/weatherMoreBg.png"); background-repeat: no-repeat; }
+  .weatherMore { position: absolute; top: 31px; right: 0px; z-index: 10; width: 370px; height: 162px; background: none repeat scroll 0% 0% rgb(255, 255, 255); border-bottom: 10px solid rgb(255, 255, 255); display: none; }
+  .weather .weatherMore .face { background: none repeat scroll 0% 0% rgb(255, 255, 255); border: 1px solid rgb(209, 223, 234); position: absolute; width: 368px; height: 160px; top: 0px; left: 0px; }
+  .weather .weatherMore .front { z-index: 9; }
+  .weather .weatherMore .back { z-index: 8; }
+  .weather .weatherMoreFlipped .front { z-index: 8; }
+  .weather .weatherMoreFlipped .back { z-index: 9; }
+  .weatherMoreTitle { width: 348px; height: 32px; line-height: 26px; float: left; padding: 10px 10px 0px; }
+  .weatherMoreTitle .fl { font-size: 18px; color: rgb(45, 55, 75); }
+  .weatherMoreTitle .weatherMoreReset { float: right; color: rgb(140, 151, 168); }
+  .weatherMoreSelectLayout { width: 100%; float: left; padding: 5px 0px; }
+  .weatherMoreProviceLayout { width: 100px; height: 27px; float: left; position: relative; display: inline; margin-left: 20px; }
+  .weatherMoreProviceDefault { width: 100px; height: 27px; line-height: 27px; text-indent: 9px; cursor: pointer; color: rgb(45, 55, 75); background-position: left -100px; }
+  .weatherMoreProviceSelect { width: 98px; height: 156px; line-height: 26px; border: 1px solid rgb(198, 198, 198); position: absolute; z-index: 11; left: 0px; top: 26px; background: none repeat scroll 0% 0% rgb(255, 255, 255); overflow-x: hidden; overflow-y: auto; display: none; }
+  .weatherMoreProviceSelect ul { width: 80px; float: left; }
+  .weatherMoreProviceSelect li { width: 100%; float: left; height: 26px; line-height: 26px; background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+  .weatherMoreProviceSelect li a { width: 100%; float: left; height: 26px; line-height: 26px; display: block; color: rgb(45, 55, 75); text-indent: 8px; background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+  .weatherMoreProviceSelect li a:hover { background: none repeat scroll 0% 0% rgb(241, 241, 241); color: rgb(45, 55, 75); text-decoration: none; }
+  .weatherMoreCityLayout { width: 166px; height: 27px; float: left; position: relative; display: inline; margin-left: 14px; }
+  .weatherMoreCityDefault { width: 166px; height: 27px; line-height: 27px; text-indent: 9px; cursor: pointer; color: rgb(45, 55, 75); background-position: left -150px; }
+  .weatherMoreCitySelect { width: 164px; max-height: 156px; line-height: 26px; border: 1px solid rgb(198, 198, 198); position: absolute; z-index: 11; left: 0px; top: 26px; background: none repeat scroll 0% 0% rgb(255, 255, 255); overflow-x: hidden; overflow-y: auto; display: none; }
+  .weatherMoreCitySelect ul { width: 164px; float: left; }
+  .weatherMoreCitySelect li { width: 100%; float: left; height: 26px; line-height: 26px; }
+  .weatherMoreCitySelect li a { width: 100%; float: left; height: 26px; line-height: 26px; display: block; color: rgb(45, 55, 75); text-indent: 8px; }
+  .weatherMoreCitySelect li a:hover { background: none repeat scroll 0% 0% rgb(241, 241, 241); color: rgb(45, 55, 75); text-decoration: none; }
+  .weatherMoreNews { width: 100%; float: left; padding: 5px 0px; height: 21px; line-height: 21px; text-align: center; }
+  .weatherMoreNews input { font-size: 12px; cursor: pointer; vertical-align: middle; margin-top: -2px; margin-bottom: 1px; }
+  .weatherMoreNews label { cursor: pointer; }
+  #weatherMoreNewsCheckbox { padding-left: 20px; line-height: 20px; width: 110px; margin: 0px auto; cursor: pointer; background-position: left -246px; }
+  .weatherMoreNews .weatherMoreNewsYes { background-position: left -296px ! important; }
+  .weatherMoreBtn { width: 100%; float: left; padding: 5px 0px; text-align: center; }
+  .weatherMoreBtn input { width: 78px; height: 28px; line-height: 28px; text-align: center; border: 0px none; font-size: 12px; cursor: pointer; }
+  .weatherMoreBtn .weatherMoreSubmit { color: rgb(255, 255, 255); background-position: left top; }
+  .weatherMoreBtn .weatherMoreCancel { color: rgb(27, 27, 27); background-position: left -50px; }
+  .weatherMoreSet { width: 64px; height: 15px; float: right; cursor: pointer; margin-top: 2px; background: none repeat scroll 0% 0% transparent; }
+  .weatherMoreSet a { color: rgb(119, 147, 186); }
+  .weatherMoreAir { width: 344px; height: 26px; float: left; padding: 0px 12px; color: rgb(76, 108, 156); }
+  .weatherMoreFuture { width: 368px; height: 91px; float: left; border-top: 1px dotted rgb(228, 233, 240); background: none repeat scroll 0% 0% rgb(250, 251, 255); }
+  .weatherMoreFutureCon { width: 122px; float: left; border-right: 1px dotted rgb(195, 205, 217); margin-top: 10px; text-align: center; cursor: pointer; }
+  .weatherMoreFutureCon p { color: rgb(0, 0, 0); }
+  .weatherMoreFutureCon .weatherMoreMath { color: rgb(0, 0, 0); font-family: Arial; }
+  .weatherMoreFutureCon .weatherMoreMathLow { color: rgb(153, 153, 153); font-family: Arial; }
+  .weatherMoreFutureCon .weatherMoreSign { color: rgb(153, 153, 153); }
+  .weatherMoreFuture .noborder { border: 0px none; }
+  .weatherMoreIcon { width: 35px; height: 35px; margin: 0px auto; }
+  #weatherTemperature { width: 24px; margin-top: 1px; line-height: 16px; cursor: pointer; }
+  #weatherIcon { float: right; width: 16px; height: 16px; margin: 0px 8px; cursor: pointer; }
+  #ipWeather { margin-top: 1px; line-height: 16px; cursor: pointer; }
+  .leftNews .bd { padding-bottom: 0px; }
+  .leftNews .bd .imgArea { width: 115px; height: 70px; overflow: hidden; }
+  .leftNews .bd .imgArea img { width: 115px; height: 70px; }
+  .leftNews .bd .txtArea { width: 185px; }
+  .leftNews .bd .txtArea dt { font-weight: bold; height: 26px; overflow: hidden; }
+  .leftNews .bd .txtArea dd { color: rgb(102, 102, 102); height: 44px; overflow: hidden; }
+  .leftNews .ft { border: 0px none; padding-top: 1px; }
+  .leftNews .ft ul { width: 100%; float: left; margin-top: 5px; }
+  .leftNews .ft li strong a { color: rgb(59, 99, 159); }
+  .leftNews .ipNews { padding-top: 0px; }
+  .leftNews .ipNews ul { margin-top: 6px; }
+  #newsInfo .bd .txtArea { padding: 0px 9px; }
+  .rightAikan { width: 318px; height: 837px; float: right; background: none repeat scroll 0% 0% rgb(253, 255, 254); border: 1px solid rgb(210, 225, 241); position: relative; }
+  .rightAikan .aikanTitle { display: block; width: 70px; height: 20px; position: absolute; top: 6px; left: 10px; text-indent: -999px; overflow: hidden; }
+  .rightAikanTitle { width: 318px; height: 39px; background-position: left -110px; overflow: hidden; position: relative; }
+  .rightAikan .aikanLine { width: 1px; height: 306px; overflow: hidden; background-position: right -35px; position: absolute; top: -1px; left: -1px; z-index: 2; }
+  .rightAikan .aikanGreen { width: 7px; height: 8px; overflow: hidden; background-position: -800px -210px; position: absolute; top: 44px; left: -4px; z-index: 3; }
+  .rightAikan .aikanBlue { width: 7px; height: 8px; overflow: hidden; background-position: -800px -230px; position: absolute; left: -4px; z-index: 3; }
+  #dajiaikan1 { height: 251px; overflow: hidden; }
+  #dajiaikan2 { height: 268px; overflow: hidden; }
+  #dajiaikan3 { height: 268px; overflow: hidden; }
+  #aikanTab01 .hd { height: 21px; }
+  #aikanTimeBefore01 { margin-top: 0px; margin-left: 12px; }
+  #aikanTimeBefore02 { margin-left: 12px; }
+  #aikanTimeBefore03 { margin-left: 12px; }
+  #djakRefreshLayout { width: 12px; height: 12px; float: right; }
+  #aikanCon01 dt, #aikanCon02 dt, #aikanCon03 dt { width: 288px; padding: 0px 15px; }
+  #aikanCon01 dd, #aikanCon02 dd, #aikanCon03 dd { width: 288px; padding: 0px 15px; }
+  .mininav { width: 100%; height: 28px; background-color: rgb(253, 253, 253); background-position: left top; background-repeat: repeat-x; border-bottom: 1px solid rgb(235, 235, 235); position: fixed; z-index: 999; top: 0px; left: 0px; }
+  .mininavInner { width: 1000px; height: 28px; margin: 0px auto; }
+  .mininavInner a { color: rgb(102, 102, 102); }
+  .mininavInner a:hover { color: rgb(45, 55, 75); text-decoration: none; }
+  .mininavInner a.login { width: 70px; height: 28px; display: block; float: right; }
+  .mininavInner a.login:hover { background-position: -450px -160px; }
+  .mininavInner a.weiboLogin { width: 30px; height: 28px; display: block; float: right; }
+  .mininavInner a.weiboLogin:hover { background-position: -50px -250px; }
+  .mininavInner a.qzoneLogin { width: 30px; height: 28px; display: block; float: right; }
+  .mininavInner a.qzoneLogin:hover { background-position: -150px -250px; }
+  .mininavInner a.mailLogin { width: 30px; height: 28px; display: block; float: right; }
+  .mininavInner a.mailLogin:hover { background-position: -250px -250px; }
+  .mininavInner a.pengyouLogin { width: 28px; height: 28px; display: block; float: right; }
+  .mininavInner a.pengyouLogin:hover { background-position: -350px -250px; }
+  .mininavInner a.dingyueLogin { width: 32px; height: 28px; display: block; float: right; }
+  .mininavInner a.dingyueLogin:hover { background-position: right -549px; }
+  .mininavInner a.ilikeLogin { width: 32px; height: 28px; display: block; float: right; }
+  .mininavInner a.ilikeLogin:hover { background-position: right -549px; }
+  .mininavInner .mininavLeft { float: left; height: 28px; color: rgb(199, 199, 199); }
+  .mininavInner .mininavLeft .mobileIcon { margin-left: 3px; padding-left: 12px; background-position: left top; }
+  .mininavInner .mininavLeft .mobileIcon:hover { background-position: left -30px; }
+  .mininavInner .mininavLeft .wap { margin: 0px 10px 0px 2px; }
+  .mininavInner .mininavLeft .ipadIcon { margin: 0px 11px 0px 15px; padding-left: 13px; background-position: left -60px; }
+  .mininavInner .mininavLeft .ipadIcon:hover { background-position: left -90px; }
+  .mininavInner .mininavLeft .forIndex { margin: 0px 12px 0px 10px; }
+  .mininavInner .mininavLeft .qqMap { margin: 0px 10px 0px 6px; }
+  .mininavInner .mininavLeft .qqHelp { margin-left: 8px; padding-right: 11px; background-position: right -115px; }
+  .mininavInner .mininavLeft .helpHover { margin-left: 7px; padding-right: 11px; background-position: right -145px; }
+  #qqHelp { position: relative; width: 50px; height: 21px; padding-top: 8px; z-index: 10000; }
+  #qqHelp.qqHelpHover { width: 48px; border-left: 1px solid rgb(199, 199, 199); border-right: 1px solid rgb(199, 199, 199); }
+  #qqHelpContent { width: 82px; height: 155px; border-right: 1px solid rgb(199, 199, 199); border-width: 0px 1px 1px; border-style: none solid solid; border-color: -moz-use-text-color rgb(199, 199, 199) rgb(199, 199, 199); -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; background-color: rgb(255, 255, 255); background-position: -1px -430px; padding: 6px 0px; position: absolute; top: 28px; left: -1px; }
+  #qqHelpContent li { width: 82px; height: 26px; line-height: 26px; float: left; text-align: center; color: rgb(102, 102, 102); }
+  #qqHelpContent li a { width: 82px; height: 26px; line-height: 26px; text-align: center; display: block; color: rgb(102, 102, 102); }
+  #qqHelpContent li a:hover { background: none repeat scroll 0% 0% rgb(244, 248, 252); color: rgb(45, 55, 75); }
+  .mininavInner .mininavRight { float: right; color: rgb(199, 199, 199); line-height: 28px; }
+  .mininavInner .mininavRight a { color: rgb(102, 102, 102); }
+  .mininavInner .mininavRight .qqNameLayout { margin-right: 4px; }
+  .mininavInner .mininavRight .qqName { margin-right: 12px; color: rgb(102, 102, 102); float: left; }
+  .mininavInner .mininavRight .weibo { font-family: Tahoma,"宋体"; padding: 0px 7px; display: block; height: 28px; float: left; text-indent: 17px; }
+  .mininavInner .mininavRight .weibo:hover { color: rgb(255, 255, 255); background-color: rgb(69, 143, 206); }
+  .mininavInner .mininavRight .qzone { font-family: Tahoma,"宋体"; padding: 0px 7px; display: block; height: 28px; float: left; text-indent: 22px; }
+  .mininavInner .mininavRight .qzone:hover { color: rgb(255, 255, 255); background-color: rgb(69, 143, 206); }
+  .mininavInner .mininavRight .mail { font-family: Tahoma,"宋体"; padding: 0px 7px; display: block; height: 28px; float: left; text-indent: 19px; }
+  .mininavInner .mininavRight .mail:hover { color: rgb(255, 255, 255); background-color: rgb(69, 143, 206); }
+  .mininavInner .mininavRight .pengyou { font-family: Tahoma,"宋体"; padding: 0px 7px; display: block; height: 28px; float: left; text-indent: 20px; }
+  .mininavInner .mininavRight .pengyou:hover { color: rgb(255, 255, 255); background-color: rgb(69, 143, 206); }
+  .mininavInner .mininavRight .dingyue { font-family: Tahoma,"宋体"; padding: 0px 7px; display: block; height: 28px; float: left; text-indent: 20px; }
+  .mininavInner .mininavRight .dingyue:hover { color: rgb(255, 255, 255); background-color: rgb(69, 143, 206); }
+  .mininavInner .mininavRight .ilike { font-family: Tahoma,"宋体"; padding: 0px 7px; display: block; height: 28px; float: left; text-indent: 20px; }
+  .mininavInner .mininavRight .ilike:hover { color: rgb(255, 255, 255); background-color: rgb(69, 143, 206); }
+  .mininavInner .loginSmartBox { width: 120px; background: none repeat scroll 0% 0% rgb(255, 251, 239); position: absolute; top: 28px; z-index: 100; }
+  .mininavInner .loginSmartTop { width: 120px; height: 3px; overflow: hidden; background-position: -350px -210px; }
+  .mininavInner .loginSmartBottom { width: 120px; height: 3px; overflow: hidden; background-position: -350px -230px; }
+  .mininavInner .loginSmartContent { width: 118px; border-left: 1px solid rgb(241, 241, 241); border-right: 1px solid rgb(241, 241, 241); }
+  .mininavInner .loginSmartInner { width: 116px; border-left: 1px solid rgb(244, 217, 164); border-right: 1px solid rgb(244, 217, 164); }
+  .mininavInner .loginSmartInner ul { width: 100%; padding: 2px 0px; }
+  .mininavInner .loginSmartInner li { width: 100%; height: 20px; line-height: 20px; color: rgb(102, 102, 102); text-indent: 8px; }
+  .mininavInner .loginSmartInner li a { color: rgb(102, 102, 102); }
+  .mininavInner .loginSmartInner li a:hover span { color: rgb(205, 2, 0); }
+  .mininavInner .loginSmartInner li a span, .mininavInner .loginSmartInner li a:hover span { font-family: Tahoma; }
+  #dingyueIcon { position: relative; }
+  #ilikeIcon { position: relative; }
+  #mailIcon { position: relative; }
+  #qzoneIcon { position: relative; }
+  #weiboIcon { position: relative; }
+  #loginOut:hover { text-decoration: underline; color: rgb(205, 2, 0); }
+  #newGuide01 a:hover { color: rgb(205, 2, 0); }
+  #newGuide02 a:hover { color: rgb(205, 2, 0); }
+  .picFocus { width: 1000px; height: 184px; border-top: 1px solid rgb(109, 170, 234); overflow: hidden; position: relative; }
+  .picFocus .hd { width: 100%; height: 31px; float: left; }
+  .picFocus .hd h2 { float: left; color: rgb(8, 115, 192); font-size: 14px; margin-top: 6px; text-indent: 5px; }
+  .picFocus .hd h2 a { color: rgb(8, 115, 192); }
+  .picFocus .hd .btn { float: right; padding: 17px 7px 0px 0px; }
+  .picFocus .hd .btn div { cursor: pointer; width: 6px; height: 6px; margin-right: 5px; display: inline; overflow: hidden; float: left; background: url("http://mat1.gtimg.com/www/images/qq2012/temp/picFocusDefault.png") no-repeat scroll 0% 0% transparent; }
+  .picFocus .hd .btn .current { width: 6px; height: 6px; overflow: hidden; float: left; background: url("http://mat1.gtimg.com/www/images/qq2012/temp/picFocusCurrent.png") no-repeat scroll 0% 0% transparent; }
+  .picFocus .bd { width: 1000px; height: 144px; float: left; display: inline; margin-top: 9px; position: relative; overflow: hidden; }
+  .picFocus .bd ul { width: 3024px; position: absolute; top: 0px; left: 0px; overflow: hidden; }
+  .picFocus .bd li { float: left; width: 160px; padding-right: 8px; }
+  .picFocus .bd li img { width: 160px; height: 100px; display: block; overflow: hidden; }
+  .picFocus .bd li a:hover { background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+  .picFocus .bd li p { width: 100%; height: 20px; margin-top: 8px; text-align: center; overflow: hidden; }
+  .picFocus .bd li p a { color: rgb(45, 55, 75); }
+  .picFocus .bd li p a:hover { color: rgb(205, 2, 0); }
+  .picFocus .bd .prev { opacity: 0.7; width: 40px; height: 40px; background: url("http://mat1.gtimg.com/www/images/qq2012/focusBtnLeftHover2.png") no-repeat scroll 0% 0% transparent; position: absolute; top: 34px; left: 0px; cursor: pointer; overflow: hidden; }
+  .picFocus .bd #visualup.default { background: url("http://mat1.gtimg.com/www/images/qq2012/focusBtnLeftDefault.png") no-repeat scroll 0% 0% transparent; }
+  .picFocus .bd .prev:hover { opacity: 0.8; background: url("http://mat1.gtimg.com/www/images/qq2012/focusBtnLeftHover2.png") no-repeat scroll 0% 0% transparent; }
+  .picFocus .bd .next { opacity: 0.7; width: 40px; height: 40px; background: url("http://mat1.gtimg.com/www/images/qq2012/focusBtnRightHover2.png") no-repeat scroll 0% 0% transparent; position: absolute; top: 34px; right: 0px; cursor: pointer; overflow: hidden; }
+  .picFocus .bd #visualdown.default { background: url("http://mat1.gtimg.com/www/images/qq2012/focusBtnRightDefault.png") no-repeat scroll 0% 0% transparent; }
+  .picFocus .bd .next:hover { opacity: 0.8; background: url("http://mat1.gtimg.com/www/images/qq2012/focusBtnRightHover2.png") no-repeat scroll 0% 0% transparent; }
+  .txDynamic { height: 208px; overflow: hidden; }
+  .txDynamic .hd { width: 305px; padding: 8px 15px 7px 0px; float: left; }
+  .txDynamic .hd h2 { color: rgb(8, 115, 192); font-size: 14px; float: left; text-indent: 5px; }
+  .txDynamic .hd h2 a { color: rgb(8, 115, 192); }
+  .txDynamic .hd .more { color: rgb(45, 55, 75); float: right; margin-top: 2px; }
+  .txDynamic .bd { width: 310px; padding: 3px 10px 9px 0px; float: left; }
+  .txDynamic .bd li { width: 100%; height: 26px; line-height: 26px; font-size: 14px; overflow: hidden; }
+  .txDynamic .ft { width: 318px; padding: 9px 0px; background-position: -397px center; }
+  .txDynamic .ft ul { width: 286px; padding: 0px 16px; }
+  .txDynamic .ft li { width: 100%; height: 22px; line-height: 22px; overflow: hidden; }
+  .footernew { color: rgb(81, 81, 81); font-size: 12px; height: 100px; line-height: 24px; margin: 12px auto 0px; overflow: hidden; text-align: center; width: 1000px; }
+  .footheight { height: 70px; overflow: hidden; }
+  .footernew a { color: rgb(81, 81, 81); text-decoration: none; }
+  .footernew a.lchot { color: rgb(189, 10, 1); }
+  .footernew a:hover { color: rgb(189, 10, 1); text-decoration: underline; }
+  .footernew a:visited { color: rgb(81, 81, 81); }
+  .footernew div { margin: 0px auto; width: 546px; }
+  .footernew p { border: 1px solid rgb(210, 210, 210); float: left; font-size: 12px; height: 50px; line-height: 20px; margin: 6px; padding: 0px; width: 120px; overflow: hidden; }
+  .footernew .fl { float: left; padding: 3px; }
+  .footernew .fr { float: right; padding: 5px 3px 0px; width: 72px; }
+  #fankui { width: 54px; height: 54px; display: block; position: fixed; right: 25px; bottom: 163px; background: url("http://mat1.gtimg.com/www/images/qq2012/temp/fankuiIcon.png") no-repeat scroll 0% 0% transparent; opacity: 0.3; }
+  #fankui:hover { opacity: 1; }
+  #homeSet { width: 54px; height: 54px; display: block; position: fixed; right: 25px; bottom: 104px; background: url("http://mat1.gtimg.com/www/images/qq2012/temp/sethome.png") no-repeat scroll 0% 0% transparent; opacity: 0.3; }
+  #homeSet:hover { opacity: 1; }
+  #toTop { width: 54px; height: 54px; display: block; position: fixed; right: 25px; bottom: 45px; background-position: -700px -110px; opacity: 0.3; }
+  #toTop:hover { opacity: 1; }
+  .layoutBg { width: 100%; height: 4250px; position: absolute; top: 0px; left: 0px; z-index: 8888; display: none; background: url("http://mat1.gtimg.com/www/images/qq2012/alphabg.png") repeat scroll 0% 0% transparent; }
+  .adLeft { width: 660px; float: left; }
+  .adLeft700 { width: 700px; float: left; }
+  .adRight { width: 320px; float: right; }
+  .adRight280 { width: 280px; float: right; }
+  .tico { padding-left: 14px; background-position: left -244px; }
+  .vico { padding-left: 20px; background-position: left -274px; }
+  .picico { padding-left: 20px; background-position: left -304px; }
+  .zhiboico { padding: 1px 0px 1px 33px; background-position: left -335px; }
+  .audioico { padding-left: 20px; background: url("http://mat1.gtimg.com/www/images/qq2012/audioico.png") no-repeat scroll left 1px transparent; }
+  .mininavInner a.login, .mininavInner a.login:hover, .mininavInner a.weiboLogin, .mininavInner a.weiboLogin:hover, .mininavInner a.qzoneLogin, .mininavInner a.qzoneLogin:hover, .mininavInner a.mailLogin, .mininavInner a.mailLogin:hover, .mininavInner a.pengyouLogin, .mininavInner a.pengyouLogin:hover, .mininavInner a.dingyueLogin, .mininavInner a.dingyueLogin:hover, .mininavInner .mininavRight .weibo, .mininavInner .mininavRight .weibo:hover, .mininavInner .mininavRight .qzone, .mininavInner .mininavRight .qzone:hover, .mininavInner .mininavRight .mail, .mininavInner .mininavRight .mail:hover, .mininavInner .mininavRight .pengyou, .mininavInner .mininavRight .pengyou:hover, .mininavInner .mininavRight .dingyue, .mininavInner .mininavRight .dingyue:hover, .mininavInner a.ilikeLogin, .mininavInner a.ilikeLogin:hover, .mininavInner .mininavRight .ilike, .mininavInner .mininavRight .ilike:hover { background-image: url("http://mat1.gtimg.com/www/images/qq2012/loginall_1.5.1.png"); background-repeat: no-repeat; }
+  .mininavInner a.login { background-position: left -450px; }
+  .mininavInner a.login:hover { background-position: left -500px; }
+  .mininavInner a.weiboLogin { background-position: left -50px; }
+  .mininavInner a.weiboLogin:hover { background-position: right -50px; }
+  .mininavInner a.qzoneLogin { background-position: left -100px; }
+  .mininavInner a.qzoneLogin:hover { background-position: right -100px; }
+  .mininavInner a.mailLogin { background-position: left -150px; }
+  .mininavInner a.mailLogin:hover { background-position: right -150px; }
+  .mininavInner a.pengyouLogin { background-position: left -200px; }
+  .mininavInner a.pengyouLogin:hover { background-position: right -200px; }
+  .mininavInner a.dingyueLogin { background-position: left -549px; }
+  .mininavInner a.dingyueLogin:hover { background-position: right -549px; }
+  .mininavInner a.ilikeLogin { background-position: 7px -645px; }
+  .mininavInner a.ilikeLogin:hover { background-position: -76px -645px; }
+  .mininavInner .mininavRight .weibo { background-position: 7px -244px; }
+  .mininavInner .mininavRight .weibo:hover { background-position: -79px -244px; }
+  .mininavInner .mininavRight .qzone { background-position: 7px -294px; }
+  .mininavInner .mininavRight .qzone:hover { background-position: -74px -294px; }
+  .mininavInner .mininavRight .mail { background-position: 7px -342px; }
+  .mininavInner .mininavRight .mail:hover { background-position: -77px -342px; }
+  .mininavInner .mininavRight .pengyou { background-position: 7px -394px; }
+  .mininavInner .mininavRight .pengyou:hover { background-position: -76px -594px; }
+  .mininavInner .mininavRight .dingyue { background-position: 7px -592px; }
+  .mininavInner .mininavRight .dingyue:hover { background-position: -76px -592px; }
+  .mininavInner .mininavRight .ilike { background-position: -77px -645px; }
+  .mininavInner .mininavRight .ilike:hover { background-position: -69px -700px; }
+  .tuangouDl dt { line-height: 24px ! important; height: 48px ! important; }
+  .tuangouDl dd { line-height: 24px ! important; height: 24px ! important; margin-top: 2px; }
+  .adRight .adScroll .jubaoLink { width: 280px; height: 75px; display: block; background: url("http://mat1.gtimg.com/www/images/qq2012/jubaoBgBlue.png") no-repeat scroll center center transparent; }
+  .adRight .adScroll .jbBox { width: 280px; height: 75px; display: block; background: url("http://mat1.gtimg.com/www/images/qq2012/bkysp20140623.png") no-repeat scroll center center transparent; position: relative; }
+  .adRight .adScroll .jbBox .linkA { width: 150px; height: 75px; display: block; position: absolute; left: 0px; top: 0px; }
+  .adRight .adScroll .jbBox .linkB { width: 130px; height: 75px; display: block; position: absolute; left: 150px; top: 0px; }
+  .adRight .adScroll .jbBox a:focus { outline: medium none; }
+  .leftDajiaaikan { width: 310px; height: 333px; }
+  .leftDajiaaikan .hd { height: 33px; border-top: 1px solid rgb(200, 220, 242); position: relative; }
+  .adRight .adScroll .gyBox { background: url("http://mat1.gtimg.com/www/images/qq2012/shzyhxjzg141011.png") no-repeat scroll 0% 0% transparent; display: block; height: 75px; width: 280px; }
+  .leftDajiaaikan .hd .more { width: 13px; height: 12px; display: block; background-position: -60px -260px; position: absolute; top: 10px; right: 10px; }
+  .leftDajiaaikan .hd .more:hover { background-position: -90px -260px; }
+  .leftDajiaaikan .hd .djakRefreshBtn { width: 12px; height: 12px; display: block; background: url("http://mat1.gtimg.com/www/images/qq2012/qqbg_1.5.5.png") no-repeat scroll left -260px transparent; position: absolute; top: 10px; right: 33px; }
+  .leftDajiaaikan .hd .djakRefreshBtn:hover { background: url("http://mat1.gtimg.com/www/images/qq2012/qqbg_1.5.5.png") no-repeat scroll -30px -260px transparent; }
+  .leftDajiaaikan .hd .aikanloading { position: absolute; top: 10px; right: 33px; }
+  .leftDajiaaikan .bd { width: 100%; float: left; padding: 8px 0px; }
+  .leftDajiaaikan .bd .imgArea { width: 108px; height: 72px; float: left; }
+  .leftDajiaaikan .bd .imgArea img { width: 108px; height: 72px; float: left; }
+  .leftDajiaaikan .bd .txtArea { width: 172px; padding-top: 0px; }
+  .leftDajiaaikan .bd .txtArea dl { width: 100%; float: left; }
+  .leftDajiaaikan .bd .txtArea dt { float: left; font-weight: bold; line-height: 22px; }
+  .leftDajiaaikan .bd .txtArea dd { float: left; margin-top: 6px; color: rgb(178, 178, 178); display: block; }
+  .leftDajiaaikan .bd .txtArea dd .times { color: rgb(102, 102, 102); margin-right: 12px; }
+  .leftDajiaaikan .bd .txtArea dd a { color: rgb(45, 55, 75); }
+  .leftDajiaaikan .ft { width: 100%; float: left; }
+  .leftDajiaaikan .ft li { height: 26px; line-height: 26px; text-indent: 0px; background: none repeat scroll 0% 0% transparent; }
+  #qq-tabs5 { position: relative; background: url("http://mat1.gtimg.com/www/images/qq2012/tabBg01_0702.png") no-repeat scroll 0px 0px transparent; border-top: 0px none; overflow: hidden; }
+  #qq-tabs5 #jrrb { position: absolute; top: 0px; left: 0px; }
+  #qq-tabs5 #yszy { position: absolute; top: 0px; left: 85px; }
+  #qq-tabs5 #hsysp { position: absolute; top: 0px; left: 170px; }
+  #qq-tabs5 a { display: block; color: rgb(8, 115, 192); text-indent: 0px; font-weight: bold; font-size: 14px; width: 85px; margin: 0px 0px 0px -1px; padding-top: 9px; height: 21px; line-height: 16px; text-align: center; z-index: 2; }
+  #qq-tabs5 a.selected { display: block; width: 83px; color: rgb(8, 115, 192); font-weight: bold; background: url("http://mat1.gtimg.com/www/images/qq2012/tabBg02_0702.png") no-repeat scroll 0% 0% transparent; z-index: 3; border-left: 1px solid rgb(255, 255, 255); border-right: 1px solid rgb(255, 255, 255); }
+  .myNewsLoginLayout { width: 100%; float: left; margin-top: 12px; text-align: center; font-size: 14px; color: rgb(153, 153, 153); }
+  .myNewsLoginLayout .myNewsLogin { color: rgb(238, 87, 56); }
+  .myNewsLoginLayout .more { padding-right: 16px; background: url("http://mat1.gtimg.com/www/images/qq2012/myNewsMore.png") no-repeat scroll right center transparent; }
+  .myNewsLoginLayout a { color: rgb(59, 99, 159); }
+  .myNewsLoginLayoutB { width: 315px; height: 27px; line-height: 27px; margin-top: 6px; float: left; text-align: center; text-indent: -15px; font-size: 12px; color: rgb(221, 147, 58); background: url("http://mat1.gtimg.com/www/images/qq2012/mynewsUpdateBg2.png") no-repeat scroll 0% 0% transparent; display: none; }
+  .myNewsLoginLayoutB a { color: rgb(221, 147, 58); display: block; width: 100%; height: 27px; }
+  .myNewsLoginLayoutB .more { background: none repeat scroll 0% 0% transparent; }
+  #newsInfoQuanguo { overflow: hidden; }
+  #newsInfoQuanguo .ft { width: 100%; }
+  #newsInfoQuanguo .ft ul { overflow: hidden; }
+  #newsInfoQuanguo .ft ul li { width: 100%; text-indent: 0px; font-size: 16px; height: 30px; line-height: 30px; background: none repeat scroll 0% 0% transparent; }
+  #newsInfoQuanguo .ft ul li .qm_i_1 { background-position: left 0px; }
+  #newsInfoQuanguo .ft ul li .qm_i_2 { background-position: left -48px; }
+  #newsInfoQuanguo .ft ul li .qm_i_3 { background-position: left -98px; }
+  #newsInfoQuanguo .ft ul li .qm_i_4 { background-position: left -151px; padding: 0px 0px 0px 31px; }
+  #newsInfoQuanguo .ft .newsMoreBtn { width: 350px; height: 22px; overflow: hidden; text-align: center; font-size: 12px; color: rgb(97, 134, 181); margin-top: 4px; display: none; line-height: 22px; }
+  #newsInfoQuanguo .ft .newsMoreBtn a { background: none repeat scroll 0% 0% rgb(245, 248, 252); border: 1px solid rgb(234, 241, 250); color: rgb(97, 134, 181); display: block; width: 348px; height: 20px; line-height: 20px; }
+  #newsInfoQuanguo .ft .newsMoreBtn a:hover { background: none repeat scroll 0% 0% rgb(240, 245, 252); border: 1px solid rgb(225, 234, 247); color: rgb(76, 110, 163); }
+  #newsInfoQuanguo .ft .newsMoreBtn2 { width: 370px; height: 22px; line-height: 22px; text-align: center; color: rgb(59, 99, 159); font-size: 14px; margin-top: 4px; display: none; }
+  #newsInfoQuanguo .ft .newsMoreBtn2 a { color: rgb(59, 99, 159); padding-right: 15px; background: url("http://mat1.gtimg.com/www/images/qq2012/temp/newsMoreBtn2.png") no-repeat scroll right center transparent; }
+  #newsInfoQuanguo .ft .newsMoreBtn3 { width: 370px; height: 22px; line-height: 22px; text-align: center; color: rgb(122, 148, 181); font-size: 14px; margin-top: 4px; display: none; }
+  #newsInfoQuanguo .ft .newsMoreBtn3 a { color: rgb(122, 148, 181); }
+  #newsInfoQuanguo .ft .newsContent { width: 100%; }
+  #newsInfoQuanguo .ft .newsContent .imgArea { width: 108px; height: 70px; float: left; padding: 0px; margin-top: 17px; overflow: hidden; }
+  #newsInfoQuanguo .ft .newsContent .imgArea img { width: 108px; height: 70px; float: left; }
+  #newsInfoQuanguo .ft .newsContent .txtArea { width: 228px; height: 70px; line-height: 30px; float: right; padding: 0px 22px 0px 0px; margin-top: 17px; overflow: hidden; }
+  #newsInfoQuanguo .ft .newsContent h3 { width: 100%; height: 70px; line-height: 30px; font-size: 16px; font-weight: bold; float: left; color: rgb(59, 99, 159); }
+  #newsInfoQuanguo .ft .newsContent h3 a { color: rgb(59, 99, 159); }
+  #newsContent04, #newsContent05 { display: none; }
+  #myNews ul li { width: 329px; padding-left: 11px; text-indent: 0px; }
+  #newsInfo .newsContent { width: 100%; float: left; }
+  #newsInfo .newsContent .imgArea { width: 108px; height: 70px; float: left; padding: 0px; margin-top: 17px; overflow: hidden; }
+  #newsInfo .newsContent .imgArea img { width: 108px; height: 70px; float: left; }
+  #newsInfo .newsContent .txtArea { width: 228px; height: 70px; line-height: 30px; float: right; padding: 0px 22px 0px 0px; margin-top: 17px; overflow: hidden; }
+  #newsInfo .newsContent h3 { width: 100%; height: 70px; line-height: 30px; font-size: 16px; font-weight: bold; float: left; color: rgb(59, 99, 159); }
+  #newsInfo .newsContent h3 a { color: rgb(59, 99, 159); }
+  #newsInfo .newsContent ul { width: 100%; float: left; margin-top: 5px; overflow: hidden; }
+  #newsInfo .newsContent ul li { width: 100%; text-indent: 0px; font-size: 16px; height: 30px; line-height: 30px; background: none repeat scroll 0% 0% transparent; }
+  #ilikeSmart { width: 244px; }
+  #ilikeSmart dl { width: 100%; float: left; line-height: 18px; display: none; }
+  #ilikeSmart dl dt { width: 40px; float: left; color: rgb(63, 160, 221); margin-top: 8px; }
+  #ilikeSmart dl dt a { color: rgb(63, 160, 221); }
+  #ilikeSmart dl dd { width: 172px; float: right; color: rgb(102, 102, 102); margin-top: 8px; }
+  #ilikeSmart dl dd a { color: rgb(102, 102, 102); }
+  #ilikeSmart dl dd a:hover { color: rgb(205, 2, 0); }
+  #ilikeSmart .loginSmartTop { width: 244px; float: left; background: url("http://mat1.gtimg.com/www/images/qq2012/ilikeSmartBg.png") no-repeat scroll left top transparent; }
+  #ilikeSmart .loginSmartContent { width: 212px; border: 0px none; padding: 0px 20px 8px 12px; float: left; background: url("http://mat1.gtimg.com/www/images/qq2012/ilikeSmartBg.png") no-repeat scroll left -15px transparent; }
+  #ilikeSmart .loginSmartContent .loginSmartInner { width: 100%; border: 0px none; }
+  #ilikeSmart .loginSmartContent .loginSmartInner li { text-indent: 0px; margin-top: 6px; }
+  #ilikeSmart .loginSmartBottom { width: 244px; background: url("http://mat1.gtimg.com/www/images/qq2012/ilikeSmartBg.png") no-repeat scroll left bottom transparent; }
+  .navBeta { width: 987px; height: 57px; padding: 8px 5px 0px 8px; line-height: 22px; font-size: 14px; margin: 0px auto; background: url("http://mat1.gtimg.com/www/images/qq2012/chanelNavBeta2.jpg") no-repeat scroll 0% 0% transparent; position: relative; z-index: 18; }
+  .navBeta .navBetaInner { width: 987px; height: 57px; margin: 0px; padding: 0px; overflow: hidden; }
+  .navBeta a { color: rgb(255, 255, 255); padding: 3px; margin: 0px 4px 0px 3px; }
+  .navBeta a:hover { text-decoration: none; color: rgb(13, 81, 156); background: none repeat scroll 0% 0% rgb(202, 225, 238); }
+  .navBeta div { float: left; padding: 0px 6px 0px 15px; width: 126px; height: 25px; text-align: left; }
+  .navBeta .navMoreLayout { width: 51px; display: inline; padding: 0px; margin: -32px 0px 0px 926px; position: relative; }
+  .navBeta .navMore { position: absolute; top: 0px; right: 0px; width: 51px; padding: 0px; text-indent: 8px; color: rgb(255, 255, 255); background: url("http://mat1.gtimg.com/www/images/qq2012/temp/navMoreDown.png") no-repeat scroll 39px 10px transparent; }
+  .navBeta .navMoreHover { background: url("http://mat1.gtimg.com/www/images/qq2012/temp/navMoreUp.png") no-repeat scroll 39px 10px rgb(70, 159, 225); }
+  .navBeta .navMore ul { width: 51px; float: left; padding-bottom: 5px; background: none repeat scroll 0% 0% rgb(70, 159, 225); display: none; }
+  .navBeta .navMore li { width: 51px; height: 24px; line-height: 24px; }
+  .navBeta .navMore li a { width: 51px; height: 24px; line-height: 24px; display: block; color: rgb(255, 255, 255); background: none repeat scroll 0% 0% rgb(70, 159, 225); margin: 0px; padding: 0px; }
+  .navBeta .navMore li a:hover { color: rgb(13, 81, 156); background: none repeat scroll 0% 0% rgb(205, 234, 255); }
+  .navBeta a.Q-yellow { color: rgb(255, 204, 0); }
+  .navBeta a.Q-yellow:hover { color: rgb(13, 81, 156); }
+  .navBeta a.N-yellow { color: rgb(252, 255, 0); }
+  .navBeta a.N-yellow:hover { color: rgb(13, 81, 156); }
+  .loginGray { padding-top: 5px; }
+  .loginGray a.login, .loginGray a.login:hover, .loginGray a.weiboLogin, .loginGray a.weiboLogin:hover, .loginGray a.qzoneLogin, .loginGray a.qzoneLogin:hover, .loginGray a.mailLogin, .loginGray a.mailLogin:hover, .loginGray a.pengyouLogin, .loginGray a.pengyouLogin:hover, .loginGray a.dingyueLogin, .loginGray a.dingyueLogin:hover, .loginGray .weibo, .loginGray .weibo:hover, .loginGray .qzone, .loginGray .qzone:hover, .loginGray .mail, .loginGray .mail:hover, .loginGray .pengyou, .loginGray .pengyou:hover, .loginGray .dingyue, .loginGray .dingyue:hover, .loginGray a.ilikeLogin, .loginGray a.ilikeLogin:hover, .loginGray .ilike, .loginGray .ilike:hover { background-image: url("http://mat1.gtimg.com/www/images/qq2012/loginGrayIcon.png"); background-repeat: no-repeat; }
+  .loginGray .loginGraySmartTop { background-image: url("http://mat1.gtimg.com/www/images/qq2012/qqbg_1.6.1.png"); background-repeat: no-repeat; }
+  .loginGray .login { display: block; width: 35px; height: 35px; border: 1px solid rgb(237, 237, 237); float: left; background-position: -155px -1px; }
+  .loginGray .login:hover { border: 1px solid rgb(196, 219, 237); }
+  .loginGray .logined { display: block; width: 35px; height: 35px; border: 1px solid rgb(237, 237, 237); float: left; }
+  .loginGray .logined img { width: 33px; height: 33px; margin: 1px; }
+  .loginGray .weibo { display: block; width: 17px; height: 24px; float: left; text-indent: 17px; background-position: left -7px; }
+  .loginGray .weibo:hover { color: rgb(255, 255, 255); background-color: rgb(69, 143, 206); background-position: left -48px; }
+  .loginGray .qzone { display: block; width: 25px; height: 24px; float: left; text-indent: 22px; background-position: -33px -7px; }
+  .loginGray .qzone:hover { color: rgb(255, 255, 255); background-color: rgb(69, 143, 206); background-position: -33px -48px; }
+  .loginGray .mail { display: block; width: 21px; height: 24px; float: left; text-indent: 19px; background-position: -73px -7px; }
+  .loginGray .mail:hover { color: rgb(255, 255, 255); background-color: rgb(69, 143, 206); background-position: -73px -48px; }
+  .loginGray .dingyue { display: block; width: 22px; height: 24px; float: left; text-indent: 20px; background-position: -111px -7px; }
+  .loginGray .dingyue:hover { color: rgb(255, 255, 255); background-color: rgb(69, 143, 206); background-position: -111px -48px; }
+  .loginGray .ilike { padding: 0px 7px; display: block; height: 24px; float: left; text-indent: 20px; background-position: left -7px; }
+  .loginGray .ilike:hover { color: rgb(255, 255, 255); background-color: rgb(69, 143, 206); }
+  .loginGray .loginGraySmartBox { width: 131px; background: none repeat scroll 0% 0% rgb(255, 255, 255); position: absolute; top: 37px; z-index: 100; }
+  .loginGray .loginGraySmartTop { width: 131px; height: 11px; background: url("http://mat1.gtimg.com/www/images/qq2012/loginGrayTop.png") no-repeat scroll 60px top transparent; position: absolute; left: 0px; z-index: 202; }
+  .loginGray .loginGraySmartContent { width: 129px; border: 1px solid rgb(194, 194, 194); background: none repeat scroll 0% 0% rgb(255, 255, 255); position: absolute; top: 10px; z-index: 201; }
+  .loginGray .loginGraySmartInner { width: 115px; padding: 0px 7px; }
+  .loginGray .loginGraySmartInner ul { width: 100%; padding: 2px 0px; }
+  .loginGray .loginGraySmartInner li { width: 100%; height: 33px; line-height: 33px; color: rgb(102, 102, 102); border-top: 1px dashed rgb(221, 221, 221); text-indent: 7px; }
+  .loginGray .loginGraySmartInner li a { color: rgb(102, 102, 102); }
+  .loginGray .loginGraySmartInner li a:hover { text-decoration: none; }
+  .loginGray .loginGraySmartInner li a:hover span { color: rgb(205, 2, 0); }
+  .loginGray .loginGraySmartInner li a.txtLeft { width: 55px; float: left; text-align: right; }
+  .loginGray .loginGraySmartInner li a.txtLeft:hover { color: rgb(102, 102, 102); }
+  .loginGray .loginGraySmartInner li a .txtRight { width: 40px; float: right; padding-right: 15px; text-align: right; color: rgb(227, 100, 100); font-family: Tahoma; }
+  .loginGray .loginGraySmartInner li a:hover .txtRight { font-weight: bold; }
+  .loginGray .weiboGrayNum, .loginGray .qzoneGrayNum, .loginGray .mailGrayNum, .loginGray .dingyueGrayNum { position: absolute; width: 16px; height: 14px; line-height: 14px; background: url("http://mat1.gtimg.com/www/images/qq2012/loginNumBg.png") no-repeat scroll 0% 0% transparent; text-align: center; display: none; }
+  .loginGray .weiboGrayNum div, .loginGray .qzoneGrayNum div, .loginGray .mailGrayNum div, .loginGray .dingyueGrayNum div { font-family: Tahoma; font-size: 8px; color: rgb(255, 255, 255); }
+  .loginGray .weiboGrayNum { top: 4px; right: -1px; }
+  .loginGray .qzoneGrayNum { top: 4px; right: 2px; }
+  .loginGray .mailGrayNum { top: 4px; right: 1px; }
+  .loginGray .dingyueGrayNum { top: 4px; right: 1px; }
+  .loginGray .userVipHead { display: none; width: 14px; height: 16px; background: url("http://mat1.gtimg.com/news/dc/images/Member.png") no-repeat scroll 0% 0% transparent; position: absolute; right: 2px; bottom: 2px; }
+  .loginGray .userVip { display: none; padding: 1px 0px 1px 18px; background: url("http://mat1.gtimg.com/news/dc/images/Member.png") no-repeat scroll 0% 0% transparent; }
+  #loginGrayIcon, #loginGrayIconLogin { position: relative; margin: 0px 8px; z-index: 200; }
+  #dingyueGrayIcon, #dingyueGrayIconLogin { position: relative; padding: 7px 8px 6px; z-index: 200; }
+  #ilikeGrayIcon, #ilikeGrayIconLogin { position: relative; padding: 7px 8px 6px; z-index: 200; }
+  #mailGrayIcon, #mailGrayIconLogin { position: relative; padding: 7px 8px 6px; z-index: 200; }
+  #qzoneGrayIcon, #qzoneGrayIconLogin { position: relative; padding: 7px 8px 6px; z-index: 200; }
+  #weiboGrayIcon, #weiboGrayIconLogin { position: relative; padding: 7px 8px 6px; z-index: 200; }
+  #loginOut:hover { text-decoration: underline; color: rgb(205, 2, 0); }
+  #loginGrayTitle { border-top: 0px none; color: rgb(33, 107, 170); overflow: hidden; }
+  #loginGrayTitle a { color: rgb(33, 107, 170); }
+  #loginGrayTitle a:hover { color: rgb(205, 2, 0); }
+  #dingyueGrayTitle, #mailGrayTitle, #qzoneGrayTitle, #weiboGrayTitle { color: rgb(32, 107, 171); border-top: 0px none; }
+  .contentLayout { width: 1000px; margin: 12px auto 0px; }
+  .contentLayout:after { content: ""; display: table; clear: both; }
+  .contentMod { width: 320px; height: 294px; float: left; border-top: 1px solid rgb(109, 170, 234); margin-right: 20px; }
+  .contentModBig { width: 660px; }
+  .contentMod .hd { width: 100%; height: 29px; border-top: 1px solid rgb(255, 255, 255); position: relative; z-index: 11; }
+  .contentMod .hd h2 { color: rgb(8, 115, 192); font-size: 14px; margin-top: 6px; float: left; text-indent: 5px; }
+  .contentMod .hd h2 a { color: rgb(8, 115, 192); }
+  .contentMod .hd .orderLayout { position: absolute; top: 5px; right: 15px; z-index: 20; display: none; }
+  .contentMod .hd .orderLayout p { float: right; font-size: 14px; color: rgb(70, 151, 230); cursor: pointer; padding-right: 12px; background: url("http://mat1.gtimg.com/www/images/qq2012/temp/hdHoverIcon.png") no-repeat scroll right center transparent; }
+  .contentMod .hd .orderLayout .orderContent { display: none; float: right; margin: 20px -176px 0px 0px; width: 244px; height: 252px; padding: 10px 19px 0px; background: url("http://mat1.gtimg.com/www/images/qq2012/temp/orderBg3.png") no-repeat scroll 0% 0% transparent; }
+  .contentMod .hd .orderLayout .orderContentRight { display: none; margin-right: -85px; background: url("http://mat1.gtimg.com/www/images/qq2012/temp/orderBgRight.png") no-repeat scroll 0% 0% transparent; }
+  .contentMod .hd .orderLayout .orderContent .orderhd { float: left; margin-top: 18px; }
+  .contentMod .hd .orderLayout .orderContent .orderhd h3 { float: left; color: rgb(141, 145, 160); font-weight: normal; }
+  .contentMod .hd .orderLayout .orderContent .orderShut { float: right; width: 17px; height: 17px; cursor: pointer; margin: 11px -2px 0px 0px; }
+  .contentMod .hd .orderLayout .orderContent .orderbd { width: 100%; float: left; margin-top: 10px; }
+  .contentMod .hd .orderLayout .orderContent .orderbd ul { width: 100%; float: left; }
+  .contentMod .hd .orderLayout .orderContent .orderbd li { width: 53px; height: 22px; line-height: 22px; text-align: center; float: left; padding: 7px 4px; }
+  .contentMod .hd .orderLayout .orderContent .orderbd li .s { width: 53px; height: 22px; line-height: 22px; text-align: center; display: block; color: rgb(255, 255, 255); background: none repeat scroll 0% 0% rgb(176, 176, 176); }
+  .contentMod .hd .orderLayout .orderContent .orderbd li a { width: 53px; height: 22px; line-height: 22px; text-align: center; display: block; color: rgb(255, 255, 255); background: none repeat scroll 0% 0% rgb(111, 149, 186); }
+  .contentMod .hd .orderLayout .orderContent .orderbd li a:hover { background: none repeat scroll 0% 0% rgb(69, 143, 206); text-decoration: none; }
+  .contentMod .hd .orderLayout .orderContent .orderbd .orderReset { color: rgb(70, 151, 230); font-size: 12px; float: right; margin: -25px 4px 0px 0px; padding: 0px; background: none repeat scroll 0% 0% transparent; }
+  .contentMod .hdHover { border-top: 1px solid rgb(109, 170, 234); background: none repeat scroll 0% 0% rgb(247, 250, 253); }
+  .contentMod .bd { width: 100%; }
+  .contentMod .bd .contentLeft { width: 320px; float: left; padding: 17px 0px 0px; }
+  .contentMod .bd .contentLeft ul { width: 100%; float: left; margin-top: 10px; }
+  .contentMod .bd .contentRight { width: 320px; float: right; padding: 17px 0px 0px; display: none; }
+  .contentMod .bd .contentRight ul { width: 100%; float: left; margin-top: 2px; }
+  .contentMod .bd ul li { width: 100%; float: left; height: 26px; line-height: 26px; color: rgb(129, 145, 163); font-size: 14px; overflow: hidden; }
+  #book .bd .contentLeft { padding: 7px 0px 0px; }
+  #book .bd .contentRight { padding: 13px 0px 0px; }
+  #book .bd .imgArea { width: 85px; height: 110px; float: left; display: inline; margin: 0px 10px; overflow: hidden; }
+  #book .bd .imgArea img { width: 85px; height: 110px; float: left; }
+  #book .bd .contentLeft ul { height: 130px; margin-top: 6px; overflow: hidden; }
+  #book .bd .contentRight ul { margin-top: 6px; }
+  #kid .bd .contentLeft { padding: 12px 0px 0px; }
+  #kid .bd .contentLeft ul { height: 156px; margin-top: 6px; overflow: hidden; }
+  #astro .bd .contentRight ul { margin-top: 8px; }
+  #fashion .contentRight ul, #games .contentRight ul, #fashion .contentRight ul, #tech .contentRight ul, #kid .contentRight ul { margin-top: 10px; }
+  #house .houseSearch { width: 100%; height: 35px; float: left; margin-top: 5px; }
+  #house .houseSearch h4 { font-size: 14px; float: left; color: rgb(126, 136, 157); line-height: 26px; }
+  #house .houseSearch .houseSearchInput { float: left; padding-left: 12px; }
+  #house .houseSearch .houseSearchInput #smartbox_1 { float: left; width: 166px; height: 22px; padding: 2px; border: 1px solid rgb(186, 197, 203); }
+  #house .houseSearch .houseSearchInput #smartbox_search_1 { float: left; width: 42px; height: 28px; border: 0px none; text-indent: -9999px; margin-left: 6px; background: url("http://mat1.gtimg.com/www/images/qq2012/houseSearchBtn.png") no-repeat scroll 0% 0% transparent; cursor: pointer; }
+  #house .contentRight p { width: 100%; float: left; font-size: 14px; line-height: 30px; color: rgb(59, 99, 159); }
+  #house .contentRight p a { color: rgb(59, 99, 159); }
+  #auto .autoSearch { width: 100%; height: 35px; float: left; margin-top: 5px; }
+  #auto .autoSearch h4 { font-size: 14px; float: left; color: rgb(126, 136, 157); line-height: 26px; }
+  #auto .autoSearch .autoSearchInput { float: left; padding-left: 12px; }
+  #auto .autoSearch .autoSearchInput .z1 { width: 172px; float: left; position: relative; }
+  #auto .autoSearch .autoSearchInput #id_keyword { float: left; width: 166px; height: 22px; padding: 2px; border: 1px solid rgb(186, 197, 203); }
+  #auto .autoSearch .autoSearchInput .z3-input { float: left; width: 42px; height: 28px; border: 0px none; text-indent: -9999px; margin-left: 6px; background: url("http://mat1.gtimg.com/www/images/qq2012/houseSearchBtn.png") no-repeat scroll 0% 0% transparent; cursor: pointer; }
+  #auto .contentRight p { width: 100%; float: left; font-size: 14px; line-height: 30px; color: rgb(59, 99, 159); }
+  #auto .contentRight p a { color: rgb(59, 99, 159); }
+  #auto .autoProductTab { width: 100%; float: left; font-size: 14px; line-height: 30px; color: rgb(59, 99, 159); }
+  #auto .autoProductTab a { color: rgb(59, 99, 159); }
+  #search_inputlist { display: none; position: absolute; left: 0px; background: none repeat scroll 0% 0% rgb(255, 255, 255); font: 12px/1.75 "宋体",arial,sans-serif; }
+  #search_inputlist a { color: rgb(0, 0, 0); text-decoration: none; }
+  #search_inputlist a:hover { color: rgb(0, 0, 0); text-decoration: none; }
+  #search_inputlist { width: 221px; border: 1px solid rgb(229, 229, 229); top: 29px; text-align: left; }
+  #search_inputlist ul { padding: 1px; }
+  #search_inputlist ul li { display: block; line-height: 22px; height: 22px; font-size: 12px; }
+  #search_inputlist ul li a { display: block; padding-left: 3px; line-height: 22px; }
+  #search_inputlist .focus2 { display: block; background: none repeat scroll 0% 0% rgb(219, 219, 219); text-decoration: none; line-height: 22px; }
+  #rufodao .contentRight p { width: 100%; float: left; font-size: 14px; line-height: 24px; color: rgb(59, 99, 159); margin-top: 10px; }
+  #rufodao .contentRight p a { color: rgb(59, 99, 159); }
+  #edu .eduSearch { width: 100%; height: 24px; float: left; margin-top: 2px; }
+  #edu .eduSearch h4 { font-size: 14px; float: left; line-height: 24px; font-weight: normal; }
+  #edu .eduSearch .txt { float: left; width: 112px; height: 18px; padding: 2px; border-width: 1px 0px 1px 1px; border-style: solid none solid solid; border-color: rgb(186, 197, 203) -moz-use-text-color rgb(186, 197, 203) rgb(186, 197, 203); -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; }
+  #edu .eduSearch .btn { width: 34px; height: 24px; border: 1px solid rgb(197, 211, 218); text-indent: -9999px; float: left; background: url("http://mat1.gtimg.com/www/images/qq2012/houseSearchBtn.png") no-repeat scroll center center transparent; cursor: pointer; }
+  #edu .eduSearch #select { width: 80px; height: 24px; float: left; margin: 0px 4px 0px 10px; }
+  #edu .eduSearch #select.macSelect { text-indent: 4px; border: 0px none; border-radius: 0px; outline: medium none; background: url("http://mat1.gtimg.com/www/images/qq2012/eduSelect.png") no-repeat scroll 0% 0% transparent; }
+  #edu .eduNav p { width: 100%; float: left; font-size: 14px; line-height: 24px; color: rgb(59, 99, 159); margin-top: 10px; }
+  #edu .eduNav p a { color: rgb(59, 99, 159); }
+  #edu .pBottom p { width: 100%; float: left; font-size: 14px; line-height: 24px; color: rgb(59, 99, 159); margin-top: 2px; }
+  #edu .pBottom p a { color: rgb(59, 99, 159); }
+  #qq-tabs7 a { display: block; float: left; width: 60px; height: 28px; line-height: 28px; text-align: center; color: rgb(8, 115, 192); font-size: 14px; font-weight: bold; margin-left: -1px; margin-top: -2px; padding-top: 2px; }
+  #qq-tabs7 .selected { display: block; width: 58px; color: rgb(8, 115, 192); font-weight: bold; background: url("http://mat1.gtimg.com/www/images/qq2012/tabBg03_0702.png") no-repeat scroll 0% 0% transparent; border-left: 1px solid rgb(255, 255, 255); border-right: 1px solid rgb(255, 255, 255); }
+  #qq-contents7 { width: 100%; }
+  #today li .cBlue { color: rgb(121, 139, 165); }
+  #games .bd .comicUl { margin-top: 0px; }
+  .fleft { float: left; }
+  .fright { float: right; }
+  .undis { display: none; }
+  .dis { display: block; }
+  .qm_b_1 { font-weight: bold ! important; }
+  .qm_b_1:hover { color: rgb(59, 99, 159); }
+  .qm_c_1 { color: rgb(189, 10, 1) ! important; }
+  .qm_c_2 { color: rgb(45, 55, 75); }
+  .qm_c_3 { color: rgb(59, 99, 159); }
+  .qm_i_1, .qm_i_2, .qm_i_3, .qm_i_4 { background-image: url("http://mat1.gtimg.com/www/images/qq2012/temp/iconNew.png"); background-repeat: no-repeat; }
+  .qm_i_1 { padding-left: 19px; background-position: left 1px; }
+  .qm_i_2 { padding-left: 19px; background-position: left -49px; }
+  .qm_i_3 { padding-left: 19px; background-position: left -99px; }
+  .qm_i_4 { padding: 1px 0px 1px 31px; background-position: left -151px; }
+  .song { font-family: "宋体","Arial Narrow",HELVETICA; }
+  .noYahei .qm_i_1 { background-position: left 1px; }
+  .noYahei .qm_i_2 { background-position: left -49px; }
+  .noYahei .qm_i_3 { background-position: left -99px; }
+  .noYahei .qm_i_4 { background-position: left -151px; padding: 1px 0px 1px 31px; }
+  .noYahei .rightProduct .productLine01 { height: 26px; padding-top: 10px; }
+  .noYahei .rightProduct .productLine02 { height: 26px; padding-top: 11px; }
+  .noYahei .rightProduct .productLine05 { height: 29px; padding-top: 10px; }
+  .noYahei #newsInfoQuanguo .ft ul li .qm_i_1 { background-position: left 0px; }
+  .noYahei #newsInfoQuanguo .ft ul li .qm_i_2 { background-position: left -48px; }
+  .noYahei #newsInfoQuanguo .ft ul li .qm_i_3 { background-position: left -98px; }
+  .noYahei #newsInfoQuanguo .ft ul li .qm_i_4 { background-position: left -151px; padding: 0px 0px 0px 31px; }
+  .mac .qm_i_1 { background-position: left 1px; }
+  .mac .qm_i_2 { background-position: left -47px; }
+  .mac .qm_i_3 { background-position: left -97px; }
+  .mac .qm_i_4 { background-position: left -151px; }
+  .mac #newsInfoQuanguo .ft ul li .qm_i_1 { background-position: left 1px; }
+  .mac #newsInfoQuanguo .ft ul li .qm_i_2 { background-position: left -48px; }
+  .mac #newsInfoQuanguo .ft ul li .qm_i_3 { background-position: left -98px; }
+  .mac #newsInfoQuanguo .ft ul li .qm_i_4 { background-position: left -151px; }
+}
+#newsInfoQuanguo .ft ul li, #newsInfo .newsContent ul li { height: 32px; line-height: 32px; }
+#newsInfoQuanguo .ft .newsContent .imgArea, #newsInfoQuanguo .ft .newsContent .txtArea, #newsInfo .newsContent .imgArea, #newsInfo .newsContent .txtArea { margin-top: 7px; }
+.leftNews .diaocha { bottom: -1px; padding-bottom: 1px; height: auto; line-height: 32px; }
+.leftNews .ft ul, #newsInfo .newsContent ul { margin-top: 3px; }
+#newsInfoQuanguo .ft .newsMoreBtn, #newsInfoQuanguo .ft .newsMoreBtn2, #newsInfoQuanguo .ft .newsMoreBtn3 { margin-top: 0px; padding-top: 6px; margin-bottom: 4px; }
+#today { height: 252px; }
+#today li, #djakContent li { height: 28px; line-height: 28px; }
+.layoutLeft, .leftNews, .layoutRight { height: 970px; }
+#vnews { height: 400px; }
+.leftVideoNews .bd { padding: 12px 0px 7px; }
+.rightXingzuoyunshi { height: auto; padding-bottom: 6px; }
+.rightXingzuoyunshi .ft { height: 90px; }
+.rightXingzuoyunshi .ft p { line-height: 26px; margin-top: 10px; height: 82px; }
+#productNav a { color: rgb(41, 76, 127); font-family: "arial"; }
+.navBeta .navBetaInner, .navBeta .navMoreLayout { font-family: "STHeiti","Microsoft YaHei","宋体","arial"; }
+.rightProduct { background: url('productnavbg1.5.516.png') no-repeat scroll right top transparent; }
+.rightProduct .productLine03 { height: 60px; line-height: 28px; padding-top: 4px; }
+.rightProduct .productLine04 { height: 59px; line-height: 28px; padding-top: 3px; }
+#pronav { height: 238px; }
+.rightProduct .productLine05 { height: 29px; padding-top: 9px; }
+.rightProduct .productFloatLayout .productFloat, .rightProduct .productFloatLayout { height: 238px; }
+#auto .contentRight, #house .contentRight { padding: 19px 0px 0px; }
+#tripBd .contentRight { padding: 9px 0px 0px; }
+#edu .pBottom p { line-height: 28px; }
+#book .bd .contentRight { padding: 5px 0px 0px; }
+#book .bd .imgArea { margin: 0px 20px 0px auto; }
+.contentMod .bd ul li { height: 28px; line-height: 28px; }
+.contentMod .bd .contentLeft ul { margin-top: 8px; }
+.contentMod .bd .contentRight { padding: 9px 0px 0px; }
+.contentMod .bd .contentRight .imgArea { padding-top: 8px; }
+.contentMod .bd .contentRight .txtArea { padding: 13px 15px 0px 0px; }
+.leftAreaContent .ft li { line-height: 28px; height: 28px; }
+.contentMod { height: 303px; }
+#book .bd .contentLeft ul { height: 145px; margin-top: 6px; }
+#fashion .contentRight ul, #games .contentRight ul, #fashion .contentRight ul, #tech .contentRight ul, #kid .contentRight ul { margin-top: 8px; }
+#kid .bd .contentLeft ul { margin-top: 5px; height: 170px; }
+.txDynamic .bd li { height: 28px; line-height: 28px; }
+.weatherMore { width: 350px; }
+.weather .weatherMore .face { width: 348px; }
+.weatherMoreTitle { width: 328px; }
+.weatherMoreAir { width: 324px; }
+.weatherMoreFuture { width: 348px; }
+.weatherMoreFutureCon { width: 115px; }
+#newsInfoQuanguo .ft .newsMoreBtn { width: 350px; }
+.leftNews, #newsInfoQuanguo .ft .newsMoreBtn2, #newsInfoQuanguo .ft .newsMoreBtn3 { width: 350px; }
+#newsInfoQuanguo .ft ul li, #newsInfo .newsContent ul li, #newsSjb ul li { height: 28px; line-height: 28px; font-size: 14px; }
+#newsInfoQuanguo .ft .newsContent h3, #newsInfo .newsContent h3, #newsSjb h3 { line-height: 26px; font-size: 14px; }
+#newsInfoQuanguo .ft .newsContent .txtArea, #newsInfo .newsContent .txtArea, #newsSjb .txtArea { width: 208px; }
+#newsInfoQuanguo .ft .newsContent .imgArea, #newsInfoQuanguo .ft .newsContent .txtArea, #newsInfo .newsContent .imgArea, #newsInfo .newsContent .txtArea, #newsSjb .imgArea, #newsSjb .txtArea { margin-top: 11px; margin-bottom: 4px; }
+#newsInfoQuanguo .ft .newsMoreBtn, #newsInfoQuanguo .ft .newsMoreBtn2, #newsInfoQuanguo .ft .newsMoreBtn3 { margin-bottom: 0px; }
+#newsInfoQuanguo .ft ul li .qm_i_2 { background-position: left -49px; }
+#newsInfoQuanguo .ft ul li .qm_i_3 { background-position: left -99px; }
+.leftNews .diaocha { line-height: 28px; font-size: 14px; width: 350px; }
+.leftVideoNews, .leftDajiaaikan, .leftView { width: 330px; }
+.leftVideoNews .bd { width: 310px; }
+.leftVideoNews .bd .videoArea, .leftVideoNews .bd .videoArea img { width: 145px; }
+.leftVideoNews .ft { width: 330px; }
+.leftAreaContent .ft ul.vlist li { width: 311px; }
+.leftView .ft h3 { font-size: 14px; }
+.leftView .ft ul { width: 326px; }
+.leftDajiaaikan .bd .txtArea { width: 192px; }
+@media not all, not all {
+  .soso .logo .qqlogo { background: url('qqlogo_2x.png') no-repeat scroll 0px 0px / 134px 44px transparent; }
+  #loginGrayLayout { background: url('logonbtn20140629.png') no-repeat scroll 0px 0px / 35px 35px transparent; border: 1px solid rgb(237, 237, 237); }
+  #loginGrayLayout:hover { border: 1px solid rgb(196, 219, 237); }
+  #searchBtn { background: url('sogoubtn20140629.png') no-repeat scroll 0px 0px / 90px 37px transparent; }
+  .loginGray .weibo { background: url('weibobtn20140629.png') no-repeat scroll 0px 0px / 17px 24px transparent; }
+  .loginGray .weibo:hover { background: url('weibobtnhover20140629.png') no-repeat scroll 0px 0px / 17px 24px transparent; }
+  .loginGray .qzone { background: url('qzonebtn20140629.png') no-repeat scroll 0px 0px / 25px 24px transparent; }
+  .loginGray .qzone:hover { background: url('qzonebtnhover20140629.png') no-repeat scroll 0px 0px / 25px 24px transparent; }
+  .loginGray .mail { background: url('mailbtn20140629.png') no-repeat scroll 0px 0px / 21px 24px transparent; }
+  .loginGray .mail:hover { background: url('mailbtnhover20140629.png') no-repeat scroll 0px 0px / 21px 24px transparent; }
+  .loginGray .dingyue { background: url('dingyuebtn20140629.png') no-repeat scroll 0px 0px / 22px 24px transparent; }
+  .loginGray .dingyue:hover { background: url("http://mat1.gtimg.com/www/images/qq2012/dingyueBtnHover20140629.png") no-repeat scroll 0px 0px / 22px 24px transparent; }
+  .rightProduct { background: url("http://mat1.gtimg.com/www/images/qq2012/productNavBg1.5.629.png") no-repeat scroll right top / auto 237px transparent; }
+}
+#tuangouTxt {  }
+.navBeta { padding: 8px 0px 0px 12px; width: 988px; background: url('chanelnavbeta2_141013.jpg') no-repeat scroll 0% 0% transparent; }
+.navBeta div { padding: 0px 10px; }
+.navBeta a {  }
+.navBeta .navBetaInner { width: 988px; }
+.navBeta .navBetaInner, .navBeta .navMoreLayout { font-family: "STHeiti","Microsoft YaHei","宋体","arial"; }
+.navBeta .navMoreLayout {  }
+/* ::::: http://mat1.gtimg.com/www/css/qq2012/hot_word_sogou.css ::::: */
+
+.search { position: relative; z-index: 99; }
+#smartbox_result_1 { background: none repeat scroll 0px 0px rgb(255, 255, 255); border-color: rgb(143, 167, 199); border-style: solid; border-width: 1px; display: none; font: 12px/1.75 "瀹嬩綋",arial,sans-serif; left: 0px; position: absolute; text-align: left; top: 22px; }
+#smartbox_result_1 { background: none repeat scroll 0px 0px rgb(255, 255, 255); border-color: rgb(143, 167, 199); border-style: solid; border-width: 1px; display: none; font: 12px/1.75 "瀹嬩綋",arial,sans-serif; left: 0px; position: absolute; text-align: left; top: 22px; }
+.absolute { position: absolute; }
+#followMe { position: absolute; z-index: 999; top: 0px; left: 0px; width: 100%; }
+.f_shadow { position: absolute; z-index: 1000; background: url('alphabg_01.png') repeat scroll 0% 0% transparent; }
+.follow_bottom { top: 1573px; height: 1000px; width: 100%; }
+.follow_t { position: absolute; width: 100%; height: 1572px; top: 0px; left: 0px; }
+.follow_t .f_shadow_l { height: 1573px; left: 0px; top: 0px; }
+.follow_t .f_shadow_r { height: 1573px; right: 0px; top: 0px; }
+.follow_t .follow_m { width: 1002px; height: 1572px; position: absolute; top: 0px; left: 50%; margin-left: -501px; z-index: 1000; }
+.follow_b_01 { top: 0px; left: 0px; width: 629px; height: 274px; }
+.follow_b_02 { top: 0px; right: 0px; width: 373px; height: 274px; }
+.follow_b_02_btns { position: absolute; z-index: 2000; top: 0px; right: 0px; width: 373px; height: 274px; display: none; }
+.follow_b_03 { top: 274px; left: 0px; width: 373px; height: 257px; }
+.follow_b_03_btns { position: absolute; z-index: 2000; top: 274px; left: 0px; width: 373px; height: 257px; display: none; }
+.follow_b_04 { top: 274px; right: 0px; width: 629px; height: 257px; }
+.follow_b_05 { top: 531px; left: 0px; width: 353px; height: 499px; }
+.follow_b_06 { top: 531px; right: 0px; width: 649px; height: 499px; }
+.follow_b_06_btns { position: absolute; z-index: 2000; top: 531px; right: 0px; width: 649px; height: 499px; display: none; }
+.follow_b_07 { top: 1030px; left: 0px; width: 358px; height: 195px; }
+.follow_b_08 { top: 1030px; right: 0px; width: 644px; height: 195px; }
+.follow_b_08_btns { position: absolute; z-index: 2000; top: 1030px; right: 0px; width: 644px; height: 195px; display: none; }
+.follow_b_09 { top: 1225px; left: 0px; width: 664px; height: 348px; }
+.follow_b_09_btns { position: absolute; z-index: 2000; top: 1225px; left: 0px; width: 664px; height: 348px; display: none; }
+.follow_b_10 { top: 1225px; right: 0px; width: 338px; height: 348px; }
+#follow1.current { background: url('guide_k_01.png') repeat scroll 0% 0% transparent; }

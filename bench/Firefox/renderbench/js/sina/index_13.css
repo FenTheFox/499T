@@ -1,0 +1,25 @@
+html, body { padding: 0px; margin: 0px; }
+body { font: 12px/1.5 "Tahoma","arial"; }
+.c2014-7-140893-1413920145426-global { position: relative; width: 232px; height: 168px; background: none repeat scroll 0% 0% rgb(255, 255, 255); border: 1px solid rgb(234, 234, 234); text-align: center; font-size: 12px; font-family: "helvetica neue",tahoma,"hiragino sans gb",stheiti,"wenquanyi micro hei",微软雅黑,宋体,sans-serif; overflow: hidden; }
+.c2014-7-140893-1413920145426-global a:link, .c2014-7-140893-1413920145426-global a:visited, .c2014-7-140893-1413920145426-global a:active { text-decoration: none; }
+.c2014-7-140893-1413920145426-global i, .c2014-7-140893-1413920145426-global em { font-style: normal; }
+.c2014-7-140893-1413920145426-global img { border: medium none; }
+.c2014-7-140893-1413920145426-box, .c2014-7-140893-1413920145426-frames, .c2014-7-140893-1413920145426-frame { position: relative; width: 232px; height: 168px; overflow: hidden; }
+.c2014-7-140893-1413920145426-frame { display: none; }
+.c2014-7-140893-1413920145426-frames .c2014-7-140893-1413920145426-current { display: block; }
+.c2014-7-140893-1413920145426-item, .c2014-7-140893-1413920145426-pic-box { width: 166px; height: 166px; }
+.c2014-7-140893-1413920145426-pic { display: table-cell; width: 166px; height: 166px; text-align: center; vertical-align: middle; background-color: rgb(248, 248, 248); border: medium none; }
+.c2014-7-140893-1413920145426-item { position: relative; top: 1px; float: left; margin-left: 34px; overflow: hidden; }
+.c2014-7-140893-1413920145426-pic img { width: 100%; height: 100%; vertical-align: middle; }
+.c2014-7-140893-1413920145426-info { position: absolute; overflow: hidden; bottom: 0px; left: 0px; width: 166px; height: 22px; background: none repeat scroll 0% 0% rgba(255, 255, 255, 0.8); }
+.c2014-7-140893-1413920145426-price span { font-size: 14px; color: rgb(255, 68, 0); font-family: "Microsoft Yahei"; }
+.c2014-7-140893-1413920145426-price span i { font-style: normal; }
+.c2014-7-140893-1413920145426-price span em { font-weight: bold; font-style: normal; }
+.c2014-7-140893-1413920145426-info .c2014-7-140893-1413920145426-tmall span { color: rgb(177, 0, 0); }
+.c2014-7-140893-1413920145426-price { position: relative; left: 5px; top: 2px; float: left; height: 18px; width: 75px; line-height: 18px; text-align: left; }
+.c2014-7-140893-1413920145426-item .c2014-7-140893-1413920145426-sell { color: rgb(153, 153, 153); line-height: 22px; font-size: 12px; text-align: left; font-family: "Microsoft Yahei","simsun"; position: absolute; bottom: 0px; right: 5px; z-index: 99; }
+.c2014-7-140893-1413920145426-item .c2014-7-140893-1413920145426-numSyt { color: rgb(102, 102, 102); font-weight: bold; font-family: "Tahoma","simsun"; }
+.c2014-7-140893-1413920145426-triggers { position: absolute; width: 21px; height: 150px; top: 2px; left: 7px; overflow: hidden; }
+.c2014-7-140893-1413920145426-global .c2014-7-140893-1413920145426-triggers2 { left: 206px; }
+.c2014-7-140893-1413920145426-trigger { display: block; width: 21px; height: 22px; margin-top: 6px; color: rgb(153, 153, 153); background: url('t1rp3tfnrbxxb1upjx.jpg') no-repeat scroll 0px -22px transparent; line-height: 22px; text-align: center; }
+.c2014-7-140893-1413920145426-triggers .c2014-7-140893-1413920145426-current { background-position: 0px 0px; color: rgb(255, 255, 255); }

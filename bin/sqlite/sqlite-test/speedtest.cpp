@@ -25,11 +25,11 @@ void prepareAndRun(sqlite3 *db, string stmt) {
 
 	timer p = timer(), r = timer(), f = timer();
 
-	if (!quiet)
-		cout << "***************************************************************" << endl
-		     << "SQL statement: ["
-		     << stmt
-		     << "]" << endl;
+//	if (!quiet)
+//		cout << "***************************************************************" << endl
+//		     << "SQL statement: ["
+//		     << stmt
+//		     << "]" << endl;
 
 	p.start();
 	rc = sqlite3_prepare_v2(db, stmt.c_str(), -1, &pStmt, NULL);
@@ -55,7 +55,7 @@ void prepareAndRun(sqlite3 *db, string stmt) {
 }
 
 /**
- * runTimer all of the statements in a file
+ * run all of the statements in a file
  */
 void runScriptFile(sqlite3 *db, string name) {
 	ifstream script;
@@ -164,15 +164,19 @@ double test_main(int argc, char *argv[]) {
 	struct tms tmsStart, tmsEnd;
 	clock_t clkStart, clkEnd;
 
-	sqlite3 *db;
+	sqlite3 *db, *tdb;
 
 	list<string> scripts = setup(argc, argv, &db);
 	vector<thread> threads = vector<thread>();
 
+	printf("Total schema time    %f ns\n", prepTimer.total_duration() + runTimer.total_duration() + finalizeTimer.total_duration());
+
 	clkStart = times(&tmsStart);
 
-	for (string fname : scripts)
-		threads.emplace_back(runScriptFile, db, fname);
+	for (string fname : scripts) {
+		sqlite3_open_v2(":memory:", &tdb, SQLITE_OPEN_CREATE | SQLITE_OPEN_READWRITE, NULL);
+		threads.emplace_back(runScriptFile, tdb, fname);
+	}
 
 	for (int i = 0; i < threads.size(); i++)
 		threads[i].join();

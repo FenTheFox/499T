@@ -23,15 +23,19 @@ class timer {
 	}
 
 	double diff() {
-		if (start_time == steady_clock::time_point::min() || end_time == steady_clock::time_point::min())
+		if (start_time == steady_clock::time_point::min() || end_time == steady_clock::time_point::min()) {
 			std::cerr << "Please call both start() and end() in between each call to duration()" << std::endl;
+			throw 19;
+		}
 
 		return std::chrono::duration<double, std::nano>(end_time - start_time).count();
 	}
 
 	uint64_t hwdiff() {
-		if (hwstart == 0 || hwend == 0)
+		if (hwstart == 0 || hwend == 0) {
 			std::cerr << "Please call both start() and end() in between each call to hwduration()" << std::endl;
+			throw 19;
+		}
 
 		return hwend - hwstart;
 	}

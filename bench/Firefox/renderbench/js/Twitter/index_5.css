@@ -1,0 +1,49 @@
+.style-element-1 { border-style: solid; border-width: 0px; border-color: rgb(0, 0, 0); padding: 0px; margin: 0px; opacity: 1; }
+.style-element-2 { border-style: solid; border-width: 0px; border-color: rgb(0, 0, 0); padding: 0px; margin: 0px; opacity: 1; width: 320px; min-width: 320px; max-width: 320px; }
+.style-element-5 { border-radius: 5px; margin: 0px; opacity: 1; background-image: url('1tu7dowe.png'); }
+.style-element-6 { border-style: solid; border-width: 0px; border-color: rgb(0, 0, 0); padding: 0px; margin: 0px 0px 0px 14px; opacity: 1; }
+.style-element-7 { font-family: Helvetica; font-size: 13px; color: rgb(41, 47, 51); line-height: 1.4em; font-weight: bold; text-decoration: none; font-style: normal; margin: 0px; opacity: 1; }
+.style-element-39 { font-family: Helvetica; font-size: 13px; color: rgb(136, 153, 166); line-height: 1.4em; font-weight: normal; text-decoration: none; font-style: normal; margin: 11px 0px 0px; opacity: 1; }
+.style-element-71 { background: linear-gradient(0rad, rgb(245, 248, 250), rgb(255, 255, 255)) repeat scroll 0% 0% transparent; border-style: solid; border-width: 1px; border-color: rgb(225, 232, 237); padding: 8px 11px; border-radius: 4px; margin: 12px 0px 0px; opacity: 1; height: 30px; min-height: 30px; max-height: 30px; }
+.style-element-75 { font-family: Helvetica; font-size: 12px; color: rgb(41, 47, 51); line-height: 1em; font-weight: bold; text-decoration: none; font-style: normal; margin: 0px; opacity: 1; }
+.style-element-77 { font-family: Helvetica; font-size: 12px; color: rgb(41, 47, 51); line-height: 1em; font-weight: bold; text-decoration: none; font-style: normal; margin: 0px; opacity: 1; }
+.style-element-79 { font-family: Helvetica; font-size: 12px; color: rgb(41, 47, 51); line-height: 1em; font-weight: bold; text-decoration: none; font-style: normal; margin: 0px; opacity: 1; }
+.style-element-81 { font-family: Helvetica; font-size: 12px; color: rgb(41, 47, 51); line-height: 1em; font-weight: bold; text-decoration: none; font-style: normal; margin: 0px; opacity: 1; }
+.style-element-83 { font-family: Helvetica; font-size: 12px; color: rgb(41, 47, 51); line-height: 1em; font-weight: bold; text-decoration: none; font-style: normal; margin: 0px; opacity: 1; }
+.style-element-85 { font-family: Helvetica; font-size: 12px; color: rgb(41, 47, 51); line-height: 1em; font-weight: bold; text-decoration: none; font-style: normal; margin: 0px; opacity: 1; }
+body { margin: 0px; }
+/* ::::: https://ton.twimg.com/tfw/css/unification_bundle_v1_963d2656ba4c8cb1105c4815773894b08f27d008.css ::::: */
+
+[data-tap_action_id] { cursor: pointer; }
+#Container > .SizeMode_width-FILL { -moz-box-align: stretch; align-items: stretch; }
+.TextNodeWrapper { display: block; width: auto; height: auto; max-width: 100%; max-height: 100%; }
+.ImageNodeWrapper { background-repeat: no-repeat; }
+.ImageNode { display: block; visibility: hidden; }
+.WEB-CONTAINER { display: flex; position: relative; max-width: 100%; overflow: hidden; box-sizing: border-box; }
+.WEB-CONTAINER-CROSS { display: flex; position: relative; max-width: 100%; overflow: hidden; }
+.SizeMode_height-FIT { height: auto; }
+.SizeMode_width-FIT { width: auto; }
+.WEB-IMAGE { display: block; position: relative; max-width: 100%; overflow: hidden; }
+.WEB-IMAGE:not(.PreserveAspectRatio) { background-size: 100% 100%; }
+.WEB-IMAGE.PreserveAspectRatio:not(.FillAvailableSpace) { background-size: contain; }
+.WEB-IMAGE.AlignmentMode_horizontal-START.AlignmentMode_vertical-START { background-position: 0% 0%; }
+.WEB-TEXT { display: flex; word-break: normal; word-wrap: break-word; white-space: pre-wrap; -moz-hyphens: auto; overflow: hidden; max-width: 100%; }
+.WEB-TEXT.AlignmentMode_horizontal-NATURAL { -moz-box-pack: start; justify-content: flex-start; text-align: left; }
+.WEB-TEXT.AlignmentMode_horizontal-MIDDLE { -moz-box-pack: center; justify-content: center; text-align: center; }
+.WEB-TEXT.AlignmentMode_vertical-MIDDLE { -moz-box-align: center; align-items: center; }
+.Layout-HORIZONTAL { -moz-box-orient: horizontal; -moz-box-direction: normal; flex-direction: row; }
+.Layout-VERTICAL { -moz-box-orient: vertical; -moz-box-direction: normal; flex-direction: column; }
+.CrossMode-START { -moz-box-align: start; align-items: flex-start; }
+.CrossMode-STRETCH { -moz-box-align: stretch; align-items: stretch; }
+.WEB-CONTAINER.Layout-HORIZONTAL.AlignmentMode_horizontal-START { -moz-box-pack: start; justify-content: flex-start; }
+.WEB-CONTAINER.Layout-HORIZONTAL.AlignmentMode_horizontal-MIDDLE { -moz-box-pack: center; justify-content: center; }
+.WEB-CONTAINER.Layout-VERTICAL.AlignmentMode_vertical-START { -moz-box-pack: start; justify-content: flex-start; }
+.PositionMode-RELATIVE { position: relative; }
+.Layout-VERTICAL > .SizeMode_height-FIT { flex: 0 1 auto; }
+.Layout-HORIZONTAL > .SizeMode_width-FILL { -moz-box-flex: 1; flex: 1 1 1px; }
+.Layout-HORIZONTAL > .SizeMode_width-FIT { flex: 0 1 auto; }
+.WEB-IMAGE.SizeMode_width-FILL { width: 100%; }
+.Layout-VERTICAL > .WEB-TEXT.SizeMode_width-FILL { -moz-box-align: stretch; align-items: stretch; }
+.Overflow-CLIP { overflow: hidden; }
+@font-face {
+  font-family: "rosettaicons";  font-style: normal;  font-weight: normal;  src: url('rosetta-icons-regular.eot') format("embedded-opentype"), url('rosetta-icons-regular.woff') format("woff"), url('rosetta-icons-regular.ttf') format("truetype");}

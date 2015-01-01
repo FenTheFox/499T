@@ -1,0 +1,61 @@
+Total schema time    4045637152.000000 ns
+Total time:          19432722020.000000 ns
+Total schema time    3870789191.000000 ns
+Total time:          19772239716.000000 ns
+Total schema time    3890434522.000000 ns
+Total time:          19723219412.000000 ns
+Total schema time    3994149514.000000 ns
+Total time:          20716211426.000000 ns
+Total schema time    3882801301.000000 ns
+Total time:          19757153018.000000 ns
+Total schema time    3981092002.000000 ns
+Total time:          20063857975.000000 ns
+Total schema time    3857405416.000000 ns
+Total time:          19806549675.000000 ns
+Total schema time    3862136656.000000 ns
+Total time:          18356360862.000000 ns
+Total schema time    3845479237.000000 ns
+Total time:          19546604495.000000 ns
+Total schema time    3810848325.000000 ns
+Total time:          19677659028.000000 ns
+Total schema time    4003618288.000000 ns
+Total time:          19864881920.000000 ns
+Total schema time    3882410241.000000 ns
+Total time:          19806746220.000000 ns
+Total schema time    3987750957.000000 ns
+Total time:          19949017834.000000 ns
+Total schema time    3839602512.000000 ns
+Total time:          19707782156.000000 ns
+Total schema time    3929206223.000000 ns
+Total time:          18879322983.000000 ns
+Total schema time    3874799250.000000 ns
+Total time:          19974904990.000000 ns
+Total schema time    3883472576.000000 ns
+Total time:          19529784487.000000 ns
+Total schema time    3955427123.000000 ns
+Total time:          19893068249.000000 ns
+Total schema time    3882077922.000000 ns
+Total time:          19702597551.000000 ns
+Total schema time    3983925696.000000 ns
+Total time:          20037877899.000000 ns
+Total schema time    4023452137.000000 ns
+Total time:          20028988751.000000 ns
+Total schema time    3857344416.000000 ns
+Total time:          19848183267.000000 ns
+Total schema time    3841604646.000000 ns
+Total time:          19867815694.000000 ns
+Total schema time    3880956877.000000 ns
+Total time:          19830826110.000000 ns
+Total schema time    3920124542.000000 ns
+Total time:          19932196028.000000 ns
+Total schema time    3882795715.000000 ns
+Total time:          19733089723.000000 ns
+Total schema time    3827606976.000000 ns
+Total time:          19768778207.000000 ns
+Total schema time    3844761172.000000 ns
+Total time:          19749903840.000000 ns
+Total schema time    3872150583.000000 ns
+Total time:          19773688955.000000 ns
+Total schema time    3849582341.000000 ns
+Total time:          19813461672.000000 ns
+Average: 19751516472.099998

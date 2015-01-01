@@ -1,0 +1,761 @@
+/* ::::: https://s.ytimg.com/yts/cssbin/www-core-vflY4V7zn.css ::::: */
+
+body { line-height: 1; text-align: start; }
+menu, ol, ul { list-style: none outside none; }
+table { border-collapse: collapse; border-spacing: 0px; }
+strong, b { font-weight: bold; }
+body { margin: 0px; padding: 0px; border: 0px none; }
+a, abbr, acronym, address, applet, b, big, blockquote { margin: 0px; padding: 0px; border: 0px none; font-size: 100%; background: none repeat scroll 0% 0% transparent; }
+button { margin: 0px; padding: 0px; border: 0px none; background: none repeat scroll 0% 0% transparent; }
+canvas, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, embed, fieldset, font, form, h1, h2, h3, h4, h5, h6, hr, html, i, iframe, img, ins, kbd, label, legend, li, menu, object, ol, p, pre, q, s, samp, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, tt, u, ul, var { margin: 0px; padding: 0px; border: 0px none; font-size: 100%; background: none repeat scroll 0% 0% transparent; }
+.clearfix {  }
+.clearfix:before { content: "."; display: block; height: 0px; visibility: hidden; }
+.clearfix:after { content: "."; display: block; height: 0px; visibility: hidden; clear: both; }
+html, body, #body-container { height: 100%; }
+body > #body-container { height: auto; min-height: 100%; }
+#content-container, #body-container { padding-bottom: 191px; box-sizing: border-box; }
+body { background: none repeat scroll 0% 0% rgb(241, 241, 241); }
+.no-focus-outline :focus { outline: 0px none; }
+body, input, button, textarea { font-family: arial,sans-serif; font-size: 13px; }
+a { cursor: pointer; color: rgb(22, 122, 198); text-decoration: none; }
+a:hover, a:focus { text-decoration: underline; }
+embed, object { position: relative; }
+.hid { display: none; }
+.content-alignment { width: 1003px; margin-left: auto; margin-right: auto; box-sizing: border-box; }
+.page-loaded .yt-base-gutter, .page-loaded #page, .page-loaded #appbar-content { transition: padding 0s ease-in-out 0s; }
+.yt-base-gutter { min-width: 943px; padding-left: 30px; padding-right: 30px; }
+.flex-width-enabled .content-alignment { width: auto; min-width: 1003px; max-width: 1415px; }
+.flex-width-enabled.flex-width-enabled-snap .content-alignment, .content-snap-width-1 .flex-width-enabled.flex-width-enabled-snap .content-alignment { width: 850px; min-width: 0px; max-width: none; }
+.content-snap-width-2 .flex-width-enabled.flex-width-enabled-snap .content-alignment { width: 1056px; }
+body #sb-wrapper { min-width: 1003px; width: auto ! important; }
+.clear { clear: both; }
+.yt-pl-thumb { position: relative; display: inline-block; vertical-align: top; overflow: hidden; }
+.yt-pl-thumb .sidebar { position: absolute; right: 0px; top: 0px; height: 100%; width: 43.75%; background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.8); }
+.yt-pl-thumb .yt-pl-sidebar-content { display: block; opacity: 0.8; text-align: center; }
+.yt-pl-thumb .formatted-video-count-label { display: block; margin: 0px 0.75em; font-size: 10px; line-height: 1.25em; white-space: normal; text-transform: uppercase; }
+.yt-pl-thumb .formatted-video-count-label b { display: block; font-weight: normal; font-size: 18px; line-height: 22px; }
+.yt-pl-thumb.is-small .formatted-video-count-label { font-size: 8px; }
+.yt-pl-thumb.is-small .formatted-video-count-label b { font-size: 14px; }
+.yt-pl-thumb .yt-pl-sidebar-content { height: 100%; color: rgb(207, 207, 207); }
+.yt-pl-thumb-link { display: block; position: relative; text-align: left; }
+.yt-pl-thumb-link:hover { text-decoration: none; }
+.yt-pl-thumb-link .yt-pl-thumb-overlay { display: none; position: absolute; left: 0px; right: 0px; min-width: 120px; top: 0px; bottom: 0px; background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.7); }
+.yt-pl-thumb-link:hover .yt-pl-thumb-overlay, .yt-pl-thumb-link:focus .yt-pl-thumb-overlay { display: block; }
+.yt-pl-thumb-overlay .yt-pl-thumb-overlay-content { position: absolute; text-align: center; top: 50%; margin-top: -9px; width: 100%; height: 18px; font-size: 16px; font-weight: bold; color: rgb(255, 255, 255); text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.6); text-transform: uppercase; }
+.is-small .yt-pl-thumb-overlay .yt-pl-thumb-overlay-text { font-size: 11px; }
+.yt-pl-thumb-overlay .play-icon { margin-right: 3px; vertical-align: middle; background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -60px -1375px transparent; width: 9px; height: 12px; }
+.yt-pl-thumb-overlay-text { vertical-align: middle; font-weight: normal; font-size: 13px; }
+.yt-pl-icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -43px -1194px transparent; width: 24px; height: 24px; }
+.is-small .yt-pl-icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -1013px transparent; width: 18px; height: 18px; }
+.yt-pl-thumb-link:hover .yt-pl-thumb .sidebar { background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.85); }
+.yt-alert { position: relative; padding: 0px; overflow: hidden; }
+.yt-alert:not(:first-child) { margin-top: 5px; }
+.yt-alert .icon { vertical-align: middle; cursor: auto; background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -51px -392px transparent; }
+.yt-alert .yt-alert-content { overflow: hidden; display: table-cell; width: 100%; }
+.yt-alert .yt-uix-button { outline: 0px none; }
+.yt-alert-buttons { display: table-cell; vertical-align: middle; overflow: hidden; white-space: nowrap; padding: 0px 13px; }
+.yt-alert-actionable .yt-alert-icon, .yt-alert-default .yt-alert-icon { display: table-cell; vertical-align: middle; }
+.yt-alert-actionable .yt-alert-content { color: rgb(255, 255, 255); font-weight: bold; }
+.yt-alert-actionable .yt-alert-buttons, .yt-alert-default .yt-alert-content { color: rgb(255, 255, 255); font-size: 13px; font-weight: bold; }
+.yt-alert-actionable .yt-alert-content, .yt-alert-default .yt-alert-content { padding: 11px 13px 11px 0px; }
+.yt-alert-icon { padding: 0px 13px; }
+.yt-alert-default.yt-alert-info, .yt-alert-actionable.yt-alert-info, .yt-alert-naked.yt-alert-info .yt-alert-icon, .yt-alert-small.yt-alert-info { background: none repeat scroll 0% 0% rgb(39, 147, 230); }
+.yt-alert-default.yt-alert-info .icon, .yt-alert-actionable.yt-alert-info .icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -233px transparent; width: 20px; height: 21px; }
+.yt-alert-actionable .yt-uix-button-alert-info { border: 1px solid rgba(0, 0, 0, 0.2); background: none repeat scroll 0% 0% transparent; }
+.yt-alert-actionable .yt-uix-button-alert-info:hover { background: none repeat scroll 0% 0% rgb(18, 109, 179); }
+.yt-alert-actionable .yt-uix-button-alert-info:active, .yt-alert-actionable .yt-uix-button-alert-info.yt-uix-button-toggled { border-color: rgb(44, 91, 130); background: none repeat scroll 0% 0% rgb(53, 109, 155); box-shadow: 0px 0px 0px rgb(0, 0, 0), 0px 0px 1px rgba(255, 255, 255, 0.25), 0px 1px 3px rgba(0, 0, 0, 0.25) inset; }
+.yt-uix-button-alert-error .yt-uix-button-content, .yt-uix-button-alert-info .yt-uix-button-content, .yt-uix-button-alert-success .yt-uix-button-content, .yt-uix-button-alert-warn .yt-uix-button-content { color: rgb(255, 255, 255); }
+.yt-alert-actionable .yt-alert-message { vertical-align: middle; display: inline-block; }
+.yt-alert-actionable .yt-alert-content { white-space: nowrap; word-break: normal; font-size: 0px; }
+.yt-alert-actionable .yt-alert-message { white-space: normal; font-size: 13px; }
+.yt-alert .close { padding: 0px; margin: 6px 0px; border: medium none; overflow: hidden; cursor: pointer; box-shadow: none; background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -1895px transparent; width: 20px; height: 20px; }
+.yt-alert .close .yt-uix-button-content { display: none; }
+.yt-alert .close:hover { background-color: rgba(0, 0, 0, 0.15); border-radius: 3px; }
+.yt-alert.yt-alert-actionable .close { margin-left: 6px; padding: 0px; }
+.yt-card { margin: 10px 0px; border: 0px none; background: none repeat scroll 0% 0% rgb(255, 255, 255); box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1); box-sizing: border-box; }
+.yt-card.yt-card-has-padding { padding: 15px; }
+.yt-card .yt-card-title { font-size: 15px; margin-bottom: 10px; }
+.yt-card .yt-uix-button-expander { display: block; width: 100%; text-transform: uppercase; color: rgb(153, 153, 153); border-top: 1px solid rgb(226, 226, 226); box-shadow: none; }
+.yt-card .yt-uix-button-expander:hover { color: rgb(34, 34, 34); }
+.yt-card.yt-card-has-padding.yt-uix-expander .yt-uix-button-expander { margin: 10px 0px -15px; }
+.yt-ui-ellipsis { background-color: rgb(255, 255, 255); display: block; line-height: 1.3em; overflow: hidden; position: relative; text-overflow: ellipsis; white-space: normal; word-wrap: break-word; }
+.yt-ui-ellipsis:before { background-color: inherit; position: absolute; }
+.yt-ui-ellipsis:after { background-color: inherit; position: absolute; }
+.yt-ui-ellipsis:before { content: "…"; right: 0px; }
+.yt-ui-ellipsis:after { content: ""; height: 100%; width: 100%; }
+.yt-ui-ellipsis-2:before { top: 1.3em; }
+.yt-ui-ellipsis-2 { max-height: 2.6em; }
+.yt-ui-menu-content:focus { outline: medium none; }
+.yt-ui-menu-content { background: none repeat scroll 0% 0% rgb(255, 255, 255); border: 1px solid rgb(211, 211, 211); outline: medium none; overflow: visible; padding: 10px 0px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); }
+.yt-ui-menu-item { position: relative; color: rgb(51, 51, 51); cursor: pointer; display: block; font-size: 13px; line-height: 25px; margin: 0px; padding: 0px 15px; text-align: left; text-decoration: none; white-space: nowrap; width: 100%; word-wrap: normal; box-sizing: border-box; }
+.yt-ui-menu-item-label { display: inline-block; vertical-align: middle; }
+.yt-ui-menu-item-icon { display: inline-block; vertical-align: middle; margin-right: 10px; }
+.yt-ui-menu-item .yt-ui-menu-item-icon { opacity: 0.5; }
+.yt-ui-menu-item:hover .yt-ui-menu-item-icon { opacity: 0.6; }
+.yt-ui-menu-item:active .yt-ui-menu-item-icon { opacity: 0.8; }
+.yt-ui-menu-item:hover:active .yt-ui-menu-item-icon { opacity: 1; }
+.yt-uix-menu-trigger-selected .yt-ui-menu-item, .yt-ui-menu-item:hover { background: none repeat scroll 0% 0% rgb(238, 238, 238); }
+.yt-ui-menu-item:focus { outline: medium none; background: none repeat scroll 0% 0% rgb(238, 238, 238); }
+.yt-ui-menu-content ul:focus { outline: medium none; }
+.yt-default h1, .yt-default h2, .yt-default h3, .yt-default h4, .yt-default h5, .yt-default h6, h1.yt, h2.yt, h3.yt, h4.yt, h5.yt, h6.yt { margin-top: 0px; margin-bottom: 13px; color: rgb(34, 34, 34); }
+.yt-default h1, h1.yt { font-size: 24px; font-weight: normal; }
+.yt-uix-simple-thumb-wrap { position: relative; overflow: hidden; display: inline-block; }
+.yt-uix-simple-thumb-related { height: 68px; }
+.yt-uix-simple-thumb-related > img { position: relative; top: -11px; }
+.video-list-item .yt-uix-simple-thumb-wrap { float: left; margin: 0px 8px 0px 0px; }
+a:hover .yt-uix-simple-thumb-wrap .video-time { display: none; }
+p.yt-spinner { text-align: center; padding: 1em; margin: 0px; line-height: 20px; }
+.yt-spinner-img, .yt-spinner-overlay { background: url('icn_loading_animated-vflff1mjj.gif') no-repeat scroll center center transparent; }
+.yt-spinner-img { width: 20px; height: 20px; vertical-align: middle; }
+.yt-spinner-message { vertical-align: middle; }
+.yt-sprite { display: inline-block; }
+.yt-thumb { overflow: hidden; background: none repeat scroll 0% 0% rgb(241, 241, 241); font-size: 0px; vertical-align: middle; display: inline-block; }
+.yt-thumb .vertical-align { height: 100%; }
+.yt-thumb img { font-size: 13px; outline: medium none; }
+.yt-thumb-clip { position: absolute; bottom: -100px; top: -100px; left: -100px; right: -100px; text-align: center; white-space: nowrap; word-break: normal; }
+.yt-thumb-clip img, .yt-thumb-clip .vertical-align { display: inline-block; vertical-align: middle; }
+.yt-thumb-poster, .yt-thumb-square, .yt-thumb-feed, .yt-thumb-related-playlist, .yt-thumb-default { display: block; height: auto; }
+.yt-thumb-square { padding-bottom: 100%; }
+.yt-thumb-default { padding-bottom: 56.25%; }
+.yt-thumb-20 { width: 20px; }
+.yt-thumb-24 { width: 24px; }
+.yt-thumb-27 { width: 27px; }
+.yt-thumb-36 { width: 36px; }
+.yt-thumb-48 { width: 48px; }
+.yt-thumb-64 { width: 64px; }
+.yt-thumb-72 { width: 72px; }
+.yt-thumb-120 { width: 120px; }
+.ux-thumb-wrap:hover .video-actions, a:hover .video-actions, .video-actions:focus, .video-actions.yt-uix-button-active { opacity: 1; }
+.video-list-item .ux-thumb-wrap, .video-list-item .user-thumb-large, .video-list-item .yt-pl-thumb { float: left; margin: 0px 8px 0px 0px; }
+.video-thumb { position: relative; }
+.video-actions { position: absolute; right: 2px; bottom: 2px; }
+.video-time { position: absolute; right: 2px; bottom: 2px; margin-top: 0px; margin-right: 0px; }
+.video-actions { opacity: 0; display: block; cursor: pointer; }
+.video-time { padding: 0px 4px; font-weight: bold; font-size: 11px; background-color: rgb(0, 0, 0); color: rgb(255, 255, 255) ! important; height: 14px; line-height: 14px; opacity: 0.75; vertical-align: top; display: inline-block; }
+.yt-valign { white-space: nowrap; }
+.yt-valign:before, .yt-valign-container { vertical-align: middle; display: inline-block; }
+.yt-valign:before { content: ""; height: 100%; }
+.yt-uix-button { display: inline-block; height: 28px; border: 1px solid transparent; padding: 0px 10px; outline: 0px none; font-weight: bold; font-size: 11px; text-decoration: none; white-space: nowrap; word-wrap: normal; line-height: normal; vertical-align: middle; cursor: pointer; border-radius: 2px; box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05); }
+.yt-uix-button:hover { text-decoration: none; }
+.yt-uix-button:focus, .yt-uix-button:focus:hover, .yt-uix-button-focused, .yt-uix-button-focused:hover { box-shadow: 0px 0px 0px 2px rgba(27, 127, 204, 0.4); }
+.no-focus-outline .yt-uix-button:focus, .no-focus-outline .yt-uix-button:focus:hover, .no-focus-outline .yt-uix-button-focused, .no-focus-outline .yt-uix-button-focused:hover { box-shadow: none; }
+.yt-uix-button::-moz-focus-inner { border: 0px none; padding: 0px; }
+.yt-uix-button[disabled], .yt-uix-button[disabled]:hover, .yt-uix-button[disabled]:active, .yt-uix-button[disabled]:focus { opacity: 0.5; cursor: auto; box-shadow: none; }
+.yt-uix-button img, .yt-uix-button-icon-wrapper + .yt-uix-button-content { vertical-align: middle; }
+.yt-uix-button .yt-uix-button-icon, .yt-uix-button .yt-uix-button-arrow { display: inline-block; vertical-align: middle; }
+.yt-uix-button-icon-wrapper { display: inline-block; margin-right: 6px; font-size: 0px; vertical-align: middle; }
+.yt-uix-button-has-icon:before, a.yt-uix-button:before { content: ""; display: inline-block; height: 100%; vertical-align: middle; }
+.yt-uix-button-empty .yt-uix-button-icon-wrapper { margin-right: 0px; max-height: none; max-width: none; }
+.yt-uix-button.hid { display: none; }
+.yt-uix-button-short, .yt-uix-button-size-small { height: 20px; color: rgb(102, 102, 102); }
+.yt-uix-button-default:hover, .yt-uix-button-text:hover { border-color: rgb(198, 198, 198); background: none repeat scroll 0% 0% rgb(240, 240, 240); box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.1); }
+.yt-uix-button-default:active, .yt-uix-button-default.yt-uix-button-toggled, .yt-uix-button-default.yt-uix-button-active, .yt-uix-button-default.yt-uix-button-active:focus, .yt-uix-button-text:active { border-color: rgb(198, 198, 198); background: none repeat scroll 0% 0% rgb(233, 233, 233); box-shadow: 0px 1px 0px rgb(221, 221, 221) inset; }
+.yt-uix-button-default, .yt-uix-button-default[disabled], .yt-uix-button-default[disabled]:hover, .yt-uix-button-default[disabled]:active, .yt-uix-button-default[disabled]:focus { border-color: rgb(211, 211, 211); background: none repeat scroll 0% 0% rgb(248, 248, 248); color: rgb(51, 51, 51); }
+.yt-uix-button-opacity, .yt-uix-button-opacity:hover, .yt-uix-button-dark-opacity, .yt-uix-button-dark-opacity:hover { box-shadow: none; }
+.yt-uix-button-opacity { opacity: 0.5; }
+.yt-uix-button-opacity:hover { opacity: 0.6; }
+.yt-uix-button-opacity:active, .yt-uix-button-opacity.yt-uix-button-active, .yt-uix-button-opacity.yt-uix-button-toggled { opacity: 0.8; }
+.yt-uix-button-opacity:active:hover, .yt-uix-button-opacity.yt-uix-button-active:hover, .yt-uix-button-opacity.yt-uix-button-toggled:hover { opacity: 1; }
+.yt-uix-button-primary, .yt-uix-button-primary[disabled], .yt-uix-button-primary[disabled]:hover, .yt-uix-button-primary[disabled]:active, .yt-uix-button-primary[disabled]:focus { border-color: rgb(22, 122, 198); background: none repeat scroll 0% 0% rgb(22, 122, 198); color: rgb(255, 255, 255); }
+.yt-uix-button-primary:hover { background: none repeat scroll 0% 0% rgb(18, 109, 179); }
+.yt-uix-button-primary:active, .yt-uix-button-primary.yt-uix-button-toggled, .yt-uix-button-primary.yt-uix-button-active, .yt-uix-button-primary.yt-uix-button-active:focus { background: none repeat scroll 0% 0% rgb(9, 91, 153); box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.5) inset; }
+.yt-uix-button-primary[disabled]:active, .yt-uix-button-primary.yt-uix-button-toggled[disabled] { box-shadow: none; }
+.yt-uix-button-text, .yt-uix-button-text[disabled] { border: 1px solid transparent; outline: 0px none; background: none repeat scroll 0% 0% transparent; color: rgb(51, 51, 51); box-shadow: none; }
+a.yt-uix-button { text-decoration: none; box-sizing: border-box; }
+.yt-uix-button-group { display: inline-block; white-space: nowrap; vertical-align: middle; }
+.yt-uix-button-group .yt-uix-button { margin-right: -1px; border-radius: 0px; }
+.yt-uix-button-group .yt-uix-button:hover { position: relative; z-index: 2147483645; }
+.yt-uix-button-arrow { margin-top: -3px; margin-left: 5px; border-style: solid; border-right: 4px solid transparent; border-color: rgb(51, 51, 51) transparent transparent; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; border-width: 4px 4px 0px; width: 0px; height: 0px; }
+.yt-uix-button-reverse .yt-uix-button-arrow { border-width: 0px 4px 4px; border-top-color: transparent; border-bottom-color: rgb(51, 51, 51); }
+.yt-uix-button-empty .yt-uix-button-arrow { margin-left: 0px; }
+.yt-uix-button .yt-uix-button-menu { display: none; }
+.yt-uix-button .yt-uix-button-menu:focus { outline: medium none; }
+.yt-uix-button-menu { outline: medium none; padding: 8px 0px; position: absolute; border: 1px solid rgb(204, 204, 204); z-index: 2147483647; overflow: auto; background: none repeat scroll 0% 0% rgb(255, 255, 255); border-radius: 2px; }
+.yt-uix-button-menu li { margin: 0px; padding: 0px; }
+.yt-uix-button-menu .yt-uix-button-menu-item { display: block; margin: 0px; padding: 0px 25px; color: rgb(51, 51, 51); font-size: 13px; text-decoration: none; white-space: nowrap; word-wrap: normal; line-height: 25px; cursor: pointer; }
+.yt-uix-button-menu-item-selected .yt-uix-button-menu-item { font-weight: bold; }
+.yt-uix-button-menu .yt-uix-button-menu-item.selected, .yt-uix-button-menu .yt-uix-button-menu-item-highlight .yt-uix-button-menu-item, .yt-uix-button-menu .yt-uix-button-menu-item:hover { background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); }
+.yt-uix-button-menu .yt-uix-button-icon-checkbox { float: left; padding: 5px 0px 5px 4px; }
+.yt-uix-button-menu .yt-uix-button-icon-dropdown-checked { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -44px -2088px transparent; width: 15px; height: 14px; }
+.yt-uix-button-menu li:hover .yt-uix-button-icon-dropdown-checked { background-position: -20px -1427px; }
+.yt-uix-expander-head { cursor: pointer; -moz-user-select: none; }
+.yt-uix-expander .yt-uix-expander-collapsed-body, .yt-uix-expander-collapsed .yt-uix-expander-body { display: none; }
+.yt-uix-expander-collapsed .yt-uix-expander-collapsed-body { display: block; }
+.yt-uix-button-subscription-container { max-width: 100%; white-space: nowrap; display: inline-block; }
+.yt-uix-button-subscribe-branded { border-width: 0px 1px; padding: 0px 8px 0px 5.5px; height: 24px; max-width: 100%; }
+.yt-uix-button-subscribe-branded, .yt-uix-button-subscribe-branded[disabled], .yt-uix-button-subscribe-branded[disabled]:hover, .yt-uix-button-subscribe-branded[disabled]:active, .yt-uix-button-subscribe-branded[disabled]:focus { color: rgb(254, 254, 254); background-color: rgb(230, 33, 23); }
+.yt-uix-button-subscribe-branded:hover { background-color: rgb(204, 24, 30); }
+.yt-uix-button-subscribe-branded.yt-is-buffered, .yt-uix-button-subscribe-branded:active, .yt-uix-button-subscribe-branded.yt-uix-button-toggled, .yt-uix-button-subscribe-branded.yt-uix-button-active, .yt-uix-button-subscribed-branded.external, .yt-uix-button-subscribed-branded.external[disabled], .yt-uix-button-subscribed-branded.external:active, .yt-uix-button-subscribed-branded.external.yt-uix-button-toggled, .yt-uix-button-subscribed-branded.external.yt-uix-button-active { background-color: rgb(179, 18, 23); }
+.yt-uix-button-subscribe-branded .yt-uix-button-content, .yt-uix-button-subscribed-branded .yt-uix-button-content, .yt-uix-button-subscribe-unbranded .yt-uix-button-content, .yt-uix-button-subscribed-unbranded .yt-uix-button-content { display: inline-block; max-width: 100%; overflow: hidden; white-space: nowrap; word-wrap: normal; text-overflow: ellipsis; }
+.yt-uix-button-subscribe-branded .yt-uix-button-content, .yt-uix-button-subscribed-branded .yt-uix-button-content { font-size: 12px; font-weight: normal; }
+.subscribe-label, .subscribed-label, .unsubscribe-label, .unavailable-label, .yt-uix-button-subscribed-branded.hover-enabled:hover .subscribed-label, .yt-uix-button-subscribed-unbranded.hover-enabled:hover .subscribed-label { display: none; box-sizing: border-box; }
+.yt-uix-button-subscribe-branded .subscribe-label, .yt-uix-button-subscribe-branded .unavailable-label, .yt-uix-button-subscribed-branded .subscribed-label, .yt-uix-button-subscribed-branded.hover-enabled:hover .unsubscribe-label, .yt-uix-button-subscribe-unbranded .subscribe-label, .yt-uix-button-subscribe-unbranded .unavailable-label, .yt-uix-button-subscribed-unbranded .subscribed-label, .yt-uix-button-subscribed-unbranded.hover-enabled:hover .unsubscribe-label { display: inline; }
+.yt-uix-button-subscribe-branded .yt-uix-button-icon-subscribe { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -1840px transparent; width: 16px; height: 12px; }
+.yt-subscription-button-disabled-mask { display: none; position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; }
+.yt-uix-subscription-preferences-button { display: none; margin-left: -2px; padding: 0px 4px; height: 24px; border-radius: 0px 2px 2px 0px; }
+.yt-uix-subscription-preferences-button .yt-uix-button-icon-wrapper { height: 13px; }
+.yt-uix-subscription-preferences-button .yt-uix-button-icon-subscription-preferences { display: inline-block; background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -1163px transparent; width: 12px; height: 12px; }
+.yt-uix-subscription-preferences-button:hover .yt-uix-button-icon-subscription-preferences { background-position: -56px -1786px; }
+.yt-subscription-button-subscriber-count-branded-horizontal, .yt-subscription-button-subscriber-count-unbranded-horizontal { display: none; margin-left: -2px; background-color: rgb(250, 250, 250); vertical-align: middle; border-radius: 0px 2px 2px 0px; }
+.yt-subscription-button-subscriber-count-branded-horizontal.yt-uix-tooltip, .yt-subscription-button-subscriber-count-unbranded-horizontal.yt-uix-tooltip { display: none; }
+.yt-uix-button-subscribe-branded + .yt-subscription-button-subscriber-count-branded-horizontal, .yt-uix-button-subscribe-unbranded + .yt-subscription-button-subscriber-count-unbranded-horizontal, .yt-uix-button-subscribe-branded + .yt-uix-subscription-preferences-button + .yt-subscription-button-subscriber-count-branded-horizontal, .yt-uix-button-subscribed-branded + .yt-subscription-button-subscriber-count-branded-horizontal.subscribed, .yt-uix-button-subscribed-unbranded + .yt-subscription-button-subscriber-count-unbranded-horizontal.subscribed, .yt-uix-button-subscribed-branded + .yt-uix-subscription-preferences-button + .yt-subscription-button-subscriber-count-branded-horizontal.subscribed { display: inline-block; }
+.yt-subscription-button-subscriber-count-branded-horizontal { padding: 0px 6px; height: 22px; border: 1px solid rgb(204, 204, 204); color: rgb(119, 119, 119); font-size: 11px; text-align: center; line-height: 22px; }
+.yt-uix-button-subscribe-branded + .yt-subscription-button-subscriber-count-branded-horizontal, .yt-uix-button-subscribe-branded + .yt-uix-subscription-preferences-button + .yt-subscription-button-subscriber-count-branded-horizontal { border-left: 0px none; }
+.yt-uix-clickcard-content, .yt-uix-hovercard-content, * html .yt-uix-card-border-arrow, * html .yt-uix-card-body-arrow { display: none; }
+.yt-uix-hovercard-target, .yt-uix-clickcard-target { cursor: pointer; }
+.yt-uix-form-legend, .yt-uix-form-label { display: block; font-size: 11px; font-weight: bold; color: rgb(51, 51, 51); text-transform: uppercase; }
+.yt-uix-form-input-select, .yt-uix-form-input-text, .yt-uix-form-input-textarea { border: 1px solid rgb(211, 211, 211); color: rgb(51, 51, 51); }
+.yt-uix-form-input-select:hover, .yt-uix-form-input-text:hover, .yt-uix-form-input-textarea:hover { border-color: rgb(185, 185, 185); }
+.yt-uix-form-input-checkbox-element, .yt-uix-form-input-radio-element, .yt-uix-form-input-text, .yt-uix-form-input-textarea { box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.05) inset; }
+.yt-uix-form-input-select.focused, .yt-uix-form-input-checkbox:focus + .yt-uix-form-input-checkbox-element, .yt-uix-form-input-radio:focus + .yt-uix-form-input-radio-element, .yt-uix-form-input-text:focus, .yt-uix-form-input-textarea:focus { outline: 0px none; border-color: rgb(22, 122, 198); box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.1) inset; }
+.yt-uix-form-input-text { width: 250px; padding: 5px 10px 6px; margin-top: 0px; margin-bottom: 0px; font-size: 13px; }
+.yt-uix-form-input-text:-moz-placeholder, .yt-uix-form-input-textarea:-moz-placeholder { color: rgb(153, 153, 153); opacity: 1; }
+.yt-uix-form-input-text::-moz-placeholder { color: rgb(153, 153, 153); opacity: 1; }
+.yt-uix-form-input-textarea::-moz-placeholder { color: rgb(153, 153, 153); opacity: 1; }
+.yt-uix-form-input-container.yt-uix-form-input-fluid-container { display: block; overflow: hidden; }
+.yt-uix-form-input-fluid { display: block; overflow: hidden; padding-right: 22px; }
+.yt-uix-form-input-fluid .yt-uix-form-input-text, .yt-uix-form-input-fluid .yt-uix-form-input-textarea { width: 100%; }
+.yt-uix-menu { display: inline-block; position: relative; }
+.yt-uix-menu-content { position: absolute; z-index: 2000000100; }
+.yt-uix-menu-content .yt-uix-menu, .yt-uix-menu-trigger { width: 100%; }
+.yt-uix-menu-content-hidden { display: none; }
+.yt-uix-menu .yt-uix-menu-mask, .yt-uix-menu .yt-uix-menu-content { left: 100%; top: 0px; }
+.yt-dialog-base, .yt-uix-overlay-base { position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; text-align: center; z-index: 2000000003; overflow: auto; -moz-user-select: none; }
+.yt-dialog-fg, .yt-uix-overlay-fg { position: relative; background: none repeat scroll 0% 0% rgb(255, 255, 255); text-align: left; z-index: 2000000002; box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.18); display: inline-block; -moz-user-select: text; }
+.yt-dialog-align, .yt-dialog-fg, .yt-uix-overlay-align, .yt-uix-overlay-fg { vertical-align: middle; display: inline-block; }
+.yt-dialog-fg { border: 1px solid rgb(226, 226, 226); }
+.yt-dialog-align, .yt-uix-overlay-align { height: 100%; }
+.yt-dialog-base .yt-dialog-header .yt-dialog-title, .yt-uix-overlay-base .yt-uix-overlay-header .yt-dialog-title { margin: 0px; font-weight: bold; overflow: hidden; white-space: nowrap; word-wrap: normal; text-overflow: ellipsis; }
+.yt-dialog-fg-content, .yt-uix-overlay-fg-content { overflow: hidden; padding: 0px 20px 20px; color: rgb(51, 51, 51); }
+.yt-dialog-fg-content .yt-dialog-title, .yt-uix-overlay-fg-content .yt-dialog-title { margin: 0px -20px; color: rgb(51, 51, 51); font-weight: bold; font-size: 15px; line-height: 55px; vertical-align: middle; overflow: hidden; white-space: nowrap; word-wrap: normal; text-overflow: ellipsis; }
+.yt-dialog-loading, .yt-dialog-working { display: none; }
+.yt-dialog-content { visibility: hidden; }
+.yt-dialog-waiting-content { position: absolute; top: 50%; left: 50%; margin-left: -50px; }
+.yt-dialog-loading .yt-dialog-waiting-content { margin-top: -20px; font-size: 14px; text-align: center; }
+.yt-dialog-working-bubble .yt-dialog-waiting-content { margin-top: -7px; }
+.yt-dialog-waiting-content .yt-spinner-img { float: left; margin-right: 8px; }
+.yt-dialog-working-overlay { position: absolute; height: 100%; width: 100%; top: -1px; left: -1px; border: 1px solid rgb(255, 255, 255); background-color: rgb(255, 255, 255); opacity: 0.7; }
+.yt-dialog-working-bubble { position: absolute; height: 100px; width: 200px; top: 50%; left: 50%; margin: -50px 0px 0px -100px; background-color: rgb(241, 241, 241); border: 1px solid rgb(221, 221, 221); text-align: center; border-radius: 6px; }
+.yt-uix-tooltip { display: inline-block; }
+.yt-uix-tooltip.hid { display: none; }
+.comments:not(.embedded) .mod-button.disabled-s, .comments.embedded .mod-button.disabled-e { opacity: 0.25 ! important; pointer-events: none; }
+.distiller-first-time-promo { display: none; position: absolute; width: 450px; height: 0px; font-size: 15px; font-weight: normal; }
+.distiller-first-time-promo.slim { width: 320px; }
+.distiller-first-time-promo .content { position: relative; top: 10px; left: -25px; border: 1px solid rgb(221, 221, 221); padding: 25px 15px 40px 60px; background-color: rgb(255, 255, 255); line-height: 18px; z-index: 1000; box-shadow: 0px 1px 10px rgba(180, 180, 180, 0.5); }
+.distiller-first-time-promo .arrow { position: absolute; left: 25px; top: -10px; margin: 0px; border-width: 0px 10px 10px; border-style: none solid solid; border-color: -moz-use-text-color transparent rgb(255, 255, 255); padding: 0px; font-size: 0px; line-height: 0; }
+.distiller-first-time-promo .arrow-border { top: -11px; border-bottom-color: rgb(204, 204, 204); }
+.distiller-first-time-promo .user-avatar { position: absolute; top: 20px; left: 20px; height: 0px; }
+.distiller-first-time-promo .text { margin: 0px 0px 20px; color: rgb(34, 34, 34); }
+.distiller-first-time-promo .dismiss-button { position: absolute; bottom: 20px; right: 20px; border-color: rgb(22, 122, 198); min-width: 60px; background-color: rgb(22, 122, 198); color: rgb(255, 255, 255); }
+.comments-iframe-container { margin-left: -2px; }
+#player-mole-container { position: relative; }
+.video-list-item a { position: relative; padding: 0px 5px; display: block; overflow: hidden; color: rgb(51, 51, 51); }
+.video-list-item a:hover { background: none repeat scroll 0% 0% rgb(255, 255, 255); text-decoration: none; }
+.video-list-item a:visited .title { color: rgb(68, 0, 136); }
+.video-list-item a:hover .title { text-decoration: underline; }
+.video-list-item .title { display: block; font-size: 1.0833em; font-weight: normal; line-height: 1.2; color: rgb(0, 51, 204); max-height: 2.4em; margin-bottom: 2px; overflow: hidden; cursor: pointer; }
+.video-list-item .stat { display: block; font-size: 0.9166em; color: rgb(102, 102, 102); line-height: 1.4em; height: 1.4em; white-space: nowrap; }
+.video-list .video-list-item .title { color: rgb(51, 51, 51); font-size: 13px; font-weight: bold; }
+.video-list .video-list-item .title:hover { text-decoration: underline; }
+.video-list .video-list-item .title:visited { color: rgb(0, 51, 102); }
+.video-list .video-list-item .description, .video-list .video-list-item .stat { color: rgb(153, 153, 153); font-size: 11px; }
+@media not all {
+  .thumb-normal .video-list .yt-thumb-64 .yt-thumb-square .clip img { position: relative; left: -1px; }
+}
+.trimmer button.nudge-left::-moz-focus-inner, .trimmer button.nudge-right::-moz-focus-inner { border: 0px none; padding: 0px; margin: 0px; }
+.watch #content.content-alignment { width: auto; min-width: 1003px; max-width: 1040px; }
+#player.watch-small { width: auto; max-width: 1040px; }
+#player { width: 1003px; margin-left: auto; margin-right: auto; margin-top: 10px; }
+@media screen and (min-width: 894px) and (min-height: 630px) {
+  .watch-stage-mode #player { width: 854px; }
+}
+@media screen and (min-width: 1320px) and (min-height: 870px) {
+  .watch-stage-mode #player { width: 1280px; }
+}
+#player #player-api { float: left; }
+#watch7-main { position: relative; margin-top: 0px; margin-bottom: 30px; }
+#player.watch-small, #watch7-main { min-width: 960px; }
+#watch7-sidebar { position: relative; margin-top: -390px; margin-left: 650px; margin-bottom: 20px; transition: margin-top 0.3s ease-in-out 0s, padding-top 0.3s ease-in-out 0s; }
+#watch-more-related-loading { text-transform: uppercase; text-align: center; font-size: 11px; font-weight: bold; color: rgb(153, 153, 153); }
+#watch7-preview { position: relative; margin-top: -390px; z-index: 1000; }
+.watch-sidebar-gutter { padding-left: 10px; padding-right: 10px; }
+#watch7-sidebar-contents { padding-left: 5px; min-height: 390px; margin-top: 0px; }
+#watch-header { padding-bottom: 5px; }
+#watch7-content { float: left; width: 640px; z-index: 0; }
+.watch-content { float: left; clear: left; width: 640px; }
+@media screen and (min-width: 1294px) and (min-height: 630px) {
+  .watch-non-stage-mode #watch7-content { width: 854px; }
+  .watch-non-stage-mode.watch #content.content-alignment, .watch-non-stage-mode #player.watch-small { max-width: 1254px; }
+  .watch-non-stage-mode #watch7-preview { margin-top: -510px; }
+  .watch-non-stage-mode #watch7-sidebar { top: -120px; margin-left: 864px; }
+  .watch-non-stage-mode #watch7-sidebar-contents { min-height: 510px; }
+}
+@media screen and (min-width: 1720px) and (min-height: 980px) {
+  .watch-non-stage-mode #watch7-content { width: 1280px; }
+  .watch-non-stage-mode.watch #content.content-alignment, .watch-non-stage-mode #player.watch-small { max-width: 1680px; }
+  .watch-non-stage-mode #watch7-preview { margin-top: -750px; }
+  .watch-non-stage-mode #watch7-sidebar { top: -360px; margin-left: 1290px; }
+  .watch-non-stage-mode #watch7-sidebar-contents { min-height: 750px; }
+}
+.watch-sidebar { min-width: 300px; max-width: 400px; }
+#watch7-speedyg-area .yt-alert { margin: 0px; }
+#watch8-action-buttons { position: relative; padding-top: 5px; border-top: 1px solid rgb(226, 226, 226); }
+#watch-action-panels { position: relative; }
+.watch8 #action-panel-dismiss { position: absolute; top: 3px; right: 3px; }
+@media screen and (min-width: 1294px) and (min-height: 630px) {
+  .not-watch8 .watch-non-stage-mode .action-panel-content { width: 814px; }
+}
+#action-panel-stats.action-panel-content { padding: 0px; width: 640px; }
+#action-panel-details a { color: rgb(153, 153, 153); }
+.watch8 #action-panel-details a { color: rgb(51, 51, 51); }
+#action-panel-details:hover a { color: rgb(22, 122, 198); }
+.action-panel-login, .action-panel-loading, .action-panel-error { padding: 20px; text-align: center; }
+.action-panel-loading, .action-panel-error { color: rgb(102, 102, 102); }
+#watch8-sentiment-actions { float: right; }
+#watch8-secondary-actions { position: absolute; left: -10px; }
+.actionable #watch-like:active .yt-uix-button-content, .actionable #watch-like.yt-uix-button-toggled .yt-uix-button-content { color: rgb(22, 122, 198); }
+.watch8 #watch-like-dislike-buttons .yt-uix-button { padding-right: 0px; }
+.yt-uix-button-icon-watch-like { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -1092px transparent; width: 20px; height: 20px; }
+.yt-uix-button-icon-watch-dislike { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -1574px transparent; width: 20px; height: 20px; padding-bottom: 1px; }
+.actionable .yt-uix-button:active .yt-uix-button-icon-watch-like, .actionable .yt-uix-button.yt-uix-button-toggled .yt-uix-button-icon-watch-like { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -100px transparent; width: 20px; height: 20px; }
+#watch8-action-buttons .yt-uix-button, #watch8-action-buttons .yt-uix-button:hover, .watch8 #action-panel-dismiss, .watch8 #action-panel-dismiss:hover { background: none repeat scroll 0% 0% transparent; border: medium none; }
+.yt-uix-button-icon-action-panel-stats { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -18px -1517px transparent; width: 18px; height: 18px; }
+.yt-uix-button-icon-action-panel-report { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -24px -1895px transparent; width: 18px; height: 18px; }
+.yt-uix-button-icon-action-panel-addto, .yt-uix-button-icon-action-panel-none-addto { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -900px transparent; width: 20px; height: 20px; }
+.yt-uix-button-icon-action-panel-share { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -44px -876px transparent; width: 20px; height: 20px; }
+.watch8 .yt-uix-button-icon-action-panel-overflow { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -27px -250px transparent; width: 20px; height: 20px; }
+.watch8 .yt-uix-menu-content .yt-uix-button-icon-action-panel-report { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -18px -1551px transparent; width: 16px; height: 16px; }
+.watch8 .yt-uix-menu-content .yt-uix-button-icon-action-panel-transcript { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -1856px transparent; width: 16px; height: 16px; }
+.watch8 .yt-uix-menu-content .yt-uix-button-icon-action-panel-stats { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -23px -702px transparent; width: 16px; height: 16px; }
+.watch8 .yt-uix-button-icon-action-panel-dismiss { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -28px -1635px transparent; width: 10px; height: 10px; }
+.watch8 .yt-uix-button-icon-watch-like { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -1092px transparent; width: 20px; height: 20px; }
+.watch8 .actionable .yt-uix-button:active .yt-uix-button-icon-watch-like, .watch8 .actionable .yt-uix-button.yt-uix-button-toggled .yt-uix-button-icon-watch-like { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -100px transparent; width: 20px; height: 20px; }
+.watch8 .yt-uix-button-icon-watch-dislike { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -1574px transparent; width: 20px; height: 20px; }
+#watch-description { position: relative; z-index: 1; overflow: hidden; line-height: 17px; color: rgb(51, 51, 51); }
+.watch-time-text { vertical-align: middle; }
+.watch8 #watch-description-extras { margin-top: 8px; }
+.watch-extras-section .title { font-size: 11px; }
+.watch-extras-section .content { font-size: 11px; margin-left: 110px; }
+.watch-extras-section .title { float: left; width: 100px; font-weight: bold; }
+.yt-uix-expander-collapsed #watch-description-text { max-height: 51px; overflow: hidden; }
+.watch-info-tag-list a { white-space: nowrap; }
+.watch-info-tag-list li { display: inline; }
+.watch-info-tag-list li:after { content: ","; }
+.watch-info-tag-list li:last-child:after { content: ""; }
+.video-extras-sparkbars { height: 2px; overflow: hidden; }
+.video-extras-sparkbar-likes { float: left; height: 2px; background: none repeat scroll 0% 0% rgb(22, 122, 198); }
+.video-extras-sparkbar-dislikes { float: left; height: 2px; background: none repeat scroll 0% 0% rgb(204, 204, 204); }
+#watch7-user-header { position: relative; padding-bottom: 10px; overflow: hidden; }
+#watch7-headline h1 { margin-bottom: 10px; line-height: normal; overflow: hidden; }
+#watch7-views-info { position: absolute; bottom: 33px; right: 0px; min-width: 160px; max-width: 220px; }
+.watch-view-count { font-size: 19px; line-height: 24px; position: absolute; bottom: 6px; right: 0px; color: rgb(102, 102, 102); }
+#watch7-user-header .yt-user-photo { float: left; }
+#watch7-user-header .yt-user-info { margin-left: 58px; white-space: nowrap; width: 380px; }
+#watch7-user-header .yt-user-info a { display: inline-block; height: 22px; color: rgb(51, 51, 51); font-weight: bold; max-width: 315px; overflow: hidden; text-overflow: ellipsis; vertical-align: top; }
+#watch7-subscription-container { margin-left: 10px; }
+@media screen and (min-width: 894px) and (min-height: 630px) {
+  .watch-stage-mode #alerts { width: 854px; }
+}
+@media screen and (min-width: 1320px) and (min-height: 870px) {
+  .watch-stage-mode #alerts { width: 1280px; }
+}
+#player { transition: background-color 0.3s ease-in-out 0s, background-image 0.3s ease-in-out 0s; color: rgb(255, 255, 255); }
+.player-api { overflow: hidden; background: none repeat scroll 0% 0% rgb(0, 0, 0); }
+.player-api object, .player-api embed { position: relative; width: 100% ! important; height: 100% ! important; }
+.player-width { width: 640px; }
+.player-height { height: 390px; }
+#theater-background { position: absolute; left: 0px; width: 100%; transition: background-color 0.3s ease 0s; }
+.watch-non-stage-mode #theater-background { background-color: transparent; }
+.player-unavailable { float: left; background: linear-gradient(to bottom, rgb(56, 56, 56) 0px, rgb(19, 19, 19) 100%) repeat scroll 0% 0% rgb(38, 38, 38); position: relative; text-align: left; font-size: 13px; line-height: 1.2; }
+.player-unavailable .icon { position: absolute; width: 140px; height: 100px; left: 50%; top: 60%; margin-left: -70px; margin-top: -50px; }
+.player-unavailable .content { position: absolute; top: 25px; left: 25px; bottom: 50px; right: 25px; }
+.player-unavailable .content .message { margin: 0px -5px 15px; padding: 0px 5px 14px; border-bottom: 1px solid rgb(136, 136, 136); font-size: 19px; font-weight: normal; text-shadow: 0px 2px 2px rgb(0, 0, 0); }
+.player-unavailable .content .submessage { text-shadow: 0px 1px 1px rgb(0, 0, 0); }
+@media screen and (min-width: 1294px) and (min-height: 630px) {
+  .watch-non-stage-mode .player-width { width: 854px; }
+  .watch-non-stage-mode .player-height { height: 510px; }
+  .exp-watch-controls-overlay .watch-non-stage-mode .player-height { height: 480px; }
+}
+@media screen and (min-width: 894px) and (min-height: 630px) {
+  .watch-stage-mode .player-width { width: 854px; }
+  .watch-stage-mode .player-height { height: 510px; }
+  .exp-watch-controls-overlay .watch-stage-mode .player-height { height: 480px; }
+}
+@media screen and (min-width: 1720px) and (min-height: 980px) {
+  .watch-non-stage-mode .player-width { width: 1280px; }
+  .watch-non-stage-mode .player-height { height: 750px; }
+  .exp-watch-controls-overlay .watch-non-stage-mode .player-height { height: 720px; }
+}
+@media screen and (min-width: 1320px) and (min-height: 870px) {
+  .watch-stage-mode .player-width { width: 1280px; }
+  .watch-stage-mode .player-height { height: 750px; }
+  .exp-watch-controls-overlay .watch-stage-mode .player-height { height: 720px; }
+}
+.watch-playlist .main-content { overflow: hidden; }
+.watch-non-stage-mode .watch-playlist { margin-left: -10px; }
+.watch-playlist { color: rgb(153, 153, 153); background: none repeat scroll 0% 0% rgb(26, 26, 26); margin-bottom: 10px; }
+#watch-appbar-playlist .playlist-header { padding: 0px 10px; }
+#watch-appbar-playlist .playlist-nav-controls { float: right; }
+#watch-appbar-playlist .control-bar { height: 24px; border-top: 1px solid rgb(58, 58, 58); padding: 7px 5px 8px; }
+#watch-appbar-playlist .yt-uix-button-player-controls { padding: 0px; color: rgb(153, 153, 153); font-size: 11px; margin-left: 10px; }
+#watch-appbar-playlist .yt-uix-button-player-controls:first-child { margin-left: 0px; }
+#watch-appbar-playlist .yt-uix-button-player-controls:focus { box-shadow: 0px 0px 0px 2px rgba(27, 127, 204, 0.8); }
+#watch-appbar-playlist .yt-uix-button-player-controls.yt-uix-button-opacity { opacity: 1; }
+#watch-appbar-playlist .yt-uix-button-opacity .yt-uix-button-icon { opacity: 0.5; }
+#watch-appbar-playlist .yt-uix-button-opacity:hover .yt-uix-button-icon { opacity: 0.6; }
+#watch-appbar-playlist .yt-uix-button-opacity:active .yt-uix-button-icon, #watch-appbar-playlist .yt-uix-button-opacity.yt-uix-button-active .yt-uix-button-icon, #watch-appbar-playlist .yt-uix-button-opacity.yt-uix-button-toggled .yt-uix-button-icon { opacity: 0.8; }
+#watch-appbar-playlist .yt-uix-button-opacity:active:hover .yt-uix-button-icon, #watch-appbar-playlist .yt-uix-button-opacity.yt-uix-button-active:hover .yt-uix-button-icon, #watch-appbar-playlist .yt-uix-button-opacity.yt-uix-button-toggled:hover .yt-uix-button-icon { opacity: 1; }
+#watch-appbar-playlist .yt-uix-button-icon-playlist-like { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -431px transparent; width: 20px; height: 20px; }
+#watch-appbar-playlist .yt-uix-button-icon-watch-appbar-play-prev { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -602px transparent; width: 24px; height: 24px; }
+#watch-appbar-playlist .yt-uix-button-icon-watch-appbar-play-next { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -36px -504px transparent; width: 24px; height: 24px; }
+#watch-appbar-playlist .yt-uix-button-icon-watch-appbar-shuffle-video-list { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -48px -801px transparent; width: 24px; height: 24px; }
+#watch-appbar-playlist .yt-uix-button-icon-watch-appbar-autoplay { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -58px transparent; width: 24px; height: 24px; }
+#watch-appbar-playlist .toggle-autoplay { text-transform: uppercase; }
+#watch-appbar-playlist .playlist-header-content { font-size: 11px; line-height: 1.5; padding: 15px 5px 8px; height: 37px; }
+#watch-appbar-playlist .playlist-info { overflow: hidden; white-space: nowrap; word-wrap: normal; text-overflow: ellipsis; }
+#watch-appbar-playlist .playlist-title { display: inline; color: rgb(255, 255, 255); font-size: 15px; font-weight: normal; }
+#watch-appbar-playlist .playlist-title a { color: inherit; }
+#watch-appbar-playlist .playlist-details > li { display: inline-block; }
+#watch-appbar-playlist .playlist-details > li:after { content: "•"; }
+#watch-appbar-playlist .playlist-details > li:last-child:after { content: ""; }
+#watch-appbar-playlist .author-attribution { font-size: 11px; }
+#watch-appbar-playlist .author-attribution a { color: inherit; }
+#watch-appbar-playlist .playlist-progress #playlist-current-index:after { content: "/"; }
+#watch-appbar-playlist .appbar-playlist-controls { float: right; }
+#watch-appbar-playlist .playlist-videos-container { clear: both; }
+#watch-appbar-playlist .playlist-videos-list { background-color: rgb(34, 34, 34); counter-reset: playlist-video-section; position: relative; overflow: auto; }
+.watch-playlist { min-height: 390px; }
+.playlist-videos-list { max-height: 290px; }
+@media screen and (min-width: 1294px) and (min-height: 630px) {
+  .watch-non-stage-mode .watch-playlist { min-height: 510px; }
+  .watch-non-stage-mode .watch-playlist .playlist-videos-list { max-height: 410px; }
+  .watch-non-stage-mode .watch-playlist.watch-queue-nav .playlist-videos-list { max-height: 450px; }
+}
+@media screen and (min-width: 1720px) and (min-height: 980px) {
+  .watch-non-stage-mode .watch-playlist { min-height: 750px; }
+  .watch-non-stage-mode .watch-playlist .playlist-videos-list { max-height: 650px; }
+  .watch-non-stage-mode .watch-playlist.watch-queue-nav .playlist-videos-list { max-height: 690px; }
+}
+#watch-appbar-playlist .playlist-videos-list > li { overflow: hidden; padding: 10px 10px 10px 0px; box-sizing: border-box; }
+#watch-appbar-playlist .playlist-videos-list > li .index { float: left; line-height: 41px; margin: 0px 2px; width: 24px; font-size: 10px; text-align: center; }
+#watch-appbar-playlist.radio-playlist .playlist-videos-list > li .index, #watch-appbar-playlist.radio-playlist:not(.watch-queue-nav) .playlist-videos-list > li.currently-playing .index { margin: 0px; width: 15px; }
+#watch-appbar-playlist .playlist-videos-list > li:hover { background-color: rgb(82, 82, 82); }
+#watch-appbar-playlist:not(.watch-queue-nav) .playlist-videos-list > li.currently-playing { background-color: rgb(58, 58, 58); height: 61px; }
+#watch-appbar-playlist:not(.watch-queue-nav) .playlist-videos-list > li.currently-playing .index { line-height: 40px; color: rgb(192, 54, 54); }
+#watch-appbar-playlist.radio-playlist .playlist-videos-list > li:nth-last-child(4), #watch-appbar-playlist.radio-playlist .playlist-videos-list > li:nth-last-child(3) { opacity: 0.5; }
+#watch-appbar-playlist.radio-playlist .playlist-videos-list > li:nth-last-child(2) { opacity: 0.2; }
+#watch-appbar-playlist .playlist-video { display: block; position: relative; height: 41px; }
+#watch-appbar-playlist .playlist-video .video-thumb { float: left; margin-right: 8px; margin-left: 0px; }
+#watch-appbar-playlist:not(.watch-queue-nav) .currently-playing .playlist-video .video-thumb { margin-left: 0px; border: 2px solid rgb(192, 54, 54); box-sizing: border-box; }
+#watch-appbar-playlist .playlist-video-description { position: relative; top: -2px; overflow: hidden; }
+#watch-appbar-playlist .playlist-video h4 { color: rgb(202, 202, 202); font-size: 13px; font-weight: normal; }
+#watch-appbar-playlist .video-uploader-byline { font-size: 11px; color: rgb(153, 153, 153); }
+#watch-appbar-playlist .playlist-video:hover { text-decoration: none; }
+#watch-appbar-playlist .playlist-videos-list .yt-ui-ellipsis { background-color: rgb(34, 34, 34); }
+#watch-appbar-playlist .playlist-videos-list > li:hover .yt-ui-ellipsis { background-color: rgb(82, 82, 82); }
+#watch-appbar-playlist:not(.watch-queue-nav) .playlist-videos-list > li.currently-playing .yt-ui-ellipsis { background-color: rgb(58, 58, 58); }
+#watch7-sidebar .watch-sidebar-section { position: relative; z-index: 2; margin: 0px 0px 15px 5px; }
+#watch7-sidebar .watch-sidebar-section:last-child { margin-bottom: 0px; }
+.video-list-item { position: relative; margin-bottom: 15px; }
+#watch7-sidebar .watch-sidebar-body .video-list-item:last-child { margin-bottom: 0px; }
+#watch7-sidebar .video-list-item a:hover { background: none repeat scroll 0% 0% transparent; }
+#watch7-sidebar .video-list-item:hover .title { color: rgb(22, 122, 198); text-decoration: none; }
+#watch7-sidebar .video-list-item a:visited .title { color: rgb(51, 51, 51); }
+#watch7-sidebar .video-list-item a:hover .title { color: rgb(22, 122, 198); }
+#watch7-sidebar .video-list-item a:hover:visited .title { color: rgb(0, 51, 102); }
+#watch-channel-brand-div { position: relative; text-align: center; margin-left: 10px; max-height: 265px; width: 300px; }
+#watch-channel-brand-div-text { display: none; position: absolute; top: -10px; height: 10px; text-align: center; line-height: 10px; font-size: 10px; color: rgb(153, 153, 153); width: 300px; }
+.yt-channel-title-autogenerated, .yt-channel-title-icon-verified { vertical-align: middle; margin-bottom: 2px; display: inline-block; }
+.yt-channel-title-icon-verified { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -472px transparent; width: 12px; height: 9px; }
+.yt-channel-title-icon-verified:hover { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -56px -1820px transparent; width: 12px; height: 9px; }
+/* ::::: https://s.ytimg.com/yts/cssbin/www-pageframe-vfllnW5Pq.css ::::: */
+
+.create-playlist-widget-button .yt-uix-button-arrow { display: none; }
+.create-playlist-widget-dialog { width: auto; padding: 0px; }
+.create-playlist-widget-form { width: 360px; }
+.create-playlist-widget-form .create-playlist-section { padding: 15px; }
+.create-playlist-widget-form .create-playlist-bottom-section { background-color: rgb(246, 246, 246); min-width: 250px; }
+.create-playlist-widget-form .yt-uix-form-label { margin: 10px 0px; overflow: hidden; white-space: nowrap; word-wrap: normal; text-overflow: ellipsis; }
+.create-playlist-widget-form .create-playlist-buttons { float: right; }
+.create-playlist-widget-form .create-playlist-buttons .yt-uix-button { margin-left: 10px; }
+.create-playlist-widget-form .yt-uix-button-icon-privacy-public { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -34px -924px transparent; width: 16px; height: 16px; }
+#yt-uix-videoactionmenu-menu { padding: 0px; z-index: 1999999997; }
+#yt-uix-videoactionmenu-menu h3 { color: rgb(51, 51, 51); font-size: 13px; font-weight: bold; padding: 15px 15px 5px; }
+body .addto-watch-later-button, .addto-watch-later-button-sign-in, .addto-watch-later-button-loading, .addto-watch-later-button-error, .addto-watch-later-button-success, .addto-watch-later-button-remove { width: 22px; height: 22px; padding: 0px; border-radius: 2px; }
+.addto-watch-later-button .yt-uix-button-icon-addto, .addto-watch-later-button-sign-in .yt-uix-button-icon-addto { width: 13px; height: 13px; background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -2140px transparent; }
+.addto-watch-queue-button, .addto-watch-queue-button-loading, .addto-watch-queue-button-success, .addto-watch-queue-button-error, body .addto-tv-queue-button { width: 22px; height: 22px; padding: 0px; border-radius: 2px; }
+.addto-watch-queue-button .yt-uix-button-icon-addto, .addto-tv-queue-button .yt-uix-button-icon-addto { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -24px -725px transparent; width: 20px; height: 20px; }
+body .addto-tv-queue-button, .remote-connected .addto-watch-queue-button { display: none; }
+.thumb-menu.dark-overflow-action-menu { display: none; position: absolute; top: 2px; right: 0px; }
+.watch-queue-thumb-menu { list-style-type: none; }
+.watch-queue-thumb-menu .yt-uix-button-icon-wrapper { float: left; }
+.watch-queue-thumb-menu.yt-uix-button-menu .yt-uix-button-menu-item { padding-left: 10px; }
+.thumb-menu .yt-uix-button-dark-overflow-action-menu, .thumb-menu .yt-uix-button-dark-overflow-action-menu:focus, .thumb-menu .yt-uix-button-dark-overflow-action-menu:focus:hover { border: medium none; box-shadow: none; }
+.thumb-menu.dark-overflow-action-menu .yt-uix-button { padding: 0px 5px 0px 10px; }
+.addto-watch-queue-play-next-icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -49px -1614px transparent; width: 16px; height: 16px; }
+.addto-watch-queue-play-now-icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -29px -1407px transparent; width: 16px; height: 16px; }
+.addto-watch-queue-menu-choice:hover .addto-watch-queue-play-next-icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -56px -332px transparent; width: 16px; height: 16px; }
+.addto-watch-queue-menu-choice:hover .addto-watch-queue-play-now-icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -22px -987px transparent; width: 16px; height: 16px; }
+#masthead-positioner { position: fixed; top: 0px; right: 0px; left: 0px; z-index: 1999999999; transform: translateZ(0px); }
+#masthead-positioner-height-offset { height: 90px; }
+.appbar-hidden #masthead-positioner-height-offset { height: 50px; }
+#masthead-appbar-container { overflow: hidden; }
+.appbar-hidden #masthead-appbar { margin-top: -41px; }
+.page-loaded #masthead-appbar { transition: margin-top 0.3s ease 0s; }
+#masthead-appbar { position: relative; background-color: rgb(255, 255, 255); border-bottom: 1px solid rgb(232, 232, 232); height: 40px; line-height: 40px; }
+#appbar-content { position: absolute; left: 0px; right: 0px; height: 40px; overflow: hidden; }
+#appbar-guide-menu { width: 230px; height: auto; max-height: 100%; }
+@media screen and (max-height: 570px) {
+  #appbar-guide-menu { overflow: hidden; padding-bottom: 50px; outline: 420px solid transparent; }
+  .sitewide-ticker-visible #appbar-guide-menu { padding-bottom: 79px; }
+  #appbar-guide-menu:hover { overflow-y: auto; }
+}
+.appbar-guide-menu-layout { margin-top: 50px; }
+#appbar-guide-menu, .guide-flyout { box-sizing: border-box; background: none repeat scroll 0% 0% rgb(255, 255, 255); z-index: 1999999999; }
+.appbar-guide-menu-layout { position: fixed; width: 230px; top: 0px; visibility: hidden; left: -230px; opacity: 0; transition: opacity 0.1s ease 0s, visibility 0s ease 0.1s; }
+#appbar-onebar-upload-group #upload-btn { padding: 0px 13px; }
+#appbar-onebar-upload-group #upload-btn .yt-uix-button-content { vertical-align: middle; }
+#masthead-positioner:hover #appbar-guide-button { border-color: rgb(211, 211, 211); background: none repeat scroll 0% 0% rgb(248, 248, 248); }
+#appbar-guide-button .yt-uix-button-arrow { margin-top: 0px; }
+#appbar-guide-button-container { position: relative; display: inline-block; }
+#guide-container { width: 230px; padding: 13px 22px; box-sizing: border-box; }
+.yt-uix-button-icon-appbar-guide { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -34px -1919px transparent; width: 16px; height: 16px; }
+#appbar-guide-button .yt-uix-button-arrow { border-top-color: rgb(184, 184, 184); margin-left: 2px; border-width: 3px 3px 0px; }
+#masthead-positioner:hover .yt-uix-button-icon-appbar-guide { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -876px transparent; width: 16px; height: 16px; }
+#masthead-positioner:hover #appbar-guide-button .yt-uix-button-arrow { border-top-color: rgb(102, 102, 102); }
+#appbar-guide-menu .guide-section-separator { margin: 8px 0px; }
+#appbar-guide-button-notification-check { height: 25px; width: 30px; top: 0px; right: 10px; opacity: 0; position: absolute; text-align: center; visibility: hidden; }
+#appbar-guide-button-notification-check, .appbar-guide-notification { background: none repeat scroll 0% 0% rgb(22, 122, 198); color: rgb(255, 255, 255); font-weight: bold; overflow: hidden; white-space: nowrap; word-wrap: normal; text-overflow: ellipsis; }
+.appbar-guide-notification-icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -55px -2228px transparent; width: 12px; height: 10px; }
+#appbar-main-guide-notification-container { position: absolute; top: 41px; left: 0px; z-index: 1; }
+.guide-notification-item { max-height: 40px; overflow: hidden; position: relative; }
+body #footer-container { margin-top: -141px; background-color: rgb(255, 255, 255); border-top: 1px solid rgb(226, 226, 226); }
+#footer { margin: 0px auto; padding: 15px 0px; }
+#footer-logo, #footer .pickers, #footer .pickers li, #footer #google-help { display: inline-block; }
+#footer #google-help .yt-uix-button-content { vertical-align: middle; }
+#footer .yt-uix-button-group .yt-uix-button { border-radius: 2px; }
+#footer-logo { margin-left: 4px; }
+#footer-logo .footer-logo-icon { vertical-align: middle; background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -842px transparent; width: 72px; height: 30px; }
+#footer-main { border-bottom: 1px solid rgb(226, 226, 226); margin-right: 45px; padding-bottom: 15px; padding-left: 4px; }
+#footer-logo, #footer .pickers li { margin-right: 14px; }
+#footer .yt-picker-button-label { font-weight: normal; }
+#footer .yt-picker { margin: 10px 0px; }
+#footer-links { padding: 15px 0px 15px 8px; }
+#footer-links li { display: inline; margin-right: 15px; }
+#footer-links-primary { margin-bottom: 8px; font-weight: bold; }
+#footer-links-primary a { color: rgb(51, 51, 51); }
+#footer-links-primary a:hover { color: rgb(22, 122, 198); }
+#footer-links-secondary a, #footer-links-secondary .copyright { color: rgb(102, 102, 102); font-size: 11px; }
+#footer-links-secondary a { font-weight: bold; }
+#footer-links-secondary a:hover { color: rgb(22, 122, 198); }
+#footer .yt-picker { padding: 20px; box-shadow: none; border-radius: 0px; }
+#footer .yt-uix-button-icon-footer-language { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -43px -1728px transparent; width: 25px; height: 15px; }
+#footer .yt-uix-button:hover .yt-uix-button-icon-footer-language { background-position: 0px -968px; }
+.yt-uix-button-icon-questionmark { opacity: 0.75; background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -56px -644px transparent; width: 15px; height: 16px; }
+#yt-masthead { margin: 0px auto; }
+#yt-masthead-container { min-width: 0px; background: none repeat scroll 0% 0% rgb(255, 255, 255); border-bottom: 1px solid rgb(232, 232, 232); padding-top: 7px; padding-bottom: 8px; }
+#yt-masthead-content { overflow: hidden; }
+#logo-container:focus, #masthead-nav a:focus, #masthead-user-wrapper:focus, #masthead-gaia-user-wrapper:focus, #masthead-gaia-photo-wrapper:focus { border-color: transparent; background: none repeat scroll 0% 0% transparent; }
+#yt-masthead .yt-masthead-logo-container { float: left; position: relative; margin-top: 2px; width: 200px; }
+#yt-masthead .yt-masthead-logo-container #logo-container { display: inline-block; vertical-align: middle; }
+#yt-masthead #logo-container:hover { text-decoration: none; }
+#yt-masthead #logo { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -842px transparent; width: 72px; height: 30px; }
+#masthead-search { position: relative; padding: 0px; margin-top: 3px; overflow: hidden; max-width: 650px; }
+#masthead-search label { height: 100%; line-height: 30px; padding: 0px; border: medium none; overflow: hidden; }
+#masthead-search-terms { position: relative; overflow: hidden; height: 29px; margin: 0px 0px 2px; font-size: 14px; line-height: 30px; background-color: rgb(255, 255, 255); box-sizing: border-box; transition: border-color 0.2s ease 0s; }
+#masthead-search .search-btn-component { height: 29px; }
+#masthead-search.consolidated-form #masthead-search-terms label { height: 100%; }
+.masthead-search-terms-border { border: 1px solid rgb(204, 204, 204); box-shadow: 0px 1px 2px rgb(238, 238, 238) inset; }
+#masthead-search-terms label { display: block; }
+#masthead-search-terms input { display: inline-block; width: 100%; padding: 2px 6px; margin: 0px; border: 0px none; outline: medium none; background: none repeat scroll 0% 0% transparent; font-size: 16px; box-sizing: border-box; }
+.search-term { width: 100%; }
+#masthead-search.consolidated-form input { outline: medium none; height: 100%; }
+#masthead-search.consolidated-form input:focus, #masthead-search-term:focus { border-color: rgb(255, 255, 255); }
+#yt-masthead #search-btn { padding: 0px; }
+#yt-masthead #search-btn:focus { box-shadow: 0px 0px 0px 2px rgba(27, 127, 204, 0.4) inset; }
+.no-focus-outline #yt-masthead #search-btn:focus { box-shadow: none; }
+#yt-masthead #search-btn .yt-uix-button-content { margin: 0px 25px; }
+#masthead-search .search-btn-component { float: right; padding: 0px 0.91em; opacity: 1; filter: none; }
+#masthead-search .search-btn-component .yt-uix-button-content { display: block; border: medium none; padding: 0px; opacity: 0.6; text-indent: -10000px; background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -24px -24px transparent; width: 14px; height: 14px; box-shadow: none; }
+#masthead-search .search-btn-component:hover .yt-uix-button-content, #masthead-search .search-btn-component:focus .yt-uix-button-content { opacity: 1; }
+#masthead-search .search-btn-component, #masthead-search .search-btn-component .start { border-left: 0px none; border-top-left-radius: 0px; border-bottom-left-radius: 0px; }
+#yt-masthead-user { float: right; margin-left: 50px; margin-top: 3px; color: rgb(85, 85, 85); }
+#appbar-onebar-upload-group { margin-right: 15px; }
+#yt-masthead-user .yt-masthead-user-icon { padding: 0px; cursor: pointer; }
+#yt-masthead-user #sb-button-notify { margin: 0px 10px 0px 5px; width: 32px; text-align: center; border: medium none; position: relative; background: none repeat scroll 0% 0% transparent; box-shadow: none; }
+#yt-masthead-user #sb-button-notify:focus { box-shadow: 0px 0px 0px 2px rgba(27, 127, 204, 0.4); }
+#yt-masthead-user .yt-uix-button-icon-bell:hover { opacity: 0.85; }
+#yt-masthead-user .yt-uix-button-icon-bell { position: absolute; left: 0px; top: -2px; background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -39px -1427px transparent; width: 30px; height: 30px; opacity: 0.55; }
+#yt-masthead-user .sb-notif-off .yt-uix-button-content { display: none; }
+#sb-wrapper { position: relative; margin: 0px auto; width: 100%; }
+#sb-onepick-target { position: absolute; overflow: hidden; visibility: visible; height: 650px; width: 900px; left: 35px; border: 1px solid rgb(190, 190, 190); background-color: rgb(246, 245, 246); box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.2); }
+.sb-card { position: absolute; right: 13px; top: 60px; }
+.sb-card-arrow, .sb-card-body-arrow { position: absolute; top: -22px; right: 68px; left: auto; bottom: auto; width: 0px; height: 0px; vertical-align: top; background: none repeat scroll 0px 0px transparent; border: 12px solid transparent; }
+.sb-card-arrow { margin-top: -1px; margin-bottom: -1px; border-bottom-color: rgb(187, 187, 187); }
+.sb-card-body-arrow { border-bottom-color: rgb(229, 229, 229); }
+.sb-card-border { float: left; background: none repeat scroll 0px 0px rgb(255, 255, 255); border: 1px solid rgb(187, 187, 187); box-shadow: 0px 0px 5px rgb(187, 187, 187); }
+.sb-card-content { width: 440px; }
+.sb-off { display: none; background: none repeat scroll 0% 0% transparent; box-shadow: none; }
+.yt-masthead-user-icon, .yt-masthead-user-icon:hover { box-shadow: none; }
+.yt-masthead-picker-header { padding: 10px 15px; border-bottom: 1px solid rgba(0, 0, 0, 0.2); }
+.yt-masthead-multilogin-users { max-height: 215px; overflow-y: auto; }
+@media (min-height: 630px) and (max-height: 700px) {
+  .yt-masthead-multilogin-users { max-height: 335px; }
+}
+@media (min-height: 700px) and (max-height: 1000px) {
+  .yt-masthead-multilogin-users { max-height: 455px; }
+}
+@media (min-height: 1000px) {
+  .yt-masthead-multilogin-users { max-height: 775px; }
+}
+a.yt-masthead-picker-active-account { color: inherit; display: block; text-decoration: none; white-space: nowrap; }
+a.yt-masthead-account-picker-option { display: block; text-decoration: none; white-space: nowrap; }
+a.yt-masthead-picker-active-account:hover { text-decoration: underline; }
+.yt-masthead-picker-body { margin: 15px; white-space: nowrap; }
+.yt-masthead-picker-photo-wrapper { position: relative; margin-right: 10px; display: inline-block; vertical-align: top; }
+.yt-masthead-picker-info { display: inline-block; vertical-align: top; }
+.yt-masthead-picker-photo-change { position: absolute; bottom: 0px; left: 0px; padding: 5px 0px; width: 64px; background-color: rgba(0, 0, 0, 0.4); color: rgb(255, 255, 255); font-size: 9px; font-weight: bold; text-align: center; line-height: 9px; }
+.yt-masthead-picker-name { margin-bottom: 1px; font-weight: bold; }
+.yt-masthead-picker-account-subtitle { margin-bottom: 7px; color: rgb(153, 153, 153); }
+.yt-masthead-picker-button { height: 24px; }
+.yt-masthead-picker-button-primary { margin-right: 5px; }
+.yt-masthead-picker-settings-button { padding: 0px 4px; }
+.yt-uix-button-icon-icon-account-settings { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px 0px transparent; width: 20px; height: 20px; }
+.yt-masthead-account-picker-option { padding: 10px 15px; border-top: 1px solid rgba(0, 0, 0, 0.1); background: none repeat scroll 0% 0% rgb(245, 245, 245); }
+.yt-masthead-picker-footer { padding: 10px 15px; border-top: 1px solid rgba(0, 0, 0, 0.1); background: none repeat scroll 0% 0% rgb(245, 245, 245); overflow: hidden; }
+.yt-masthead-account-picker-option:hover { background: none repeat scroll 0% 0% rgb(238, 238, 238); text-decoration: none; }
+.yt-masthead-account-picker-option .yt-masthead-picker-photo-wrapper { margin-right: 6px; }
+.yt-masthead-account-picker-option .yt-masthead-picker-info { vertical-align: middle; }
+.yt-masthead-account-picker-option .yt-masthead-picker-name { color: rgb(0, 0, 0); font-weight: normal; }
+.yt-masthead-picker-footer .yt-masthead-picker-button { float: left; height: 28px; }
+.yt-masthead-picker-footer .yt-masthead-picker-button:last-child { float: right; }
+.yt-uix-button-hover-action-menu { border: medium none; padding: 0px 0px 3px; height: auto; opacity: 0; background: none repeat scroll 0% 0% transparent; cursor: pointer; box-shadow: none; }
+.yt-uix-button-hover-action-menu:focus, .yt-uix-button-hover-action-menu:focus:hover { box-shadow: none; }
+.yt-uix-button-icon-hover-action-menu, .yt-uix-button-active .yt-uix-button-icon-hover-action-menu { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -42px -24px transparent; width: 13px; height: 13px; }
+.hover-action-menu-trigger .yt-uix-button-hover-action-menu.yt-uix-button-active, .hover-action-menu-trigger:hover .yt-uix-button-hover-action-menu { opacity: 0.8; }
+.yt-uix-button-hover-action-menu .yt-uix-button-arrow, .yt-uix-button-dark-overflow-action-menu .yt-uix-button-arrow { display: none; }
+.yt-uix-button-icon-dark-overflow-action-menu { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -1190px transparent; width: 15px; height: 15px; }
+.yt-uix-button-active .yt-uix-button-icon-dark-overflow-action-menu, .yt-uix-button-icon-dark-overflow-action-menu:hover { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -28px -1240px transparent; width: 15px; height: 15px; }
+.yt-uix-button-menu-dark-overflow-action-menu { background-color: rgb(255, 255, 255); border-color: rgb(204, 204, 204); }
+.yt-uix-button-menu-dark-overflow-action-menu .yt-uix-button-menu-item { color: rgb(51, 51, 51); }
+.yt-uix-button-menu-dark-overflow-action-menu .yt-uix-button-menu-item:hover { color: rgb(255, 255, 255); background-color: rgb(51, 51, 51); }
+#watch-queue-mole.video-mole, #watch-timeline-mole-container.video-mole { position: fixed; bottom: 0px; right: 60px; width: 363px; z-index: 1999999995; box-shadow: 0px 0px 17px 3px rgba(0, 0, 0, 0.17); }
+#watch-queue { -moz-user-select: none; }
+.watch-queue-info, #watch-queue-mole .watch-timeline-info { display: none; }
+.video-mole .watch-playlist { min-height: 0px ! important; margin-bottom: 0px ! important; margin-left: 0px ! important; }
+.watch-queue-info .watch-queue-info-icon, .watch-timeline-info .watch-timeline-info-icon { float: left; margin-top: 10px; margin-right: 10px; opacity: 0.55; }
+.watch-queue-info .tv-queue-list-icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -1775px transparent; width: 28px; height: 22px; }
+.watch-queue-info .tv-queue-details { color: rgb(153, 153, 153); font-size: 11px; }
+#watch-queue .watch-queue-header, .watch-timeline-header { background: none repeat scroll 0% 0% rgb(26, 26, 26); padding: 0px 10px; }
+#watch-queue .watch-queue-control-bar, .watch-timeline-control-bar { display: block; color: rgb(255, 255, 255); border-right: 0px none; border-width: 1px 0px 0px; border-style: solid none none; border-color: rgb(58, 58, 58) -moz-use-text-color -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; cursor: pointer; font-weight: bold; font-size: 11px; white-space: nowrap; word-wrap: normal; height: 24px; padding: 7px 5px 8px; }
+#watch-queue-mole #watch-queue .watch-queue-control-bar, #watch-queue-mole .watch-timeline-control-bar { padding-right: 0px; }
+.watch-queue-mole-info, .watch-timeline-control-bar-info { float: left; }
+.watch-queue-mole-info .watch-queue-control-bar-icon, .watch-timeline-control-bar-info .watch-timeline-control-bar-icon { float: left; margin-right: 10px; }
+#watch-queue .watch-queue-control-bar .watch-queue-icon, .watch-timeline-control-bar .watch-queue-icon { opacity: 0.4; background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -47px -124px transparent; width: 24px; height: 24px; }
+#watch-queue .watch-queue-header:hover .watch-queue-control-bar .watch-queue-icon, .mole-expanded #watch-queue .watch-queue-control-bar .watch-queue-icon, .mole-expanded .watch-timeline-control-bar .watch-queue-icon { opacity: 0.85; }
+#watch-queue .watch-queue-control-bar .watch-queue-title-container, .watch-timeline-control-bar .watch-timeline-title-container { display: table; float: left; height: 24px; line-height: 24px; text-overflow: ellipsis; overflow: hidden; }
+#watch-queue .watch-queue-control-bar .watch-queue-title, #watch-queue .watch-queue-control-bar .tv-queue-title, #watch-queue .watch-queue-control-bar .watch-queue-count, .watch-timeline-control-bar .watch-timeline-title, .watch-timeline-control-bar .watch-timeline-count { display: block; text-overflow: ellipsis; overflow: hidden; }
+#watch-queue .watch-queue-control-bar .watch-queue-title, #watch-queue .watch-queue-control-bar .tv-queue-title { float: left; }
+#watch-queue .watch-queue-control-bar .watch-queue-title, #watch-queue .watch-queue-control-bar .tv-queue-title, .watch-timeline-control-bar .watch-timeline-title { font-size: 15px; font-weight: normal; padding-bottom: 2px; max-width: 150px; }
+#watch-queue .watch-queue-info .watch-queue-title, #watch-queue .watch-queue-info .tv-queue-title, .watch-timeline-info .watch-timeline-title { color: rgb(255, 255, 255); font-size: 15px; font-weight: normal; overflow: hidden; white-space: nowrap; word-wrap: normal; text-overflow: ellipsis; }
+#watch-queue .watch-queue-control-bar .tv-queue-title, #watch-queue .watch-queue-info .tv-queue-title { display: none; }
+.watch-queue-control-bar .watch-queue-count, .watch-timeline-control-bar .watch-timeline-count { font-size: 11px; color: rgb(153, 153, 153); float: right; margin-left: 10px; }
+.watch-queue-control-bar .yt-uix-button, .watch-timeline-control-bar .yt-uix-button { padding: 0px; }
+#watch-queue-mole .watch-queue-controls, #watch-queue-mole .watch-timeline-controls { text-align: right; }
+#watch-queue-mole .watch-queue-controls .yt-uix-button:last-child, #watch-queue-mole .watch-timeline-controls .yt-uix-button:last-child { margin-right: 5px; }
+#watch-queue .watch-queue-controls .yt-uix-button, .watch-timeline-controls .yt-uix-button { margin-left: 10px; }
+#watch-queue .watch-queue-controls .yt-uix-button:first-child, .watch-timeline-controls .yt-uix-button:first-child { margin-left: 0px; }
+.watch-queue-controls .yt-uix-button-icon-watch-queue-prev, .watch-timeline-controls .yt-uix-button-icon-watch-timeline-prev { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -602px transparent; width: 24px; height: 24px; }
+.watch-queue-controls .yt-uix-button-icon-watch-queue-next, .watch-timeline-controls .yt-uix-button-icon-watch-timeline-next { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -36px -504px transparent; width: 24px; height: 24px; }
+.watch-queue-controls .yt-uix-button-icon-watch-queue-play { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -31px -773px transparent; width: 24px; height: 24px; }
+.watch-queue-controls .yt-uix-button-icon-watch-queue-pause { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -48px -564px transparent; width: 24px; height: 24px; }
+#watch-queue-save-as-playlist-widget { float: left; width: 0px; overflow: hidden; }
+.watch-queue-control-bar .dark-overflow-action-menu, .watch-timeline-control-bar .dark-overflow-action-menu { float: right; }
+.watch-queue-control-bar .dark-overflow-action-menu > .yt-uix-button, .watch-timeline-control-bar .dark-overflow-action-menu > .yt-uix-button { padding: 0px 1px; }
+#watch-queue .watch-queue-items-list { counter-reset: watch-queue-video-section; position: relative; overflow: hidden; background-color: rgb(34, 34, 34); transition: max-height 0.3s ease-out 0s; }
+#watch-queue-mole .watch-queue-items-list, #watch-timeline-mole-container .watch-timeline .watch-timeline-sections { max-height: 0px; }
+#watch-queue .watch-queue-items-list:hover, .watch-timeline-sections:hover { overflow: auto; }
+.watch-queue-item:hover .dark-overflow-action-menu, .currently-playing.watch-queue-item:hover .expand-video-watch-queue-button, .watch-queue-item:hover:not(.currently-playing) .remove-item-watch-queue-button { display: inline; }
+.watch-timeline-item:hover:not(.currently-playing) .dark-overflow-action-menu, .watch-timeline-item:hover:not(.currently-playing) .remove-item-watch-timeline-button { display: inline-block; }
+/* ::::: https://s.ytimg.com/yts/cssbin/www-watch-transcript-vfl9-k0Vc.css ::::: */
+
+#watch-transcript-not-found { padding: 7px; }
+/* ::::: https://s.ytimg.com/yts/cssbin/www-guide-vflBOeeve.css ::::: */
+
+.yt-uix-button-hover-action-menu { border: medium none; padding: 0px 0px 3px; height: auto; opacity: 0; background: none repeat scroll 0% 0% transparent; cursor: pointer; box-shadow: none; }
+.yt-uix-button-hover-action-menu:focus, .yt-uix-button-hover-action-menu:focus:hover { box-shadow: none; }
+.yt-uix-button-icon-hover-action-menu, .yt-uix-button-active .yt-uix-button-icon-hover-action-menu { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -42px -24px transparent; width: 13px; height: 13px; }
+.hover-action-menu-trigger .yt-uix-button-hover-action-menu.yt-uix-button-active, .hover-action-menu-trigger:hover .yt-uix-button-hover-action-menu { opacity: 0.8; }
+.yt-uix-button-hover-action-menu .yt-uix-button-arrow, .yt-uix-button-dark-overflow-action-menu .yt-uix-button-arrow { display: none; }
+.yt-uix-button-icon-dark-overflow-action-menu { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -1190px transparent; width: 15px; height: 15px; }
+.yt-uix-button-active .yt-uix-button-icon-dark-overflow-action-menu, .yt-uix-button-icon-dark-overflow-action-menu:hover { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -28px -1240px transparent; width: 15px; height: 15px; }
+.yt-uix-button-menu-dark-overflow-action-menu { background-color: rgb(255, 255, 255); border-color: rgb(204, 204, 204); }
+.yt-uix-button-menu-dark-overflow-action-menu .yt-uix-button-menu-item { color: rgb(51, 51, 51); }
+.yt-uix-button-menu-dark-overflow-action-menu .yt-uix-button-menu-item:hover { color: rgb(255, 255, 255); background-color: rgb(51, 51, 51); }
+.display-name:hover { text-decoration: none; }
+a.guide-item { text-decoration: none; }
+.guide-item .guide-my-channel-icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -24px -100px transparent; width: 20px; height: 20px; }
+.guide-item:hover .guide-my-channel-icon, .guide-item.guide-item-selected .guide-my-channel-icon { background-position: 0px -540px; }
+.guide-item .guide-history-icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -47px -1240px transparent; width: 20px; height: 20px; }
+.guide-item:hover .guide-history-icon, .guide-item.guide-item-selected .guide-history-icon { background-position: 0px -2112px; }
+.guide-item .guide-watch-later-icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -48px -702px transparent; width: 20px; height: 20px; }
+.guide-item:hover .guide-watch-later-icon, .guide-item.guide-item-selected .guide-watch-later-icon { background-position: -24px -578px; }
+.guide-item .guide-purchases-icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -24px -1955px transparent; width: 20px; height: 20px; }
+.guide-item:hover .guide-purchases-icon, .guide-item.guide-item-selected .guide-purchases-icon { background-position: 0px -678px; }
+.guide-item .guide-what-to-watch-icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -48px -431px transparent; width: 20px; height: 20px; }
+.guide-item:hover .guide-what-to-watch-icon, .guide-item.guide-item-selected .guide-what-to-watch-icon { background-position: -45px -749px; }
+.guide-item .guide-my-subscriptions-icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -20px -2088px transparent; width: 20px; height: 20px; }
+.guide-item:hover .guide-my-subscriptions-icon, .guide-item.guide-item-selected .guide-my-subscriptions-icon { background-position: -24px -431px; }
+.guide-item .guide-playlists-icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll 0px -24px transparent; width: 20px; height: 20px; }
+.guide-item:hover .guide-playlists-icon, .guide-item.guide-item-selected .guide-playlists-icon { background-position: -48px -678px; }
+.guide-item .guide-builder-icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -24px -1037px transparent; width: 20px; height: 20px; }
+.guide-item:hover .guide-builder-icon, .guide-item.guide-item-selected .guide-builder-icon { background-position: 0px -1598px; }
+.guide-item .guide-subscription-manager-icon { background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -28px -2002px transparent; width: 20px; height: 20px; }
+.guide-item:hover .guide-subscription-manager-icon, .guide-item.guide-item-selected .guide-subscription-manager-icon { background-position: -20px -876px; }
+.guide-item, .guide-view-more { display: block; position: relative; border: medium none; background: none repeat scroll 0% 0% transparent; }
+.guide-item { color: rgb(34, 34, 34); height: 28px; font-size: 12px; }
+.guide-view-more { height: 28px; font-size: 12px; }
+.guide-item { outline-offset: -5px; overflow: hidden; }
+.page-loaded .guide-item { transition: height 0.4s ease 0s; }
+.guide-item:hover { text-decoration: none; }
+.guide-view-more { color: rgb(118, 118, 118); padding-left: 35px; text-align: left; }
+.guide-flyout-trigger.on-hover, .guide-item:hover, .guide-item:hover .yt-deemphasized-text, .guide-collection-item:hover .guide-item, .guide-collapsible-item .yt-uix-expander-head:hover { background: none repeat scroll 0% 0% rgb(68, 68, 68); color: rgb(255, 255, 255); }
+.guide-item .display-name { display: inline-block; overflow: hidden; white-space: nowrap; word-wrap: normal; text-overflow: ellipsis; }
+.guide-item .display-name { width: 110px; margin-left: 6px; line-height: 20px; }
+.guide-item .guide-count, .guide-badge-live { position: absolute; right: 6px; padding: 0px 4px; height: 100%; background: none repeat scroll 0% 0% transparent; }
+.guide-item .guide-count { color: rgb(118, 118, 118); font-size: 11px; }
+.guide-item:hover .guide-count { color: rgb(255, 255, 255); }
+.guide-flyout-container { position: relative; }
+.guide-flyout { border: 1px solid rgb(227, 227, 227); padding: 12px; box-shadow: 5px 10px 15px 5px rgba(0, 0, 0, 0.1); }
+.guide-flyout-visibility { width: 210px; position: fixed; bottom: 0px; left: 0px; visibility: hidden; }
+.guide-flyout-container .guide-channels-list { min-height: 0px; }
+.guide-flyout-view-more-icon { margin-left: 2px; background: url('www-hitchhiker-vflcwii0o.png') no-repeat scroll -66px -1037px transparent; width: 4px; height: 7px; }
+#guide-channels { width: auto; }
+.guide-section-separator { margin: 8px 15px 8px 4px; border-bottom: 1px solid rgb(226, 226, 226); }
+.guide-item .thumb { margin-left: 6px; margin-right: 0px; vertical-align: bottom; }
+.guide-item .display-name { vertical-align: bottom; }
+.guide-channels-content { position: relative; }
+.guide-channels-list { position: relative; clear: both; overflow: hidden; width: 197px; }
+.guide-channels-list:hover { overflow-y: auto; }
+.guide-channels-list .guide-channel a { position: relative; width: 175px; }
+.guide-channels-list .guide-item { width: 184px; }
+.guide-channels-list a.guide-item { display: block; white-space: nowrap; }
+.guide-item .display-name.no-count { width: 140px; }
+#guide-subscriptions-section { position: relative; }
+li.guide-section h3 { margin: 0px 5px; padding: 1px 0px 8px; line-height: 13px; font-size: 11px; font-weight: bold; text-transform: uppercase; width: 155px; color: rgb(204, 24, 30); overflow: hidden; white-space: nowrap; word-wrap: normal; text-overflow: ellipsis; display: block; }
+li.guide-section h3 a { width: 155px; color: rgb(204, 24, 30); overflow: hidden; white-space: nowrap; word-wrap: normal; text-overflow: ellipsis; display: block; }
+.guide-sort-container { margin: 0px; float: right; }
+.guide-sort-container .yt-uix-button-menu .yt-uix-button-menu-item { padding-left: 23px; }
+.subscription-list-item:hover:not(.selected) .add-badge, .subscription-list-item.selected:hover .remove-badge, .subscription-list-item.selected:not(:hover) .added-badge { display: inherit; }
+/* ::::: https://s.ytimg.com/yts/cssbin/www-pageframedelayloaded-vflcdZ124.css ::::: */
+
+.subscription-preferences-overlay-loading { width: 260px; height: 136px; }
+.subscription-preferences-overlay-loading .yt-spinner { padding-top: 60px; }
+.yt-picker { margin-right: 20px; }
+#yt-picker-country-footer, #yt-picker-language-footer, #yt-picker-safetymode-footer { color: rgb(102, 102, 102); margin-top: 5px; padding: 10px; background: none repeat scroll 0% 0% rgb(255, 255, 255); border-radius: 3px; box-shadow: 0px 1px 2px rgb(204, 204, 204); }
+.gssb_c { border: 0px none; position: absolute; z-index: 989; }
+.gssb_e { border-width: 1px; border-style: solid; border-right: 1px solid rgb(204, 204, 204); border-color: rgb(217, 217, 217) rgb(204, 204, 204) rgb(204, 204, 204); -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); cursor: default; }
+.gssb_f { visibility: hidden; white-space: nowrap; }
+.gssb_k { border: 0px none; display: block; position: absolute; top: 0px; z-index: 988; }
+.gssb_c { z-index: 2000000007; }
+.gssb_k { z-index: 2000000006; }

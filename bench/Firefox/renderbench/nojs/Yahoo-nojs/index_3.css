@@ -1,0 +1,9 @@
+/* ::::: file:///Users/Timm/Library/Application%20Support/Firefox/Profiles/nmjnqmpk.default/ScrapBook/data/20141021152127/index_3.css ::::: */
+
+input.ui-button::-moz-focus-inner, button.ui-button::-moz-focus-inner { border: 0px none; padding: 0px; }
+#mf_ad_area { width: 300px; height: 250px; margin: 0px; padding: 0px; }
+#mf_ad_overlay_container { position: relative; top: -250px; width: 300px; height: 0px; cursor: pointer; }
+#mf_ad_text_box_container { position: absolute; left: 0px; top: 0px; width: 300px; height: 250px; overflow: hidden; }
+#mf_ad_opacity_box { position: absolute; left: 0px; top: 215px; padding: 0px; margin: 0px; width: 300px; height: 200px; background: none repeat scroll 0% 0% black; opacity: 0.6; }
+#mf_ad_text_box { position: absolute; left: 0px; top: 215px; padding: 2px 7px; margin: 0px; text-align: left; color: white; font-weight: bold; font-size: 72%; font-family: sans-serif; line-height: 1.3em; z-index: 1001; opacity: 1; }
+.mf_advertiser_text { color: white; font-size: 80%; font-weight: normal; font-family: sans-serif; opacity: 0.75; text-decoration: none; }

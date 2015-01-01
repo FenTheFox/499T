@@ -1,0 +1,55 @@
+<html>
+<head>
+
+<style type="text/css">
+h1 {
+	font-size: 200%;
+	border-bottom: dashed 1px #333333;
+	font-variant: small-caps;
+	font-family: sans-serif;
+}
+
+p.footer {
+	font-size: 80%;
+	color: #555555;
+}
+
+li {
+	list-style-type: square;
+	list-style-image: url(/err/bullet.gif);
+}
+</style>
+
+<title>User account expired</title>
+</head>
+<body>
+
+<h1>403: User account expired</h1>
+
+
+<p>The page you requested is hosted by the Toolserver user <strong>leon</strong>,
+whose account has expired.
+Toolserver user accounts are automatically expired if the user is
+inactive for over six months.
+To prevent stale pages remaining accessible, we automatically block requests to expired content.</p>
+
+<p>
+	<p>If you think you are receiving this page in error, or you have a question, please contact
+	the owner of this document: <tt>leon</tt> [at] <tt>toolserver</tt> [dot] <tt>org</tt>.
+	(Please <strong>do not contact Toolserver administrators</strong> about this problem, as we cannot fix
+	it&mdash;only the Toolserver account owner may renew their account.)</p>
+
+<p> <font color="red"> <blink> ATTENTION!!!</blink></font><p/>
+As Toolserver will be shutdown and most tools are already migrated please give feedback if you miss a tool.<p/>
+Feedback page on this:
+<a href="https://www.mediawiki.org/wiki/Tool_Labs/Collection_of_issues_after_Toolserver_shutdown">https://www.mediawiki.org/wiki/Tool_Labs/Collection_of_issues_after_Toolserver_shutdown</a>
+
+
+<hr>
+<p class="footer">
+HTTP server at <a href="http://toolserver.org/">toolserver.org</a> -
+<tt>ts-admins</tt> [at] <tt>toolserver</tt> [dot] <tt>org</tt>
+</p>
+
+</body>
+</html>

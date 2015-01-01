@@ -1,0 +1,5 @@
+	mvas_25216791=1017927;mv_acquire=1;mv_bid=25216791;
+mvcu_25216791='http://show.g.mediav.com/c?type=2&oimpid=1BTx3QKzIIgD&pub=130_2843_1017927&cus=189_119403_1073632_25216791_0&fee=ngWeJG-UUUbw&pinfo=&solutiontype=2&ref=http%3A%2F%2Fwww.sina.com.cn%2F&url=http://www.yksuit.com/?utm_campaign=2013-2&utm_medium=CPD&utm_source=sina&utm_content=CPD-%E6%96%B0%E6%B5%AA-';
+mvctype_25216791=2;
+
+eval('mediav_fini'+mvas_25216791+'=1');mediav.makeFlash(240, 330, "http://d1.sina.com.cn/mediav/201409/22/0.049896001411376628_573341.swf", 0, mvcu_25216791, "25216791", "Opaque");document.write('<iframe style="display:none" src="http://3m.mediav.com/ckmap.htm?r=1019520883#prefix=http://ckm.360.cn/mapping_service?rback=1&thirdparty_id=1&thirdparty_cookie_id=eCfTz805eKerNkLsVYpEU6"></iframe>');
