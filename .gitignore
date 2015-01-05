@@ -3,3 +3,5 @@ source/sqlite/*
 source/sqlite-bld/*
 
 **/xcuserdata/*
+
+fid
