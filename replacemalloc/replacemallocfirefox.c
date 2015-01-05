@@ -3,15 +3,15 @@
 
 #define MACWRAPPER_PREFIX(n) macwrapper_##n
 
-void * MACWRAPPER_PREFIX(malloc) (size_t sz);
-size_t MACWRAPPER_PREFIX(malloc_usable_size) (void * ptr);
-void   MACWRAPPER_PREFIX(free) (void * ptr);
-size_t MACWRAPPER_PREFIX(malloc_good_size) (size_t sz);
-void * MACWRAPPER_PREFIX(realloc) (void * ptr, size_t sz);
-void * MACWRAPPER_PREFIX(calloc) (size_t elsize, size_t nelems);
-void * MACWRAPPER_PREFIX(memalign) (size_t alignment, size_t size);
-int MACWRAPPER_PREFIX(posix_memalign)(void **memptr, size_t alignment, size_t size);
-void * MACWRAPPER_PREFIX(valloc) (size_t sz);
+void *	MACWRAPPER_PREFIX(malloc) (size_t sz);
+size_t	MACWRAPPER_PREFIX(malloc_usable_size) (void * ptr);
+void	MACWRAPPER_PREFIX(free) (void * ptr);
+size_t	MACWRAPPER_PREFIX(malloc_good_size) (size_t sz);
+void *	MACWRAPPER_PREFIX(realloc) (void * ptr, size_t sz);
+void *	MACWRAPPER_PREFIX(calloc) (size_t elsize, size_t nelems);
+void *	MACWRAPPER_PREFIX(memalign) (size_t alignment, size_t size);
+int		MACWRAPPER_PREFIX(posix_memalign)(void **memptr, size_t alignment, size_t size);
+void *	MACWRAPPER_PREFIX(valloc) (size_t sz);
 
 static const malloc_table_t *funcs;
 

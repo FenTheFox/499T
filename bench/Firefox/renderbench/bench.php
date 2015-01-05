@@ -1,7 +1,7 @@
 <?php
 	session_start();
 
-	$logf = $_SESSION[$_SESSION['type'] . $_SESSION['event']];
+	$logf = '../../../results/firefox/render/' . $_SESSION[$_SESSION['type'] . $_SESSION['event']];
 	$fh = fopen( $logf, 'a' );
 	fwrite( $fh, $_SESSION['sitename'] . ' #' . $_SESSION['itr'] . ': ' . ($_SERVER['REQUEST_TIME_FLOAT'] - $_POST['time']) . "\n" );
 	fclose( $fh );
@@ -19,6 +19,7 @@
 				$fid = fopen('fid', 'r');
 				exec('kill ' . fgets($fid));
 				fclose($fid);
+				unlink('fid');
 				
 				unset($_SESSION['site']);
 				header('HTTP/1.1 302 Found', TRUE, 302);

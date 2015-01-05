@@ -5,7 +5,7 @@ require 'net/http'
 
 class Tester
 	@@root = 'localhost:8000'
-	@@libs = ['hoard']
+	@@libs = ['hoard', 'jexxmalloc', 'ptmalloc3']
 	
 	def initialize (profile, timeout, iters)
 		@profile = profile
@@ -13,14 +13,14 @@ class Tester
 		@iters = iters
 		
     p "php -S #{@@root} -t #{profile} -c php.ini"
-		@phpid = Process.spawn("php -S #{@@root} -t #{profile} -c php.ini", [:out, :err] => ['phplog', 'w'])
+		@phpid = Process.spawn("php -S #{@@root} -t #{profile} -c php.ini", [:out, :err] => ['logs/phplog', 'w'])
 		@http = Net::HTTP.new('localhost', 8000)
 	end
 
 	def do_test(bld, lib = '')
 		p [bld, lib]
     sleep 5
-		fid = Process.spawn("/Users/Timm/499T/source/firefox-#{bld}/dist/Firefox.app/Contents/MacOS/firefox -foreground -P #{@profile} #{@@root}/index.php\\?bld=#{bld}#{lib}", [:out, :err] => ['flog', 'w'])
+		fid = Process.spawn("/Users/Timm/499T/source/firefox-#{bld}/dist/Firefox.app/Contents/MacOS/firefox -foreground -P #{@profile} #{@@root}/index.php\\?bld=#{bld}#{lib}", [:out, :err] => ["logs/flog-#{bld}#{lib}", 'w'])
 		@http.get("/index.php?fid=#{fid}")
 		begin
 			Timeout.timeout(@timeout) { Process.wait(fid) }
@@ -40,6 +40,8 @@ class Tester
 		end
 
 		ENV['DYLD_INSERT_LIBRARIES'] = nil
+    
+    finish()
 	end
 	
 	def finish()
