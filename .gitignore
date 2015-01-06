@@ -5,3 +5,5 @@ source/sqlite-bld/*
 **/xcuserdata/*
 
 fid
+
+phplog
