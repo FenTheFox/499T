@@ -66,6 +66,10 @@
             argument = "/Users/Timm/499T/bench/SQLite/test.sql"
             isEnabled = "YES">
          </CommandLineArgument>
+         <CommandLineArgument
+            argument = "/Users/Timm/499T/bench/SQLite/test.sql"
+            isEnabled = "YES">
+         </CommandLineArgument>
       </CommandLineArguments>
       <AdditionalOptions>
       </AdditionalOptions>

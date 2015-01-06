@@ -15,10 +15,10 @@
 		$_SESSION['event'] = 'dom';
 		
 		$time = time();
-		$_SESSION['jsdom']		= $_GET['bld'] . '-' . date('mdHis', $time) . '-jsdom.log';
-		$_SESSION['jsload']		= $_GET['bld'] . '-' . date('mdHis', $time) . '-jsload.log';
-		$_SESSION['nojsdom']	= $_GET['bld'] . '-' . date('mdHis', $time) . '-nojsdom.log';
-		$_SESSION['nojsload']	= $_GET['bld'] . '-' . date('mdHis', $time) . '-nojsload.log';
+		$_SESSION['jsdom']		= $_GET['bld'] . '-' . date('mdHis', $time) . '-jsdom.txt';
+		$_SESSION['jsload']		= $_GET['bld'] . '-' . date('mdHis', $time) . '-jsload.txt';
+		$_SESSION['nojsdom']	= $_GET['bld'] . '-' . date('mdHis', $time) . '-nojsdom.txt';
+		$_SESSION['nojsload']	= $_GET['bld'] . '-' . date('mdHis', $time) . '-nojsload.txt';
 
 		fclose(fopen($_SESSION['jsdom'],	'w'));
 		fclose(fopen($_SESSION['jsload'],	'w'));

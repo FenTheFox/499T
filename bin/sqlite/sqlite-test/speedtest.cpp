@@ -86,6 +86,8 @@ void runScriptFile(sqlite3 *db, string name) {
 
 		prepareAndRun(db, stmt);
 	}
+
+	sqlite3_close_v2(db);
 }
 
 /**
@@ -161,25 +163,32 @@ list<string> setup(int argc, char *argv[], sqlite3 **db) {
 }
 
 double test_main(int argc, char *argv[]) {
+	int i = 0;
+	double schema_time, query_time;
+
 	struct tms tmsStart, tmsEnd;
 	clock_t clkStart, clkEnd;
-
-	sqlite3 *db, *tdb;
+	sqlite3 *db, **tdb, *tdbs[100];
 
 	list<string> scripts = setup(argc, argv, &db);
 	vector<thread> threads = vector<thread>();
 
-	printf("Total schema time    %f ns\n", prepTimer.total_duration() + runTimer.total_duration() + finalizeTimer.total_duration());
+	schema_time = prepTimer.total_duration() + runTimer.total_duration() + finalizeTimer.total_duration();
+	printf("Schema:		%f\n", schema_time);
 
 	clkStart = times(&tmsStart);
 
 	for (string fname : scripts) {
-		sqlite3_open_v2(":memory:", &tdb, SQLITE_OPEN_CREATE | SQLITE_OPEN_READWRITE, NULL);
-		threads.emplace_back(runScriptFile, tdb, fname);
+		tdb = &(tdbs[i++]);
+		sqlite3_open_v2(":memory:", tdb, SQLITE_OPEN_READWRITE, NULL);
+		threads.emplace_back(runScriptFile, *tdb, fname);
 	}
 
 	for (int i = 0; i < threads.size(); i++)
 		threads[i].join();
+
+	query_time = prepTimer.total_duration() + runTimer.total_duration() + finalizeTimer.total_duration() - schema_time;
+	printf("Query:		%f\n", query_time);
 
 	setupTimer.start();
 	sqlite3_close(db);
@@ -194,10 +203,10 @@ double test_main(int argc, char *argv[]) {
 //	printf("Total prepare time:  %f ns\n", prepTimer.total_duration());
 //	printf("Total run time:      %f ns\n", runTimer.total_duration());
 //	printf("Total finalize time: %f ns\n", finalizeTimer.total_duration());
-//	printf("Open/Close time:     %f ns\n", setupTimer.total_duration());
-	printf("Total time:          %f ns\n", prepTimer.total_duration() + runTimer.total_duration() +
-	                                             finalizeTimer.total_duration() + setupTimer.total_duration());
-	
+	printf("Setup:		%f\n", setupTimer.total_duration());
+//	printf("Total time:          %f ns\n", prepTimer.total_duration() + runTimer.total_duration() +
+//	                                             finalizeTimer.total_duration() + setupTimer.total_duration());
+
 //	cout << endl;
 //	printf("Total user CPU time:   %15.3g secs\n", (tmsEnd.tms_utime - tmsStart.tms_utime) / (double)CLOCKS_PER_SEC);
 //	printf("Total system CPU time: %15.3g secs\n", (tmsEnd.tms_stime - tmsStart.tms_stime) / (double)CLOCKS_PER_SEC);
@@ -222,7 +231,8 @@ int main(int argc, char *argv[]) {
 		time += test_main(argc, argv);
 	}
 
-	printf("Average: %f\n", time/itrs);
+	if(!quiet)
+		printf("Average:		%f\n", time/itrs);
 
 	return 0;
 }

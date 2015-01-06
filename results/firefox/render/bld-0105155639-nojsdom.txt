@@ -1,0 +1,63 @@
+Amazon Fire HD 6-nojs: 0.82241892814636
+Amazon-nojs: 0.46471381187439
+baidu search-nojs: 0.18785190582275
+baidu-nojs: 0.07390308380127
+Facebook-nojs: 0.41017699241638
+Google search-nojs: 0.19202709197998
+Google-nojs: 0.093870162963867
+hao123-nojs: 0.64010620117188
+LinkedIn-nojs: 0.51583790779114
+qq.com search-nojs: 0.15463900566101
+qq.com-nojs: 0.61517691612244
+sina-nojs: 1.4394629001617
+taobao search-nojs: 0.85113215446472
+taobao-nojs: 0.88443279266357
+Twitter-nojs: 0.4329559803009
+Wikipedia page-nojs: 1.6438369750977
+Wikipedia-nojs: 0.13510513305664
+Yahoo search-nojs: 0.093457937240601
+Yahoo-nojs: 0.2036828994751
+YouTube video-nojs: 0.27974104881287
+YouTube-nojs: 1.9974498748779
+Amazon Fire HD 6-nojs: 0.90110516548157
+Amazon-nojs: 0.49330306053162
+baidu search-nojs: 0.18458604812622
+baidu-nojs: 0.089622974395752
+Facebook-nojs: 0.49538087844849
+Google search-nojs: 0.17788290977478
+Google-nojs: 0.076382160186768
+hao123-nojs: 0.24925899505615
+LinkedIn-nojs: 0.46404409408569
+qq.com search-nojs: 0.13487005233765
+qq.com-nojs: 0.68212413787842
+sina-nojs: 1.6195089817047
+taobao search-nojs: 0.72765302658081
+taobao-nojs: 0.71615314483643
+Twitter-nojs: 0.3672080039978
+Wikipedia page-nojs: 1.4436681270599
+Wikipedia-nojs: 0.16717982292175
+Yahoo search-nojs: 0.090734004974365
+Yahoo-nojs: 0.19477009773254
+YouTube video-nojs: 0.19377493858337
+YouTube-nojs: 0.88893890380859
+Amazon Fire HD 6-nojs: 1.2519471645355
+Amazon-nojs: 0.3086941242218
+baidu search-nojs: 0.18508005142212
+baidu-nojs: 0.052844047546387
+Facebook-nojs: 0.359708070755
+Google search-nojs: 0.1905369758606
+Google-nojs: 0.081966876983643
+hao123-nojs: 0.18767690658569
+LinkedIn-nojs: 0.36968088150024
+qq.com search-nojs: 0.14277601242065
+qq.com-nojs: 0.68336200714111
+sina-nojs: 1.1684401035309
+taobao search-nojs: 0.8522801399231
+taobao-nojs: 0.79551815986633
+Twitter-nojs: 0.33955097198486
+Wikipedia page-nojs: 1.4381809234619
+Wikipedia-nojs: 0.15180397033691
+Yahoo search-nojs: 0.084819078445435
+Yahoo-nojs: 0.20460391044617
+YouTube video-nojs: 0.23509621620178
+YouTube-nojs: 1.333123922348

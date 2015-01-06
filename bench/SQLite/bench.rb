@@ -9,7 +9,7 @@ def run_test(bld, log=nil)
   
   p [bld, log]
   
-  pid = Process.spawn("../../bin/sqlite/sqlite3-#{bld} #{itrs} #{flags} #{schema} #{queries} > ../../results/sqlite/#{bld}.txt")
+  pid = Process.spawn("../../bin/sqlite/sqlite3-#{bld} #{itrs} #{flags} #{schema} #{queries} > ../../results/sqlite/#{log}.txt")
   Process.wait(pid)
 end
 
@@ -21,7 +21,7 @@ run_test('mem5')
 ['hoard', 'jexxmalloc', 'ptmalloc3', 'tlsf'].each do |l|
   ENV['DYLD_INSERT_LIBRARIES'] = '/Users/timm/499T/Replace-Libs/lib' + l + '.dylib'
   run_test('rmalloc', l)
-  run_test('rmalloc-zone', l)
+  run_test('rmalloc-zone', l + '-zone')
 end
 
 ENV['DYLD_INSERT_LIBRARIES'] = nil

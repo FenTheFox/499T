@@ -1,0 +1,13 @@
+2015-01-05 16:55:32.353 firefox[596:220721] NSWindow warning: adding an unknown subview: <NSView: 0x100435960>
+2015-01-05 16:55:32.360 firefox[596:220721] Call stack:
+(
+	0   AppKit                              0x00007fff8d8d6a9c -[NSThemeFrame addSubview:] + 107
+	1   AppKit                              0x00007fff8d2c5a3f -[NSView addSubview:positioned:relativeTo:] + 208
+	2   XUL                                 0x0000000102facf0a -[BaseWindow setContentView:] + 106
+	3   AppKit                              0x00007fff8d231e2a -[NSWindow initWithContentRect:styleMask:backing:defer:] + 45
+	4   XUL                                 0x0000000102fabefb -[BaseWindow initWithContentRect:styleMask:backing:defer:] + 107
+)
+1420494993390	GMPInstallManager.simpleCheckAndInstall	INFO	Last check was: 3532 seconds ago, minimum seconds: 86400
+1420494993390	GMPInstallManager.simpleCheckAndInstall	INFO	Will not check for updates.
+[597] ###!!! ABORT: Aborting on channel error.: file /Users/Timm/499T/source/firefox-release/ipc/glue/MessageChannel.cpp, line 1618
+[597] ###!!! ABORT: Aborting on channel error.: file /Users/Timm/499T/source/firefox-release/ipc/glue/MessageChannel.cpp, line 1618

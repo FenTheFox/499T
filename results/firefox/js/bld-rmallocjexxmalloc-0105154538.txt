@@ -1,0 +1,158 @@
+Final results:
+	106.74ms � 1.35% (lower is better)
+	Standard deviation = 2.89% of mean
+	Standard error = 0.65% of mean
+	23 runs
+
+Result breakdown:
+	amazon/chrome:
+		urem: 51.45ms � 2.11% (stddev=4.52%, stderr=1.01%)
+
+	amazon/chrome-win:
+		urem: 50.35ms � 1.45% (stddev=3.11%, stderr=0.70%)
+
+	amazon/firefox:
+		urm: 55.20ms � 2.01% (stddev=4.30%, stderr=0.96%)
+
+	amazon/firefox-win:
+		urm: 52.45ms � 1.60% (stddev=3.41%, stderr=0.76%)
+
+	amazon/safari:
+		urem: 55.60ms � 1.65% (stddev=3.52%, stderr=0.79%)
+
+	facebook/chrome:
+		urem: 274.15ms � 1.12% (stddev=2.40%, stderr=0.54%)
+
+	facebook/chrome-win:
+		urem: 409.80ms � 0.77% (stddev=1.64%, stderr=0.37%)
+
+	facebook/firefox:
+		urem: 177.30ms � 0.55% (stddev=1.19%, stderr=0.27%)
+
+	facebook/firefox-win:
+		urem: 97.90ms � 1.09% (stddev=2.34%, stderr=0.52%)
+
+	facebook/safari:
+		urem: 445.80ms � 3.85% (stddev=8.23%, stderr=1.84%)
+
+	google/chrome:
+		urem: 211.70ms � 0.82% (stddev=1.75%, stderr=0.39%)
+
+	google/chrome-win:
+		urem: 210.50ms � 1.21% (stddev=2.59%, stderr=0.58%)
+
+	google/firefox:
+		uem: 126.40ms � 1.48% (stddev=3.16%, stderr=0.71%)
+
+	google/firefox-win:
+		urem: 148.60ms � 1.31% (stddev=2.80%, stderr=0.63%)
+
+	google/safari:
+		urem: 190.60ms � 0.91% (stddev=1.95%, stderr=0.44%)
+
+	twitter/chrome:
+		urem: 70.50ms � 1.64% (stddev=3.52%, stderr=0.79%)
+
+	twitter/chrome-win:
+		rem: 70.40ms � 1.23% (stddev=2.62%, stderr=0.59%)
+
+	twitter/firefox:
+		urem: 22.90ms � 4.77% (stddev=10.21%, stderr=2.28%)
+
+	twitter/firefox-win:
+		urem: 22.40ms � 3.48% (stddev=7.44%, stderr=1.66%)
+
+	twitter/safari:
+		urem: 47.15ms � 1.21% (stddev=2.60%, stderr=0.58%)
+
+	yahoo/chrome:
+		urem: 179.75ms � 0.76% (stddev=1.63%, stderr=0.37%)
+
+	yahoo/chrome-win:
+		urem: 142.25ms � 0.54% (stddev=1.16%, stderr=0.26%)
+
+	yahoo/firefox:
+		urem: 176.15ms � 1.05% (stddev=2.24%, stderr=0.50%)
+
+	yahoo/firefox-win:
+		urem: 93.15ms � 1.14% (stddev=2.44%, stderr=0.55%)
+
+	yahoo/safari:
+		urem: 175.30ms � 1.62% (stddev=3.47%, stderr=0.78%)
+
+Raw results:
+	amazon/chrome:
+		urem: [50, 50, 55, 49, 48, 48, 48, 51, 51, 52, 53, 55, 51, 52, 51, 55, 54, 50, 54, 52]
+
+	amazon/chrome-win:
+		urem: [48, 50, 48, 48, 50, 51, 52, 50, 50, 49, 51, 53, 52, 49, 52, 51, 49, 51, 53, 50]
+
+	amazon/firefox:
+		urm: [56, 62, 56, 54, 57, 53, 56, 53, 52, 54, 54, 56, 55, 56, 53, 56, 56, 53, 59, 53]
+
+	amazon/firefox-win:
+		urm: [51, 51, 54, 51, 53, 52, 50, 52, 52, 51, 52, 52, 51, 50, 54, 55, 55, 55, 52, 56]
+
+	amazon/safari:
+		urem: [56, 53, 55, 54, 59, 57, 59, 53, 54, 55, 56, 55, 55, 53, 58, 58, 55, 55, 54, 58]
+
+	facebook/chrome:
+		urem: [272, 274, 272, 267, 273, 272, 274, 273, 272, 272, 299, 279, 275, 268, 272, 275, 280, 271, 273, 270]
+
+	facebook/chrome-win:
+		urem: [401, 421, 407, 421, 402, 413, 414, 418, 412, 418, 399, 410, 405, 407, 404, 410, 402, 414, 405, 413]
+
+	facebook/firefox:
+		urem: [175, 180, 175, 175, 176, 176, 176, 176, 179, 178, 177, 177, 181, 176, 182, 179, 176, 179, 178, 175]
+
+	facebook/firefox-win:
+		urem: [100, 95, 95, 96, 100, 98, 101, 96, 98, 103, 95, 100, 97, 96, 98, 96, 100, 100, 97, 97]
+
+	facebook/safari:
+		urem: [419, 438, 438, 520, 420, 418, 435, 443, 427, 435, 429, 440, 438, 420, 531, 433, 430, 535, 444, 423]
+
+	google/chrome:
+		urem: [207, 217, 210, 208, 211, 212, 211, 217, 219, 207, 211, 216, 214, 212, 212, 210, 207, 206, 213, 214]
+
+	google/chrome-win:
+		urem: [211, 205, 211, 206, 208, 212, 205, 214, 213, 213, 208, 211, 213, 209, 213, 208, 203, 206, 229, 212]
+
+	google/firefox:
+		uem: [123, 137, 132, 124, 122, 122, 128, 125, 127, 127, 124, 125, 131, 124, 126, 124, 126, 133, 123, 125]
+
+	google/firefox-win:
+		urem: [145, 153, 147, 155, 153, 152, 143, 147, 151, 151, 157, 145, 144, 147, 149, 150, 143, 143, 150, 147]
+
+	google/safari:
+		urem: [195, 197, 188, 186, 197, 191, 197, 186, 189, 192, 189, 189, 190, 189, 188, 188, 189, 196, 188, 188]
+
+	twitter/chrome:
+		urem: [73, 68, 68, 72, 72, 71, 71, 76, 71, 70, 69, 69, 75, 68, 69, 74, 69, 68, 69, 68]
+
+	twitter/chrome-win:
+		rem: [66, 71, 71, 67, 70, 73, 71, 69, 71, 71, 72, 72, 70, 72, 70, 69, 68, 71, 71, 73]
+
+	twitter/firefox:
+		urem: [25, 22, 22, 22, 22, 26, 22, 22, 22, 30, 21, 21, 21, 26, 22, 22, 25, 21, 21, 23]
+
+	twitter/firefox-win:
+		urem: [21, 21, 22, 25, 21, 22, 24, 22, 25, 22, 21, 22, 21, 26, 21, 21, 21, 22, 25, 23]
+
+	twitter/safari:
+		urem: [47, 46, 48, 46, 47, 47, 49, 46, 48, 49, 46, 46, 47, 46, 46, 46, 48, 50, 47, 48]
+
+	yahoo/chrome:
+		urem: [187, 183, 184, 181, 179, 179, 175, 178, 180, 177, 178, 176, 178, 180, 179, 178, 182, 177, 182, 182]
+
+	yahoo/chrome-win:
+		urem: [141, 143, 141, 140, 145, 141, 144, 140, 146, 141, 141, 142, 142, 142, 144, 142, 141, 142, 143, 144]
+
+	yahoo/firefox:
+		urem: [174, 173, 174, 180, 177, 174, 175, 172, 180, 173, 177, 174, 186, 179, 174, 174, 175, 174, 185, 173]
+
+	yahoo/firefox-win:
+		urem: [94, 97, 93, 92, 90, 92, 92, 97, 92, 90, 94, 95, 91, 92, 93, 93, 92, 95, 91, 98]
+
+	yahoo/safari:
+		urem: [171, 174, 192, 171, 172, 169, 171, 184, 182, 171, 170, 169, 179, 182, 171, 176, 176, 171, 176, 179]
+

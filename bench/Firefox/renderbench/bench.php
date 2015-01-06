@@ -3,7 +3,7 @@
 
 	$logf = '../../../results/firefox/render/' . $_SESSION[$_SESSION['type'] . $_SESSION['event']];
 	$fh = fopen( $logf, 'a' );
-	fwrite( $fh, $_SESSION['sitename'] . ' #' . $_SESSION['itr'] . ': ' . ($_SERVER['REQUEST_TIME_FLOAT'] - $_POST['time']) . "\n" );
+	fwrite( $fh, $_SESSION['sitename'] . ': ' . ($_SERVER['REQUEST_TIME_FLOAT'] - $_POST['time']) . "\n" );
 	fclose( $fh );
 
 	if(++$_SESSION['site'] == 21){
