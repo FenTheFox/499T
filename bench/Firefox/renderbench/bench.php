@@ -8,13 +8,13 @@
 
 	if(++$_SESSION['site'] == 21){
 		$_SESSION['site'] = 0;
-		if(++$_SESSION['itr'] == 3){
+		if(++$_SESSION['itr'] == 7){
 			$_SESSION['itr'] = 0;
 			if($_SESSION['type'] == 'js') {
 				$_SESSION['type'] = 'nojs';
-			} elseif ($_SESSION['event'] == 'dom') {
-				$_SESSION['type'] = 'js';
-				$_SESSION['event'] = 'load';
+			// } elseif ($_SESSION['event'] == 'dom') {
+			// 	$_SESSION['type'] = 'js';
+			// 	$_SESSION['event'] = 'load';
 			} else {				
 				$fid = fopen('fid', 'r');
 				exec('kill ' . fgets($fid));

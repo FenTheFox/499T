@@ -12,18 +12,13 @@
 		$_SESSION['site'] = 0;
 		$_SESSION['itr'] = 0;
 		$_SESSION['type'] = 'js';
-		$_SESSION['event'] = 'dom';
+		$_SESSION['event'] = 'load';
 		
 		$time = time();
-		$_SESSION['jsdom']		= $_GET['bld'] . '-' . date('mdHis', $time) . '-jsdom.txt';
+		// $_SESSION['jsdom']		= $_GET['bld'] . '-' . date('mdHis', $time) . '-jsdom.txt';
 		$_SESSION['jsload']		= $_GET['bld'] . '-' . date('mdHis', $time) . '-jsload.txt';
-		$_SESSION['nojsdom']	= $_GET['bld'] . '-' . date('mdHis', $time) . '-nojsdom.txt';
+		// $_SESSION['nojsdom']	= $_GET['bld'] . '-' . date('mdHis', $time) . '-nojsdom.txt';
 		$_SESSION['nojsload']	= $_GET['bld'] . '-' . date('mdHis', $time) . '-nojsload.txt';
-
-		fclose(fopen($_SESSION['jsdom'],	'w'));
-		fclose(fopen($_SESSION['jsload'],	'w'));
-		fclose(fopen($_SESSION['nojsdom'],	'w'));
-		fclose(fopen($_SESSION['nojsload'], 'w'));
 	}
 
 	if($handle = opendir($_SESSION['type'])) {
