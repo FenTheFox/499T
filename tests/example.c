@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <sys/mman.h>
+#include <malloc/malloc.h>
 
-#include "hwtime.h"
 
 int main(int argc, char const *argv[])
 {	
@@ -12,6 +12,9 @@ int main(int argc, char const *argv[])
 	munmap (thing, 1024);
 	
 	printf("Malloc'd %d bytes\n", 110);
+	
+	printf("malloc_usable_size(helloptr) = %zu\n", malloc_size(helloptr));
+	printf("malloc_good_size(10) = %zu\n", malloc_good_size(10));
 
 	return 0;
 }

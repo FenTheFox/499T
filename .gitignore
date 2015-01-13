@@ -7,3 +7,5 @@ source/sqlite-bld/*
 fid
 
 phplog
+
+*.dSYM

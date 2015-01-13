@@ -1,9 +1,10 @@
 CXX=clang++
-CPPFLAGS=-O3
-LIBFLAGS=-shared -Wl,-undefined,dynamic_lookup -dynamiclib $(CPPFLAGS)
-
-rmmap: rmmap.c
-	clang rmmap.c -o ../rmmap.dylib $(LIBFLAGS)
+CPPFLAGS=-O3 -std=c++11
+LIBFLAGS=-shared -dynamiclib $(CPPFLAGS)
+OBJS=rmmap.cpp logger.cpp map.cpp
+	
+test: main.cpp
+	$(CXX) -o test $(CPPFLAGS) $^
 	
 clean:
-	rm ../Replace-Libs/rmmap.dylib
+	rm test
