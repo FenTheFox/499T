@@ -1,5 +1,7 @@
 #!/usr/bin/ruby
 
+require 'fileutils'
+
 def run_test(bld, log=nil)
   itrs = 30
   flags = '-q -s 8'
@@ -13,15 +15,34 @@ def run_test(bld, log=nil)
   Process.wait(pid)
 end
 
+def mv_trace(bld)
+	FileUtils.mv('./max-mmap', '../../results/sqlite/trace/maxmmap-' + bld)
+	FileUtils.mv('./max-malloc', '../../results/sqlite/trace/maxmalloc-' + bld)
+	FileUtils.mv('./trace-mmap', '../../results/sqlite/trace/tracemmap-' + bld)
+	FileUtils.mv('./trace-malloc', '../../results/sqlite/trace/tracemalloc-' + bld)
+end
+
 run_test('sys')
 run_test('zone')
 run_test('mem3')
 run_test('mem5')
 
-['hoard', 'jexxmalloc', 'ptmalloc3', 'tlsf'].each do |l|
+run_test('mem3log')
+mv_trace('mem3log')
+run_test('mem5log')
+mv_trace('mem5log')
+
+['hoard', 'jexxmalloc', 'tlsf'].each do |l|
   ENV['DYLD_INSERT_LIBRARIES'] = '/Users/timm/499T/Replace-Libs/lib' + l + '.dylib'
   run_test('rmalloc', l)
   run_test('rmalloc-zone', l + '-zone')
 end
 
+['hoard-log', 'jexxmalloc-log'].each do |l|
+  ENV['DYLD_INSERT_LIBRARIES'] = '/Users/timm/499T/Replace-Libs/lib' + l + '.dylib'
+  run_test('rmalloc', l)
+	mv_trace(l)
+  run_test('rmalloc-zone', l + '-zone')
+	mv_trace(l + '-zone')
+end
 ENV['DYLD_INSERT_LIBRARIES'] = nil

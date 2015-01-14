@@ -20,6 +20,7 @@
 
 #include <sys/times.h>
 #include <sys/mman.h>
+#include <libkern/OSAtomic.h>
 
 #include "sqlite3.h"
 

@@ -8,9 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		2416370A1A64561B008C2C69 /* map.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24A0A02F1A6194010007B064 /* map.cpp */; };
-		246174C21A6186BF000AB730 /* rmmap.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E7C1D91A60294800051AA1 /* rmmap.cpp */; };
+		24A8D9641A6706B300511A04 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E7C1DE1A6034F300051AA1 /* main.cpp */; };
 		24E7C1DD1A60298900051AA1 /* logger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E7C1DB1A60298900051AA1 /* logger.cpp */; };
-		24E7C1DF1A6034F300051AA1 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E7C1DE1A6034F300051AA1 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		247AF01D1A66D73A00832EA9 /* cmain.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = cmain.c; sourceTree = "<group>"; };
 		24A0A02F1A6194010007B064 /* map.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = map.cpp; sourceTree = "<group>"; };
 		24A0A0301A6194010007B064 /* map.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = map.h; sourceTree = "<group>"; };
 		24E7C1CF1A60292100051AA1 /* inst */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = inst; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -49,6 +49,7 @@
 		24E7C1C61A60292100051AA1 = {
 			isa = PBXGroup;
 			children = (
+				247AF01D1A66D73A00832EA9 /* cmain.c */,
 				24A0A02F1A6194010007B064 /* map.cpp */,
 				24A0A0301A6194010007B064 /* map.h */,
 				24E7C1DE1A6034F300051AA1 /* main.cpp */,
@@ -123,10 +124,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				246174C21A6186BF000AB730 /* rmmap.cpp in Sources */,
 				24E7C1DD1A60298900051AA1 /* logger.cpp in Sources */,
 				2416370A1A64561B008C2C69 /* map.cpp in Sources */,
-				24E7C1DF1A6034F300051AA1 /* main.cpp in Sources */,
+				24A8D9641A6706B300511A04 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

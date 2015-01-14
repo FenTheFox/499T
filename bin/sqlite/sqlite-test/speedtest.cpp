@@ -3,7 +3,9 @@
 
 #include "speedtest.h"
 
-#define MMAP_SIZE 33554432
+#ifndef MMAP_SIZE
+#define MMAP_SIZE 1048576
+#endif
 
 using namespace std;
 
@@ -80,9 +82,7 @@ void runScriptFile(sqlite3 *db, string name) {
 		if (!(sqlite3_complete(stmt.c_str())))
 			continue;
 
-//		unique_lock<mutex> lock(stmt_count);
-		stmts++;
-//		unique_lock<mutex> unlock(stmt_count);
+		OSAtomicIncrement32(&stmts);
 
 		prepareAndRun(db, stmt);
 	}

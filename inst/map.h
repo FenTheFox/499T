@@ -9,6 +9,9 @@
 #ifndef __inst__map__
 #define __inst__map__
 
+#define ARR_SIZE 1000
+#define LIST_SIZE 100
+
 #include <cstdlib>
 
 struct pair {
@@ -17,8 +20,8 @@ struct pair {
 };
 
 class map {
-	pair values [1000][100];
-	bool inUse [1000][100];
+	pair values [ARR_SIZE][LIST_SIZE];
+	bool inUse [ARR_SIZE][LIST_SIZE];
 public:
 	size_t at(size_t);
 	void erase(size_t);

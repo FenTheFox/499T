@@ -9,26 +9,36 @@
 #ifndef __inst__logger__
 #define __inst__logger__
 
-#include "map.h"
 #include <stdio.h>
-#include <pthread.h>
+
+enum event_type {MALLOC, FREE, REALLOC, MEMALIGN, MMAP, MUNMAP, BRK, SBRK};
+typedef enum event_type event_t;
+#ifdef __cplusplus
+extern "C"
+#endif
+void doLog(enum event_type, void*, size_t);
+
+#ifdef __cplusplus
+#include "map.h"
 
 class Logger {
 public:
-	enum logger_type {LIBC, SYS};
-	enum event_type {MALLOC, FREE, REALLOC, MEMALIGN, MMAP, MUNMAP, SBRK};
+	enum event_type {MALLOC, FREE, REALLOC, MEMALIGN, MMAP, MUNMAP, BRK, SBRK};
 
-	Logger(logger_type);
+	Logger();
 
 	void log(event_type, void*, size_t = 0);
 
 private:
-	int maxf, tracef;
-	logger_type type;
-	pthread_mutex_t lock;
-	size_t curr, max, sinceLastFlush, flushThreshold;
+	int maxmallocf, tracemallocf, maxmmapf, tracemmapf;
+	int mutex;
+	int64_t currMalloc, maxMalloc, currMmap, maxMmap;
+	size_t sinceLastFlush, flushThreshold;
 
-	map origSize;
+	map origMmapSize, origMallocSize;
+	
+	char* typeToS(event_type);
 };
+#endif
 
 #endif /* defined(__inst__logger__) */
