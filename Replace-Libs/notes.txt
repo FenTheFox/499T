@@ -1,0 +1,9 @@
+JE Malloc cmd
+clang++ -fno-builtin-malloc -g -pipe -funroll-loops -fPIC -DPIC -D_REENTRANT -Iinclude -dynamiclib arena.o atomic.o base.o bitmap.o chunk.o chunk_dss.o chunk_mmap.o ckh.o ctl.o extent.o hash.o huge.o jemalloc.o mb.o mutex.o prof.o quarantine.o rtree.o stats.o tcache.o tsd.o util.o zone.o ../../Heap-Layers/wrappers/macwrapper.cpp -o lib/libjexxmalloc.dylib -ldl -lpthread
+w/logger
+clang++ -fno-builtin-malloc -g -pipe -funroll-loops -fPIC -DPIC -D_REENTRANT -DINC_LOGGING -Iinclude -dynamiclib arena.o atomic.o base.o bitmap.o chunk.o chunk_dss.o chunk_mmap.o ckh.o ctl.o extent.o hash.o huge.o jemalloc.o mb.o mutex.o prof.o quarantine.o rtree.o stats.o tcache.o tsd.o util.o zone.o ../../Heap-Layers/wrappers/macwrapper.cpp ../../Heap-Layers/wrappers/logger.cpp ../../Heap-Layers/wrappers/map.cpp ../../Heap-Layers/wrappers/rmmap.cpp -o lib/libjexxmalloc.dylib -ldl -lpthread
+
+for PT malloc
+clang++ -dynamiclib -fpic  -g -O3  -Wall -Wstrict-prototypes -DUSE_TSD_DATA_HACK -D_REENTRANT -Isysdeps/generic -DTHREAD_STATS=1 ptmalloc3.o malloc.o -o libptmalloc3.dylib
+
+for hoard simply remove the -DINC_LOGGING from the flags for the non-logging version or keep it there for the logging version
