@@ -1,6 +1,6 @@
 [submodule "Malloc-Implementations"]
 	path = Malloc-Implementations
-	url = https://github.com/timm-allman/Malloc-Implementations.git
+	url = https://github.com/timm-allman/Malloc-Implementations
 [submodule "source/memcached"]
 	path = source/memcached
 	url = https://github.com/memcached/memcached
