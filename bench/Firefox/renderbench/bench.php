@@ -8,7 +8,7 @@
 
 	if(++$_SESSION['site'] == 21){
 		$_SESSION['site'] = 0;
-		if(++$_SESSION['itr'] == 7){
+		if(++$_SESSION['itr'] == 3){
 			$_SESSION['itr'] = 0;
 			if($_SESSION['type'] == 'js') {
 				$_SESSION['type'] = 'nojs';
@@ -19,7 +19,7 @@
 				$fid = fopen('fid', 'r');
 				exec('kill ' . fgets($fid));
 				fclose($fid);
-				unlink('fid');
+				unlink('./fid');
 				
 				unset($_SESSION['site']);
 				header('HTTP/1.1 302 Found', TRUE, 302);

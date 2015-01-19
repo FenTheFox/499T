@@ -38,15 +38,15 @@ Logger::Logger()
 	origMallocSize = map();
 
 	maxmmapf = open("max-mmap", OPEN_FLAGS, OPEN_MODE);
-	tracemmapf = open("trace-mmap", OPEN_FLAGS, OPEN_MODE);
+	// tracemmapf = open("trace-mmap", OPEN_FLAGS, OPEN_MODE);
 	maxmallocf = open("max-malloc", OPEN_FLAGS, OPEN_MODE);
-	tracemallocf = open("trace-malloc", OPEN_FLAGS, OPEN_MODE);
+	// tracemallocf = open("trace-malloc", OPEN_FLAGS, OPEN_MODE);
 
-	if (maxmmapf < 0 || tracemmapf < 0 || maxmallocf < 0 || tracemallocf < 0)
+	if (maxmmapf < 0 || maxmallocf < 0)
 		write(1, "opening files failed\n", 22);
 	char buf[11];
 	memset(buf, 0, 11);
-	sprintf(buf, "%d %d %d %d\n", maxmmapf, tracemmapf, maxmallocf, tracemallocf);
+	sprintf(buf, "%d %d\n", maxmmapf, maxmallocf);
 	write(1, buf, 11);
 }
 
@@ -116,11 +116,9 @@ void Logger::log(event_type type, void* ptr, size_t sz)
 			if (origMmapSize.at((size_t)ptr) == 0)
 				return;
 
-			memset(str, 0, len);
-			sprintf(str, "orig = %zu, munmap'd = %zu\n", origMmapSize.at((size_t)ptr), sz);
-			write(tracemmapf, str, strlen(str, len));
-		} else {
+			size_t oldSz = origMmapSize.at((size_t)ptr), change = oldSz - sz;
 			origMmapSize.erase((size_t)ptr);
+			origMmapSize.insert((size_t)ptr+change, oldSz - change);
 		}
 	} else if (type == MALLOC) {
 		origMallocSize.insert((size_t)ptr, sz);
@@ -137,18 +135,12 @@ void Logger::log(event_type type, void* ptr, size_t sz)
 		origMallocSize.erase((size_t)ptr);
 	}
 
-	memset(str, 0, len);
-	sprintf(str, "%s %zu\n", typeToS(type), sz);
-	if (type == MMAP || type == MUNMAP)
-		write(tracemmapf, str, strlen(str, len));
-	else if (type == MALLOC || type == FREE)
-		write(tracemallocf, str, strlen(str, len));
-}
-
-int strlen(char *str, int len)
-{
-	for (int i = 0; i < len; i++)
-		if (str[i] == '\0')
-			len = i;
-	return len;
+//	memset(str, 0, len);
+//	if (type == MMAP || type == MUNMAP) {
+//		sprintf(str, "%s %lld\n", typeToS(type), currMmap);
+//		write(tracemmapf, str, strlen(str, len));
+//	} else if (type == MALLOC || type == FREE) {
+//		sprintf(str, "%s %lld\n", typeToS(type), currMalloc);
+//		write(tracemallocf, str, strlen(str, len));
+//	}
 }

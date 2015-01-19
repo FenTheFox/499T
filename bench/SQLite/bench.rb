@@ -18,8 +18,8 @@ end
 def mv_trace(bld)
 	FileUtils.mv('./max-mmap', '../../results/sqlite/trace/maxmmap-' + bld)
 	FileUtils.mv('./max-malloc', '../../results/sqlite/trace/maxmalloc-' + bld)
-	FileUtils.mv('./trace-mmap', '../../results/sqlite/trace/tracemmap-' + bld)
-	FileUtils.mv('./trace-malloc', '../../results/sqlite/trace/tracemalloc-' + bld)
+	# FileUtils.mv('./trace-mmap', '../../results/sqlite/trace/tracemmap-' + bld)
+	# FileUtils.mv('./trace-malloc', '../../results/sqlite/trace/tracemalloc-' + bld)
 end
 
 run_test('sys')

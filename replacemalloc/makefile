@@ -1,2 +1,0 @@
-ffrepl: replacemallocfirefox.c
-	clang -g -O3 -o ../Replace-Libs/librmalloc.dylib -Wl,-flat_namespace,-undefined,dynamic_lookup -dynamiclib -I. -I/Users/Timm/499T/source/firefox-bld-rmalloc/dist/include -include ~/499T/source/firefox-bld/dist/include/mozilla-config.h replacemallocfirefox.c

@@ -6,7 +6,16 @@
 //  Copyright (c) 2015 UMass. All rights reserved.
 //
 
+#include <stdio.h>
 #include <unistd.h>
+
+int strlen(char *str, int len)
+{
+	for (int i = 0; i < len; i++)
+		if (str[i] == '\0')
+			len = i;
+	return len;
+}
 
 #include "map.h"
 
@@ -22,8 +31,11 @@ size_t map::at(size_t k) {
 			break;
 		}
 	}
-	if (!flag)
-		write(1, "not found\n", 10);
+	if (!flag) {
+		char str[31];
+		sprintf(str, "%zu not found\n", k);
+		write(1, str, strlen(str, 31));
+	}
 
 	return p.second;
 }

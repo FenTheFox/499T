@@ -16,7 +16,7 @@ typedef enum event_type event_t;
 #ifdef __cplusplus
 extern "C"
 #endif
-void doLog(enum event_type, void*, size_t);
+void doLog(event_t, void*, size_t);
 
 #ifdef __cplusplus
 #include "map.h"

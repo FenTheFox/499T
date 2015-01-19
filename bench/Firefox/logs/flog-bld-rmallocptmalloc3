@@ -1,2 +1,0 @@
-sh(525,0x7fff7e232300) malloc: *** error for object 0x10827c110: pointer being freed was not allocated
-*** set a breakpoint in malloc_error_break to debug

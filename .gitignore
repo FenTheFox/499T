@@ -6,6 +6,4 @@ source/sqlite-bld/*
 
 fid
 
-phplog
-
-*.dSYM
+bench/Firefox/logs

@@ -2,5 +2,5 @@
 
 require './do_test.rb'
 
-test = Tester.new('renderbench', 700, 5)
+test = Tester.new('render', 800, 5)
 test.do_tests()
