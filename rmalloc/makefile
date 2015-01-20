@@ -1,5 +1,5 @@
-CC=clang
-CXX=clang++
+CC=gcc
+CXX=g++
 CFLAGS=-g -O3 -dynamiclib -Wl,-flat_namespace,-undefined,dynamic_lookup
 INC=-I. -I../source/firefox-bld-rmalloc/dist/include -include ../source/firefox-bld/dist/include/mozilla-config.h
 

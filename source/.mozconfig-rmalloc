@@ -1,5 +1,3 @@
-. $topsrcdir/build/macosx/mozconfig.common
-
 # Define where build files should go. This places them in the directory
 # "obj-ff-dbg" under the current source directory
 mk_add_options MOZ_OBJDIR=@TOPSRCDIR@/../firefox-bld-rmalloc
