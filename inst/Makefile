@@ -1,13 +1,17 @@
-CXX=clang++
+CC=gcc
+CXX=g++
+CFLAGS=-g
 CPPFLAGS=-g -std=c++11
-LIBFLAGS=-shared -dynamiclib $(CPPFLAGS)
+LIBFLAGS=-shared $(CPPFLAGS)
 OBJS=main.cpp logger.cpp map.cpp
 
+all: test test-dbug
+
 test-dbug: $(OBJS)
-	$(CXX) -o test $(CPPFLAGS) $^
+	$(CXX) -o $@ $(CPPFLAGS) $^
 
 test: $(OBJS)
-	$(CXX) -o test -O3 $(CPPFLAGS) $^
+	$(CXX) -o $@ -O3 $(CPPFLAGS) $^
 	
 clean:
-	rm test
+	rm test*

@@ -18,15 +18,5 @@ extern Logger* getLogger();
 
 int main()
 {
-	void *ptr1 = mmap(NULL, 1024, PROT_READ | PROT_WRITE | PROT_EXEC, MAP_PRIVATE | MAP_ANON, -1, 0),
-		*ptr2 = mmap(NULL, 1024, PROT_READ | PROT_WRITE | PROT_EXEC, MAP_PRIVATE, -1, 0),
-		*ptr3 = malloc(1024);
 
-	munmap(ptr1, 1024);
-	munmap(ptr2, 1024);
-	free(ptr3);
-
-	getLogger()->log(Logger::MALLOC, NULL, 1);
-
-//	printf("hello world %llu\n", SIZE_MAX);
 }

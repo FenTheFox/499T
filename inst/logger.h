@@ -11,7 +11,7 @@
 
 #include <stdio.h>
 
-enum event_type {MALLOC, FREE, REALLOC, MEMALIGN, MMAP, MUNMAP, BRK, SBRK};
+enum event_type {MALLOC, FREE, REALLOC, MEMALIGN, MMAP, MREMAP, MUNMAP, BRK, SBRK};
 typedef enum event_type event_t;
 #ifdef __cplusplus
 extern "C"
@@ -30,15 +30,17 @@ public:
 	void log(event_type, void*, size_t = 0);
 
 private:
-	int maxmallocf, tracemallocf, maxmmapf, tracemmapf;
+	int maxf, tracef;
 	int mutex;
-	int64_t currMalloc, maxMalloc, currMmap, maxMmap;
+	long int currMalloc, maxMalloc, currMmap, maxMmap;
 	size_t sinceLastFlush, flushThreshold;
 
-	map origMmapSize, origMallocSize;
+	lmap origMmapSize, origMallocSize;
 	
 	char* typeToS(event_type);
 };
+
+Logger* getLogger();
 #endif
 
 #endif /* defined(__inst__logger__) */
