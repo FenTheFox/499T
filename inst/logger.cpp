@@ -44,7 +44,7 @@ Logger::Logger()
 	char buf[11];
 	memset(buf, 0, 11);
 	snprintf(buf, 11, "%d\n", maxf);
-	write(1, buf, 11);
+	// write(1, buf, 11);
 }
 
 char* Logger::typeToS(event_type type)
@@ -140,8 +140,8 @@ void Logger::log(event_type type, void* ptr, size_t sz)
 		origMallocSize.erase((size_t)ptr);
 	}
 
-	if(ptr == NULL)
-		write(1, "null passed to log\n", 19);
+	// if(ptr == NULL)
+	// 	write(1, "null passed to log\n", 19);
 
 	memset(str, 0, len);
 	if (type == MMAP || type == MUNMAP)

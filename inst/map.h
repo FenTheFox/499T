@@ -10,7 +10,7 @@
 #define __inst__map__
 
 #define ARR_SIZE 10000
-#define LIST_SIZE 1000
+#define LIST_SIZE 2000
 
 #include <stdio.h>
 

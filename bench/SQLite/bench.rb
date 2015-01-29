@@ -12,12 +12,17 @@ def run_test(bld, log=nil)
 	p [bld, log]
 	
 	pid = Process.spawn("../../bin/sqlite/sqlite3-#{bld} #{itrs} #{flags} #{schema} #{queries} > ../../results/sqlite/#{log}.txt")
+	# pid = Process.spawn("../../bin/sqlite/sqlite3-#{bld} #{itrs} #{flags} #{schema} #{queries}")
 	Process.wait(pid)
 end
 
 def mv_trace(bld)
-	FileUtils.mv('./max', '../../results/sqlite/trace/max-' + bld)
-	# FileUtils.mv('./trace', '../../results/sqlite/trace/trace-' + bld)
+	begin
+		FileUtils.mv('./max', '../../results/sqlite/trace/max-' + bld)
+		FileUtils.mv('./trace', '../../results/sqlite/trace/trace-' + bld)
+	rescue Exception => e
+		p "welp"
+	end
 end
 
 run_test('sys')
@@ -29,16 +34,16 @@ mv_trace('mem3log')
 run_test('mem5log')
 mv_trace('mem5log')
 
-libs = ['hoard']
+libs = ['hoard', 'jemalloc', 'nedmalloc']
 
 libs.each do |l|
 	ENV['LD_PRELOAD'] = '../../Replace-Libs/lib' + l + '.so'
 	run_test('rmalloc', l)
 end
 
-libs.each do |l|
+['hoard'].each do |l|
 	ENV['LD_PRELOAD'] = '../../Replace-Libs/lib' + l + '-log.so'
-	run_test('rmalloc', l)
+	run_test('rmalloc', l + '-log')
 	mv_trace(l)
 end
 ENV['LD_PRELOAD'] = nil

@@ -31,11 +31,11 @@ size_t lmap::at(size_t k) {
 			break;
 		}
 	}
-	if (!flag) {
-		char str[31];
-		snprintf(str, 31, "%zu not found\n", k);
-		write(1, str, strlen(str, 31));
-	}
+	// if (!flag) {
+		// char str[31];
+		// snprintf(str, 31, "%zu not found\n", k);
+		// write(1, str, strlen(str, 31));
+	// }
 
 	return p.second;
 }

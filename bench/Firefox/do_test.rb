@@ -6,7 +6,7 @@ require 'fileutils'
 
 class Tester
 	@@root = 'localhost:8000'
-	@@libs = ['hoard']
+	@@libs = ['hoard', 'jemalloc', 'nedmalloc']
 	
 	def initialize (profile, timeout, iters)
 		@profile = profile
@@ -39,7 +39,7 @@ class Tester
 			@iters.times { |n| do_test('bld-rmalloc', l) }
 		end
 		
-		@@libs.each do |l|
+		['hoard'].each do |l|
 			ENV['LD_PRELOAD'] = '../../Replace-Libs/lib' + l + '-log.so'
 			@iters.times do |n|
 				do_test('bld-rmalloc', l + '-log')
