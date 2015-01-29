@@ -1,0 +1,147 @@
+hao123-nojs: 0.79088807106018
+Google-nojs: 0.24615097045898
+Facebook-nojs: 1.1175789833069
+Amazon Fire HD 6-nojs: 2.4824640750885
+baidu search-nojs: 0.84877395629883
+taobao search-nojs: 1.9157559871674
+Amazon-nojs: 0.90725111961365
+qq.com search-nojs: 0.55614495277405
+Yahoo-nojs: 1.017774105072
+YouTube-nojs: 3.9899768829346
+Google search-nojs: 0.47044110298157
+YouTube video-nojs: 0.51160788536072
+Wikipedia page-nojs: 5.7566390037537
+Yahoo search-nojs: 0.39955496788025
+baidu-nojs: 0.2655668258667
+qq.com-nojs: 1.1673469543457
+LinkedIn-nojs: 1.6068930625916
+Twitter-nojs: 2.4327449798584
+sina-nojs: 1.9733910560608
+Wikipedia-nojs: 1.3510150909424
+taobao-nojs: 2.1202731132507
+hao123-nojs: 0.83100605010986
+Google-nojs: 0.26507186889648
+Facebook-nojs: 1.2692251205444
+Amazon Fire HD 6-nojs: 2.5191252231598
+baidu search-nojs: 0.75124883651733
+taobao search-nojs: 1.3476810455322
+Amazon-nojs: 0.9509220123291
+qq.com search-nojs: 1.9208319187164
+Yahoo-nojs: 1.0750529766083
+YouTube-nojs: 3.1069149971008
+Google search-nojs: 0.51376509666443
+YouTube video-nojs: 0.64430713653564
+Wikipedia page-nojs: 8.049556016922
+Yahoo search-nojs: 0.57711410522461
+baidu-nojs: 0.17282104492188
+qq.com-nojs: 1.1822431087494
+LinkedIn-nojs: 1.4543080329895
+Twitter-nojs: 1.5521638393402
+sina-nojs: 2.082102060318
+Wikipedia-nojs: 1.9005138874054
+taobao-nojs: 1.283173084259
+hao123-nojs: 0.93815898895264
+Google-nojs: 0.15163516998291
+Facebook-nojs: 0.9922730922699
+Amazon Fire HD 6-nojs: 3.1684589385986
+baidu search-nojs: 0.82647490501404
+taobao search-nojs: 1.305125951767
+Amazon-nojs: 0.97080087661743
+qq.com search-nojs: 1.3807551860809
+Yahoo-nojs: 0.76173210144043
+YouTube-nojs: 3.0527009963989
+Google search-nojs: 0.53344011306763
+YouTube video-nojs: 0.5754759311676
+Wikipedia page-nojs: 5.2614200115204
+Yahoo search-nojs: 0.37672710418701
+baidu-nojs: 0.14642786979675
+qq.com-nojs: 0.94751381874084
+LinkedIn-nojs: 1.3259749412537
+Twitter-nojs: 1.3331270217896
+sina-nojs: 2.2322499752045
+Wikipedia-nojs: 1.1608459949493
+taobao-nojs: 1.1270749568939
+hao123-nojs: 1.2490742206573
+Google-nojs: 0.40812301635742
+Facebook-nojs: 1.2244288921356
+Amazon Fire HD 6-nojs: 3.1117470264435
+baidu search-nojs: 0.74760293960571
+taobao search-nojs: 1.2199330329895
+Amazon-nojs: 0.88288879394531
+qq.com search-nojs: 0.56640601158142
+Yahoo-nojs: 0.79548215866089
+YouTube-nojs: 3.040491104126
+Google search-nojs: 0.70223903656006
+YouTube video-nojs: 0.58865880966187
+Wikipedia page-nojs: 5.7172191143036
+Yahoo search-nojs: 0.39658403396606
+baidu-nojs: 0.1480770111084
+qq.com-nojs: 0.98647117614746
+LinkedIn-nojs: 1.1719930171967
+Twitter-nojs: 1.6072430610657
+sina-nojs: 1.9079248905182
+Wikipedia-nojs: 1.3157939910889
+taobao-nojs: 1.3410048484802
+hao123-nojs: 0.91249799728394
+Google-nojs: 0.28595900535583
+Facebook-nojs: 1.2028779983521
+Amazon Fire HD 6-nojs: 3.1911499500275
+baidu search-nojs: 0.87311291694641
+taobao search-nojs: 2.211238861084
+Amazon-nojs: 0.98497796058655
+qq.com search-nojs: 0.57869100570679
+Yahoo-nojs: 1.0697729587555
+YouTube-nojs: 3.0974779129028
+Google search-nojs: 0.49178314208984
+YouTube video-nojs: 0.62525582313538
+Wikipedia page-nojs: 7.3247010707855
+Yahoo search-nojs: 0.46040201187134
+baidu-nojs: 0.13765907287598
+qq.com-nojs: 1.0374450683594
+LinkedIn-nojs: 1.4802069664001
+Twitter-nojs: 1.6669790744781
+sina-nojs: 1.9880771636963
+Wikipedia-nojs: 1.6201119422913
+taobao-nojs: 1.1806900501251
+hao123-nojs: 1.1221780776978
+Google-nojs: 0.18344020843506
+Facebook-nojs: 2.5448958873749
+Amazon Fire HD 6-nojs: 1.9577279090881
+baidu search-nojs: 0.64919996261597
+taobao search-nojs: 1.2333989143372
+Amazon-nojs: 0.99817109107971
+qq.com search-nojs: 0.51419496536255
+Yahoo-nojs: 0.95362186431885
+YouTube-nojs: 3.1060049533844
+Google search-nojs: 0.53426098823547
+YouTube video-nojs: 0.56866216659546
+Wikipedia page-nojs: 7.5463891029358
+Yahoo search-nojs: 0.51105999946594
+baidu-nojs: 0.24983501434326
+qq.com-nojs: 1.1629140377045
+LinkedIn-nojs: 2.3425629138947
+Twitter-nojs: 1.3471741676331
+sina-nojs: 2.2126519680023
+Wikipedia-nojs: 1.1051170825958
+taobao-nojs: 1.1701240539551
+hao123-nojs: 1.3929750919342
+Google-nojs: 0.24499297142029
+Facebook-nojs: 1.1974110603333
+Amazon Fire HD 6-nojs: 1.7917921543121
+baidu search-nojs: 0.63967609405518
+taobao search-nojs: 1.1861951351166
+Amazon-nojs: 0.94326996803284
+qq.com search-nojs: 0.55147790908813
+Yahoo-nojs: 0.91737508773804
+YouTube-nojs: 3.0897009372711
+Google search-nojs: 0.38327193260193
+YouTube video-nojs: 0.969074010849
+Wikipedia page-nojs: 7.7296350002289
+Yahoo search-nojs: 0.58181810379028
+baidu-nojs: 0.22205305099487
+qq.com-nojs: 1.0151500701904
+LinkedIn-nojs: 1.7862079143524
+Twitter-nojs: 1.3669531345367
+sina-nojs: 2.1092879772186
+Wikipedia-nojs: 1.2573788166046
+taobao-nojs: 1.1199569702148
