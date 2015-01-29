@@ -8,7 +8,7 @@
 
 	if(++$_SESSION['site'] == 21){
 		$_SESSION['site'] = 0;
-		if(++$_SESSION['itr'] == 11){
+		if(++$_SESSION['itr'] == 7){
 			$_SESSION['itr'] = 0;
 			if($_SESSION['type'] == 'js') {
 				$_SESSION['type'] = 'nojs';

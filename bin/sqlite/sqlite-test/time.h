@@ -28,7 +28,7 @@ class timer {
 			throw 19;
 		}
 
-		return std::chrono::duration<double, std::nano>(end_time - start_time).count();
+		return nanoseconds(end_time - start_time).count();
 	}
 
 	uint64_t hwdiff() {

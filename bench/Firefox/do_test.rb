@@ -6,7 +6,7 @@ require 'fileutils'
 
 class Tester
 	@@root = 'localhost:8000'
-	@@libs = ['hoard', 'jemalloc', 'nedmalloc', 'ptmalloc3']
+	@@libs = ['hoard']
 	
 	def initialize (profile, timeout, iters)
 		@profile = profile
@@ -43,8 +43,12 @@ class Tester
 			ENV['LD_PRELOAD'] = '../../Replace-Libs/lib' + l + '-log.so'
 			@iters.times do |n|
 				do_test('bld-rmalloc', l + '-log')
-				FileUtils.mv('./max', "../../results/firefox/#{@profile}/trace/max-#{l}#{n}")
-				# FileUtils.mv('./trace', "../../results/firefox/#{@profile}/trace/trace-#{l}#{n}")
+				begin
+					FileUtils.mv('./max', "../../results/firefox/#{@profile}/trace/max-#{l}#{n}")
+					FileUtils.mv('./trace', "../../results/firefox/#{@profile}/trace/trace-#{l}#{n}")
+				rescue Exception => e
+					p "welp"
+				end
 			end
 		end
 
@@ -52,7 +56,12 @@ class Tester
 		ENV['LD_PRELOAD'] = '../../Replace-Libs/librmalloc-log.so'
 		@iters.times do |n|
 			do_test('bld-rmalloc', 'default-log')
-			FileUtils.mv('./max', "../../results/firefox/#{@profile}/trace/max-default#{n}")
+			begin
+				FileUtils.mv('./max', "../../results/firefox/#{@profile}/trace/max-default#{n}")
+				FileUtils.mv('./trace', "../../results/firefox/#{@profile}/trace/trace-default#{n}")
+			rescue Exception => e
+				p "welp"
+			end
 		end
 
 		ENV['LD_PRELOAD'] = nil

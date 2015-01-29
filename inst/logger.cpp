@@ -132,11 +132,16 @@ void Logger::log(event_type type, void* ptr, size_t sz)
 			write(maxf, str, strlen(str, len));
 		}
 	} else if (type == FREE) {
+		if(ptr == NULL)
+			return;
 		sz = origMallocSize.at((size_t)ptr);
 		currMalloc -= sz;
 		// OSAtomicAdd64(-sz, &currMalloc);
 		origMallocSize.erase((size_t)ptr);
 	}
+
+	if(ptr == NULL)
+		write(1, "null passed to log\n", 19);
 
 	memset(str, 0, len);
 	if (type == MMAP || type == MUNMAP)

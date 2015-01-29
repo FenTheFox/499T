@@ -33,7 +33,7 @@ size_t lmap::at(size_t k) {
 	}
 	if (!flag) {
 		char str[31];
-		sprintf(str, "%zu not found\n", k);
+		snprintf(str, 31, "%zu not found\n", k);
 		write(1, str, strlen(str, 31));
 	}
 

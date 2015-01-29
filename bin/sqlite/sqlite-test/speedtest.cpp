@@ -82,7 +82,7 @@ void runScriptFile(sqlite3 *db, string name) {
 		if (!(sqlite3_complete(stmt.c_str())))
 			continue;
 
-		OSAtomicIncrement32(&stmts);
+		stmts++;
 
 		prepareAndRun(db, stmt);
 	}
@@ -231,7 +231,7 @@ int main(int argc, char *argv[]) {
 		time += test_main(argc, argv);
 	}
 
-	if(!quiet)
+	// if(!quiet)
 		printf("Average:		%f\n", time/itrs);
 
 	return 0;

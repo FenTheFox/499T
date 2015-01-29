@@ -29,7 +29,7 @@ mv_trace('mem3log')
 run_test('mem5log')
 mv_trace('mem5log')
 
-libs = ['hoard', 'jemalloc', 'nedmalloc', 'ptmalloc3']
+libs = ['hoard']
 
 libs.each do |l|
 	ENV['LD_PRELOAD'] = '../../Replace-Libs/lib' + l + '.so'
