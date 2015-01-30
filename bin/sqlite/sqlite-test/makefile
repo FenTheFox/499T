@@ -1,7 +1,7 @@
 CC=gcc
 CXX=g++
 CFLAGS=-g -O3 -DSQLITE_TEMP_STORE=2 -DSQLITE_THREADSAFE=2
-CPPFLAGS=-O3 -g -std=c++11 -lpthread -ldl
+CPPFLAGS=-g -std=c++11 -lpthread -ldl
 OFILES=sqlite3.c sqlite3.h
 OBJS=speedtest.cpp
 LOG_OBJS=map.cpp logger.cpp rmmap.c

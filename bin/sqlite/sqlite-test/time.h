@@ -7,12 +7,14 @@
 
 #include <chrono>
 #include <iostream>
+#include <ctime>
+#include <ratio>
 
 using namespace std::chrono;
 
 class timer {
 	steady_clock::time_point start_time, end_time;
-	double total;
+	long total;
 
 	uint64_t hwstart, hwend, hwtotal;
 
@@ -22,13 +24,14 @@ class timer {
 		return val;
 	}
 
-	double diff() {
+	long diff() {
 		if (start_time == steady_clock::time_point::min() || end_time == steady_clock::time_point::min()) {
 			std::cerr << "Please call both start() and end() in between each call to duration()" << std::endl;
 			throw 19;
 		}
+		auto ret = duration_cast<nanoseconds>(end_time - start_time);
 
-		return nanoseconds(end_time - start_time).count();
+		return ret.count();
 	}
 
 	uint64_t hwdiff() {
@@ -42,7 +45,8 @@ class timer {
 
   public:
 	timer() {
-		start_time = end_time = steady_clock::time_point::min();
+		start_time = steady_clock::time_point::min();
+		end_time = steady_clock::time_point::min();
 		total = 0;
 
 		hwstart = hwend = hwtotal = 0;
@@ -61,19 +65,7 @@ class timer {
 		hwtotal += hwdiff();
 	}
 
-	double duration() {
-		double dur = diff();
-		start_time = end_time = steady_clock::time_point(steady_clock::time_point::min());
-		return dur;
-	}
-
-	uint64_t hwduration() {
-		uint64_t diff = hwdiff();
-		hwstart = hwend = 0;
-		return diff;
-	}
-
-	double total_duration() { return total; }
+	long total_duration() { return total; }
 
 	uint64_t hwtotal_duration() { return hwtotal; }
 

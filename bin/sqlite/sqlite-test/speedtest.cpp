@@ -130,9 +130,6 @@ list<string> setup(int argc, char *argv[], sqlite3 **db) {
 	rc = sqlite3_open_v2(dbfile.c_str(), db, SQLITE_OPEN_CREATE | SQLITE_OPEN_READWRITE, NULL);
 	setupTimer.end();
 
-	if (!quiet)
-		printf("sqlite3_open_v2() returns %d in %f ns\n", rc, setupTimer.duration());
-
 	if (argc >= 4 && strcmp(argv[1], "-s") == 0) {
 		int n = atoi(argv[2]);
 		argv += 2;
@@ -174,9 +171,8 @@ double test_main(int argc, char *argv[]) {
 	vector<thread> threads = vector<thread>();
 
 	schema_time = prepTimer.total_duration() + runTimer.total_duration() + finalizeTimer.total_duration();
-	printf("Schema:		%f\n", schema_time);
-
-	clkStart = times(&tmsStart);
+	std::cout << "Schema:\t" << schema_time << std::endl;
+	// printf("Schema:	%li\n", schema_time);
 
 	for (string fname : scripts) {
 		tdb = &(tdbs[i++]);
@@ -188,22 +184,21 @@ double test_main(int argc, char *argv[]) {
 		threads[i].join();
 
 	query_time = prepTimer.total_duration() + runTimer.total_duration() + finalizeTimer.total_duration() - schema_time;
-	printf("Query:		%f\n", query_time);
+	std::cout << "Query:\t" << query_time << std::endl;
+	// printf("Query:	%li\n", query_time);
 
 	setupTimer.start();
 	sqlite3_close(db);
 	setupTimer.end();
 	clkEnd = times(&tmsEnd);
 
-	if (!quiet)
-		cout << "sqlite3_close() returns in " << setupTimer.duration() << " ns" << endl;
-
 //	cout << endl;
 //	printf("Statements run:      %d ish stmts\n", stmts);
 //	printf("Total prepare time:  %f ns\n", prepTimer.total_duration());
 //	printf("Total run time:      %f ns\n", runTimer.total_duration());
 //	printf("Total finalize time: %f ns\n", finalizeTimer.total_duration());
-	printf("Setup:		%f\n", setupTimer.total_duration());
+	std::cout << "Setup:\t" << setupTimer.total_duration() << std::endl;
+	// printf("Setup:	%li\n", setupTimer.total_duration());
 //	printf("Total time:          %f ns\n", prepTimer.total_duration() + runTimer.total_duration() +
 //	                                             finalizeTimer.total_duration() + setupTimer.total_duration());
 
@@ -217,7 +212,7 @@ double test_main(int argc, char *argv[]) {
 
 int main(int argc, char *argv[]) {
 	int itrs = atoi(argv[1]);
-	double time;
+	long time = 0;
 
 	argc--;
 	argv++;
@@ -232,7 +227,8 @@ int main(int argc, char *argv[]) {
 	}
 
 	// if(!quiet)
-		printf("Average:		%f\n", time/itrs);
+	std::cout << "Avg:\t" << time/itrs << std::endl;
+		// printf("Avg:	%li\n", time/itrs);
 
 	return 0;
 }
