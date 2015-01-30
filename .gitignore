@@ -7,3 +7,5 @@ source/sqlite-bld/*
 fid
 
 bench/Firefox/logs
+
+results/firefox/**/*-log-*.txt
