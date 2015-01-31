@@ -9,3 +9,6 @@ fid
 bench/Firefox/logs
 
 results/firefox/**/*-log-*.txt
+
+#REMOVE THIS ONCE ADDING TRACE FILES
+results/**/trace/*

@@ -12,11 +12,12 @@ def run_test(bld, log=nil)
 	# puts "../../bin/sqlite/sqlite3-#{bld} #{itrs} #{flags} #{schema} #{queries} > ../../results/sqlite/#{log}.txt"
 
 	if !log.nil?
+		# pid = Process.spawn("../../bin/sqlite/sqlite3-#{bld} #{itrs} #{flags} #{schema} #{queries}")
 		pid = Process.spawn("../../bin/sqlite/sqlite3-#{bld} #{itrs} #{flags} #{schema} #{queries} > ../../results/sqlite/#{log}.txt")
 	else
 		pid = Process.spawn("../../bin/sqlite/sqlite3-#{bld} #{itrs} #{flags} #{schema} #{queries} > /dev/null")
 	end
-	# pid = Process.spawn("../../bin/sqlite/sqlite3-#{bld} #{itrs} #{flags} #{schema} #{queries}")
+
 	Process.wait(pid)
 end
 
@@ -29,25 +30,35 @@ def mv_trace(bld)
 	end
 end
 
-run_test('sys', 'sys')
-run_test('mem3', 'mem3')
-run_test('mem5', 'mem5')
+def do_bench(itr)
+	run_test('sys', "sys-#{itr}")
+	run_test('mem3', "mem3-#{itr}")
+	run_test('mem5', "mem5-#{itr}")
 
-run_test('mem3log')
-mv_trace('mem3log')
-run_test('mem5log')
-mv_trace('mem5log')
+	libs = ['hoard', 'jemalloc', 'nedmalloc']
 
-libs = ['hoard', 'jemalloc', 'nedmalloc']
-
-libs.each do |l|
-	ENV['LD_PRELOAD'] = '../../Replace-Libs/lib' + l + '.so'
-	run_test('rmalloc', l)
+	libs.each do |l|
+		ENV['LD_PRELOAD'] = '../../Replace-Libs/lib' + l + '.so'
+		run_test('rmalloc', "#{l}-#{itr}")
+	end
+	ENV['LD_PRELOAD'] = nil
 end
 
-['hoard'].each do |l|
-	ENV['LD_PRELOAD'] = '../../Replace-Libs/lib' + l + '-log.so'
-	run_test('rmalloc')
-	mv_trace(l)
+def do_log
+	run_test('mem3log')
+	mv_trace('mem3log')
+	run_test('mem5log')
+	mv_trace('mem5log')
+
+	['hoard'].each do |l|
+		ENV['LD_PRELOAD'] = '../../Replace-Libs/lib' + l + '-log.so'
+		run_test('rmalloc')
+		mv_trace(l)
+	end
+	ENV['LD_PRELOAD'] = nil
 end
-ENV['LD_PRELOAD'] = nil
+
+3.times do |n|
+	do_bench(n)
+	# do_log
+end
