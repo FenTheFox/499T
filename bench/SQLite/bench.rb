@@ -69,7 +69,8 @@ private
 	end
 end
 
-3.times do |n|
+5.times do |n|
 	Bench.do_bench(n)
+	sleep(5)
 	# Bench.do_log(n)
 end
