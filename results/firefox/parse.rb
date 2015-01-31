@@ -1,6 +1,7 @@
 #!/usr/bin/ruby
 
 require 'csv'
+require 'pry'
 
 bld = 0
 hoard = 0
@@ -43,35 +44,48 @@ hoard = {}
 jemalloc = {}
 nedmalloc = {}
 
+bldc = {}
+hoardc = {}
+jemallocc = {}
+nedmallocc = {}
+
 Dir.glob('render/*.txt') do |f|
 	CSV.foreach(f, col_sep: ': ') do |r|
 		key = r[0].to_sym
 		val = r[1].to_f
+		
+		# binding.pry
 		if(!f.index('nedmalloc').nil?)
-			nedmalloc[r[0]].nil? ? nedmalloc[key] = val : nedmalloc[key] += val
+			nedmalloc[key].nil? ? nedmalloc[key] = val : nedmalloc[key] += val
+			nedmallocc[key].nil? ? nedmallocc[key] = 1 : nedmallocc[key] += 1
 		elsif(!f.index('hoard').nil?)
-			hoard[r[0]].nil? ? hoard[key] = val : hoard[key] += val
+			hoard[key].nil? ? hoard[key] = val : hoard[key] += val
+			hoardc[key].nil? ? hoardc[key] = 1 : hoardc[key] += 1
 		elsif(!f.index('jemalloc').nil?)
-			jemalloc[r[0]].nil? ? jemalloc[key] = val : jemalloc[key] += val
+			jemalloc[key].nil? ? jemalloc[key] = val : jemalloc[key] += val
+			jemallocc[key].nil? ? jemallocc[key] = 1 : jemallocc[key] += 1
 		else
-			bld[r[0]].nil? ? bld[key] = val : bld[key] += val
+			bld[key].nil? ? bld[key] = val : bld[key] += val
+			bldc[key].nil? ? bldc[key] = 1 : bldc[key] += 1
 		end
 	end
 end
 
+# binding.pry
+
 puts 'render'
 total = 0
-bld.each_value {|v| total += v}
-puts "bld #{total/bld.size}"
+bld.each {|k,v| total += v/(bldc[k])}
+puts "bld #{total}"
 
 total = 0
-hoard.each_value {|v| total += v}
-puts "hoard #{total/hoard.size}"
+hoard.each {|k,v| total += v/(hoardc[k])}
+puts "hoard #{total}"
 
 total = 0
-jemalloc.each_value {|v| total += v}
-puts "jemalloc #{total/jemalloc.size}"
+jemalloc.each {|k,v| total += v/(jemallocc[k])}
+puts "jemalloc #{total}"
 
 total = 0
-nedmalloc.each_value {|v| total += v}
-puts "nedmalloc #{total/nedmalloc.size}"
+nedmalloc.each {|k,v| total += v/(nedmallocc[k])}
+puts "nedmalloc #{total}"
