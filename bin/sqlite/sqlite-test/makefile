@@ -6,12 +6,20 @@ OFILES=sqlite3.c sqlite3.h
 OBJS=speedtest.cpp
 LOG_OBJS=map.cpp logger.cpp rmmap.c
 MEMFLAGS=-DREPLACE_MALLOC
+MEM128kb=$(MEMFLAGS) -DMMAP_SIZE=131072
+MEM16mb=$(MEMFLAGS) -DMMAP_SIZE=16777216
 
-all: sqlite3-sys sqlite3-rmalloc sqlite3-mem3 sqlite3-mem3log sqlite3-mem5 sqlite3-mem5log
+all: sqlite3-sys sqlite3-rmalloc\
+	sqlite3-mem3 sqlite3-mem3log\
+	sqlite3-mem3-128kb sqlite3-mem3log-128kb\
+	sqlite3-mem3-16mb sqlite3-mem3log-16mb\
+	sqlite3-mem5 sqlite3-mem5log\
+	sqlite3-mem5-128kb sqlite3-mem5log-128kb\
+	sqlite3-mem5-16mb sqlite3-mem5log-16mb
 
 sqlite3-sys: sqlite3.o $(OBJS)
 	$(CXX) $(CPPFLAGS) -o ../sqlite3-sys $^
-	
+
 sqlite3-rmalloc: sqlite3-rmalloc.o $(OBJS)
 	$(CXX) $(CPPFLAGS) -o ../sqlite3-rmalloc $^
 
@@ -21,11 +29,35 @@ sqlite3-mem3: sqlite3-mem3.o $(OBJS)
 sqlite3-mem3log: sqlite3-mem3log.o $(OBJS) $(LOG_OBJS)
 	$(CXX) $(CPPFLAGS) $(MEMFLAGS) -o ../sqlite3-mem3log $^
 
+sqlite3-mem3-128kb: sqlite3-mem3.o $(OBJS)
+	$(CXX) $(CPPFLAGS) $(MEM128kb) -o ../sqlite3-mem3-128kb $^
+
+sqlite3-mem3log-128kb: sqlite3-mem3log.o $(OBJS) $(LOG_OBJS)
+	$(CXX) $(CPPFLAGS) $(MEM128kb) -o ../sqlite3-mem3log-128kb $^
+
+sqlite3-mem3-16mb: sqlite3-mem3.o $(OBJS)
+	$(CXX) $(CPPFLAGS) $(MEM16mb) -o ../sqlite3-mem3-16mb $^
+
+sqlite3-mem3log-16mb: sqlite3-mem3log.o $(OBJS) $(LOG_OBJS)
+	$(CXX) $(CPPFLAGS) $(MEM16mb) -o ../sqlite3-mem3log-16mb $^
+
 sqlite3-mem5: sqlite3-mem5.o $(OBJS)
 	$(CXX) $(CPPFLAGS) $(MEMFLAGS) -o ../sqlite3-mem5 $^
-	
+
 sqlite3-mem5log: sqlite3-mem5log.o $(OBJS) $(LOG_OBJS)
 	$(CXX) $(CPPFLAGS) $(MEMFLAGS) -o ../sqlite3-mem5log $^
+
+sqlite3-mem5-128kb: sqlite3-mem5.o $(OBJS)
+	$(CXX) $(CPPFLAGS) $(MEM128kb) -o ../sqlite3-mem5-128kb $^
+
+sqlite3-mem5log-128kb: sqlite3-mem5log.o $(OBJS) $(LOG_OBJS)
+	$(CXX) $(CPPFLAGS) $(MEM128kb) -o ../sqlite3-mem5log-128kb $^
+
+sqlite3-mem5-16mb: sqlite3-mem5.o $(OBJS)
+	$(CXX) $(CPPFLAGS) $(MEM16mb) -o ../sqlite3-mem5-16mb $^
+
+sqlite3-mem5log-16mb: sqlite3-mem5log.o $(OBJS) $(LOG_OBJS)
+	$(CXX) $(CPPFLAGS) $(MEM16mb) -o ../sqlite3-mem5log-16mb $^
 
 sqlite3.o: $(OFILES)
 	$(CC) -c $(CFLAGS) -o $@ $<

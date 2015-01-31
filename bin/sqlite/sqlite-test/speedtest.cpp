@@ -214,6 +214,8 @@ int main(int argc, char *argv[]) {
 	int itrs = atoi(argv[1]);
 	long time = 0;
 
+	std::cout.precision(10);
+
 	argc--;
 	argv++;
 
