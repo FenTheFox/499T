@@ -1,6 +1,9 @@
 #!/usr/bin/ruby
 
 require 'csv'
+require 'pry'
+
+itrs = 30
 
 sys = {}
 mem3 = {}
@@ -18,12 +21,22 @@ nedmallocc = 0
 
 def parse(file)
 	type = {}
-	CSV.foreach(file, col_sep: ":\t\t") do |r|
+	CSV.foreach(file, col_sep: ":\t") do |r|
 		k = r[0].to_sym
 		v = r[1].to_i
 		type[k].nil? ? type[k] = v : type[k] += v
 	end
 	return type
+end
+
+def print_results(h, c)
+	h.each do |k,v|
+		if(k.to_s.index('Avg').nil?)
+			puts "#{k} #{(v/(c*itrs)).to_i}"
+		else
+			puts "Total #{(v/c).to_i}"
+		end
+	end
 end
 
 Dir.glob('*.txt') do |f|
@@ -48,26 +61,22 @@ Dir.glob('*.txt') do |f|
   end
 end
 
-total = 0
-sys.each_value {|v| total += v}
-puts "sys		#{total/sysc}"
+# binding.pry
 
-total = 0
-mem3.each_value {|v| total += v}
-puts "mem3		#{total/mem3c}"
+puts 'sys'
+print_results(sys, sysc)
 
-total = 0
-mem5.each_value {|v| total += v}
-puts "mem5		#{total/mem5c}"
+puts 'mem3'
+print_results(mem3, mem3c)
 
-total = 0
-hoard.each_value {|v| total += v}
-puts "hoard		#{total/hoardc}"
+puts 'mem5'
+print_results(mem5, mem5c)
 
-total = 0
-jemalloc.each_value {|v| total += v}
-puts "jemalloc	#{total/jemallocc}"
+puts 'hoard'
+print_results(hoard, hoardc)
 
-total = 0
-nedmalloc.each_value {|v| total += v}
-puts "nedmalloc	#{total/nedmallocc}"
+puts 'jemalloc'
+print_results(jemalloc, jemallocc)
+
+puts 'nedmalloc'
+print_results(nedmalloc, nedmallocc)
