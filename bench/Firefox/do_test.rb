@@ -18,10 +18,14 @@ class Tester
 		@http = Net::HTTP.new('localhost', 8000)
 	end
 
-	def do_test(bld, lib = '')
+	def do_test(bld, lib = '', perf = -1)
 		p [bld, lib]
 		sleep 5
-		fid = Process.spawn("../../source/firefox-#{bld}/dist/bin/firefox -foreground -P #{@profile}bench -new-window #{@@root}/index.php\\?bld=#{bld}#{lib}", [:out, :err] => ["logs/flog-#{bld}#{lib}", 'w'])
+		if perf < 0
+			fid = Process.spawn("../../source/firefox-#{bld}/dist/bin/firefox -foreground -P #{@profile}bench -new-window #{@@root}/index.php\\?bld=#{bld}#{lib}", [:out, :err] => ["logs/flog-#{bld}#{lib}", 'w'])
+		else
+			fid = Process.spawn("perf stat ../../source/firefox-#{bld}/dist/bin/firefox -foreground -P #{@profile}bench -new-window #{@@root}/index.php\\?bld=#{bld}#{lib}", [:out, :err] => ["../../results/firefox/#{@profile}/perf/#{bld}#{lib}#{perf}", 'w'])
+		end
 		@http.get("/index.php?fid=#{fid}")
 		begin
 			Timeout.timeout(@timeout) { Process.wait(fid) }
@@ -33,12 +37,15 @@ class Tester
 	
 	def do_tests()
 		@iters.times { |n| do_test('bld') }
+		@iters.times { |n| do_test('bld', '', n) }
 
 		@@libs.each do |l|
 			ENV['LD_PRELOAD'] = '../../Replace-Libs/lib' + l + '.so'
 			@iters.times { |n| do_test('bld-rmalloc', l) }
+			@iters.times { |n| do_test('bld-rmalloc', l, n) }
 		end
 		
+		@timeout *= 10
 		['hoard'].each do |l|
 			ENV['LD_PRELOAD'] = '../../Replace-Libs/lib' + l + '-log.so'
 			@iters.times do |n|
@@ -52,7 +59,6 @@ class Tester
 			end
 		end
 
-		@timeout *= 10
 		ENV['LD_PRELOAD'] = '../../Replace-Libs/librmalloc-log.so'
 		@iters.times do |n|
 			do_test('bld-rmalloc', 'default-log')

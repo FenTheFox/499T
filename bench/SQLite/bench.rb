@@ -12,11 +12,12 @@ class Bench
 	@@queries = 'query1.sql query2.sql query2-1.sql query.sql query3.sql query4.sql query5.sql query5-1.sql query6.sql query6-1.sql query7.sql query7-1.sql query8.sql query9.sql query10.sql'
 
 	def self.do_bench(itr)
-
 		run_test('sys', "sys-#{itr}")
+		run_test('sys', "sys-#{itr}", itr)
 
 		@@mems.each do |m|
 			@@sizes.each { |sz| run_test("#{m}#{sz}", "#{m}#{sz}-#{itr}") }
+			@@sizes.each { |sz| run_test("#{m}#{sz}", "#{m}#{sz}-#{itr}", itr) }
 		end
 
 		libs = ['hoard', 'jemalloc', 'nedmalloc']
@@ -24,6 +25,7 @@ class Bench
 		libs.each do |l|
 			ENV['LD_PRELOAD'] = '../../Replace-Libs/lib' + l + '.so'
 			run_test('rmalloc', "#{l}-#{itr}")
+			run_test('rmalloc', "#{l}-#{itr}", itr)
 		end
 		ENV['LD_PRELOAD'] = nil
 	end
@@ -45,11 +47,13 @@ class Bench
 	end
 
 private
-	def self.run_test(bld, log=nil)		
+	def self.run_test(bld, log=nil, perf = -1)		
 		p [bld, log]
 		# puts "../../bin/sqlite/sqlite3-#{bld} #{@@itrs} #{@@flags} #{@@schema} #{@@queries} > ../../results/sqlite/#{log}.txt"
 
-		if !log.nil?
+		if perf >= 0
+			pid = Process.spawn("perf stat ../../bin/sqlite/sqlite3-#{bld} #{@@itrs} #{@@flags} #{@@schema} #{@@queries} > ../../results/sqlite/perf/#{log}#{perf}.txt")
+		elsif !log.nil?
 			# pid = Process.spawn("../../bin/sqlite/sqlite3-#{bld} #{@@itrs} #{@@flags} #{@@schema} #{@@queries}")
 			pid = Process.spawn("../../bin/sqlite/sqlite3-#{bld} #{@@itrs} #{@@flags} #{@@schema} #{@@queries} > ../../results/sqlite/#{log}.txt")
 		else
@@ -64,7 +68,8 @@ private
 			FileUtils.mv('./max', '../../results/sqlite/trace/max-' + bld)
 			FileUtils.mv('./trace', '../../results/sqlite/trace/trace-' + bld)
 		rescue Exception => e
-			p "welp"
+			puts "welp"
+			puts e
 		end
 	end
 end
@@ -72,5 +77,5 @@ end
 5.times do |n|
 	Bench.do_bench(n)
 	sleep(5)
-	# Bench.do_log(n)
+	Bench.do_log(n)
 end
