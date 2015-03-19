@@ -1,3 +1,5 @@
+#!/usr/bin/zsh
+
 integer logfd
 integer glogfd
 glogf=logs/js.log

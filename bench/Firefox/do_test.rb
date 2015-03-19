@@ -13,6 +13,8 @@ class Tester
 		@timeout = timeout
 		@iters = iters
 
+		puts '#!/usr/bin/zsh'
+		puts ''
 		puts 'integer logfd'
 		puts 'integer glogfd'
 		puts 'glogf=logs/js.log'
