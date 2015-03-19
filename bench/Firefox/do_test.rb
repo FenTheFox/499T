@@ -23,7 +23,7 @@ class Tester
 		puts ''
 
 		puts "echo 'php -S localhost:8000 -t jsbench -c php.ini &' >&0"
-		puts "php -S #{@@root} -t #{profile}bench -c php.ini"
+		puts "php -S #{@@root} -t #{profile}bench -c php.ini &"
 		puts ''
 	end
 
@@ -31,7 +31,7 @@ class Tester
 		cmd = ''
 		cmd += "perf stat -o ../../results/firefox/#{@profile}/perf/#{bld}#{lib}#{perf} " if perf >= 0
 		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil? && lib.size > 0
-		cmd += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?bld=#{bld}#{lib} >&{logfd}"
+		cmd += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?bld=#{bld}#{lib} >&${logfd}"
 
 		puts "echo '#{cmd}' >&0"
 		puts cmd
