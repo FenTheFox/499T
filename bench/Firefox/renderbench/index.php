@@ -1,13 +1,6 @@
 <?php
 	session_start();
 
-	if(isset($_GET['fid'])) {
-		$fh = fopen('fid','w');
-		fwrite($fh, $_GET['fid']);
-		fclose($fh);
-		exit;
-	}
-
 	if(!isset($_SESSION['site']) || !isset($_SESSION['itr'])){
 		$_SESSION['site'] = 0;
 		$_SESSION['itr'] = 0;

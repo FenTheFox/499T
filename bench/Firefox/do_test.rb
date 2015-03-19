@@ -7,76 +7,79 @@ require 'fileutils'
 class Tester
 	@@root = 'localhost:8000'
 	@@libs = ['hoard', 'jemalloc', 'nedmalloc']
-	
+
 	def initialize (profile, timeout, iters)
 		@profile = profile
 		@timeout = timeout
 		@iters = iters
-		
-		p "php -S #{@@root} -t #{profile}bench -c php.ini"
-		@phpid = Process.spawn("php -S #{@@root} -t #{profile}bench -c php.ini", [:out, :err] => ['logs/phplog', 'w'])
-		@http = Net::HTTP.new('localhost', 8000)
+
+		puts 'integer logfd'
+		puts 'integer glogfd'
+		puts 'glogf=logs/js.log'
+		puts 'exec {glogfd} >> ${glogf}'
+		puts 'exec >&${glogfd} 2>&1'
+		puts ''
+
+		puts "echo 'php -S localhost:8000 -t jsbench -c php.ini &' >&0"
+		puts "php -S #{@@root} -t #{profile}bench -c php.ini"
+		puts ''
 	end
 
 	def do_test(bld, lib = '', perf = -1)
-		p [bld, lib]
-		sleep 5
-		if perf < 0
-			fid = Process.spawn("../../source/firefox-#{bld}/dist/bin/firefox -foreground -P #{@profile}bench -new-window #{@@root}/index.php\\?bld=#{bld}#{lib}", [:out, :err] => ["logs/flog-#{bld}#{lib}", 'w'])
-		else
-			fid = Process.spawn("perf stat ../../source/firefox-#{bld}/dist/bin/firefox -foreground -P #{@profile}bench -new-window #{@@root}/index.php\\?bld=#{bld}#{lib}", [:out, :err] => ["../../results/firefox/#{@profile}/perf/#{bld}#{lib}#{perf}", 'w'])
-		end
-		@http.get("/index.php?fid=#{fid}")
-		begin
-			Timeout.timeout(@timeout) { Process.wait(fid) }
-		rescue Timeout::Error
-			Process.kill('TERM', fid)
-			puts 'killed :('
-		end
-	end
-	
-	def do_tests()
-		@iters.times { |n| do_test('bld') }
-		@iters.times { |n| do_test('bld', '', n) }
+		cmd = ''
+		cmd += "perf stat -o ../../results/firefox/#{@profile}/perf/#{bld}#{lib}#{perf} " if perf >= 0
+		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil? && lib.size > 0
+		cmd += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?bld=#{bld}#{lib} >&{logfd}"
 
-		@@libs.each do |l|
-			ENV['LD_PRELOAD'] = '../../Replace-Libs/lib' + l + '.so'
-			@iters.times { |n| do_test('bld-rmalloc', l) }
-			@iters.times { |n| do_test('bld-rmalloc', l, n) }
+		puts "echo '#{cmd}' >&0"
+		puts cmd
+	end
+
+	def do_tests()
+		puts 'logf=logs/flog-bld'
+		puts 'exec {logfd} >> ${logf}'
+		@iters.times { |n| do_test('bld') }
+		puts "echo 'end' >&0"
+		puts ''
+		@iters.times { |n| do_test('bld', '', n) }
+		puts "echo 'end' >&0"
+		puts ''
+
+		['hoard', 'jemalloc', 'nedmalloc'].each do |lib|
+			puts "logf=logs/flog-bld-rmalloc#{lib}"
+			puts 'exec {logfd} >> ${logf}'
+			@iters.times { |n| do_test('bld-rmalloc', lib) }
+			puts "echo 'end #{lib}' >&0"
+			puts ''
+			@iters.times { |n| do_test('bld-rmalloc', lib, n) }
+			puts "echo 'end #{lib}' >&0"
+			puts ''
 		end
 		
-		@timeout *= 10
-		['hoard'].each do |l|
-			ENV['LD_PRELOAD'] = '../../Replace-Libs/lib' + l + '-log.so'
-			@iters.times do |n|
-				do_test('bld-rmalloc', l + '-log')
-				begin
-					FileUtils.mv('./max', "../../results/firefox/#{@profile}/trace/max-#{l}#{n}")
-					FileUtils.mv('./trace', "../../results/firefox/#{@profile}/trace/trace-#{l}#{n}")
-				rescue Exception => e
-					p "welp"
-				end
-			end
-		end
-
-		ENV['LD_PRELOAD'] = '../../Replace-Libs/librmalloc-log.so'
+		puts "logf=logs/flog-bld-rmalloc-log"
+		puts 'exec {logfd} >> ${logf}'
 		@iters.times do |n|
-			do_test('bld-rmalloc', 'default-log')
-			begin
-				FileUtils.mv('./max', "../../results/firefox/#{@profile}/trace/max-default#{n}")
-				FileUtils.mv('./trace', "../../results/firefox/#{@profile}/trace/trace-default#{n}")
-			rescue Exception => e
-				p "welp"
+			do_test('bld-rmalloc', 'rmalloc-log')
+			puts "mv ./max ../../results/firefox/#{@profile}/trace/max-default#{n}"
+			puts "mv ./trace ../../results/firefox/#{@profile}/trace/trace-default#{n}"
+		end
+		puts 'end log'
+		puts ''
+
+		['hoard'].each do |lib|
+			puts "logf=logs/flog-bld-rmalloc#{lib}-log"
+			puts 'exec {logfd} >> ${logf}'
+			@iters.times do |n|
+				do_test('bld-rmalloc', lib + '-log')
+				puts "mv ./max ../../results/firefox/#{@profile}/trace/max-#{lib}#{n}"
+				puts "mv ./trace ../../results/firefox/#{@profile}/trace/trace-#{lib}#{n}"
 			end
+			puts "end #{lib}-log"
+			puts ''
 		end
 
-		ENV['LD_PRELOAD'] = nil
-
-		finish()
-	end
-
-	def finish()
-		Process.kill('TERM', @phpid)
-		Process.wait(@phpid)
+		# puts 'unset LD_PRELOAD'
+		puts 'end end'
+		puts 'kill `ps --no-header -C php -o pid`'
 	end
 end

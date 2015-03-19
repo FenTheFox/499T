@@ -4,8 +4,5 @@
 	fwrite($fh, $_POST['results']);
 	fclose($fh);
 	
-	$fid = fopen('fid','r');
-	exec('kill ' . fgets($fid));
-	fclose($fid);
-	unlink('fid');
+	echo exec('kill `ps --no-header -C firefox -o pid`');
 ?>
