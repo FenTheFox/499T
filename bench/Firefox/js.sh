@@ -95,7 +95,7 @@ echo 'LD_PRELOAD=../../Replace-Libs/librmalloc-log.so ../../source/firefox-bld-r
 LD_PRELOAD=../../Replace-Libs/librmalloc-log.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P jsbench localhost:8000/index.php\?bld=bld-rmallocrmalloc-log >&${logfd}
 mv ./max ../../results/firefox/js/trace/max-default2
 mv ./trace ../../results/firefox/js/trace/trace-default2
-end log
+echo 'end log' >&0
 
 logf=logs/flog-bld-rmallochoard-log
 exec {logfd} >> ${logf}
@@ -111,7 +111,7 @@ echo 'LD_PRELOAD=../../Replace-Libs/libhoard-log.so ../../source/firefox-bld-rma
 LD_PRELOAD=../../Replace-Libs/libhoard-log.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P jsbench localhost:8000/index.php\?bld=bld-rmallochoard-log >&${logfd}
 mv ./max ../../results/firefox/js/trace/max-hoard2
 mv ./trace ../../results/firefox/js/trace/trace-hoard2
-end hoard-log
+echo 'end hoard-log' >&0
 
-end end
+echo 'end end' >&0
 kill `ps --no-header -C php -o pid`

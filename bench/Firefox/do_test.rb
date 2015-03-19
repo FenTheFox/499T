@@ -22,7 +22,7 @@ class Tester
 		puts 'exec >&${glogfd} 2>&1'
 		puts ''
 
-		puts "echo 'php -S localhost:8000 -t jsbench -c php.ini &' >&0"
+		puts "echo 'php -S localhost:8000 -t #{profile}bench -c php.ini &' >&0"
 		puts "php -S #{@@root} -t #{profile}bench -c php.ini &"
 		puts ''
 	end
@@ -65,7 +65,7 @@ class Tester
 			puts "mv ./max ../../results/firefox/#{@profile}/trace/max-default#{n}"
 			puts "mv ./trace ../../results/firefox/#{@profile}/trace/trace-default#{n}"
 		end
-		puts 'end log'
+		puts "echo 'end log' >&0"
 		puts ''
 
 		['hoard'].each do |lib|
@@ -76,12 +76,12 @@ class Tester
 				puts "mv ./max ../../results/firefox/#{@profile}/trace/max-#{lib}#{n}"
 				puts "mv ./trace ../../results/firefox/#{@profile}/trace/trace-#{lib}#{n}"
 			end
-			puts "end #{lib}-log"
+			puts "echo 'end #{lib}-log' >&0"
 			puts ''
 		end
 
 		# puts 'unset LD_PRELOAD'
-		puts 'end end'
+		puts "echo 'end end' >&0"
 		puts 'kill `ps --no-header -C php -o pid`'
 	end
 end

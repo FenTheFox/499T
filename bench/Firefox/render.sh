@@ -6,7 +6,7 @@ glogf=logs/js.log
 exec {glogfd} >> ${glogf}
 exec >&${glogfd} 2>&1
 
-echo 'php -S localhost:8000 -t jsbench -c php.ini &' >&0
+echo 'php -S localhost:8000 -t renderbench -c php.ini &' >&0
 php -S localhost:8000 -t renderbench -c php.ini &
 
 logf=logs/flog-bld
@@ -175,7 +175,7 @@ echo 'LD_PRELOAD=../../Replace-Libs/librmalloc-log.so ../../source/firefox-bld-r
 LD_PRELOAD=../../Replace-Libs/librmalloc-log.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocrmalloc-log >&${logfd}
 mv ./max ../../results/firefox/render/trace/max-default6
 mv ./trace ../../results/firefox/render/trace/trace-default6
-end log
+echo 'end log' >&0
 
 logf=logs/flog-bld-rmallochoard-log
 exec {logfd} >> ${logf}
@@ -207,7 +207,7 @@ echo 'LD_PRELOAD=../../Replace-Libs/libhoard-log.so ../../source/firefox-bld-rma
 LD_PRELOAD=../../Replace-Libs/libhoard-log.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard-log >&${logfd}
 mv ./max ../../results/firefox/render/trace/max-hoard6
 mv ./trace ../../results/firefox/render/trace/trace-hoard6
-end hoard-log
+echo 'end hoard-log' >&0
 
-end end
+echo 'end end' >&0
 kill `ps --no-header -C php -o pid`
