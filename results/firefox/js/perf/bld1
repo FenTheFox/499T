@@ -1,0 +1,18 @@
+# started on Thu Mar 19 18:46:59 2015
+
+
+ Performance counter stats for '../../source/firefox-bld/dist/bin/firefox -P jsbench localhost:8000/index.php?bld=bld':
+
+     136188.500734      task-clock (msec)         #    0.653 CPUs utilized          
+           328,621      context-switches          #    0.002 M/sec                  
+             6,632      cpu-migrations            #    0.049 K/sec                  
+         5,961,296      page-faults               #    0.044 M/sec                  
+   616,198,559,982      cycles                    #    4.525 GHz                    
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   910,976,790,344      instructions              #    1.48  insns per cycle        
+   163,310,971,807      branches                  # 1199.154 M/sec                  
+     4,100,516,006      branch-misses             #    2.51% of all branches        
+
+     208.553302314 seconds time elapsed
+
