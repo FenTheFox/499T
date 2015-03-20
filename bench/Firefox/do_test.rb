@@ -1,9 +1,5 @@
 #!/usr/bin/ruby
 
-require 'timeout'
-require 'net/http'
-require 'fileutils'
-
 class Tester
 	@@root = 'localhost:8000'
 	@@libs = ['hoard', 'jemalloc', 'nedmalloc']
@@ -57,7 +53,7 @@ class Tester
 			puts "echo 'end #{lib}' >&0"
 			puts ''
 		end
-		
+
 		puts "logf=logs/flog-bld-rmalloc-log"
 		puts 'exec {logfd} >> ${logf}'
 		@iters.times do |n|
