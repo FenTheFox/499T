@@ -2,7 +2,7 @@
 
 integer logfd
 integer glogfd
-glogf=logs/js.log
+glogf=logs/render.log
 exec {glogfd} >> ${glogf}
 exec >&${glogfd} 2>&1
 

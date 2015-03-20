@@ -12,14 +12,8 @@
 			$_SESSION['itr'] = 0;
 			if($_SESSION['type'] == 'js') {
 				$_SESSION['type'] = 'nojs';
-			// } elseif ($_SESSION['event'] == 'dom') {
-			// 	$_SESSION['type'] = 'js';
-			// 	$_SESSION['event'] = 'load';
 			} else {				
-				$fid = fopen('fid', 'r');
-				exec('kill ' . fgets($fid));
-				fclose($fid);
-				unlink('./fid');
+				exec('kill `ps --no-header -C firefox -o pid`');
 				
 				unset($_SESSION['site']);
 				header('HTTP/1.1 302 Found', TRUE, 302);

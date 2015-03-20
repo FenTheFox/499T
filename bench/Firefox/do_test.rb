@@ -17,7 +17,7 @@ class Tester
 		puts ''
 		puts 'integer logfd'
 		puts 'integer glogfd'
-		puts 'glogf=logs/js.log'
+		puts "glogf=logs/#{profile}.log"
 		puts 'exec {glogfd} >> ${glogf}'
 		puts 'exec >&${glogfd} 2>&1'
 		puts ''
