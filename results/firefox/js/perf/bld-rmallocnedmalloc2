@@ -1,2 +1,12 @@
-# started on Thu Mar 19 19:25:06 2015
+# started on Fri Mar 20 20:14:43 2015
 
+140064.616992,,task-clock
+329804,,context-switches
+6911,,cpu-migrations
+6063297,,page-faults
+635022316723,,cycles
+<not supported>,,stalled-cycles-frontend
+<not supported>,,stalled-cycles-backend
+930782575114,,instructions
+167583132871,,branches
+4106795321,,branch-misses

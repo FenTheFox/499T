@@ -25,8 +25,8 @@ class Tester
 
 	def do_test(bld, lib = '', perf = -1)
 		cmd = ''
-		cmd += "perf stat -o ../../results/firefox/#{@profile}/perf/#{bld}#{lib}#{perf} " if perf >= 0
 		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil? && lib.size > 0
+		cmd += "perf stat -x , -o ../../results/firefox/#{@profile}/perf/#{bld}#{lib}#{perf} " if perf >= 0
 		cmd += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?bld=#{bld}#{lib} >&${logfd}"
 
 		puts "echo '#{cmd}' >&0"

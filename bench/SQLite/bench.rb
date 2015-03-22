@@ -43,8 +43,8 @@ class Bench
 private
 	def self.run_test(bld, log=nil, lib=nil, perf = -1)
 		cmd = ''
-		cmd += "perf stat -o ../../results/sqlite/perf/#{log}.txt " if perf >= 0
 		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
+		cmd += "perf stat -o ../../results/sqlite/perf/#{log}.txt " if perf >= 0
 		cmd += "../../bin/sqlite/sqlite3-#{bld} #{@@itrs} #{@@flags} #{@@schema} #{@@queries} > "
 		if log.nil?
 			cmd += '/dev/null'

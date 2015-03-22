@@ -27,20 +27,20 @@ echo '../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/in
 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}
 echo 'end' >&0
 
-echo 'perf stat -o ../../results/firefox/render/perf/bld0 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld0 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld1 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld1 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld2 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld2 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld3 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld3 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld4 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld4 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld5 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld5 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld6 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld6 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}
+echo 'perf stat -x , -o ../../results/firefox/render/perf/bld0 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}' >&0
+perf stat -x , -o ../../results/firefox/render/perf/bld0 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}
+echo 'perf stat -x , -o ../../results/firefox/render/perf/bld1 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}' >&0
+perf stat -x , -o ../../results/firefox/render/perf/bld1 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}
+echo 'perf stat -x , -o ../../results/firefox/render/perf/bld2 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}' >&0
+perf stat -x , -o ../../results/firefox/render/perf/bld2 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}
+echo 'perf stat -x , -o ../../results/firefox/render/perf/bld3 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}' >&0
+perf stat -x , -o ../../results/firefox/render/perf/bld3 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}
+echo 'perf stat -x , -o ../../results/firefox/render/perf/bld4 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}' >&0
+perf stat -x , -o ../../results/firefox/render/perf/bld4 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}
+echo 'perf stat -x , -o ../../results/firefox/render/perf/bld5 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}' >&0
+perf stat -x , -o ../../results/firefox/render/perf/bld5 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}
+echo 'perf stat -x , -o ../../results/firefox/render/perf/bld6 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}' >&0
+perf stat -x , -o ../../results/firefox/render/perf/bld6 ../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld >&${logfd}
 echo 'end' >&0
 
 logf=logs/flog-bld-rmallochoard
@@ -61,20 +61,20 @@ echo 'LD_PRELOAD=../../Replace-Libs/libhoard.so ../../source/firefox-bld-rmalloc
 LD_PRELOAD=../../Replace-Libs/libhoard.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}
 echo 'end hoard' >&0
 
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallochoard0 LD_PRELOAD=../../Replace-Libs/libhoard.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallochoard0 LD_PRELOAD=../../Replace-Libs/libhoard.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallochoard1 LD_PRELOAD=../../Replace-Libs/libhoard.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallochoard1 LD_PRELOAD=../../Replace-Libs/libhoard.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallochoard2 LD_PRELOAD=../../Replace-Libs/libhoard.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallochoard2 LD_PRELOAD=../../Replace-Libs/libhoard.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallochoard3 LD_PRELOAD=../../Replace-Libs/libhoard.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallochoard3 LD_PRELOAD=../../Replace-Libs/libhoard.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallochoard4 LD_PRELOAD=../../Replace-Libs/libhoard.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallochoard4 LD_PRELOAD=../../Replace-Libs/libhoard.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallochoard5 LD_PRELOAD=../../Replace-Libs/libhoard.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallochoard5 LD_PRELOAD=../../Replace-Libs/libhoard.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallochoard6 LD_PRELOAD=../../Replace-Libs/libhoard.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallochoard6 LD_PRELOAD=../../Replace-Libs/libhoard.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libhoard.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallochoard0 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libhoard.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallochoard0 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libhoard.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallochoard1 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libhoard.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallochoard1 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libhoard.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallochoard2 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libhoard.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallochoard2 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libhoard.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallochoard3 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libhoard.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallochoard3 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libhoard.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallochoard4 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libhoard.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallochoard4 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libhoard.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallochoard5 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libhoard.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallochoard5 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libhoard.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallochoard6 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libhoard.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallochoard6 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallochoard >&${logfd}
 echo 'end hoard' >&0
 
 logf=logs/flog-bld-rmallocjemalloc
@@ -95,20 +95,20 @@ echo 'LD_PRELOAD=../../Replace-Libs/libjemalloc.so ../../source/firefox-bld-rmal
 LD_PRELOAD=../../Replace-Libs/libjemalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}
 echo 'end jemalloc' >&0
 
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallocjemalloc0 LD_PRELOAD=../../Replace-Libs/libjemalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallocjemalloc0 LD_PRELOAD=../../Replace-Libs/libjemalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallocjemalloc1 LD_PRELOAD=../../Replace-Libs/libjemalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallocjemalloc1 LD_PRELOAD=../../Replace-Libs/libjemalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallocjemalloc2 LD_PRELOAD=../../Replace-Libs/libjemalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallocjemalloc2 LD_PRELOAD=../../Replace-Libs/libjemalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallocjemalloc3 LD_PRELOAD=../../Replace-Libs/libjemalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallocjemalloc3 LD_PRELOAD=../../Replace-Libs/libjemalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallocjemalloc4 LD_PRELOAD=../../Replace-Libs/libjemalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallocjemalloc4 LD_PRELOAD=../../Replace-Libs/libjemalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallocjemalloc5 LD_PRELOAD=../../Replace-Libs/libjemalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallocjemalloc5 LD_PRELOAD=../../Replace-Libs/libjemalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallocjemalloc6 LD_PRELOAD=../../Replace-Libs/libjemalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallocjemalloc6 LD_PRELOAD=../../Replace-Libs/libjemalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libjemalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocjemalloc0 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libjemalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocjemalloc0 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libjemalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocjemalloc1 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libjemalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocjemalloc1 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libjemalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocjemalloc2 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libjemalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocjemalloc2 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libjemalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocjemalloc3 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libjemalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocjemalloc3 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libjemalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocjemalloc4 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libjemalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocjemalloc4 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libjemalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocjemalloc5 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libjemalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocjemalloc5 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libjemalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocjemalloc6 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libjemalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocjemalloc6 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocjemalloc >&${logfd}
 echo 'end jemalloc' >&0
 
 logf=logs/flog-bld-rmallocnedmalloc
@@ -129,20 +129,20 @@ echo 'LD_PRELOAD=../../Replace-Libs/libnedmalloc.so ../../source/firefox-bld-rma
 LD_PRELOAD=../../Replace-Libs/libnedmalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}
 echo 'end nedmalloc' >&0
 
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallocnedmalloc0 LD_PRELOAD=../../Replace-Libs/libnedmalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallocnedmalloc0 LD_PRELOAD=../../Replace-Libs/libnedmalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallocnedmalloc1 LD_PRELOAD=../../Replace-Libs/libnedmalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallocnedmalloc1 LD_PRELOAD=../../Replace-Libs/libnedmalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallocnedmalloc2 LD_PRELOAD=../../Replace-Libs/libnedmalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallocnedmalloc2 LD_PRELOAD=../../Replace-Libs/libnedmalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallocnedmalloc3 LD_PRELOAD=../../Replace-Libs/libnedmalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallocnedmalloc3 LD_PRELOAD=../../Replace-Libs/libnedmalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallocnedmalloc4 LD_PRELOAD=../../Replace-Libs/libnedmalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallocnedmalloc4 LD_PRELOAD=../../Replace-Libs/libnedmalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallocnedmalloc5 LD_PRELOAD=../../Replace-Libs/libnedmalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallocnedmalloc5 LD_PRELOAD=../../Replace-Libs/libnedmalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}
-echo 'perf stat -o ../../results/firefox/render/perf/bld-rmallocnedmalloc6 LD_PRELOAD=../../Replace-Libs/libnedmalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}' >&0
-perf stat -o ../../results/firefox/render/perf/bld-rmallocnedmalloc6 LD_PRELOAD=../../Replace-Libs/libnedmalloc.so ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libnedmalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocnedmalloc0 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libnedmalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocnedmalloc0 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libnedmalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocnedmalloc1 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libnedmalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocnedmalloc1 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libnedmalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocnedmalloc2 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libnedmalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocnedmalloc2 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libnedmalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocnedmalloc3 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libnedmalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocnedmalloc3 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libnedmalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocnedmalloc4 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libnedmalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocnedmalloc4 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libnedmalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocnedmalloc5 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libnedmalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocnedmalloc5 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}
+echo 'LD_PRELOAD=../../Replace-Libs/libnedmalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocnedmalloc6 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}' >&0
+LD_PRELOAD=../../Replace-Libs/libnedmalloc.so perf stat -x , -o ../../results/firefox/render/perf/bld-rmallocnedmalloc6 ../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php\?bld=bld-rmallocnedmalloc >&${logfd}
 echo 'end nedmalloc' >&0
 
 logf=logs/flog-bld-rmalloc-log
