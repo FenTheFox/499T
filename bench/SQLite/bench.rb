@@ -43,18 +43,26 @@ class Bench
 private
 	def self.run_test(bld, log=nil, lib=nil, perf = -1)
 		cmd = ''
-		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
-		cmd += "perf stat -o ../../results/sqlite/perf/#{log}.txt " if perf >= 0
 		cmd += "../../bin/sqlite/sqlite3-#{bld} #{@@itrs} #{@@flags} #{@@schema} #{@@queries} > "
 		if log.nil?
 			cmd += '/dev/null'
 		else
 			cmd += "../../results/sqlite/#{log}.txt"
 		end
+		cmd_perf = "perf stat -e cycles,instructions,cache-misses,branch-misses,page-faults,cs -o ../../results/sqlite/perf/#{log}.txt " + cmd
+		if !lib.nil?
+			cmd = "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " + cmd
+			cmd_perf = "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " + cmd_perf
+		end
 
 		puts cmd
+		puts cmd_perf.gsub('stat', 'record').gsub('.txt', '.data')
 
 		Kernel.system(cmd)
+		if perf >= 0
+			Kernel.system(cmd_perf)
+			Kernel.system(cmd_perf.gsub('stat', 'record').gsub('.txt', '.data'))
+		end
 	end
 
 	def self.mv_trace(bld)
@@ -68,8 +76,6 @@ private
 	end
 end
 
-5.times do |n|
-	Bench.do_bench(n)
-	sleep(5)
-	Bench.do_log(n)
-end
+5.times { |n| Bench.do_bench(n) }
+sleep(5)
+5.times { |n| Bench.do_log(n) }

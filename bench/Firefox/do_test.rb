@@ -26,23 +26,17 @@ class Tester
 	def do_test(bld, ittr = -1, lib = nil)
 		cmd = ''
 		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
-		cmd_perf = cmd + "perf stat -x, -o ../../results/firefox/#{@profile}/perf/#{bld}#{lib}#{ittr}.txt "
-		cmd += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?bld=#{lib.nil? ? bld : lib}-#{ittr} >&${logfd}"
-		cmd_perf += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?bld=#{lib.nil? ? bld : lib}-#{ittr} >&${logfd}"
+		cmd_perf = cmd + "perf stat -e cycles,instructions,cache-misses,branch-misses,page-faults,cs -o ../../results/firefox/#{@profile}/perf/#{bld}#{lib}#{ittr}.txt "
+		ittr < 0 ? log = '' : log = "bld=#{lib.nil? ? bld : lib}-#{ittr}"
+		cmd += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?#{log} >&${logfd}"
+		cmd_perf += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?#{log} >&${logfd}"
 
 		puts "echo '#{cmd}' >&0"
 		puts cmd
-		do_perf(bld, ittr, lib) unless ittr < 0
-	end
-	
-	def do_perf(bld, ittr, lib = nil)
-		cmd = ''
-		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
-		cmd += "perf record -e cycles,instructions,cache-misses,branch-misses,page-faults,cs -o ../../results/firefox/#{@profile}/perf/#{bld}#{lib}#{ittr}.data "
-		cmd += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?bld=#{lib.nil? ? bld : lib}-#{ittr} >&${logfd}"
-
-		puts "echo '#{cmd}' >&0"
-		puts cmd
+		if ittr >= 0
+			puts cmd_perf
+			puts cmd_perf.gsub('stat', 'record').gsub('.txt', '.data')
+		end
 	end
 
 	def do_tests()
@@ -64,7 +58,7 @@ class Tester
 			puts "logf=logs/flog-bld-rmalloc#{lib}-log.log"
 			puts 'exec {logfd} >> ${logf}'
 			@iters.times do |n|
-				do_test('bld-rmalloc', n, lib + '-log')
+				do_test('bld-rmalloc', -1, lib + '-log')
 				puts "mv ./max ../../results/firefox/#{@profile}/trace/max-#{lib}#{n}.txt"
 				puts "mv ./trace ../../results/firefox/#{@profile}/trace/trace-#{lib}#{n}.txt"
 			end
