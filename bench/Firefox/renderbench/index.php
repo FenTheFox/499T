@@ -8,10 +8,8 @@
 		$_SESSION['event'] = 'load';
 		
 		$time = time();
-		// $_SESSION['jsdom']		= $_GET['bld'] . '-' . date('mdHis', $time) . '-jsdom.txt';
-		$_SESSION['jsload']		= $_GET['bld'] . '-' . date('mdHis', $time) . '-jsload.txt';
-		// $_SESSION['nojsdom']	= $_GET['bld'] . '-' . date('mdHis', $time) . '-nojsdom.txt';
-		$_SESSION['nojsload']	= $_GET['bld'] . '-' . date('mdHis', $time) . '-nojsload.txt';
+		$_SESSION['jsload']		= $_GET['bld'] . '-jsload.txt';
+		$_SESSION['nojsload']	= $_GET['bld'] . '-nojsload.txt';
 	}
 
 	if($handle = opendir($_SESSION['type'])) {

@@ -23,61 +23,56 @@ class Tester
 		puts ''
 	end
 
-	def do_test(bld, lib = '', perf = -1)
+	def do_test(bld, ittr = -1, lib = nil)
 		cmd = ''
-		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil? && lib.size > 0
-		cmd += "perf stat -x , -o ../../results/firefox/#{@profile}/perf/#{bld}#{lib}#{perf} " if perf >= 0
-		cmd += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?bld=#{bld}#{lib} >&${logfd}"
+		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
+		cmd_perf = cmd + "perf stat -x, -o ../../results/firefox/#{@profile}/perf/#{bld}#{lib}#{ittr}.txt "
+		cmd += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?bld=#{lib.nil? ? bld : lib}-#{ittr} >&${logfd}"
+		cmd_perf += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?bld=#{lib.nil? ? bld : lib}-#{ittr} >&${logfd}"
+
+		puts "echo '#{cmd}' >&0"
+		puts cmd
+		do_perf(bld, ittr, lib) unless ittr < 0
+	end
+	
+	def do_perf(bld, ittr, lib = nil)
+		cmd = ''
+		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
+		cmd += "perf record -e cycles,instructions,cache-misses,branch-misses,page-faults,cs -o ../../results/firefox/#{@profile}/perf/#{bld}#{lib}#{ittr}.data "
+		cmd += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?bld=#{lib.nil? ? bld : lib}-#{ittr} >&${logfd}"
 
 		puts "echo '#{cmd}' >&0"
 		puts cmd
 	end
 
 	def do_tests()
-		puts 'logf=logs/flog-bld'
+		puts 'logf=logs/flog-bld.log'
 		puts 'exec {logfd} >> ${logf}'
-		@iters.times { |n| do_test('bld') }
-		puts "echo 'end' >&0"
-		puts ''
-		@iters.times { |n| do_test('bld', '', n) }
+		@iters.times { |n| do_test('bld', n) }
 		puts "echo 'end' >&0"
 		puts ''
 
 		['hoard', 'jemalloc', 'nedmalloc'].each do |lib|
-			puts "logf=logs/flog-bld-rmalloc#{lib}"
+			puts "logf=logs/flog-bld-rmalloc#{lib}.log"
 			puts 'exec {logfd} >> ${logf}'
-			@iters.times { |n| do_test('bld-rmalloc', lib) }
-			puts "echo 'end #{lib}' >&0"
-			puts ''
-			@iters.times { |n| do_test('bld-rmalloc', lib, n) }
+			@iters.times { |n| do_test('bld-rmalloc', n, lib) }
 			puts "echo 'end #{lib}' >&0"
 			puts ''
 		end
 
-		puts "logf=logs/flog-bld-rmalloc-log"
-		puts 'exec {logfd} >> ${logf}'
-		@iters.times do |n|
-			do_test('bld-rmalloc', 'rmalloc-log')
-			puts "mv ./max ../../results/firefox/#{@profile}/trace/max-default#{n}"
-			puts "mv ./trace ../../results/firefox/#{@profile}/trace/trace-default#{n}"
-		end
-		puts "echo 'end log' >&0"
-		puts ''
-
-		['hoard'].each do |lib|
-			puts "logf=logs/flog-bld-rmalloc#{lib}-log"
+		['rmalloc', 'hoard'].each do |lib|
+			puts "logf=logs/flog-bld-rmalloc#{lib}-log.log"
 			puts 'exec {logfd} >> ${logf}'
 			@iters.times do |n|
-				do_test('bld-rmalloc', lib + '-log')
-				puts "mv ./max ../../results/firefox/#{@profile}/trace/max-#{lib}#{n}"
-				puts "mv ./trace ../../results/firefox/#{@profile}/trace/trace-#{lib}#{n}"
+				do_test('bld-rmalloc', n, lib + '-log')
+				puts "mv ./max ../../results/firefox/#{@profile}/trace/max-#{lib}#{n}.txt"
+				puts "mv ./trace ../../results/firefox/#{@profile}/trace/trace-#{lib}#{n}.txt"
 			end
 			puts "echo 'end #{lib}-log' >&0"
 			puts ''
 		end
 
-		# puts 'unset LD_PRELOAD'
-		puts "echo 'end end' >&0"
 		puts 'kill `ps --no-header -C php -o pid`'
+		puts "echo 'all done :D' >&0"
 	end
 end

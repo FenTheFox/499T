@@ -1,12 +1,10 @@
-# started on Fri Mar 20 19:26:16 2015
-
-136441.822843,,task-clock
-317241,,context-switches
-7589,,cpu-migrations
-3705852,,page-faults
-618398728112,,cycles
-<not supported>,,stalled-cycles-frontend
-<not supported>,,stalled-cycles-backend
-916393480419,,instructions
-164544605368,,branches
-4071137868,,branch-misses
+136441.8228	task-clock
+317241	context-switches
+7589	cpu-migrations
+3705852	page-faults
+6.18399E+11	cycles
+<not supported>	stalled-cycles-frontend
+<not supported>	stalled-cycles-backend
+9.16393E+11	instructions
+1.64545E+11	branches
+4071137868	branch-misses
