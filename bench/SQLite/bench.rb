@@ -52,7 +52,7 @@ private
 			cmd_perf += '/dev/null'
 		else
 			cmd += "../../results/sqlite/#{log}.txt"
-			cmd_perf += "../../results/sqlite/#{log.gsub('-', '-perfstat')}.txt"
+			cmd_perf += "../../results/sqlite/#{log.gsub('-', '-perfstat')}.log"
 		end
 
 		puts cmd
