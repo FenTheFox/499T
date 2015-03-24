@@ -1,18 +1,14 @@
-# started on Sat Mar 21 00:35:00 2015
+# started on Tue Mar 24 07:51:29 2015
 
 
  Performance counter stats for '../../bin/sqlite/sqlite3-rmalloc 30 -q -s 8 songdb.sql albums2.sql artists2.sql songs2.sql tags2.sql users2.sql usersongplays2.sql usersongratings2.sql query1.sql query2.sql query2-1.sql query3.sql query4.sql query5.sql query5-1.sql query6.sql query6-1.sql query7.sql query7-1.sql query8.sql query9.sql query10.sql':
 
-       7991.254351      task-clock (msec)         #    1.401 CPUs utilized          
-           114,903      context-switches          #    0.014 M/sec                  
-             1,595      cpu-migrations            #    0.200 K/sec                  
-             1,088      page-faults               #    0.136 K/sec                  
-    36,418,387,803      cycles                    #    4.557 GHz                    
-   <not supported>      stalled-cycles-frontend  
-   <not supported>      stalled-cycles-backend   
-    55,305,210,181      instructions              #    1.52  insns per cycle        
-    13,008,217,561      branches                  # 1627.807 M/sec                  
-        35,208,902      branch-misses             #    0.27% of all branches        
+    39,826,502,742      cycles                   
+    55,135,523,216      instructions              #    1.38  insns per cycle        
+        10,378,179      cache-misses                                                
+        43,688,358      branch-misses                                               
+             1,155      page-faults                                                 
+           109,548      cs                                                          
 
-       5.703653859 seconds time elapsed
+       6.406083569 seconds time elapsed
 

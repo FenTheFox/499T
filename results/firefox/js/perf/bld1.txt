@@ -1,0 +1,14 @@
+# started on Tue Mar 24 00:19:18 2015
+
+
+ Performance counter stats for '../../source/firefox-bld/dist/bin/firefox -P jsbench localhost:8000/index.php?bld=bld-1':
+
+   638,586,361,157      cycles                   
+   950,682,384,062      instructions              #    1.49  insns per cycle        
+       975,760,379      cache-misses                                                
+     4,110,818,407      branch-misses                                               
+         6,136,402      page-faults                                                 
+           337,785      cs                                                          
+
+     208.910511875 seconds time elapsed
+

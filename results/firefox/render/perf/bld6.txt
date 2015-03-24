@@ -1,0 +1,14 @@
+# started on Tue Mar 24 03:22:29 2015
+
+
+ Performance counter stats for '../../source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php?bld=bld-6':
+
+   518,311,587,725      cycles                   
+   573,004,458,903      instructions              #    1.11  insns per cycle        
+     1,008,868,298      cache-misses                                                
+     2,284,562,898      branch-misses                                               
+         2,067,893      page-faults                                                 
+         1,173,405      cs                                                          
+
+     120.190848944 seconds time elapsed
+

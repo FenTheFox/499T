@@ -1,0 +1,14 @@
+# started on Tue Mar 24 05:07:01 2015
+
+
+ Performance counter stats for '../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php?bld=nedmalloc-2':
+
+   504,966,138,227      cycles                   
+   560,367,105,047      instructions              #    1.11  insns per cycle        
+     1,107,370,821      cache-misses                                                
+     2,196,696,552      branch-misses                                               
+         2,540,046      page-faults                                                 
+           996,704      cs                                                          
+
+     124.607518024 seconds time elapsed
+

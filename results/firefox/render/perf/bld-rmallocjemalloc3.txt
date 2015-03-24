@@ -1,0 +1,14 @@
+# started on Tue Mar 24 04:30:59 2015
+
+
+ Performance counter stats for '../../source/firefox-bld-rmalloc/dist/bin/firefox -P renderbench localhost:8000/index.php?bld=jemalloc-3':
+
+   481,216,803,658      cycles                   
+   576,766,134,709      instructions              #    1.20  insns per cycle        
+     1,036,481,954      cache-misses                                                
+     2,132,289,343      branch-misses                                               
+         1,365,945      page-faults                                                 
+           626,407      cs                                                          
+
+     117.876285160 seconds time elapsed
+

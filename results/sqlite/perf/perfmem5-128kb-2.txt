@@ -1,18 +1,14 @@
-# started on Sat Mar 21 00:48:33 2015
+# started on Tue Mar 24 08:01:51 2015
 
 
  Performance counter stats for '../../bin/sqlite/sqlite3-mem5-128kb 30 -q -s 8 songdb.sql albums2.sql artists2.sql songs2.sql tags2.sql users2.sql usersongplays2.sql usersongratings2.sql query1.sql query2.sql query2-1.sql query3.sql query4.sql query5.sql query5-1.sql query6.sql query6-1.sql query7.sql query7-1.sql query8.sql query9.sql query10.sql':
 
-      12841.117500      task-clock (msec)         #    1.467 CPUs utilized          
-           399,933      context-switches          #    0.031 M/sec                  
-             1,379      cpu-migrations            #    0.107 K/sec                  
-               946      page-faults               #    0.074 K/sec                  
-    58,096,158,680      cycles                    #    4.524 GHz                    
-   <not supported>      stalled-cycles-frontend  
-   <not supported>      stalled-cycles-backend   
-    81,002,487,091      instructions              #    1.39  insns per cycle        
-    18,452,120,435      branches                  # 1436.956 M/sec                  
-        80,690,520      branch-misses             #    0.44% of all branches        
+    57,540,317,631      cycles                   
+    80,618,957,888      instructions              #    1.40  insns per cycle        
+        10,521,048      cache-misses                                                
+        80,578,409      branch-misses                                               
+               948      page-faults                                                 
+           382,027      cs                                                          
 
-       8.750531044 seconds time elapsed
+       8.709653996 seconds time elapsed
 
