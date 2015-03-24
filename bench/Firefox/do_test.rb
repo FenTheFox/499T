@@ -29,7 +29,7 @@ class Tester
 		cmd_perf = cmd + "perf stat -e cycles,instructions,cache-misses,branch-misses,page-faults,cs -o ../../results/firefox/#{@profile}/perf/#{bld}#{lib}#{ittr}.txt "
 		ittr < 0 ? log = '' : log = "bld=#{lib.nil? ? bld : lib}-#{ittr}"
 		cmd += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?#{log} >&${logfd}"
-		cmd_perf += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?#{log} >&${logfd}"
+		cmd_perf += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?#{log.gsub('-', '-perfstat')} >&${logfd}"
 
 		puts "echo '#{cmd}' >&0"
 		puts cmd
