@@ -12,3 +12,8 @@ results/firefox/**/*-log-*.txt
 
 results/**/trace/*
 results/**/perf/*.data*
+
+.R*
+
+#for now, added back if nessisary
+*.xlsx

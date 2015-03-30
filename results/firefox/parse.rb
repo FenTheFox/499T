@@ -13,9 +13,17 @@ class Results
 
 	# :( probably needs to actually go through and get the raw data
 	def self.parse_js(file, key)
-		File.open(file) do |f|
-			f.gets
-			@@results[key][:js] << f.gets('ms').strip!.delete!('ms').to_f
+		File.open(file) do |fh|
+			arr = []
+			tmp = fh.to_a
+			tmp.slice!(0, tmp.find_index { |l| l.index('Raw') })
+			tmp.delete_if { |e| !e.start_with?("\t\t") }.each { |e| e.strip!.gsub!(/[urem: \[\]]/, '') }.each { |e| arr << e.split(',').map(&:to_i) }
+
+			idx = @@results[key][:js].length
+			for i in 0..(arr[0].length - 1)
+				@@results[key][:js] << 0.0
+				arr.each { |a| @@results[key][:js][idx+i] += a[i] }
+			end
 		end
 	end
 
@@ -26,7 +34,6 @@ class Results
 		CSV.foreach(file, col_sep: ": ") do |l|
 			r[idx] += l[1].to_f
 		end
-		# binding.pry
 	end
 
 	def self.calc_stats
