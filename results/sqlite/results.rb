@@ -6,12 +6,12 @@ require 'pry'
 class Results
 	@@results = {
 		sys:		{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		mem3:		{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		mem3_kb:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		mem3_mb:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		mem5:		{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		mem5_kb:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		mem5_mb:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem3_1mb:		{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem3_128kb:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem3_16mb:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem5_1mb:		{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem5_128kb:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem5_16mb:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
 		hoard:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
 		jemalloc:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
 		nedmalloc:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 }
@@ -64,25 +64,12 @@ class Results
 		sf = File.new('stats.csv', 'w')
 
 		rf.puts 'allocator,create,query,total'
-		@@results.each do |k, v|
-			s = v[:setup]
-			c = v[:create]
-			q = v[:query]
-			for i in 0..(s.length-1)
-				rf.puts "#{k},#{c[i]},#{q[i]},#{s[i] + c[i] + q[i]}"
-				v[:total_mean] += s[i] + c[i] + q[i]
-			end
-			v[:create_mean] = c.reduce(:+)/c.length
-			v[:query_mean] = q.reduce(:+)/q.length
-			v[:total_mean] = v[:total_mean]/q.length
-		end
-
 		sf.puts 'allocator,create_mean,query_mean,total_mean,create_stdev,query_stdev,total_stdev'
 		@@results.each do |k, v|
-			cm = v[:create_mean]
-			qm = v[:query_mean]
-			tm = v[:total_mean]
-			sf.puts "#{k},#{v[:create_mean]},#{v[:query_mean]},#{v[:total_mean]},#{v[:create_stdev]},#{v[:query_stdev]},#{v[:total_stdev]},"
+			for i in 0..(v[:create].length-1)
+				rf.puts "#{k},#{v[:create][i]},#{v[:query][i]},#{v[:setup][i] + v[:create][i] + v[:query][i]}"
+			end
+			sf.puts "#{k},#{v[:create_mean]},#{v[:query_mean]},#{v[:total_mean]},#{v[:create_stdev]},#{v[:query_stdev]},#{v[:total_stdev]}"
 		end
 	end
 end
@@ -93,19 +80,19 @@ Dir.glob('*.txt') do |f|
 		Results.parse(f, :sys)
 	elsif(!f.index('mem3').nil?)
 		if(!f.index('kb').nil?)
-			Results.parse(f, :mem3_kb)
+			Results.parse(f, :mem3_128kb)
 		elsif(!f.index('mb').nil?)
-			Results.parse(f, :mem3_mb)
+			Results.parse(f, :mem3_16mb)
 		else
-			Results.parse(f, :mem3)
+			Results.parse(f, :mem3_1mb)
 		end
 	elsif(!f.index('mem5').nil?)
 		if(!f.index('kb').nil?)
-			Results.parse(f, :mem5_kb)
+			Results.parse(f, :mem5_128kb)
 		elsif(!f.index('mb').nil?)
-			Results.parse(f, :mem5_mb)
+			Results.parse(f, :mem5_16mb)
 		else
-			Results.parse(f, :mem5)
+			Results.parse(f, :mem5_1mb)
 		end
 	elsif(!f.index('hoard').nil?)
 		Results.parse(f, :hoard)

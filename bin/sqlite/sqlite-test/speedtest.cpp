@@ -27,12 +27,6 @@ void prepareAndRun(sqlite3 *db, string stmt) {
 
 	timer p = timer(), r = timer(), f = timer();
 
-//	if (!quiet)
-//		cout << "***************************************************************" << endl
-//		     << "SQL statement: ["
-//		     << stmt
-//		     << "]" << endl;
-
 	p.start();
 	rc = sqlite3_prepare_v2(db, stmt.c_str(), -1, &pStmt, NULL);
 	p.end();
@@ -172,7 +166,6 @@ double test_main(int argc, char *argv[]) {
 
 	schema_time = prepTimer.total_duration() + runTimer.total_duration() + finalizeTimer.total_duration();
 	std::cout << "Schema:\t" << schema_time << std::endl;
-	// printf("Schema:	%li\n", schema_time);
 
 	for (string fname : scripts) {
 		tdb = &(tdbs[i++]);
@@ -185,27 +178,13 @@ double test_main(int argc, char *argv[]) {
 
 	query_time = prepTimer.total_duration() + runTimer.total_duration() + finalizeTimer.total_duration() - schema_time;
 	std::cout << "Query:\t" << query_time << std::endl;
-	// printf("Query:	%li\n", query_time);
 
 	setupTimer.start();
 	sqlite3_close(db);
 	setupTimer.end();
 	clkEnd = times(&tmsEnd);
 
-//	cout << endl;
-//	printf("Statements run:      %d ish stmts\n", stmts);
-//	printf("Total prepare time:  %f ns\n", prepTimer.total_duration());
-//	printf("Total run time:      %f ns\n", runTimer.total_duration());
-//	printf("Total finalize time: %f ns\n", finalizeTimer.total_duration());
 	std::cout << "Setup:\t" << setupTimer.total_duration() << std::endl;
-	// printf("Setup:	%li\n", setupTimer.total_duration());
-//	printf("Total time:          %f ns\n", prepTimer.total_duration() + runTimer.total_duration() +
-//	                                             finalizeTimer.total_duration() + setupTimer.total_duration());
-
-//	cout << endl;
-//	printf("Total user CPU time:   %15.3g secs\n", (tmsEnd.tms_utime - tmsStart.tms_utime) / (double)CLOCKS_PER_SEC);
-//	printf("Total system CPU time: %15.3g secs\n", (tmsEnd.tms_stime - tmsStart.tms_stime) / (double)CLOCKS_PER_SEC);
-//	printf("Total real time:	   %15.3g secs\n", (clkEnd - clkStart) / (double)CLOCKS_PER_SEC);
 
 	return prepTimer.total_duration() + runTimer.total_duration() + finalizeTimer.total_duration() + setupTimer.total_duration();
 }
@@ -228,9 +207,8 @@ int main(int argc, char *argv[]) {
 		time += test_main(argc, argv);
 	}
 
-	// if(!quiet)
-	std::cout << "Avg:\t" << time/itrs << std::endl;
-		// printf("Avg:	%li\n", time/itrs);
+	if(!quiet)
+		std::cout << "Avg:\t" << time/itrs << std::endl;
 
 	return 0;
 }
