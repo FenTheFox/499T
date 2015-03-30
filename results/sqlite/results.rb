@@ -3,110 +3,117 @@
 require 'csv'
 require 'pry'
 
-sys = {}
-mem3 = {}
-mem3_kb = {}
-mem3_mb = {}
-mem5 = {}
-mem5_kb = {}
-mem5_mb = {}
-hoard = {}
-jemalloc = {}
-nedmalloc = {}
+class Results
+	@@results = {
+		sys:		{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem3:		{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem3_kb:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem3_mb:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem5:		{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem5_kb:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem5_mb:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		hoard:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		jemalloc:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		nedmalloc:	{ setup: [], create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 }
+	}
 
-sysc = 0
-mem3c = 0
-mem3_kbc = 0
-mem3_mbc = 0
-mem5c = 0
-mem5_kbc = 0
-mem5_mbc = 0
-hoardc = 0
-jemallocc = 0
-nedmallocc = 0
+	# These are based off of the output of the c++ benchmark
+	@@setup = 'Setup'
+	@@create = 'Schema'
+	@@query = 'Query'
+	@@total = ''
 
-def parse(file)
-	type = {}
-	CSV.foreach(file, col_sep: ":\t") do |r|
-		k = r[0].to_sym
-		v = r[1].to_i
-		type[k].nil? ? type[k] = v : type[k] += v
+	def self.parse(file, key)
+		CSV.foreach(file, col_sep: ":\t") do |r|
+			k = case r[0]
+			when @@setup then :setup
+			when @@create then :create
+			when @@query then :query
+			end
+			@@results[key][k] << r[1].to_i if !k.nil?
+		end
 	end
-	return type
-end
 
-def print_results(h, c)
-	h.each do |k,v|
-		if(k.to_s.index('Avg').nil?)
-			puts "#{k} #{(v/(c*30)).to_i}"
-		else
-			puts "Total #{(v/c).to_i}"
+	def self.calc_stats
+		@@results.each do |k, v|
+			s = v[:setup]
+			c = v[:create]
+			q = v[:query]
+			t = v[:total]
+			for i in 0..(s.length-1) do t << s[i] + c[i] + q[i] end if @@total.empty?
+
+			cm = v[:create_mean] = c.reduce(:+)/c.length.to_f
+			qm = v[:query_mean] = q.reduce(:+)/q.length.to_f
+			tm = v[:total_mean] = t.reduce(:+)/t.length.to_f
+
+			tmp = 0
+			c.each { |i| tmp += (i-cm)**2 }
+			v[:create_stdev] = Math.sqrt(tmp/(c.length-1).to_f)
+			tmp = 0
+			q.each { |i| tmp += (i-qm)**2 }
+			v[:query_stdev] = Math.sqrt(tmp/(q.length-1).to_f)
+			tmp = 0
+			t.each { |i| tmp += (i-tm)**2 }
+			v[:total_stdev] = Math.sqrt(tmp/(t.length-1).to_f)
+		end
+	end
+
+	def self.print_results
+		calc_stats
+		rf = File.new('results.csv', 'w')
+		sf = File.new('stats.csv', 'w')
+
+		rf.puts 'allocator,create,query,total'
+		@@results.each do |k, v|
+			s = v[:setup]
+			c = v[:create]
+			q = v[:query]
+			for i in 0..(s.length-1)
+				rf.puts "#{k},#{c[i]},#{q[i]},#{s[i] + c[i] + q[i]}"
+				v[:total_mean] += s[i] + c[i] + q[i]
+			end
+			v[:create_mean] = c.reduce(:+)/c.length
+			v[:query_mean] = q.reduce(:+)/q.length
+			v[:total_mean] = v[:total_mean]/q.length
+		end
+
+		sf.puts 'allocator,create_mean,query_mean,total_mean,create_stdev,query_stdev,total_stdev'
+		@@results.each do |k, v|
+			cm = v[:create_mean]
+			qm = v[:query_mean]
+			tm = v[:total_mean]
+			sf.puts "#{k},#{v[:create_mean]},#{v[:query_mean]},#{v[:total_mean]},#{v[:create_stdev]},#{v[:query_stdev]},#{v[:total_stdev]},"
 		end
 	end
 end
 
 Dir.glob('*.txt') do |f|
+	next if !f.index('perf').nil?
 	if(!f.index('sys').nil?)
-		sys = parse(f)
-		sysc += 1
+		Results.parse(f, :sys)
 	elsif(!f.index('mem3').nil?)
 		if(!f.index('kb').nil?)
-			mem3_kb = parse(f)
-			mem3_kbc += 1
+			Results.parse(f, :mem3_kb)
 		elsif(!f.index('mb').nil?)
-			mem3_mb = parse(f)
-			mem3_mbc += 1
+			Results.parse(f, :mem3_mb)
 		else
-			mem3 = parse(f)
-			mem3c += 1
+			Results.parse(f, :mem3)
 		end
 	elsif(!f.index('mem5').nil?)
 		if(!f.index('kb').nil?)
-			mem5_kb = parse(f)
-			mem5_kbc += 1
+			Results.parse(f, :mem5_kb)
 		elsif(!f.index('mb').nil?)
-			mem5_mb = parse(f)
-			mem5_mbc += 1
+			Results.parse(f, :mem5_mb)
 		else
-			mem5 = parse(f)
-			mem5c += 1
+			Results.parse(f, :mem5)
 		end
 	elsif(!f.index('hoard').nil?)
-		hoard = parse(f)
-		hoardc += 1
+		Results.parse(f, :hoard)
 	elsif(!f.index('jemalloc').nil?)
-		jemalloc = parse(f)
-		jemallocc += 1
-  elsif(!f.index('nedmalloc').nil?)
-		nedmalloc = parse(f)
-		nedmallocc += 1
-  end
+		Results.parse(f, :jemalloc)
+	elsif(!f.index('nedmalloc').nil?)
+		Results.parse(f, :nedmalloc)
+	end
 end
 
-# binding.pry
-
-puts 'sys'
-print_results(sys, sysc)
-
-puts 'mem3'
-print_results(mem3, mem3c)
-puts 'mem3_kb'
-print_results(mem3_kb, mem3_kbc)
-puts 'mem3_mb'
-print_results(mem3_mb, mem3_mbc)
-
-puts 'mem5'
-print_results(mem5, mem5c)
-puts 'mem5_kb'
-print_results(mem5_kb, mem5_kbc)
-puts 'mem5_mb'
-print_results(mem5_mb, mem5_mbc)
-
-puts 'hoard'
-print_results(hoard, hoardc)
-
-puts 'jemalloc'
-print_results(jemalloc, jemallocc)
-
-puts 'nedmalloc'
-print_results(nedmalloc, nedmallocc)
+Results.print_results

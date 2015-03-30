@@ -56,10 +56,10 @@ private
 		end
 
 		puts cmd
-		puts cmd_perf.gsub('stat', 'record').gsub('.txt', '.data')
 
 		Kernel.system(cmd)
 		if perf >= 0
+			puts cmd_perf.gsub('stat', 'record').gsub('.txt', '.data')
 			Kernel.system(cmd_perf)
 			Kernel.system(cmd_perf.gsub('stat', 'record').gsub('.txt', '.data'))
 		end
