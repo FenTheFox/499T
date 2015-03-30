@@ -12,17 +12,14 @@ class Bench
 	@@queries = 'query1.sql query2.sql query2-1.sql query3.sql query4.sql query5.sql query5-1.sql query6.sql query6-1.sql query7.sql query7-1.sql query8.sql query9.sql query10.sql'
 
 	def self.do_bench(itr)
-		run_test('sys', "sys-#{itr}")
-		run_test('sys', "perfsys-#{itr}", nil, itr)
+		run_test('sys', "sys-#{itr}", nil, itr)
 
 		@@mems.each do |m|
-			@@sizes.each { |sz| run_test("#{m}#{sz}", "#{m}#{sz}-#{itr}") }
-			@@sizes.each { |sz| run_test("#{m}#{sz}", "perf#{m}#{sz}-#{itr}", nil, itr) }
+			@@sizes.each { |sz| run_test("#{m}#{sz}", "#{m}#{sz}-#{itr}", nil, itr) }
 		end
 
 		['hoard', 'jemalloc', 'nedmalloc'].each do |lib|
-			run_test('rmalloc', "#{lib}-#{itr}", lib)
-			run_test('rmalloc', "perf#{lib}-#{itr}", lib, itr)
+			run_test('rmalloc', "#{lib}-#{itr}", lib, itr)
 		end
 	end
 

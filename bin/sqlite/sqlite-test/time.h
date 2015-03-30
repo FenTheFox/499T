@@ -46,7 +46,7 @@ class timer {
 		end_time = steady_clock::time_point::min();
 		total = 0;
 
-		hwstart = hwend = hwtotal = 0;
+		// hwstart = hwend = hwtotal = 0;
 	}
 
 	void start() {

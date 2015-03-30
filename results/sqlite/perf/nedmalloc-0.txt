@@ -1,0 +1,14 @@
+# started on Sun Mar 29 21:36:28 2015
+
+
+ Performance counter stats for '../../bin/sqlite/sqlite3-rmalloc 30 -q -s 8 songdb.sql albums2.sql artists2.sql songs2.sql tags2.sql users2.sql usersongplays2.sql usersongratings2.sql query1.sql query2.sql query2-1.sql query3.sql query4.sql query5.sql query5-1.sql query6.sql query6-1.sql query7.sql query7-1.sql query8.sql query9.sql query10.sql':
+
+    37,165,671,870      cycles                   
+    59,726,673,900      instructions              #    1.61  insns per cycle        
+         9,767,869      cache-misses                                                
+        41,306,778      branch-misses                                               
+               804      page-faults                                                 
+            80,029      cs                                                          
+
+       6.096071361 seconds time elapsed
+

@@ -11,4 +11,4 @@ bench/Firefox/logs
 results/firefox/**/*-log-*.txt
 
 results/**/trace/*
-results/**/perf/*.data
+results/**/perf/*.data*
