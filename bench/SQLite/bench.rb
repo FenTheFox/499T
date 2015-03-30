@@ -46,13 +46,11 @@ private
 		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
 		cmd_perf = cmd + "perf stat -e cycles,instructions,cache-misses,branch-misses,page-faults,cs -o ../../results/sqlite/perf/#{log}.txt "
 		cmd += "../../bin/sqlite/sqlite3-#{bld} #{@@itrs} #{@@flags} #{@@schema} #{@@queries} > "
-		cmd_perf += "../../bin/sqlite/sqlite3-#{bld} #{@@itrs} #{@@flags} #{@@schema} #{@@queries} > "
+		cmd_perf += "../../bin/sqlite/sqlite3-#{bld} #{@@itrs} #{@@flags} #{@@schema} #{@@queries} > /dev/null"
 		if log.nil?
 			cmd += '/dev/null'
-			cmd_perf += '/dev/null'
 		else
 			cmd += "../../results/sqlite/#{log}.txt"
-			cmd_perf += "../../results/sqlite/#{log.gsub('-', '-perfstat')}.log"
 		end
 
 		puts cmd
