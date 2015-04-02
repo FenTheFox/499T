@@ -64,14 +64,13 @@ private
 
 		puts cmd
 
-		while((result = Kernel.system(cmd)).nil?)
-			puts $?
-		end
+		puts $? while((result = Kernel.system(cmd)).nil?)
 
 		if(perf >= 0 && @@do_perf)
 			puts cmd_perf.gsub('stat', 'record').gsub('.txt', '.data')
-			Kernel.system(cmd_perf)
-			Kernel.system(cmd_perf.gsub('stat', 'record').gsub('.txt', '.data'))
+
+			puts $? while((result = Kernel.system(cmd_perf)).nil?)
+			puts $? while((result = Kernel.system(cmd_perf.gsub('stat', 'record').gsub('.txt', '.data'))).nil?)
 		end
 	end
 
