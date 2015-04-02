@@ -1,10 +1,12 @@
 <?php
 	session_start();
 
-	$logf = '../../../results/firefox/render/' . $_SESSION[$_SESSION['type'] . $_SESSION['event']];
-	$fh = fopen( $logf, 'a' );
-	fwrite( $fh, $_SESSION['sitename'] . ': ' . ($_SERVER['REQUEST_TIME_FLOAT'] - $_POST['time']) . "\n" );
-	fclose( $fh );
+	if ($_SESSION['dologging'] === TRUE) {
+		$logf = '../../../results/firefox/render/' . $_SESSION[$_SESSION['type'] . $_SESSION['event']];
+		$fh = fopen( $logf, 'a' );
+		fwrite( $fh, $_SESSION['sitename'] . ': ' . ($_SERVER['REQUEST_TIME_FLOAT'] - $_POST['time']) . "\n" );
+		fclose( $fh );
+	}
 
 	if(++$_SESSION['site'] == 21){
 		$_SESSION['site'] = 0;

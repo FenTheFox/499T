@@ -66,7 +66,9 @@ class Results
 		rf.puts 'allocator,create,query,total'
 		sf.puts 'allocator,create_mean,query_mean,total_mean,create_stdev,query_stdev,total_stdev'
 		@@results.each do |k, v|
+			p [v[:setup].length, v[:create].length, v[:query].length]
 			for i in 0..(v[:create].length-1)
+				binding.pry if v[:setup][i].nil?
 				rf.puts "#{k},#{v[:create][i]},#{v[:query][i]},#{v[:setup][i] + v[:create][i] + v[:query][i]}"
 			end
 			sf.puts "#{k},#{v[:create_mean]},#{v[:query_mean]},#{v[:total_mean]},#{v[:create_stdev]},#{v[:query_stdev]},#{v[:total_stdev]}"

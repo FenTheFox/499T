@@ -8,6 +8,10 @@ class Tester
 		@profile = profile
 		@timeout = timeout
 		@iters = iters
+		ARGV.each do |a|
+			@do_perf = true unless a.index('with-perf').nil?
+			@do_trace = true unless a.index('with-trace').nil?
+		end
 
 		puts '#!/usr/bin/zsh'
 		puts ''
@@ -29,11 +33,11 @@ class Tester
 		cmd_perf = cmd + "perf stat -e cycles,instructions,cache-misses,branch-misses,page-faults,cs -o ../../results/firefox/#{@profile}/perf/#{bld}#{lib}#{ittr}.txt "
 		ittr < 0 ? log = '' : log = "bld=#{lib.nil? ? bld : lib}-#{ittr}"
 		cmd += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?#{log} >&${logfd}"
-		cmd_perf += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?#{log.gsub('-', '-perfstat')} >&${logfd}"
+		cmd_perf += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php >&${logfd}"
 
 		puts "echo '#{cmd}' >&0"
 		puts cmd
-		if ittr >= 0
+		if(ittr >= 0 && @do_perf)
 			puts cmd_perf
 			puts cmd_perf.gsub('stat', 'record').gsub('.txt', '.data')
 		end
@@ -54,16 +58,18 @@ class Tester
 			puts ''
 		end
 
-		['rmalloc', 'hoard'].each do |lib|
-			puts "logf=logs/flog-bld-rmalloc#{lib}-log.log"
-			puts 'exec {logfd} >> ${logf}'
-			@iters.times do |n|
-				do_test('bld-rmalloc', -1, lib + '-log')
-				puts "mv ./max ../../results/firefox/#{@profile}/trace/max-#{lib}#{n}.txt"
-				puts "mv ./trace ../../results/firefox/#{@profile}/trace/trace-#{lib}#{n}.txt"
+		if @do_trace
+			['rmalloc', 'hoard'].each do |lib|
+				puts "logf=logs/flog-bld-rmalloc#{lib}-log.log"
+				puts 'exec {logfd} >> ${logf}'
+				@iters.times do |n|
+					do_test('bld-rmalloc', -1, lib + '-log')
+					puts "mv ./max ../../results/firefox/#{@profile}/trace/max-#{lib}#{n}.txt"
+					puts "mv ./trace ../../results/firefox/#{@profile}/trace/trace-#{lib}#{n}.txt"
+				end
+				puts "echo 'end #{lib}-log' >&0"
+				puts ''
 			end
-			puts "echo 'end #{lib}-log' >&0"
-			puts ''
 		end
 
 		puts 'kill `ps --no-header -C php -o pid`'

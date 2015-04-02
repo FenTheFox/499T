@@ -7,9 +7,12 @@
 		$_SESSION['type'] = 'js';
 		$_SESSION['event'] = 'load';
 		
-		$time = time();
-		$_SESSION['jsload']		= $_GET['bld'] . '-jsload.txt';
-		$_SESSION['nojsload']	= $_GET['bld'] . '-nojsload.txt';
+		if ($_GET['bld'] != null) {
+			$_SESSION['jsload']		= $_GET['bld'] . '-jsload.txt';
+			$_SESSION['nojsload']	= $_GET['bld'] . '-nojsload.txt';
+			$_SESSION['dologging']	= TRUE;
+		}
+		
 	}
 
 	if($handle = opendir($_SESSION['type'])) {
