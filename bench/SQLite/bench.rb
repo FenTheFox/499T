@@ -64,7 +64,10 @@ private
 
 		puts cmd
 
-		Kernel.system(cmd)
+		while((result = Kernel.system(cmd)).nil?)
+			puts $?
+		end
+
 		if(perf >= 0 && @@do_perf)
 			puts cmd_perf.gsub('stat', 'record').gsub('.txt', '.data')
 			Kernel.system(cmd_perf)

@@ -22,8 +22,8 @@ echo $args
 
 cd bench/Firefox
 ./js.rb $args
-./js.sh
 ./render.rb $args
+./js.sh
 ./render.sh
 
 cd ../SQLite
