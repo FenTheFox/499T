@@ -7,3 +7,14 @@ source/sqlite-bld/*
 fid
 
 bench/Firefox/logs
+bench/Firefox/js.sh
+bench/Firefox/render.sh
+
+results/**/trace/*
+results/**/perf/*.data*
+results/**/*.txt
+
+.R*
+
+#for now, added back if nessisary
+*.xlsx

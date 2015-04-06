@@ -19,9 +19,9 @@ int strlen(char *str, int len)
 
 #include "map.h"
 
-size_t map::at(size_t k) {
+size_t lmap::at(size_t k) {
 	size_t hval = k % ARR_SIZE;
-	pair p = pair();
+	pair_t p = pair_t();
 	bool flag = false;
 
 	for (int i = 0; i < LIST_SIZE; i++) {
@@ -31,16 +31,16 @@ size_t map::at(size_t k) {
 			break;
 		}
 	}
-	if (!flag) {
-		char str[31];
-		sprintf(str, "%zu not found\n", k);
-		write(1, str, strlen(str, 31));
-	}
+	// if (!flag) {
+		// char str[31];
+		// snprintf(str, 31, "%zu not found\n", k);
+		// write(1, str, strlen(str, 31));
+	// }
 
 	return p.second;
 }
 
-void map::erase(size_t k) {
+void lmap::erase(size_t k) {
 	size_t hval = k % ARR_SIZE;
 	for (int i = 0; i < LIST_SIZE; i++) {
 		if (values[hval][i].first == k && inUse[hval][i]) {
@@ -50,9 +50,9 @@ void map::erase(size_t k) {
 	}
 }
 
-void map::insert(size_t k, size_t v) {
+void lmap::insert(size_t k, size_t v) {
 	size_t hval = k % ARR_SIZE;
-	pair p;
+	pair_t p;
 	p.first = k;
 	p.second = v;
 	bool flag = false;

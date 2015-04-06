@@ -1,24 +1,18 @@
 <?php
 	session_start();
 
-	if(isset($_GET['fid'])) {
-		$fh = fopen('fid','w');
-		fwrite($fh, $_GET['fid']);
-		fclose($fh);
-		exit;
-	}
-
 	if(!isset($_SESSION['site']) || !isset($_SESSION['itr'])){
 		$_SESSION['site'] = 0;
 		$_SESSION['itr'] = 0;
 		$_SESSION['type'] = 'js';
 		$_SESSION['event'] = 'load';
 		
-		$time = time();
-		// $_SESSION['jsdom']		= $_GET['bld'] . '-' . date('mdHis', $time) . '-jsdom.txt';
-		$_SESSION['jsload']		= $_GET['bld'] . '-' . date('mdHis', $time) . '-jsload.txt';
-		// $_SESSION['nojsdom']	= $_GET['bld'] . '-' . date('mdHis', $time) . '-nojsdom.txt';
-		$_SESSION['nojsload']	= $_GET['bld'] . '-' . date('mdHis', $time) . '-nojsload.txt';
+		if ($_GET['bld'] != null) {
+			$_SESSION['jsload']		= $_GET['bld'] . '-jsload.txt';
+			$_SESSION['nojsload']	= $_GET['bld'] . '-nojsload.txt';
+			$_SESSION['dologging']	= TRUE;
+		}
+		
 	}
 
 	if($handle = opendir($_SESSION['type'])) {

@@ -1,4 +1,4 @@
-../../source/firefox-bld/dist/Firefox.app/Contents/MacOS/firefox -CreateProfile jsbench
-../../source/firefox-bld/dist/Firefox.app/Contents/MacOS/firefox -CreateProfile renderbench
+../../source/firefox-bld/dist/bin/firefox -CreateProfile jsbench
+../../source/firefox-bld/dist/bin/firefox -CreateProfile renderbench
 
 mkdir logs

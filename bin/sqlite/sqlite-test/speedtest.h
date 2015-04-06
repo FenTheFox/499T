@@ -18,9 +18,10 @@
 #include <thread>
 #include <vector>
 
+#include <string.h>
+
 #include <sys/times.h>
 #include <sys/mman.h>
-#include <libkern/OSAtomic.h>
 
 #include "sqlite3.h"
 

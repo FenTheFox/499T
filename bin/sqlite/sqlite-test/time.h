@@ -7,78 +7,67 @@
 
 #include <chrono>
 #include <iostream>
+#include <ctime>
+#include <ratio>
 
 using namespace std::chrono;
 
 class timer {
 	steady_clock::time_point start_time, end_time;
-	double total;
+	long total;
 
-	uint64_t hwstart, hwend, hwtotal;
+	// uint64_t hwstart, hwend, hwtotal;
 
-	uint64_t hwtime() {
-		uint64_t val;
-		__asm__ __volatile__("rdtsc" : "=A"(val));
-		return val;
-	}
+	// uint64_t hwtime() {
+		// uint64_t val;
+		// __asm__ __volatile__("rdtsc" : "=A"(val));
+		// return val;
+	// }
 
-	double diff() {
-		if (start_time == steady_clock::time_point::min() || end_time == steady_clock::time_point::min()) {
+	long diff() {
+		if (start_time == steady_clock::time_point::min() || end_time == steady_clock::time_point::min())
 			std::cerr << "Please call both start() and end() in between each call to duration()" << std::endl;
-			throw 19;
-		}
 
-		return std::chrono::duration<double, std::nano>(end_time - start_time).count();
+		auto ret = duration_cast<nanoseconds>(end_time - start_time);
+
+		return ret.count();
 	}
 
-	uint64_t hwdiff() {
-		if (hwstart == 0 || hwend == 0) {
-			std::cerr << "Please call both start() and end() in between each call to hwduration()" << std::endl;
-			throw 19;
-		}
+	// uint64_t hwdiff() {
+		// if (hwstart == 0 || hwend == 0)
+			// std::cerr << "Please call both start() and end() in between each call to hwduration()" << std::endl;
 
-		return hwend - hwstart;
-	}
+		// return hwend - hwstart;
+	// }
 
   public:
 	timer() {
-		start_time = end_time = steady_clock::time_point::min();
+		start_time = steady_clock::time_point::min();
+		end_time = steady_clock::time_point::min();
 		total = 0;
 
-		hwstart = hwend = hwtotal = 0;
+		// hwstart = hwend = hwtotal = 0;
 	}
 
 	void start() {
 		start_time = steady_clock::now();
-		hwstart = hwtime();
+		// hwstart = hwtime();
 	}
 
 	void end() {
 		end_time = steady_clock::now();
-		hwend = hwtime();
+		// hwend = hwtime();
 
 		total += diff();
-		hwtotal += hwdiff();
+		// hwtotal += hwdiff();
 	}
 
-	double duration() {
-		double dur = diff();
-		start_time = end_time = steady_clock::time_point(steady_clock::time_point::min());
-		return dur;
-	}
+	long total_duration() { return total; }
 
-	uint64_t hwduration() {
-		uint64_t diff = hwdiff();
-		hwstart = hwend = 0;
-		return diff;
-	}
-
-	double total_duration() { return total; }
-
-	uint64_t hwtotal_duration() { return hwtotal; }
+	// uint64_t hwtotal_duration() { return hwtotal; }
 
 	void merge(timer t) {
 		total += t.total_duration();
-		hwtotal += t.hwtotal_duration();
+		// hwtotal += t.hwtotal_duration();
 	}
 };

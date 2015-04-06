@@ -1,0 +1,1 @@
+make git keep this folder around, even when it's empty so the php/ruby scripts don't complain

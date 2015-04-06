@@ -1,0 +1,7 @@
+SOURCES += [
+	'logger.cpp',
+	'map.cpp',
+	'rmalloc-log.c',
+]
+
+SharedLibrary('rmalloc-log')

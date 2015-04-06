@@ -9,18 +9,18 @@
 #ifndef __inst__map__
 #define __inst__map__
 
-#define ARR_SIZE 1000
-#define LIST_SIZE 100
+#define ARR_SIZE 10000
+#define LIST_SIZE 2000
 
-#include <cstdlib>
+#include <stdio.h>
 
-struct pair {
+struct pair_t {
 	size_t first;
 	size_t second;
 };
 
-class map {
-	pair values [ARR_SIZE][LIST_SIZE];
+class lmap {
+	pair_t values [ARR_SIZE][LIST_SIZE];
 	bool inUse [ARR_SIZE][LIST_SIZE];
 public:
 	size_t at(size_t);
