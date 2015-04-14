@@ -14,7 +14,7 @@ results/**/trace/*
 results/**/perf/*.data*
 results/**/*.txt
 
-.R*
+*.R*
 
 #for now, added back if nessisary
 *.xlsx
