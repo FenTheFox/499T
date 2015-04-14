@@ -8,9 +8,11 @@ class Tester
 		@profile = profile
 		@timeout = timeout
 		@iters = iters
+		@results_dir = ARGV[0] + '/results/firefox'
+		@source_dir = ARGV[0] + '/source/firefox-'
 		ARGV.each do |a|
-			@do_perf = true unless a.index('with-perf').nil?
-			@do_trace = true unless a.index('with-trace').nil?
+			@do_perf = true if !a.index('with-perf').nil?
+			@do_trace = true if !a.index('with-trace').nil?
 		end
 
 		puts '#!/usr/bin/zsh'
@@ -30,10 +32,10 @@ class Tester
 	def do_test(bld, ittr = -1, lib = nil)
 		cmd = ''
 		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
-		cmd_perf = cmd + "perf stat -e cycles,instructions,cache-misses,branch-misses,page-faults,cs -o ../../results/firefox/#{@profile}/perf/#{bld}#{lib}#{ittr}.txt "
+		cmd_perf = cmd + "perf stat -e cycles,instructions,cache-misses,branch-misses,page-faults,cs -o #{@results_dir}/#{@profile}/perf/#{bld}#{lib}#{ittr}.txt "
 		ittr < 0 ? log = '' : log = "bld=#{lib.nil? ? bld : lib}-#{ittr}"
-		cmd += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?#{log} >&${logfd}"
-		cmd_perf += "../../source/firefox-#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php >&${logfd}"
+		cmd += "#{@source_dir}#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?#{log} >&${logfd}"
+		cmd_perf += "#{@source_dir}#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php >&${logfd}"
 
 		puts "echo '#{cmd}' >&0"
 		puts cmd
@@ -64,8 +66,8 @@ class Tester
 				puts 'exec {logfd} >> ${logf}'
 				@iters.times do |n|
 					do_test('bld-rmalloc', -1, lib + '-log')
-					puts "mv ./max ../../results/firefox/#{@profile}/trace/max-#{lib}#{n}.txt"
-					puts "mv ./trace ../../results/firefox/#{@profile}/trace/trace-#{lib}#{n}.txt"
+					puts "mv ./max #{@results_dir}/#{@profile}/trace/max-#{lib}#{n}.txt"
+					puts "mv ./trace #{@results_dir}/#{@profile}/trace/trace-#{lib}#{n}.txt"
 				end
 				puts "echo 'end #{lib}-log' >&0"
 				puts ''

@@ -11,14 +11,13 @@ class Bench
 	@@schema = 'songdb.sql albums2.sql artists2.sql songs2.sql tags2.sql users2.sql usersongplays2.sql usersongratings2.sql'
 	@@queries = 'query1.sql query2.sql query2-1.sql query3.sql query4.sql query5.sql query5-1.sql query6.sql query6-1.sql query7.sql query7-1.sql query8.sql query9.sql query10.sql'
 
-	@@results_base = '../../results/sqlite'
-
 	@@do_perf = @@do_trace = false
 
 	def self.parse_args
+		@@results_base = ARGV[0] + '/results/sqlite'
 		ARGV.each do |a|
-			@@do_perf = true unless a.index('with-perf').nil?
-			@@do_trace = true unless a.index('with-trace').nil?
+			@@do_perf = true if !a.index('with-perf').nil?
+			@@do_trace = true if !a.index('with-trace').nil?
 		end
 	end
 
