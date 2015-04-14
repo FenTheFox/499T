@@ -5,14 +5,13 @@
 		$_SESSION['site'] = 0;
 		$_SESSION['itr'] = 0;
 		$_SESSION['type'] = 'js';
-		$_SESSION['event'] = 'load';
-		
+
 		if ($_GET['bld'] != null) {
-			$_SESSION['jsload']		= $_GET['bld'] . '-jsload.txt';
-			$_SESSION['nojsload']	= $_GET['bld'] . '-nojsload.txt';
+			$_SESSION['js']		= $_GET['bld'] . '-js.txt';
+			$_SESSION['nojs']	= $_GET['bld'] . '-nojs.txt';
 			$_SESSION['dologging']	= TRUE;
 		}
-		
+
 	}
 
 	if($handle = opendir($_SESSION['type'])) {
@@ -25,6 +24,5 @@
 				exit;
 			}
 		}
-		echo $i;
 	}
 ?>

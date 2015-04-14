@@ -2,7 +2,7 @@
 	session_start();
 
 	if ($_SESSION['dologging'] === TRUE) {
-		$logf = '../../../results/firefox/render/' . $_SESSION[$_SESSION['type'] . $_SESSION['event']];
+		$logf = '../../../results/firefox/render/' . $_SESSION[$_SESSION['type']];
 		$fh = fopen( $logf, 'a' );
 		fwrite( $fh, $_SESSION['sitename'] . ': ' . ($_SERVER['REQUEST_TIME_FLOAT'] - $_POST['time']) . "\n" );
 		fclose( $fh );
@@ -14,12 +14,10 @@
 			$_SESSION['itr'] = 0;
 			if($_SESSION['type'] == 'js') {
 				$_SESSION['type'] = 'nojs';
-			} else {				
+			} else {
 				exec('kill `ps --no-header -C firefox -o pid`');
-				
+
 				unset($_SESSION['site']);
-				header('HTTP/1.1 302 Found', TRUE, 302);
-				header('Location: report.php');
 				exit;
 			}
 		}

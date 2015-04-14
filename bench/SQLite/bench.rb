@@ -87,6 +87,6 @@ end
 
 Bench.parse_args
 
-5.times { |n| Bench.do_bench(n) }
+3.times { |n| Bench.do_bench(n) }
 sleep(5)
-5.times { |n| Bench.do_log(n) }
+3.times { |n| Bench.do_log(n) }

@@ -1,7 +1,7 @@
 <?php
 	session_start();
-	$loadjs    = str_replace("\n", "<br />", file_get_contents($_SESSION['jsload']));
-	$loadnojs  = str_replace("\n", "<br />", file_get_contents($_SESSION['nojsload']));
+	$loadjs    = str_replace("\n", "<br />", file_get_contents($_SESSION['js']));
+	$loadnojs  = str_replace("\n", "<br />", file_get_contents($_SESSION['nojs']));
 ?>
 
 <!DOCTYPE html>
@@ -11,10 +11,10 @@
 		<title>Firefox Bench Results</title>
 	</head>
 	<body>
-		<h3>Load JS</h3>
+		<h3>JS</h3>
 		<p><?php echo $loadjs; ?></p>
 
-		<h3>load no JS</h3>
+		<h3>no JS</h3>
 		<p><?php echo $loadnojs; ?></p>
 	</body>
 </html>

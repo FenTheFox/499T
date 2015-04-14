@@ -20,7 +20,11 @@ if [[ ($1 =~ with-trace) || ($2 =~ with-trace) ]]; then
 fi
 echo $args
 
-cd bench/Firefox
+sudo mount none -t tmpfs -o size=1G /ramdisk
+cp -rf bench /ramdisk
+cd /ramdisk/bench
+
+cd Firefox
 ./js.rb $args
 ./render.rb $args
 ./js.sh
@@ -34,3 +38,5 @@ cd $ffr_base
 
 cd $sqlr_base
 ./results.rb
+
+sudo umount /ramdisk

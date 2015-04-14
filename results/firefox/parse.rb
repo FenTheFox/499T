@@ -5,7 +5,7 @@ require 'pry'
 
 class Results
 	@@results = {
-		default:		{ js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 },
+		default:	{ js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 },
 		hoard:		{ js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 },
 		jemalloc:	{ js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 },
 		nedmalloc:	{ js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 }
@@ -28,8 +28,9 @@ class Results
 	end
 
 	def self.parse_render(file, key)
-		idx = @@results[key][:render].length
-		r = @@results[key][:render] << 0.0
+		idx = file.scan(/\d/)[0].to_i
+		r = @@results[key][:render]
+		r[idx] ||= 0.0
 
 		CSV.foreach(file, col_sep: ": ") do |l|
 			r[idx] += l[1].to_f
@@ -74,29 +75,27 @@ class Results
 end
 
 Dir.glob('js/*.txt') do |f|
-	if(!f.index('nedmalloc').nil?)
-		Results.parse_js(f, :nedmalloc)
+	if(!f.index('bld').nil?)
+		Results.parse_js(f, :default)
 	elsif(!f.index('hoard').nil?)
 		Results.parse_js(f, :hoard)
 	elsif(!f.index('jemalloc').nil?)
 		Results.parse_js(f, :jemalloc)
-	elsif(!f.index('bld').nil?)
-		Results.parse_js(f, :default)
+	elsif(!f.index('nedmalloc').nil?)
+		Results.parse_js(f, :nedmalloc)
 	end
 end
 
 Dir.glob('render/*.txt') do |f|
-	if(!f.index('nedmalloc').nil?)
-		Results.parse_render(f, :nedmalloc)
+	if(!f.index('bld').nil?)
+		Results.parse_render(f, :default)
 	elsif(!f.index('hoard').nil?)
 		Results.parse_render(f, :hoard)
 	elsif(!f.index('jemalloc').nil?)
 		Results.parse_render(f, :jemalloc)
-	elsif(!f.index('bld').nil?)
-		Results.parse_render(f, :default)
+	elsif(!f.index('nedmalloc').nil?)
+		Results.parse_render(f, :nedmalloc)
 	end
 end
-
-# binding.pry
 
 Results.print_results
