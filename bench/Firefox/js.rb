@@ -2,7 +2,6 @@
 
 $stdout.reopen("js.sh", 'w')
 $stdout.sync = true
-$stderr.reopen($stdout)
 
 require './do_test.rb'
 

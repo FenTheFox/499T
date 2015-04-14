@@ -16,7 +16,6 @@
 				$_SESSION['type'] = 'nojs';
 			} else {
 				exec('kill `ps --no-header -C firefox -o pid`');
-
 				unset($_SESSION['site']);
 				exit;
 			}

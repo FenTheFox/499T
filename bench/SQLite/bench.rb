@@ -14,7 +14,8 @@ class Bench
 	@@do_perf = @@do_trace = false
 
 	def self.parse_args
-		@@results_base = ARGV[0] + '/results/sqlite'
+		@@base_dir = ARGV[0]
+		@@results_base = '../../results/sqlite'
 		ARGV.each do |a|
 			@@do_perf = true if !a.index('with-perf').nil?
 			@@do_trace = true if !a.index('with-trace').nil?
@@ -50,16 +51,12 @@ class Bench
 
 private
 	def self.run_test(bld, log=nil, lib=nil, perf = -1)
+		c = "../../bin/sqlite/sqlite3-#{bld} #{@@itrs} #{@@flags} #{@@schema} #{@@queries}"
 		cmd = ''
 		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
 		cmd_perf = cmd + "perf stat -e cycles,instructions,cache-misses,branch-misses,page-faults,cs -o #{@@results_base}/perf/#{log}.txt "
-		cmd += "../../bin/sqlite/sqlite3-#{bld} #{@@itrs} #{@@flags} #{@@schema} #{@@queries} > "
-		cmd_perf += "../../bin/sqlite/sqlite3-#{bld} #{@@itrs} #{@@flags} #{@@schema} #{@@queries} > /dev/null"
-		if log.nil?
-			cmd += '/dev/null'
-		else
-			cmd += "#{@@results_base}/#{log}.txt"
-		end
+		cmd += "#{c} > #{log.nil? ? '/dev/null' : "#{@@results_base}/#{log}.txt"}"
+		cmd_perf += "#{c} > /dev/null"
 
 		puts cmd
 
@@ -75,8 +72,8 @@ private
 
 	def self.mv_trace(bld)
 		begin
-			FileUtils.mv('./max', "#{@@results_base}/trace/max-#{bld}.txt")
-			FileUtils.mv('./trace', "#{@@results_base}/trace/trace-#{bld}.txt")
+			FileUtils.mv('./max', "#{@@base_dir}/resutls/sqlite/trace/max-#{bld}.txt")
+			FileUtils.mv('./trace', "#{@@base_dir}/resutls/sqlite/trace/trace-#{bld}.txt")
 		rescue Exception => e
 			puts 'welp'
 			puts e
