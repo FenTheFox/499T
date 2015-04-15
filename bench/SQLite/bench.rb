@@ -72,8 +72,8 @@ private
 
 	def self.mv_trace(bld)
 		begin
-			FileUtils.mv('./max', "#{@@base_dir}/resutls/sqlite/trace/max-#{bld}.txt")
-			FileUtils.mv('./trace', "#{@@base_dir}/resutls/sqlite/trace/trace-#{bld}.txt")
+			FileUtils.mv('./max', "#{@@base_dir}/results/sqlite/trace/max-#{bld}.txt")
+			FileUtils.mv('./trace', "#{@@base_dir}/results/sqlite/trace/trace-#{bld}.txt")
 		rescue Exception => e
 			puts 'welp'
 			puts e

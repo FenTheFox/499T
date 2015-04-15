@@ -18,7 +18,7 @@ if [[ ($1 =~ with-trace) || ($2 =~ with-trace) ]]; then
 	rm -f $base_dir/results/**/trace/*
 fi
 
-sudo mount none -t tmpfs -o size=2G /ramdisk
+sudo mount none -t tmpfs -o size=4G /ramdisk
 cp -rf bench bin Replace-Libs /ramdisk
 cd /ramdisk/bench
 

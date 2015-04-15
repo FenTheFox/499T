@@ -5,6 +5,7 @@ echo $@
 cd Firefox
 ./js.rb $1 $2 $3
 ./render.rb $1 $2 $3
+chmod 755 *.sh
 ./js.sh
 ./render.sh
 

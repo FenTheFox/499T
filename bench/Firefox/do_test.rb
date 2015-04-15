@@ -56,6 +56,7 @@ class Tester
 			puts "logf=logs/flog-bld-rmalloc#{lib}.log"
 			puts 'exec {logfd} >> ${logf}'
 			@iters.times { |n| do_test('bld-rmalloc', n, lib) }
+			puts 'rm -f logs/*'
 			puts "echo 'end #{lib}' >&0"
 			puts ''
 		end
@@ -66,6 +67,7 @@ class Tester
 				puts 'exec {logfd} >> ${logf}'
 				@iters.times do |n|
 					do_test('bld-rmalloc', -1, lib + '-log')
+					puts 'rm -f logs/*'
 					puts "mv ./max #{@results_dir}/#{@profile}/trace/max-#{lib}#{n}.txt"
 					puts "mv ./trace #{@results_dir}/#{@profile}/trace/trace-#{lib}#{n}.txt"
 				end
