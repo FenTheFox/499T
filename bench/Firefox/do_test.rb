@@ -4,10 +4,10 @@ class Tester
 	@@root = 'localhost:8000'
 	@@libs = ['hoard', 'jemalloc', 'nedmalloc']
 
-	def initialize (profile, timeout, iters)
+	def initialize (profile, timeout)
 		@profile = profile
 		@timeout = timeout
-		@iters = iters
+		@iters = ARGV[1].to_i
 		@results_dir = ARGV[0] + '/results/firefox'
 		@source_dir = ARGV[0] + '/source/firefox-'
 		ARGV.each do |a|

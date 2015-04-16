@@ -82,7 +82,7 @@ private
 end
 
 Bench.parse_args
-
-3.times { |n| Bench.do_bench(n) }
+itrs = ARGV[1].to_i
+itrs.times { |n| Bench.do_bench(n) }
 sleep(5)
-3.times { |n| Bench.do_log(n) }
+itrs.times { |n| Bench.do_log(n) }
