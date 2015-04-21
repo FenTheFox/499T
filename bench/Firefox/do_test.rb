@@ -7,12 +7,13 @@ class Tester
 	def initialize (profile, timeout)
 		@profile = profile
 		@timeout = timeout
-		@iters = ARGV[1].to_i
-		@results_dir = ARGV[0] + '/results/firefox'
-		@source_dir = ARGV[0] + '/source/firefox-'
+		@iters = ARGV[0].to_i
+		@results_dir = ENV['BASE_DIR'] + '/results/firefox'
+		@source_dir = ENV['BASE_DIR'] + '/source/firefox-'
 		ARGV.each do |a|
-			@do_perf = true if !a.index('with-perf').nil?
-			@do_trace = true if !a.index('with-trace').nil?
+			@do_bench = true if a == '-bench'
+			@do_perf = true if a == '-perf'
+			@do_trace = true if a == '-trace'
 		end
 
 		puts '#!/usr/bin/zsh'
@@ -24,8 +25,8 @@ class Tester
 		puts 'exec >&${glogfd} 2>&1'
 		puts ''
 
-		puts "echo 'php -S localhost:8000 -t #{profile}bench -c php.ini &' >&0"
-		puts "php -S #{@@root} -t #{profile}bench -c php.ini &"
+		puts "echo \"gnome-terminal -e 'php -S #{@@root} -t #{profile}bench -c php.ini'\" >&0"
+		puts "gnome-terminal -e 'php -S #{@@root} -t #{profile}bench -c php.ini'"
 		puts ''
 	end
 
@@ -46,28 +47,29 @@ class Tester
 	end
 
 	def do_tests()
-		puts 'logf=logs/flog-bld.log'
-		puts 'exec {logfd} >> ${logf}'
-		@iters.times { |n| do_test('bld', n) }
-		puts "echo 'end' >&0"
-		puts ''
-
-		['hoard', 'jemalloc', 'nedmalloc'].each do |lib|
-			puts "logf=logs/flog-bld-rmalloc#{lib}.log"
+		if @do_bench
+			puts 'logf=logs/flog-bld.log'
 			puts 'exec {logfd} >> ${logf}'
-			@iters.times { |n| do_test('bld-rmalloc', n, lib) }
-			puts 'rm -f logs/*'
-			puts "echo 'end #{lib}' >&0"
+			@iters.times { |n| do_test('bld', n) }
+			puts "echo 'end' >&0"
 			puts ''
+
+			['hoard', 'jemalloc', 'nedmalloc'].each do |lib|
+				puts "logf={@results_dir}/logs/flog-bld-rmalloc#{lib}.log"
+				puts 'exec {logfd} >> ${logf}'
+				@iters.times { |n| do_test('bld-rmalloc', n, lib) }
+				puts "echo 'end #{lib}' >&0"
+				puts ''
+			end
 		end
 
 		if @do_trace
 			['rmalloc', 'hoard'].each do |lib|
-				puts "logf=logs/flog-bld-rmalloc#{lib}-log.log"
-				puts 'exec {logfd} >> ${logf}'
 				@iters.times do |n|
+					puts "logf=#{@results_dir}/logs/#{@profile}#{lib}-#{n}log.log"
+					puts 'exec {logfd} >> ${logf}'
+					puts 'du -h --max-depth=2 /ramdisk'
 					do_test('bld-rmalloc', -1, lib + '-log')
-					puts 'rm -f logs/*'
 					puts "mv ./max #{@results_dir}/#{@profile}/trace/max-#{lib}#{n}.txt"
 					puts "mv ./trace #{@results_dir}/#{@profile}/trace/trace-#{lib}#{n}.txt"
 				end

@@ -1,6 +1,7 @@
 #!/usr/bin/ruby
 
 require 'fileutils'
+require 'pry'
 
 class Bench
 	@@mems = ['mem3', 'mem5']
@@ -11,18 +12,21 @@ class Bench
 	@@schema = 'songdb.sql albums2.sql artists2.sql songs2.sql tags2.sql users2.sql usersongplays2.sql usersongratings2.sql'
 	@@queries = 'query1.sql query2.sql query2-1.sql query3.sql query4.sql query5.sql query5-1.sql query6.sql query6-1.sql query7.sql query7-1.sql query8.sql query9.sql query10.sql'
 
-	@@do_perf = @@do_trace = false
+	@@do_perf = @@do_trace = @@do_bench = false
 
 	def self.parse_args
-		@@base_dir = ARGV[0]
+		@@base_dir = ENV['BASE_DIR']
 		@@results_base = '../../results/sqlite'
 		ARGV.each do |a|
-			@@do_perf = true if !a.index('with-perf').nil?
-			@@do_trace = true if !a.index('with-trace').nil?
+			@@do_bench = true if a == '-bench'
+			@@do_perf = true if a == '-perf'
+			@@do_trace = true if a == '-trace'
 		end
 	end
 
 	def self.do_bench(itr)
+		return if !@@do_bench
+
 		run_test('sys', "sys-#{itr}", nil, itr)
 
 		@@mems.each do |m|
@@ -36,15 +40,16 @@ class Bench
 
 	def self.do_log(itr)
 		return if !@@do_trace
+
 		@@mems.each do |m|
 			@@sizes.each do |sz|
-				run_test("#{m}log#{sz}")
-				mv_trace("#{m}log#{sz}-#{itr}")
+				run_test("#{m}log#{sz}", "logs/#{m}#{sz}-#{itr}")
+				mv_trace("#{m}#{sz}-#{itr}")
 			end
 		end
 
 		['hoard'].each do |lib|
-			run_test('rmalloc', nil, "#{lib}-log")
+			run_test('rmalloc', "logs/#{lib}-#{itr}", "#{lib}-log")
 			mv_trace("#{lib}-#{itr}")
 		end
 	end
@@ -82,7 +87,6 @@ private
 end
 
 Bench.parse_args
-itrs = ARGV[1].to_i
+itrs = ARGV[0].to_i
 itrs.times { |n| Bench.do_bench(n) }
-sleep(5)
 itrs.times { |n| Bench.do_log(n) }

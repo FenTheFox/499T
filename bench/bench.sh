@@ -3,20 +3,26 @@
 setopt NULL_GLOB
 
 cd ..
-base_dir=`pwd`
+export BASE_DIR=`pwd`
 
-rm -f $base_dir/bench/**/logs/* $base_dir/results/firefox/js/*.txt $base_dir/results/firefox/render/*.txt $base_dir/results/sqlite/*.txt
-if [[ ($1 =~ with-perf) || ($2 =~ with-perf) ]]; then
-	perf="--with-perf"
-	rm -f $base_dir/results/**/perf/*
-fi
+rm -f $BASE_DIR/bench/**/logs/*
 
-if [[ ($1 =~ with-trace) || ($2 =~ with-trace) ]]; then
-	trace="--with-trace"
-	rm -f $base_dir/results/**/trace/*
-fi
+for a in $@; do
+	if [[ $a == '-bench' ]]; then
+		bench='-bench'
+		rm -f $BASE_DIR/results/firefox/js/*.txt $BASE_DIR/results/firefox/render/*.txt $BASE_DIR/results/sqlite/*.txt
+	elif [[ $a == '-perf' ]]; then
+		perf='-perf'
+		rm -f $BASE_DIR/results/**/perf/*
+	elif [[ $a == '-trace' ]]; then
+		trace='-trace'
+		rm -f $BASE_DIR/results/**/trace/*
+	elif [[ $a == '-warmup' ]]; then
+		warmup=true
+	fi
+done
 
-if [[ $1 =~ warmup ]]; then
+if [[ $warmup ]]; then
 	jsi=1
 	reni=1
 	sqli=1
@@ -29,19 +35,28 @@ fi
 sudo mount none -t tmpfs -o size=4G /ramdisk
 
 cp -rf bench bin Replace-Libs /ramdisk
-rsync -r -f "+ */" -f "- *" results /ramdisk
+rsync -r -f '+ */' -f '- *' results /ramdisk
+
+args=($bench $perf $trace)
 
 cd /ramdisk/bench/Firefox
-./js.rb $base_dir $jsi $perf $trace
-./render.rb $base_dir $reni $perf $trace
+./js.rb $jsi $args
+./render.rb $reni $args
 chmod 755 *.sh
 ./js.sh
 ./render.sh
 
 cd ../SQLite
-./bench.rb $base_dir $sqli $perf $trace
+./bench.rb $sqli $args
 
-cp -rf /ramdisk/results $base_dir
+cp -rf /ramdisk/results/* $BASE_DIR/results
 
-cd $base_dir/results
-./results.sh
+if [[ $warmup != true ]]; then
+	cd $BASE_DIR/results
+	./results.sh
+else
+	cd $BASE_DIR/bench
+	./cleanup.sh
+fi
+
+unset BASE_DIR

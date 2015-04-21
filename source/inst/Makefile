@@ -12,6 +12,6 @@ test-dbug: $(OBJS)
 
 test: $(OBJS)
 	$(CXX) -o $@ -O3 $(CPPFLAGS) $^
-	
+
 clean:
 	rm test*

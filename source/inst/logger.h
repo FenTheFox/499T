@@ -33,10 +33,10 @@ private:
 	int maxf, tracef;
 	int mutex;
 	long int currMalloc, maxMalloc, currMmap, maxMmap;
-	size_t sinceLastFlush, flushThreshold;
+	int mmapSample, mallocSample, samples = 9;
 
 	lmap origMmapSize, origMallocSize;
-	
+
 	char* typeToS(event_type);
 };
 

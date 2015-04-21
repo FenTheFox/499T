@@ -32,19 +32,17 @@ extern "C" void doLog(enum event_type type, void* ptr, size_t sz)
 
 Logger::Logger()
 {
-	currMalloc = currMmap = maxMalloc = maxMmap = sinceLastFlush = 0;
+	currMalloc = currMmap = maxMalloc = maxMmap = mmapSample = mallocSample = 0;
 	origMmapSize = lmap();
 	origMallocSize = lmap();
+	origMmapSize.init();
+	origMallocSize.init();
 
 	maxf = open("max", OPEN_FLAGS, OPEN_MODE);
 	tracef = open("trace", OPEN_FLAGS, OPEN_MODE);
 
-	if (maxf < 0)
+	if (maxf < 0 || tracef < 0)
 		write(1, "opening files failed\n", 22);
-	char buf[11];
-	memset(buf, 0, 11);
-	snprintf(buf, 11, "%d\n", maxf);
-	// write(1, buf, 11);
 }
 
 char* Logger::typeToS(event_type type)
@@ -97,56 +95,49 @@ void Logger::log(event_type type, void* ptr, size_t sz)
 		write(1, str, strlen(str, len));
 		return;
 	}
-	
+
 	if (type == MMAP) {
+		if (mmapSample++ < samples) return;
+		mmapSample = 0;
+
 		origMmapSize.insert((size_t)ptr, sz);
 		currMmap += sz;
-		// OSAtomicAdd64(sz, &currMmap);
 		if (currMmap > maxMmap) {
-			// OSAtomicCompareAndSwap64(maxMmap, currMmap, &maxMmap);
 			maxMmap = currMmap;
 			memset(str, 0, len);
 			snprintf(str, len, "mmap %ld\n", maxMmap);
 			write(maxf, str, strlen(str, len));
 		}
 	} else if (type == MUNMAP) {
-		// OSAtomicAdd64(-sz, &currMmap);
-		currMmap -= sz;
-		if (sz != origMmapSize.at((size_t)ptr)) {
-			if (origMmapSize.at((size_t)ptr) == 0)
-				return;
+		size_t oldSz = origMmapSize.at((size_t)ptr), change = oldSz - sz;
+		if (oldSz == 0) return;
 
-			size_t oldSz = origMmapSize.at((size_t)ptr), change = oldSz - sz;
-			origMmapSize.erase((size_t)ptr);
-			origMmapSize.insert((size_t)ptr+change, oldSz - change);
-		}
+		currMmap -= sz;
+		origMmapSize.erase((size_t)ptr);
+		origMmapSize.insert((size_t)ptr+change, oldSz - change);
 	} else if (type == MALLOC) {
+		if (mallocSample++ < samples) return;
+		mallocSample = 0;
+
 		origMallocSize.insert((size_t)ptr, sz);
 		currMalloc += sz;
-		// OSAtomicAdd64(sz, &currMalloc);
 		if (currMalloc > maxMalloc) {
 			maxMalloc = currMalloc;
-			// OSAtomicCompareAndSwap64(maxMalloc, currMalloc, &maxMalloc);
 			memset(str, 0, len);
 			snprintf(str, len, "malloc %ld\n", maxMalloc);
 			write(maxf, str, strlen(str, len));
 		}
 	} else if (type == FREE) {
-		if(ptr == NULL)
-			return;
-		sz = origMallocSize.at((size_t)ptr);
+		if((sz = origMallocSize.at((size_t)ptr)) == 0) return;
+
 		currMalloc -= sz;
-		// OSAtomicAdd64(-sz, &currMalloc);
 		origMallocSize.erase((size_t)ptr);
 	}
 
-	// if(ptr == NULL)
-	// 	write(1, "null passed to log\n", 19);
-
 	memset(str, 0, len);
 	if (type == MMAP || type == MUNMAP)
-		snprintf(str, len, "%s %ld\n", typeToS(type), currMmap);
+		snprintf(str, len, "%s %ld\n", typeToS(type), sz);
 	else if (type == MALLOC || type == FREE)
-		snprintf(str, len, "%s %ld\n", typeToS(type), currMalloc);
+		snprintf(str, len, "%s %ld\n", typeToS(type), sz);
 	write(tracef, str, strlen(str, len));
 }

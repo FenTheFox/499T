@@ -19,32 +19,32 @@ int strlen(char *str, int len)
 
 #include "map.h"
 
+void lmap::init() {
+	for (int i = 0; i < ARR_SIZE; ++i)
+		for (int j = 0; j < LIST_SIZE; ++j)
+			values[i][j] = pair_t();
+}
+
 size_t lmap::at(size_t k) {
 	size_t hval = k % ARR_SIZE;
 	pair_t p = pair_t();
-	bool flag = false;
 
 	for (int i = 0; i < LIST_SIZE; i++) {
-		if (values[hval][i].first == k && inUse[hval][i]) {
-			p = values[hval][i];
-			flag = true;
+		p = values[hval][i];
+		if (p.first == k && p.active)
 			break;
-		}
 	}
-	// if (!flag) {
-		// char str[31];
-		// snprintf(str, 31, "%zu not found\n", k);
-		// write(1, str, strlen(str, 31));
-	// }
 
 	return p.second;
 }
 
 void lmap::erase(size_t k) {
 	size_t hval = k % ARR_SIZE;
+	pair_t p;
 	for (int i = 0; i < LIST_SIZE; i++) {
-		if (values[hval][i].first == k && inUse[hval][i]) {
-			inUse[hval][i] = false;
+		p = values[hval][i];
+		if (values[hval][i].first == k && values[hval][i].active) {
+			values[hval][i].active = false;
 			break;
 		}
 	}
@@ -55,17 +55,17 @@ void lmap::insert(size_t k, size_t v) {
 	pair_t p;
 	p.first = k;
 	p.second = v;
+	p.active = true;
 	bool flag = false;
 
 	for (int i = 0; i < LIST_SIZE; i++) {
-		if (!inUse[hval][i]) {
+		if (!values[hval][i].active) {
 			values[hval][i] = p;
-			inUse[hval][i] = true;
 			flag = true;
 			break;
 		}
 	}
 
 	if (!flag)
-		write(1, "inc map size\n", 14);
+		write(1, "inc map size\n", 13);
 }
