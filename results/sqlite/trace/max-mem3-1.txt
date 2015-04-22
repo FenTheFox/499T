@@ -1,0 +1,6 @@
+malloc 93
+malloc 648
+malloc 1008
+malloc 3401
+malloc 3406
+malloc 3939
