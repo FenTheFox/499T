@@ -25,8 +25,6 @@ class Bench
 	end
 
 	def self.do_bench(itr)
-		return if !@@do_bench
-
 		run_test('sys', "sys-#{itr}", nil, itr)
 
 		@@mems.each do |m|
@@ -34,7 +32,7 @@ class Bench
 		end
 
 		['hoard', 'jemalloc', 'nedmalloc'].each do |lib|
-			run_test('rmalloc', "#{lib}-#{itr}", lib, itr)
+			run_test('sys', "#{lib}-#{itr}", lib, itr)
 		end
 	end
 
@@ -49,7 +47,7 @@ class Bench
 		end
 
 		['hoard'].each do |lib|
-			run_test('rmalloc', "logs/#{lib}-#{itr}", "#{lib}-log")
+			run_test('sys', "logs/#{lib}-#{itr}", "#{lib}-log")
 			mv_trace("#{lib}-#{itr}")
 		end
 	end
@@ -59,19 +57,21 @@ private
 		c = "../../bin/sqlite/sqlite3-#{bld} #{@@itrs} #{@@flags} #{@@schema} #{@@queries}"
 		cmd = ''
 		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
-		cmd_perf = cmd + "perf stat -e cycles,instructions,cache-misses,branch-misses,page-faults,cs -o #{@@results_base}/perf/#{log}.txt "
+		cmd_perf = cmd + "perf stat -e -o #{@@results_base}/perf/#{log}.txt "
 		cmd += "#{c} > #{log.nil? ? '/dev/null' : "#{@@results_base}/#{log}.txt"}"
 		cmd_perf += "#{c} > /dev/null"
 
-		puts cmd
-
-		puts $? while((result = Kernel.system(cmd)) != true)
+		if @@do_bench
+			puts cmd
+			puts $? while((result = Kernel.system(cmd)) != true)
+		end
 
 		if(perf >= 0 && @@do_perf)
-			puts cmd_perf.gsub('stat', 'record').gsub('.txt', '.data')
+			puts cmd_perf.gsub('-e', '-e cycles,instructions,cache-misses,branch-misses,page-faults,cs')
+			puts cmd_perf.gsub('stat', 'record').gsub('-e', '-g -e instructions').gsub('.txt', '.data')
 
-			puts $? while((result = Kernel.system(cmd_perf)) != true)
-			puts $? while((result = Kernel.system(cmd_perf.gsub('stat', 'record').gsub('.txt', '.data'))) != true)
+			puts $? while((result = Kernel.system(cmd_perf.gsub('-e', '-e cycles,instructions,cache-misses,branch-misses,page-faults,cs'))) != true)
+			puts $? while((result = Kernel.system(cmd_perf.gsub('stat', 'record').gsub('-e', '-g -e instructions').gsub('.txt', '.data'))) != true)
 		end
 	end
 

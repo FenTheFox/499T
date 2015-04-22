@@ -9,6 +9,8 @@
 #ifndef __inst__logger__
 #define __inst__logger__
 
+#define LOGGER_SAMPLES 99
+
 #include <stdio.h>
 
 enum event_type {MALLOC, FREE, REALLOC, MEMALIGN, MMAP, MREMAP, MUNMAP, BRK, SBRK};
@@ -33,7 +35,7 @@ private:
 	int maxf, tracef;
 	int mutex;
 	long int currMalloc, maxMalloc, currMmap, maxMmap;
-	int mmapSample, mallocSample, samples = 9;
+	int mmapSample, mallocSample;
 
 	lmap origMmapSize, origMallocSize;
 

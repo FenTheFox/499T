@@ -18,6 +18,13 @@ bool quiet;
 
 int stmts = 0;
 
+void checkErr(int err, string msg) {
+	if(err == 0) return;
+
+	cout << msg << " (" << err << ")" << endl;
+	exit(1);
+}
+
 /**
  * Prepare and runTimer a single statement of SQL.
  */
@@ -30,6 +37,7 @@ void prepareAndRun(sqlite3 *db, string stmt) {
 	p.start();
 	rc = sqlite3_prepare_v2(db, stmt.c_str(), -1, &pStmt, NULL);
 	p.end();
+	checkErr(rc, "prepare()");
 
 	if (rc == SQLITE_OK) {
 		int nRow = 0;
@@ -42,6 +50,7 @@ void prepareAndRun(sqlite3 *db, string stmt) {
 		f.start();
 		rc = sqlite3_finalize(pStmt);
 		f.end();
+		checkErr(rc, "finalize()");
 	}
 
 	lock_guard<mutex> lock(timers);
@@ -117,12 +126,12 @@ list<string> setup(int argc, char *argv[], sqlite3 **db) {
 	void *ptr = mmap(NULL, MMAP_SIZE, PROT_READ | PROT_WRITE | PROT_EXEC, MAP_PRIVATE | MAP_ANON, -1, 0);
 	rc = sqlite3_config(SQLITE_CONFIG_HEAP, ptr, MMAP_SIZE, 8);
 
-	if (!quiet)
-		cout << "sqlite3_config() returned " << rc << endl;
+	checkErr(rc, "config()");
 #endif
 
 	rc = sqlite3_open_v2(dbfile.c_str(), db, SQLITE_OPEN_CREATE | SQLITE_OPEN_READWRITE, NULL);
 	setupTimer.end();
+	checkErr(rc, "open()");
 
 	if (argc >= 4 && strcmp(argv[1], "-s") == 0) {
 		int n = atoi(argv[2]);

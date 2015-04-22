@@ -10,8 +10,6 @@ mk_add_options MOZ_MAKE_FLAGS="-s -j4"
 ac_add_options --enable-replace-malloc
 ac_add_options --with-ccache
 ac_add_options --disable-tests
-ac_add_options --enable-update-channel=${MOZ_UPDATE_CHANNEL}
-ac_add_options --enable-update-packaging
 ac_add_options --enable-official-branding
 
 export BUILDING_RELEASE=1

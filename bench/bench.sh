@@ -16,7 +16,7 @@ for a in $@; do
 		rm -f $BASE_DIR/results/**/perf/*
 	elif [[ $a == '-trace' ]]; then
 		trace='-trace'
-		rm -f $BASE_DIR/results/**/trace/*
+		rm -f $BASE_DIR/results/**/trace/* $BASE_DIR/results/**/logs/*
 	elif [[ $a == '-warmup' ]]; then
 		warmup=true
 	fi
@@ -54,9 +54,11 @@ cp -rf /ramdisk/results/* $BASE_DIR/results
 if [[ $warmup != true ]]; then
 	cd $BASE_DIR/results
 	./results.sh
-else
-	cd $BASE_DIR/bench
-	./cleanup.sh
 fi
+
+cp -rf /ramdisk/bench/Firefox/logs $BASE_DIR/bench/Firefox/
+
+cd $BASE_DIR
+sudo umount /ramdisk
 
 unset BASE_DIR

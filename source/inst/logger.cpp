@@ -90,14 +90,14 @@ void Logger::log(event_type type, void* ptr, size_t sz)
 		origMallocSize.insert((size_t)ptr, sz);
 		return;
 	} else if (type == SBRK || type == BRK) {
-		memset(str, 0, len);
-		snprintf(str, len, "hmmm, %s encountered D:\n", typeToS(type));
-		write(1, str, strlen(str, len));
+		// memset(str, 0, len);
+		// snprintf(str, len, "hmmm, %s encountered D:\n", typeToS(type));
+		// write(1, str, strlen(str, len));
 		return;
 	}
 
 	if (type == MMAP) {
-		if (mmapSample++ < samples) return;
+		if (mmapSample++ < LOGGER_SAMPLES) return;
 		mmapSample = 0;
 
 		origMmapSize.insert((size_t)ptr, sz);
@@ -116,7 +116,7 @@ void Logger::log(event_type type, void* ptr, size_t sz)
 		origMmapSize.erase((size_t)ptr);
 		origMmapSize.insert((size_t)ptr+change, oldSz - change);
 	} else if (type == MALLOC) {
-		if (mallocSample++ < samples) return;
+		if (mallocSample++ < LOGGER_SAMPLES) return;
 		mallocSample = 0;
 
 		origMallocSize.insert((size_t)ptr, sz);
