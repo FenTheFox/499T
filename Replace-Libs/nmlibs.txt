@@ -1878,150 +1878,155 @@ libjemalloc.so:
 
 libnedmalloc-rmalloc.so:
                  U abort@@GLIBC_2.2.5
-0000000000007300 t AllocCache
-000000000020d180 B __bss_start
+0000000000007360 t AllocCache
+000000000020d190 B __bss_start
                  U calloc@@GLIBC_2.2.5
-000000000020d180 b completed.6636
-00000000000052e0 t create_mspace
-00000000000053c0 t create_mspace_with_base
+000000000020d1c0 b completed.6636
+0000000000005340 t create_mspace
+0000000000005420 t create_mspace_with_base
                  w __cxa_finalize@@GLIBC_2.2.5
-0000000000001810 t deregister_tm_clones
-0000000000005570 t destroy_mspace
-00000000000052a0 t dlmalloc_usable_size
-00000000000018a0 t __do_global_dtors_aux
+0000000000001860 t deregister_tm_clones
+00000000000055d0 t destroy_mspace
+0000000000005300 t dlmalloc_usable_size
+00000000000018f0 t __do_global_dtors_aux
 000000000020cdc8 t __do_global_dtors_aux_fini_array_entry
 000000000020cdd8 d __dso_handle
 000000000020cde0 d _DYNAMIC
-000000000020d180 D _edata
-000000000020dc10 B _end
+000000000020d190 D _edata
+000000000020dc50 B _end
                  U __errno_location@@GLIBC_2.2.5
-0000000000004490 t FindMSpace
-000000000000aa20 T _fini
+00000000000044e0 t FindMSpace
+000000000000ab20 T _fini
                  U fprintf@@GLIBC_2.2.5
-00000000000018e0 t frame_dummy
+0000000000001930 t frame_dummy
 000000000020cdc0 t __frame_dummy_init_array_entry
-000000000000bf30 r __FRAME_END__
+000000000000c0e0 r __FRAME_END__
                  U free@@GLIBC_2.2.5
                  U fwrite@@GLIBC_2.2.5
-0000000000008c30 t GetThreadCache_cold1
-0000000000007520 t GetThreadCache_cold2
+0000000000008ca0 t GetThreadCache_cold1
+0000000000007580 t GetThreadCache_cold2
 000000000020d000 d _GLOBAL_OFFSET_TABLE_
                  w __gmon_start__
-0000000000003550 t ialloc
-0000000000001560 T _init
-0000000000001910 t init_mparams
-00000000000088f0 t InitPool
-0000000000001c80 t init_user_mstate
-0000000000001a60 t internal_mallinfo
-00000000000042c0 t internal_malloc_stats
-0000000000006220 t internal_memalign
+00000000000035a0 t ialloc
+0000000000001590 T _init
+0000000000001960 t init_mparams
+0000000000008960 t InitPool
+0000000000001cd0 t init_user_mstate
+0000000000001ab0 t internal_mallinfo
+0000000000004310 t internal_malloc_stats
+0000000000006280 t internal_memalign
                  w _ITM_deregisterTMCloneTable
                  w _ITM_registerTMCloneTable
 000000000020cdd0 d __JCR_END__
 000000000020cdd0 d __JCR_LIST__
                  w _Jv_RegisterClasses
-000000000020db70 b largestusedblock
-000000000020db78 b leastusedaddress
+000000000020dbb0 b largestusedblock
+000000000020dbb8 b leastusedaddress
                  U malloc@@GLIBC_2.2.5
-000000000020db80 b malloc_global_mutex
+000000000020dbc0 b malloc_global_mutex
                  U malloc_usable_size@@GLIBC_2.2.5
                  U memcpy@@GLIBC_2.14
                  U memmove@@GLIBC_2.2.5
                  U memset@@GLIBC_2.2.5
                  U mmap@@GLIBC_2.2.5
-000000000020dbd0 b mmapped_granularity
-000000000020dbe0 b mparams
+000000000020dc10 b mmapped_granularity
+000000000020dc20 b mparams
                  U mremap@@GLIBC_2.2.5
-0000000000007590 t mspace_calloc
-00000000000085f0 t mspace_footprint
-0000000000005a30 t mspace_free
-0000000000004940 t mspace_free.constprop.11
-0000000000008460 t mspace_independent_calloc
-00000000000084a0 t mspace_independent_comalloc
-0000000000008630 t mspace_mallinfo
-00000000000055e0 t mspace_malloc
-0000000000006e30 t mspace_malloc2
-00000000000085d0 t mspace_malloc_stats
-0000000000008690 t mspace_mallopt
-0000000000008610 t mspace_max_footprint
-0000000000008440 t mspace_memalign
-0000000000008430 t mspace_realloc
-0000000000007a90 t mspace_realloc2
-0000000000005450 t mspace_track_large_chunks
-00000000000084c0 t mspace_trim
-0000000000008650 t mspace_usable_size
+00000000000075f0 t mspace_calloc
+0000000000008650 t mspace_footprint
+0000000000005a90 t mspace_free
+0000000000004990 t mspace_free.constprop.11
+00000000000084c0 t mspace_independent_calloc
+0000000000008500 t mspace_independent_comalloc
+0000000000008690 t mspace_mallinfo
+0000000000005640 t mspace_malloc
+0000000000006e90 t mspace_malloc2
+0000000000008630 t mspace_malloc_stats
+00000000000086f0 t mspace_mallopt
+0000000000008670 t mspace_max_footprint
+00000000000084a0 t mspace_memalign
+0000000000008490 t mspace_realloc
+0000000000007af0 t mspace_realloc2
+00000000000054b0 t mspace_track_large_chunks
+0000000000008520 t mspace_trim
+00000000000086b0 t mspace_usable_size
                  U munmap@@GLIBC_2.2.5
-0000000000008750 T nedblksize
-0000000000009f50 T nedcreatepool
-0000000000009cc0 T neddestroypool
-0000000000008c60 T neddestroysyspool
-00000000000090b0 T neddisablethreadcache
-0000000000008880 T nedflushlogs
-0000000000008ee0 T nedgetvalue
-000000000000a430 T nedmalloc_internals
-0000000000009c20 T nedpcalloc
-0000000000009cb0 T nedpfree
-0000000000009940 T nedpfree2
-000000000000a630 T nedpindependent_calloc
-000000000000a810 T nedpindependent_comalloc
-000000000000a1d0 T nedpmallinfo
-0000000000009b10 T nedpmalloc
-00000000000090c0 T nedpmalloc2
-000000000000a590 T nedpmalloc_footprint
-000000000000a4f0 T nedpmalloc_stats
-000000000000a460 T nedpmalloc_trim
-000000000000a360 T nedpmallopt
-0000000000009c90 T nedpmemalign
-0000000000009b30 T nedpoollist
-0000000000009c70 T nedprealloc
-0000000000009420 T nedprealloc2
-0000000000008e80 T nedpsetvalue
-0000000000008ed0 T nedsetvalue
-0000000000008fa0 T nedtrimthreadcache
-000000000020d1c0 b poollist
-000000000020d200 b poollistlock
+00000000000087b0 T nedblksize
+000000000000a050 T nedcreatepool
+0000000000009dc0 T neddestroypool
+0000000000008cd0 T neddestroysyspool
+0000000000009120 T neddisablethreadcache
+00000000000088f0 T nedflushlogs
+0000000000008f50 T nedgetvalue
+000000000000a530 T nedmalloc_internals
+0000000000009c90 T nedpcalloc
+0000000000009db0 T nedpfree
+00000000000099b0 T nedpfree2
+000000000000a730 T nedpindependent_calloc
+000000000000a910 T nedpindependent_comalloc
+000000000000a2d0 T nedpmallinfo
+0000000000009b80 T nedpmalloc
+0000000000009130 T nedpmalloc2
+000000000000a690 T nedpmalloc_footprint
+000000000000a5f0 T nedpmalloc_stats
+000000000000a560 T nedpmalloc_trim
+000000000000a460 T nedpmallopt
+0000000000009d00 T nedpmemalign
+0000000000009ba0 T nedpoollist
+0000000000009ce0 T nedprealloc
+0000000000009490 T nedprealloc2
+0000000000008ef0 T nedpsetvalue
+0000000000008f40 T nedsetvalue
+0000000000009010 T nedtrimthreadcache
+000000000020d200 b poollist
+000000000020d240 b poollistlock
                  U pthread_getspecific@@GLIBC_2.2.5
                  U pthread_key_create@@GLIBC_2.2.5
                  U pthread_key_delete@@GLIBC_2.2.5
                  U pthread_self@@GLIBC_2.2.5
                  U pthread_setspecific@@GLIBC_2.2.5
                  U realloc@@GLIBC_2.2.5
-0000000000001850 t register_tm_clones
-0000000000005260 t ReleaseFreeInCache.isra.5
-0000000000002580 t release_unused_segments
-00000000000051c0 t RemoveCacheEntries.isra.3
-0000000000005130 t RemoveCacheEntries.isra.3.constprop.10
-0000000000009c60 T replace_calloc
-000000000000a1c0 T replace_free
-0000000000009b00 T replace_free2
-000000000000a800 T replace_independent_calloc
-000000000000aa10 T replace_independent_comalloc
-000000000000a350 T replace_mallinfo
-0000000000009b20 T replace_malloc
-0000000000009410 T replace_malloc2
-000000000000a620 T replace_malloc_footprint
-000000000000a580 T replace_malloc_stats
-000000000000a4e0 T replace_malloc_trim
-0000000000008870 T replace_malloc_usable_size
-000000000000a420 T replace_mallopt
-0000000000009ca0 T replace_memalign
-0000000000009c80 T replace_realloc
-0000000000009920 T replace_realloc2
+00000000000018a0 t register_tm_clones
+00000000000052b0 t ReleaseFreeInCache.isra.5
+00000000000025d0 t release_unused_segments
+0000000000005210 t RemoveCacheEntries.isra.3
+0000000000005180 t RemoveCacheEntries.isra.3.constprop.10
+0000000000009d20 t replace_aligned_alloc
+0000000000009cd0 T replace_calloc
+000000000000a2c0 T replace_free
+0000000000009b70 T replace_free2
+000000000000a900 T replace_independent_calloc
+000000000000ab10 T replace_independent_comalloc
+000000000000a450 T replace_mallinfo
+0000000000009b90 T replace_malloc
+0000000000009480 T replace_malloc2
+000000000000a720 T replace_malloc_footprint
+00000000000052f0 t replace_malloc_good_size
+000000000000a680 T replace_malloc_stats
+000000000000a5e0 T replace_malloc_trim
+00000000000088d0 T replace_malloc_usable_size
+000000000000a520 T replace_mallopt
+0000000000009d10 T replace_memalign
+00000000000088e0 t replace_memsize
+0000000000009d60 t replace_posix_memalign
+0000000000009cf0 T replace_realloc
+0000000000009990 T replace_realloc2
+0000000000009d40 t replace_valloc
                  U sched_yield@@GLIBC_2.2.5
                  U stderr@@GLIBC_2.2.5
-0000000000002950 t sys_alloc
-000000000020d158 d sysblksize
-000000000020d170 d syscalloc
+00000000000029a0 t sys_alloc
+000000000020d168 d sysblksize
+000000000020d180 d syscalloc
                  U sysconf@@GLIBC_2.2.5
-000000000020d160 d sysfree
-000000000020d178 d sysmalloc
-000000000020d280 b syspool
-000000000020d168 d sysrealloc
-0000000000004110 t sys_trim
+000000000020d170 d sysfree
+000000000020d188 d sysmalloc
+000000000020d2c0 b syspool
+000000000020d178 d sysrealloc
+0000000000004160 t sys_trim
                  U time@@GLIBC_2.2.5
-0000000000002040 t tmalloc_large
-0000000000001dc0 t tmalloc_small
-000000000020d180 d __TMC_END__
+0000000000002090 t tmalloc_large
+0000000000001e10 t tmalloc_small
+000000000020d190 d __TMC_END__
 
 libnedmalloc.so:
                  U abort@@GLIBC_2.2.5

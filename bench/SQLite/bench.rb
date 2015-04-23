@@ -15,8 +15,8 @@ class Bench
 	@@do_perf = @@do_trace = @@do_bench = false
 
 	def self.parse_args
-		@@base_dir = ENV['BASE_DIR']
-		@@results_base = '../../results/sqlite'
+		@@base_results_dir = ENV['BASE_DIR'] + '/results/sqlite'
+		@@results_dir = '../../results/sqlite'
 		ARGV.each do |a|
 			@@do_bench = true if a == '-bench'
 			@@do_perf = true if a == '-perf'
@@ -25,14 +25,14 @@ class Bench
 	end
 
 	def self.do_bench(itr)
-		run_test('sys', "sys-#{itr}", nil, itr)
+		run_test('sys', "sys-#{itr}", nil, true)
 
 		@@mems.each do |m|
-			@@sizes.each { |sz| run_test("#{m}#{sz}", "#{m}#{sz}-#{itr}", nil, itr) }
+			@@sizes.each { |sz| run_test("#{m}#{sz}", "#{m}#{sz}-#{itr}", nil, true) }
 		end
 
 		['hoard', 'jemalloc', 'nedmalloc'].each do |lib|
-			run_test('sys', "#{lib}-#{itr}", lib, itr)
+			run_test('sys', "#{lib}-#{itr}", lib, true)
 		end
 	end
 
@@ -53,32 +53,33 @@ class Bench
 	end
 
 private
-	def self.run_test(bld, log=nil, lib=nil, perf = -1)
+	def self.run_test(bld, resultsf, lib=nil, perf = false)
 		c = "../../bin/sqlite/sqlite3-#{bld} #{@@itrs} #{@@flags} #{@@schema} #{@@queries}"
 		cmd = ''
 		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
-		cmd_perf = cmd + "perf stat -e -o #{@@results_base}/perf/#{log}.txt "
-		cmd += "#{c} > #{log.nil? ? '/dev/null' : "#{@@results_base}/#{log}.txt"}"
-		cmd_perf += "#{c} > /dev/null"
+		cmd_perf = cmd + "perf stat -e -o #{@@base_results_dir}/perf/#{resultsf}.txt "
+		cmd += "#{c} > #{@@results_dir}/#{resultsf}.txt"
+		cmd_perf += "#{c} > #{@@results_dir}/logs/#{resultsf}perf.txt"
 
+		tries = 0
 		if @@do_bench
 			puts cmd
-			puts $? while((result = Kernel.system(cmd)) != true)
+			puts $? while((result = Kernel.system(cmd)) != true && tries++ < 10)
 		end
 
-		if(perf >= 0 && @@do_perf)
+		if(perf && @@do_perf)
 			puts cmd_perf.gsub('-e', '-e cycles,instructions,cache-misses,branch-misses,page-faults,cs')
-			puts cmd_perf.gsub('stat', 'record').gsub('-e', '-g -e instructions').gsub('.txt', '.data')
+			puts cmd_perf.gsub('stat', 'record').gsub('-e', '--call-graph dwarf').gsub('.txt', '.data')
 
-			puts $? while((result = Kernel.system(cmd_perf.gsub('-e', '-e cycles,instructions,cache-misses,branch-misses,page-faults,cs'))) != true)
-			puts $? while((result = Kernel.system(cmd_perf.gsub('stat', 'record').gsub('-e', '-g -e instructions').gsub('.txt', '.data'))) != true)
+			puts $? while((result = Kernel.system(cmd_perf.gsub('-e', '-e cycles,instructions,cache-misses,branch-misses,page-faults,cs'))) != true && tries++ < 10)
+			puts $? while((result = Kernel.system(cmd_perf.gsub('stat', 'record').gsub('-e', '--call-graph dwarf').gsub('.txt', '.data'))) != true && tries++ < 10)
 		end
 	end
 
 	def self.mv_trace(bld)
 		begin
-			FileUtils.mv('./max', "#{@@base_dir}/results/sqlite/trace/max-#{bld}.txt")
-			FileUtils.mv('./trace', "#{@@base_dir}/results/sqlite/trace/trace-#{bld}.txt")
+			FileUtils.mv('./max', "#{@@base_results_dir}/trace/max-#{bld}.txt")
+			FileUtils.mv('./trace', "#{@@base_results_dir}/trace/trace-#{bld}.txt")
 		rescue Exception => e
 			puts 'welp'
 			puts e

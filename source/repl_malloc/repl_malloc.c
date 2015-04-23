@@ -1,4 +1,3 @@
-#include <unistd.h>
 #include <errno.h>
 
 #include "repl_malloc.h"

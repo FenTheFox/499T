@@ -9,6 +9,7 @@ class Tester
 		@timeout = timeout
 		@iters = ARGV[0].to_i
 		@results_dir = ENV['BASE_DIR'] + '/results/firefox'
+		@logs_dir = @results_dir + '/logs'
 		@source_dir = ENV['BASE_DIR'] + '/source/firefox-'
 		ARGV.each do |a|
 			@do_bench = true if a == '-bench'
@@ -20,7 +21,7 @@ class Tester
 		puts ''
 		puts 'integer logfd'
 		puts 'integer glogfd'
-		puts "glogf=logs/#{profile}.log"
+		puts "glogf=#{@logs_dir}/#{profile}.log"
 		puts 'exec {glogfd} >> ${glogf}'
 		puts 'exec >&${glogfd} 2>&1'
 		puts ''
@@ -38,35 +39,35 @@ class Tester
 		cmd += "#{@source_dir}#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?#{log} >&${logfd}"
 		cmd_perf += "#{@source_dir}#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php >&${logfd}"
 
-		puts "echo '#{cmd}' >&0"
-		puts cmd
+		if @do_bench
+			puts "echo '#{cmd}' >&0"
+			puts cmd
+		end
 		if(ittr >= 0 && @do_perf)
 			puts cmd_perf.gsub('-e', '-e cycles,instructions,cache-misses,branch-misses,page-faults,cs')
-			puts cmd_perf.gsub('stat', 'record').gsub('-e', '-g -e cycles,instructions').gsub('.txt', '.data')
+			puts cmd_perf.gsub('stat', 'record').gsub('-e', '-F 700 --call-graph dwarf').gsub('.txt', '.data')
 		end
 	end
 
 	def do_tests()
-		if @do_bench
-			puts 'logf=logs/flog-bld.log'
-			puts 'exec {logfd} >> ${logf}'
-			@iters.times { |n| do_test('bld', n) }
-			puts "echo 'end' >&0"
-			puts ''
+		puts "logf=#{@logs_dir}/#{@profile}bld.log"
+		puts 'exec {logfd} >> ${logf}'
+		@iters.times { |n| do_test('bld', n) }
+		puts "echo 'end' >&0"
+		puts ''
 
-			['hoard', 'jemalloc', 'nedmalloc'].each do |lib|
-				puts "logf={@results_dir}/logs/flog-bld-rmalloc#{lib}.log"
-				puts 'exec {logfd} >> ${logf}'
-				@iters.times { |n| do_test('bld-rmalloc', n, lib) }
-				puts "echo 'end #{lib}' >&0"
-				puts ''
-			end
+		['hoard', 'jemalloc'].each do |lib|
+			puts "logf=#{@logs_dir}/#{@profile}#{lib}.log"
+			puts 'exec {logfd} >> ${logf}'
+			@iters.times { |n| do_test('bld-rmalloc', n, lib + '-rmalloc') }
+			puts "echo 'end #{lib}' >&0"
+			puts ''
 		end
 
 		if @do_trace
 			['rmalloc', 'hoard'].each do |lib|
 				@iters.times do |n|
-					puts "logf=#{@results_dir}/logs/#{@profile}#{lib}-#{n}log.log"
+					puts "logf=#{@logs_dir}/#{@profile}#{lib}-#{n}log.log"
 					puts 'exec {logfd} >> ${logf}'
 					puts 'du -h --max-depth=2 /ramdisk'
 					do_test('bld-rmalloc', -1, lib + '-log')
