@@ -9,7 +9,9 @@
 #ifndef __inst__logger__
 #define __inst__logger__
 
+#ifndef LOGGER_SAMPLES
 #define LOGGER_SAMPLES 99
+#endif
 
 #include <stdio.h>
 

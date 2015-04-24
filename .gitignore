@@ -10,6 +10,7 @@ bench/Firefox/render.sh
 
 results/**/perf/*.data*
 results/**/*.txt
+results/**/logs
 
 *.R*
 

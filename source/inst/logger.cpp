@@ -17,6 +17,20 @@
 #define OPEN_FLAGS (O_WRONLY | O_APPEND | O_CREAT)
 #define OPEN_MODE (S_IRUSR | S_IWUSR | S_IRGRP | S_IWGRP | S_IROTH | S_IWOTH)
 
+#if (LOGGER_SAMPLES == 999)
+#ifndef THOUSAND_FUNC
+	#define THOUSAND_FUNC 1
+	#ifdef __cplusplus
+	extern "C"
+	#endif
+	void thousand_func(int i) {
+		printf("This is a test\n");
+	}
+#endif
+#endif
+
+#pragma GCC diagnostic ignored "-Wwrite-strings"
+
 Logger* getLogger(void)
 {
 	//Magic?

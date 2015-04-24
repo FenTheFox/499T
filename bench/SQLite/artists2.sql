@@ -1,7 +1,3 @@
-/*
--- Query: SELECT * FROM tmp2.artists
--- Date: 2014-05-07 21:00
-*/
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR00FOZ1187FB5C9F3','autoKratz',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR00JOJ1187FB3A4B8','Sir Scratch',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR01AEG1187B9B6070','Le sport',NULL);
@@ -60,7 +56,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0BV7E1187FB386C1','Lee
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0CANF1187B9AF35F','Joe Batoury','Los Angeles, California');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0CPLQ1187FB3D4FA','Mainer_ Morris_ & Ledford',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0CVH81187B997643','Dennis Brown Presents Prince Jammy',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0CWSC1187B9AFE3F','José Augusto;Catia Guimma',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0CWSC1187B9AFE3F','José Augusto,Catia Guimma',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0E6061187B9992AA','Weed Brothers',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0ELIR1187B9B76B3','all:my:faults_ Ethan Kemp',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0F5IT1187FB39E6F','ASP','Frankfurt, Germany');
@@ -121,7 +117,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0U53U1187B99AA74','The
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0UTLD1187FB4D4EA','Donk Boys','Malmö');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0UZIF1187FB54AB0','Linda Hopkins','New Orleans, LA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0V19Y1187FB5A73C','Nitin Sawhney_ Anthony Gormley','Kent, UK');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0V36F1187FB366B1','The Chieftains;Sting','Ireland');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0V36F1187FB366B1','The Chieftains,Sting','Ireland');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0W4YS1187FB3B528','Hepcat','Los Angeles, CA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0WEZP1187FB4D1A9','The 13th Floor Elevators',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR0X0NS1187B9B3106','Turn Me On Dead Man','San Francisco, CA');
@@ -182,12 +178,12 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1D8QI1187B98F8B2','Obk
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1DHUX1187B998A91','Kevin Seconds',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1DP8P1187B9AF08C','Christine McVie','Birmingham, West Midlands, Englan');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1E5H51187FB4F0D7','Makossa + Megablast feat. As Gaiola Poopozudas',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1ECG61187B9AD028','I can put my arm back on You can\'t',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1ECG61187B9AD028','I can put my arm back on You can''t',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1EEUP1187B998AF4','Radka Toneff',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1EVC41187B9A254F','E.C. Scott',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1F2QS1187FB374C0','Rupaul',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1FLAG1187FB39B0E','Original Size','Nashville, TN');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1FXMW1187FB4F58F','Ta\'Raach','Erie, PA');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1FXMW1187FB4F58F','Ta''Raach','Erie, PA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1FXTX1187B99E0B2','Mal','California - LA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1G3G71187B98FE83','The Ventures','Tacoma, WA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1GDKO1187FB39083','Josh Canova','California - LA');
@@ -262,13 +258,13 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1XL241187FB3F4AB','Pan
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1XOUF1187FB5B52D','Magneto','Washington');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1Y2PT1187FB5B9CE','John Wesley_ John Wesley','Brandon');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1YFM81187FB3DC28','Harry Gregson-Williams_ John Powell',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1YIVG1187FB3A99D','They Shoot Horses Don\'t They?','Vancouver, British Columbia, Cana');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1YIVG1187FB3A99D','They Shoot Horses Don''t They?','Vancouver, British Columbia, Cana');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1YMUO1187B9B19F1','Sergio Tiempo',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1YNET1187FB3BE6C','The Departure',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1YPD11187B99DE98','Unreal','Maryland');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1Z0271187B9AD068','Suffocate Faster',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1ZKBE1187FB53629','Kraftwerk','D�orf, Germany');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1ZYLH1187B98C159','Naughty By Nature;Naughty By Nature featuring Zhane','East Orange, NJ');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR1ZYLH1187B98C159','Naughty By Nature,Naughty By Nature featuring Zhane','East Orange, NJ');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR209WZ1187FB37F8C','Abida Parween',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR20RMZ1187B9B2994','Renegade Soundwave','London');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR20RYM1187B9ACE8C','Dr. Kucho!','Madrid, Spain');
@@ -356,7 +352,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR2MD2P1187FB5B328','Mar
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR2MEUK1187B992D1B','Jeff Scott Soto',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR2MIPD1187B9AD547','The Silos','New York, NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR2MK791187B9A5CDA','Rachael Calladine',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR2MWAS1187FB49BFB','Teddybears Sthlm;Thomas Rusiak','Stockholm');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR2MWAS1187FB49BFB','Teddybears Sthlm,Thomas Rusiak','Stockholm');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR2N24K1187B999361','Sage Francis','Miami, FL');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR2NCM21187B991D45','Anita Baker','Toledo, OH');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR2NJW11187FB3F474','Rincon Morales',NULL);
@@ -413,7 +409,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR30ZWQ1187B9A0E40','Out
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR31AER1187FB4D165','2nd II None','Compton, California');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR31LL21187FB4D84E','Babyshambles','UK');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR323PG1187B9A435A','Jimmy Gilmer',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR32ETX1187B9A792F','The Vaughan Brothers;Stevie Ray Vaughan;Jimmy Vaughan',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR32ETX1187B9A792F','The Vaughan Brothers,Stevie Ray Vaughan,Jimmy Vaughan',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR32JLC1187B9946AF','X-Raided',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR32ML41187FB36D9A','Justice','PARIS');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR336PG1187FB3DC6E','Oceansize','Manchester, England');
@@ -426,7 +422,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR34NLL1187B989E94','Dav
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR34RDL1187B9AE670','Wackies',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR34WXB1187B9B57E5','Severe Torture','Netherlands');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3518X1187B98C415','Automatic 7',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR354L71187B9B9FBD','Martin O\'Donnell And Michael Salvatori',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR354L71187B9B9FBD','Martin O''Donnell And Michael Salvatori',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR35C2R1187FB58120','Monkey Business','ITALY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR35P5U1187B9ADF0A','James LaBrie','Varanasi, Uttar Pradesh, India');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR35RVL1187B989E3C','Grupo Gale',NULL);
@@ -438,7 +434,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR36OKW1187B9A3080','The
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR36V9C1187B9B9A29','Muzzaik',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR36W7G1187B9AF2A4','BBMak',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR36Z431187B99D6CB','Thinkman',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3701A1187B99F8E2','Hymie\'s Basement',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3701A1187B99F8E2','Hymie''s Basement',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3796A1187FB4F6CB','PRIMEsth',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR37JYA1187B99188F','Motorbass','Paris, France');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR37KM11187B98E8B4','Roger Kellaway','Newton, MA');
@@ -468,7 +464,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3GYEY1187B991167','Vel
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3GYKU1187B996AB9','Jim Kweskin','Stamford, CT');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3H5UJ1187B993232','South Central Cartel','California - LA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3HD5J1187B9B3D32','Bain Wolfkind',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3HE361187B9B9649','Julian Lennon','Julian Lennon&#039;s Official Facebook Music Page');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3HE361187B9B9649','Julian Lennon','Julian Lennon&#039,s Official Facebook Music Page');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3HH9N1187FB3FE72','Dada Life','Stockholm');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3HJ8Q1187B98DE9B','Martin Grech',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3HL7J1187FB5C276','Fryd & Gammen','Brooklyn, NY');
@@ -485,7 +481,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3LEYJ1187FB5B685','Hea
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3LRVY1187B9B9E90','Ernie Freeman Combo','Cleveland, OH');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3MF911187B993A8F','Jon Butcher Axis','Mass. - Boston');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3MJF21187B993E9A','Juan Y Junior',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3MMZH1187B9B55D0','Take That;Tommy Blaize;Lance Ellington;Clive Griffin;Katie Kissoon;Monica Reid-Price;Jay Ray Ruffin;Beverley Skeete','Manchester');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3MMZH1187B9B55D0','Take That,Tommy Blaize,Lance Ellington,Clive Griffin,Katie Kissoon,Monica Reid-Price,Jay Ray Ruffin,Beverley Skeete','Manchester');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3MQZI1187FB564AE','Xenical',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3N2H11187B98AFBA','Sivuca','Itabaiana, Para�, Brazil');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3P5211187FB3B59C','The Chalets','Dublin, Ireland');
@@ -503,7 +499,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3QRFN1187FB37344','Squ
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3QS2R1187B9953C7','Brother Ali','Minneapolis, MN');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3R4A31187B98D48B','Rocko Schamoni',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3R7HH1187FB3F7E1','Sleepy Brown',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3RM471187B999A35','Hugh Masekela;Sibongile Khumalo','Witbank, South Africa');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3RM471187B999A35','Hugh Masekela,Sibongile Khumalo','Witbank, South Africa');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3RMO51187B994B41','Moka Only','Vancouver, Canada');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3RPLL1187B9B2301','Stiff Little Fingers','Belfast');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3S8AT1187FB545FA','Alain Chamfort',NULL);
@@ -517,7 +513,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3TRZG1187FB3AEA1','Nak
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3TV261187B9AD060','Forever Einstein',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3U3G01187FB58BA7','Christie Hennessy',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3UZ5B1187FB4D90D','Keith Carradine','San Mateo, CA');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3V4EE1187FB4DC6D','David Lowe\'s Dreamcatcher',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3V4EE1187FB4DC6D','David Lowe''s Dreamcatcher',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3VEBU1187FB518CB','Lange',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3VSHF1187B9B3002','Flame','St Louis MO');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR3W2UH1187FB4D57C','Accept','Germany');
@@ -546,7 +542,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR428NI1187FB3AB66','Jua
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR42I4C1187FB413EB','Praga Khan',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR42MHZ1187FB39CAC','Trini Lopez','Dallas, TX');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR432XY1187FB52D03','Jennifer Paige',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4333311C8A42B076','George Wettling\'s Chicago Rhythm Kings',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4333311C8A42B076','George Wettling''s Chicago Rhythm Kings',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR436ZR1187FB5AB1A','O.G.C.','Boston USA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR43QAB1187B9B0041','Manticora','Hvidovre, Denmark');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR43Y451187B9938E3','The Mae','Norfolk, VA');
@@ -583,7 +579,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4CL6I11C8A4158B4','Imi
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4EKCC1187B9B90A0','La Makina',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4F1WX1187FB3B1E9','Big In Japan','Baltimore');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4FD06119B8668D74','Victor Démé','Valparaiso Indiana USA');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4FVK41187FB4BC83','Frankie J;Bimbo','Tijuana, Mexico/San Diego, California');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4FVK41187FB4BC83','Frankie J,Bimbo','Tijuana, Mexico/San Diego, California');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4G2AQ1187FB59D5B','Indica','Finland');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4H4EI1187FB51146','Shenandoah','Muscle Shoals, AL');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4I9Q71187B9B0C8C','Ester Drang','Tulsa, OK');
@@ -598,7 +594,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4JLVX1187FB3C014','Fiv
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4JO261187B98BDB4','Sam Mangwana','Kinshasa, Congo');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4JV7B1187B99AA15','Conjunto Chaney',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4JZIZ1187B991FBA','Skalariak',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4K7X81187FB4BEAD','Lesley Garrett;Peter Robinson',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4K7X81187FB4BEAD','Lesley Garrett,Peter Robinson',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4KD2N1187B9B4B1B','Paolo Fedreghini',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4KRUU1187B9907CF','Sometime Sunday',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4LIFI1187FB5688C','Amber','Great Britain / UK');
@@ -624,7 +620,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4SDA71187B9A7C97','Woo
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4SEOV1187FB5476F','Kris Drever',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4SGJZ1187FB546D7','Seek','Georgia');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4SYJD1187FB4D299','The Almighty Trigger Happy',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4T2IF1187B9ADBB7','Billy Idol','\"<a href=\"\"http://billyidol.net\"\" onmousedown=\'UntrustedLink.bootstrap($(this), \"\"fc44f8f60d13ab68c56b3c6709c6d670\"\", event)\' target=\"\"_blank\"\" rel=\"\"nofollow\"\">http://billyidol.net</a>\"');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4T2IF1187B9ADBB7','Billy Idol','\"<a href=\"\"http://billyidol.net\"\" onmousedown=''UntrustedLink.bootstrap($(this), \"\"fc44f8f60d13ab68c56b3c6709c6d670\"\", event)'' target=\"\"_blank\"\" rel=\"\"nofollow\"\">http://billyidol.net</a>\"');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4TNSH1187B9A03C7','Dislocation Dance',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4TV7J1187FB400C9','The Jayhawks','Minneapolis, MN');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR4VBZI1187B994F20','Floex',NULL);
@@ -767,7 +763,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR5VBN51187FB56E51','Dor
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR5VNQY1187FB566D4','Artificial Intelligence','New York');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR5VZS81187FB35EF1','Rosinha De Valenca',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR5XL5P1187FB4AECC','Lustans Lakejer',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR5YBUN1187FB5A51C','David Campbell;Steven Tyler;Henry Stram;Tim Jerome;Vicki Clark;Erin Hill;Dan Jenkins;Chris McKinney','CANADA - B.C.');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR5YBUN1187FB5A51C','David Campbell,Steven Tyler,Henry Stram,Tim Jerome,Vicki Clark,Erin Hill,Dan Jenkins,Chris McKinney','CANADA - B.C.');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR5YX8Z1187B9A3B9C','Tara Perdida',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR5ZECS1187FB5748E','The Churchills','NY - New York City');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR60F6R1187FB4CBD2','Agnetha Fältskog','Jonkoping, Sweden');
@@ -812,7 +808,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6BIWA1187B9ABAE8','Jac
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6BUE51187B9B5D71','Markus','Kentucky');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6CHEQ1187B9B846F','Mad Caddies','Santa Barbara, CA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6D5OM1187B993D9E','Rhinoceros','UK - England - West Midlands');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6D6K51187B9A4B76','Roc \'C\'',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6D6K51187B9A4B76','Roc ''C''',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6DILD1187FB4A146','Psilodump',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6DSDG1187B98FA86','Alison Moyet','Basildon, Essex, England');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6EA811187B9933FF','Carlito_ Addiction',NULL);
@@ -826,7 +822,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6FJX01187FB57885','Pat
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6GJDZ1187B991E46','KALIMBA','Mexico City, Mexico');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6GL7N1187B9A5B23','Renee Olstead','houston, Texas');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6GME21187FB58F39','Antoine Clamaran','LAKE WORTH, Florida');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6GZR91187B9AF7FC','Ned\'s Atomic Dustbin','Stourbridge, West Midlands, Engla');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6GZR91187B9AF7FC','Ned''s Atomic Dustbin','Stourbridge, West Midlands, Engla');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6H2JH1187FB5A6F5','Supa Dups',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6H4I71187FB5344B','PAULA COLE',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6HFW21187B9A8922','Kill The Client','Dallas TX');
@@ -874,7 +870,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6TKMQ1187B9ACEDA','Bar
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6TNOA1187B9B5C44','Betty Everett','Greenwood, MS');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6TP4A1187B9A2A89','The Orphans',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6TTAF1187B9AF525','Satyricon','Oslo, Norway');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6TZJQ1187B9AD572','Pierre Boulez;Philharmonia Chamber Orchestra','Montbrison, France');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6TZJQ1187B9AD572','Pierre Boulez,Philharmonia Chamber Orchestra','Montbrison, France');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6U6C51187B9B6F68','Jean-Yves Thibaudet',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6U9R41187B9A4FAF','Howard McGhee','Tulsa, OK');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6UI2A1187B990C1C','Talent','Michigan');
@@ -882,7 +878,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6UYN31187B991C48','Fal
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6V5N11187FB53359','Kenny Bobien',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6VA7A1187B99D6B5','Slaï',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6VHAM1187B99BA83','Eliades Ochoa',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6VKXV1187B98E98E','King\'s X','Springfield, MO');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6VKXV1187B98E98E','King''s X','Springfield, MO');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6VPAJ1187FB4C5C2','Ray Kajioka',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6VSPU1187B9A3A4B','The Pit That Became A Tower','Jerusalem, Israel');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR6VXP71187FB5B898','Sunspot Jonz',NULL);
@@ -976,7 +972,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7GVOV1187B9B5FF1','Seb
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7GZM11187B9A90DB','Thorsten Flinck',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7H21J1187FB40C69','Mr. Lif',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7H5R61187FB39453','Stamen & Pistils','International');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7H9U01187FB390F5','Terence Blanchard;Jubilant Sykes','New Orleans, LA');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7H9U01187FB390F5','Terence Blanchard,Jubilant Sykes','New Orleans, LA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7HABR1187FB3EC1B','Lisa Hannigan',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7HG4A1187FB49D45','Superstar',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7HLQ01187FB5704C','Grieves','Vienna Austria');
@@ -1001,7 +997,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7LIU31187B98EF11','Rit
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7M2731187B99B2D0','Ras Flabba','Portsmouth, OH');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7M4QL1187B9AE979','Ferry Corsten','Rotterdam, Netherlands');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7MCVK1187FB53CB1','Kagerou','JP');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7NTTO1187B995A0C','The Manhattan Transfer;Tony Bennett','New York, NY');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7NTTO1187B995A0C','The Manhattan Transfer,Tony Bennett','New York, NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7O67L1187B9A0A6C','The Vagrants',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7OCK81187B98D1F1','Debbie Davies','Los Angeles, CA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR7OKEN1187B9A9963','Charalambides','Houston, TX');
@@ -1096,7 +1092,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8DTVF1187B9AA292','Ozz
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8EDG51187FB41A08','Gary Hobbs',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8FJRO1187B98C2B1','Jean-Louis Murat',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8G4A411C8A42C6A0','Fish Go Deep & Tracey K',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8GCTH11C8A4224AD','Christian Prommer\'s Drumlesson',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8GCTH11C8A4224AD','Christian Prommer''s Drumlesson',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8GLVY1187FB38C22','The Bled','Tuscon, Arizona');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8GNAZ1187FB3B789','Peter Bradley Adams','Nashville Tennessee USA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8GSGO1187B9B47F2','I Roy',NULL);
@@ -1125,7 +1121,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8MZ9C1187B99D8F1','Los
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8N8XT1187FB4DAD9','Neva Dinova',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8NAVR1187FB3DC68','Janez Detd.',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8O7MV1187B9A31B6','Silence 4',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8OMD41187B9B6907','Victoria Beckham','Goff\'s Oak, London, Hertfordshire');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8OMD41187B9B6907','Victoria Beckham','Goff''s Oak, London, Hertfordshire');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8P04A1187FB4256A','Believe','Poland');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8Q1MD1187FB41536','Thunderbirds Are Now!','Detroit, Michigan');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR8QNND1187FB45EF9','Jade Warrior',NULL);
@@ -1185,7 +1181,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR99EV81187B9ADC55','Fiz
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR99RTN1187B9A7A0C','M Ward',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR99ULJ1187B9AF53E','Paul Gilbert',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR99YKC1187FB3D2EF','Nels Cline And Gregg Bendian',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9AWNF1187B9AB0B4','Kenny G;Kenny G with Frank Sinatra','Seattle, Washington USA');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9AWNF1187B9AB0B4','Kenny G,Kenny G with Frank Sinatra','Seattle, Washington USA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9AXGF1187B98DEA4','The Grid','East Northport');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9B7FG1187B9A5C96','Jay Sean','London, England');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9BQXL1187FB48F01','Tony Thompson','North Carolina');
@@ -1199,7 +1195,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9DOGZ1187FB3C026','Ter
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9DTLQ1187B9AD1FE','A La Carte Brass & Percussion',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9FH671187FB3B79F','Bo Hansson',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9FUFS1187FB4732E','Michel Fugain',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9GUWJ1187B9A1ED1','Da Youngsta\'s','Philadelphia, PA');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9GUWJ1187B9A1ED1','Da Youngsta''s','Philadelphia, PA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9GUZF1187FB4D1BC','10000 Maniacs','Jamestown, NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9GXAA1187B9AD7D1','Blanca Uribe','Wiesenberg, Moravia');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9H3QP1187B9A4E45','Lester Davenport','Illinois');
@@ -1236,7 +1232,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9OGWY1187B9B9E5F','Cza
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9P2G71187FB421CC','The Lords',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9P48L1187FB56FD4','Jore Marjaranta',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9PUMK1187B9B8E43','Separate','Dunn, NC');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9QZFQ1187FB47AA3','Howard Blake;Declan Galbraith',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9QZFQ1187FB47AA3','Howard Blake,Declan Galbraith',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9R5ZN1187B99F11C','Steve Hammond','Kentucky');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9RJJI1187B9930AB','Kotaro Oshio',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AR9RY8A1187B9AE857','Powerwolf','Germany');
@@ -1268,7 +1264,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA0H5U1187FB47949','2-4
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA10KM1187B9ACE60','Augie Meyers','San Antonio, TX');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA15FL1187B98F3AB','Martin Stenmarck','Stockholm, Sweden');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA1LS81187B9B98FB','Martin Carthy_ Dave Swarbrick','Hatfield, Hertfordshire, England');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA20RU1187B9ABF59','Madcon;Britney Spears;P!nk;Kelly Clarkson;Kelly Rowland;Daniel Merriweather;Justin Timberlake Featuring Timbaland;Jordin Sparks;Various','Allemagne,Norvège');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA20RU1187B9ABF59','Madcon,Britney Spears,P!nk,Kelly Clarkson,Kelly Rowland,Daniel Merriweather,Justin Timberlake Featuring Timbaland,Jordin Sparks,Various','Allemagne,Norvège');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA27E21187FB3D442','Los Hermanos Zuleta',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA2BJX1187B998268','1349',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA3E131187FB3D3E0','Switchblade Symphony',NULL);
@@ -1276,7 +1272,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA3O2C1187B989063','Hin
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA3VJJ1187FB3F5A6','Shelby Lynne','Quantico, VA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA3XRR1187B9984EF','Pale Forest',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA3ZJQ1187B991863','Peter Pan',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA42UV1187B9AE6D2','Jeff Wayne;Paul Vigrass;Gary Osborne','California - LA');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA42UV1187B9AE6D2','Jeff Wayne,Paul Vigrass,Gary Osborne','California - LA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA44HT1187B9B0C3E','Two Tons of Steel','Texas');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA4B7B1187FB3D9DD','Beneath the Massacre','West Columbia South Carolina USA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARA4BZJ1187B9AED59','Rubin Steiner',NULL);
@@ -1469,7 +1465,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBA6NH1187FB57BDA','D-S
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBAFOY1241B9CC43D','Tomas Hedberg',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBAP9P1187FB5676A','King Creosote',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBAVWD12802FDEF18','Hardfloor','Berlin, Germany');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBAW9R1187B98FB6B','Natasha Bedingfield;Natasha Bedingfield featuring Sean Kingston','London');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBAW9R1187B98FB6B','Natasha Bedingfield,Natasha Bedingfield featuring Sean Kingston','London');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBAYN91187B999531','Bloodsimple',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBBHT51187FB3E8AC','Dash Rip Rock','Louisiana');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBBRM31187B9AFE9D','Jan Garbarek_ The Hilliard Ensemble','Mysen, Norway');
@@ -1483,9 +1479,9 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBD3VV1187FB36F2A','Eno
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBDGNC1187B98CB64','Capital Inicial',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBDHX81187B99C1E9','Luk',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBDJHO1252CCFA6FC','The Band of HM Royal Marines',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBDMDM1187FB58CB8','Tommy Dorsey & His Orchestra;Frank Sinatra;Connie Haines;The Pied Pipers','Florida');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBDMDM1187FB58CB8','Tommy Dorsey & His Orchestra,Frank Sinatra,Connie Haines,The Pied Pipers','Florida');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBE2JK1187B9A21CD','Paperboys',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBE6DA1187B9B38B4','Clarence Williams\' Blue Five',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBE6DA1187B9B38B4','Clarence Williams'' Blue Five',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBE9HD1187FB40016','Christian Castro',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBEAWF11E2835D57A','Captain Mercier',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBEMJG11F43A69F2D','Johnny Hammond','Louisville, KY');
@@ -1507,7 +1503,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBGWMW1187B9AEA3E','Sav
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBGY0A1187FB42F84','Melchior Productions',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBHFDD12802FDE29A','Illum Sphere',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBHJSW11ED815059B','1001 Ways',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBHXC11187FB5C13B','Cherokee;Wendy A. Williams;Josina Elder;Sharlotte Gibson;Angelo Earl;Mike Elizondo;Cedric Anderson;Ronald Blake',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBHXC11187FB5C13B','Cherokee,Wendy A. Williams,Josina Elder,Sharlotte Gibson,Angelo Earl,Mike Elizondo,Cedric Anderson,Ronald Blake',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBIE071187B9A5AF6','Janove Ottesen',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBIECI11F4C845BBC','The Aquabats','Huntington Beach, CA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBIR151187FB5524D','Abigail Washburn',NULL);
@@ -1554,7 +1550,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBS9SI1187FB3F5A7','Geo
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBSAVH1241B9CA637','Antonio Koudele',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBSBET1187FB52D06','Tamia','Windsor, Ontario, Canada');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBSHXO123526A09D8','Ilya Soloviev',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBT6DB1187FB4EEDD','Lokua Kanza;Peter Maffay',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBT6DB1187FB4EEDD','Lokua Kanza,Peter Maffay',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBTBWQ1241B9C5424','Gato Idiota',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBTEEO1187B9A66BC','Die Perlen',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBTNN91187B9ADD5D','The Last',NULL);
@@ -1562,7 +1558,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBTPIH1187FB417B4','Oli
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBU6D71187B9B5319','The Occasionals','Vinton, LA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBUDUV1187B995761','Ison & Fille',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBUNXI11E2835D1F7','Les Blerots de R.A.V.E.L',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBV0491187FB3BFA6','Karl Jenkins;Caitrin Finch','Swansea, Wales');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBV0491187FB3BFA6','Karl Jenkins,Caitrin Finch','Swansea, Wales');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBVBMK1187B98A3CB','Mega ´Lo Mania',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBVLCJ1187FB50E61','The Gaslight Anthem','New Brunswick, New Jersey');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBVT1L1187B99195A','Ruper Ordorika',NULL);
@@ -1570,7 +1566,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBW6691187FB46599','The
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBWX4K1187B9B0BFE','The Raveonettes','Copenhagen, Denmark');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBWYQC11F50C4F418','Ground Floor',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBX0G31187B9971EC','Value Pac',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBX3YA1187B99F7D8','Rockin\' Da North',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBX3YA1187B99F7D8','Rockin'' Da North',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBXBTY122BCFC966F','Chieko Kinbara',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBXH2G1187B99D286','Kottonmouth','Texas');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARBXHZN11F50C4CFB4','Michel Korb',NULL);
@@ -1597,7 +1593,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARC0PQA1187B98B804','Jef
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARC0PY71187B9AA242','Natty King',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARC1E3F1187B9B9902','El Poder del Norte',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARC1Y1G1187B9A6908','Los Caminantes',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARC254U1187FB47D36','Diam\'s','Nicosia, Cyprus');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARC254U1187FB47D36','Diam''s','Nicosia, Cyprus');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARC28SN1187B989049','Greater Vision','United States');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARC2BI11187B9ABAD7','The Maccabees','Brighton');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARC2HVM1187B98CE05','Clay Crosse','Tennessee');
@@ -1635,7 +1631,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCDCFY122ECCBCC6A','Pro
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCDQRB11F4C844880','G.G. Allin','NY - New York City');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCDTDX11F50C5114C','Hard Place',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCE29X11C8A4160BC','Colm Mac Con Iomaire',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCEEC91187B9AC4FB','Alexander O\'Neal','Minneapolis, MN');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCEEC91187B9AC4FB','Alexander O''Neal','Minneapolis, MN');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCEPUE1187FB52C94','Space','London, England');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCEXLE1187FB3A93E','Marisa Monte/Par.Especial:Arnaldo Antunes',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCF9DS1187B9B76C1','New Model Army','Bradford, England');
@@ -1678,14 +1674,14 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCKZ441187B999745','B.W
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCLBB11187B98DC85','Michael Aston','California - LA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCLBRR1187B98CCE7','Chemlab',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCLE5B1187B98D185','Danny Gatton','Washington, D.C.');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCLGCL1241B9CA830','Michèle Crider;Vincenzo La Scola;Samuel Ramey;Riccardo Muti',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCLGCL1241B9CA830','Michèle Crider,Vincenzo La Scola,Samuel Ramey,Riccardo Muti',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCLKU81187FB57A42','Paul Kantner and Jefferson Starship',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCLLH11187FB48DE0','Jimmie Vaughan','Dallas, TX');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCNEAX1187B990716','Slow Gherkin',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCNIA01187FB3D245','Dirty Pretty Things',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCNNH41187B99AEE6','Clive Griffin',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCNYGA12802FDF726','The Malarkeys',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCOEN91187B98B069','Mama\'s Jasje',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCOEN91187B98B069','Mama''s Jasje',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCOL671187B99BAF6','Doctor Krapula',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCOZ4Y1187B98F015','Rest Of My Life',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCP6EW1187FB3D637','Modus','California - SF');
@@ -1707,7 +1703,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCTDY01187B9BA573','O',
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCTEPU122BCFC8B29','69 Chambers','GERMANY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCUAFJ122BCFCC42A','M. Pokora',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCUJ1T1187B997B07','Vittorio Grigolo','Arizona');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCUKQ11187B9A9AC9','Lester Flatt;Earl Scruggs;The Foggy Mountain Boys','Overton County, TN');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCUKQ11187B9A9AC9','Lester Flatt,Earl Scruggs,The Foggy Mountain Boys','Overton County, TN');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCV5DM1187B9A0C1F','Se:Sa',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCVIFR1187B99129F','Jorge Negrete','Guanajuato, Guanajuato, Mexico');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARCVMUK1187FB52C32','Wilson Des Neves',NULL);
@@ -1759,20 +1755,20 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARD7RQ01187FB56907','Aar
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARD8JVH1187FB4DA04','Maldini','England');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARD8L7F1187FB430B3','Jazz Jamaica',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARD8ODS1187FB4ADFA','Maximo Park','Newcastle - Engeland');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARD8P2P1187FB3C49E','Dave Graney \'N\' The Coral Snakes',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARD8P2P1187FB3C49E','Dave Graney ''N'' The Coral Snakes',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARD8R8I1187B9B6AA0','dig','NY - New York City');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARD91BF1187FB385D5','Lalo Schifrin','Buenos Aires, Argentina');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARD92DK1187FB53BA1','Marlon','Connecticut');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARD9QMJ119B866955A','Delly Ranx',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARD9RX41187FB3FD5F','Paul Desmond;Jim Hall;Connie Kay;Percy Heath','San Francisco, CA');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARD9T1Q1187B9A65F0','Orchestre de l\'Opéra Bastille / Myung-Whun Chung','Milan, Italy');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARD9RX41187FB3FD5F','Paul Desmond,Jim Hall,Connie Kay,Percy Heath','San Francisco, CA');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARD9T1Q1187B9A65F0','Orchestre de l''Opéra Bastille / Myung-Whun Chung','Milan, Italy');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDA1X21187FB3DA68','Helalyn Flowers','Wumme, Germany');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDABV91187B995B84','Karine Polwart',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDAHWH1187FB4B0E7','Hoobastank','Agoura Hills, CA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDAM7T1187B9B257B','Von Der Lippe_ Jürgen','Lipperland, Germany');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDASCD1187FB4AEB0','Cracklin Moth','Illinois');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDAT7X1187FB4B1EA','Swamp Dogg','Portsmouth, VA');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDB4UV1187FB3E9CD','Mylo;Miami Sound Machine;Gloria Estefan',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDB4UV1187FB3E9CD','Mylo,Miami Sound Machine,Gloria Estefan',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDBBI01187B98983C','Mustard Plug','Grand Rapids, MI');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDBGHU1187FB52D08','Ace Cannon','Grenada, MS');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDC28X1187FB455C6','Chris Stamey','Chapel Hill, NC');
@@ -1794,7 +1790,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDE2KN1187FB384ED','Jok
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDEPNC12454A4773A','Osvaldo Pugliese',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDF8K01187FB37200','Wolfmother','Sydney, Australia');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDFN4O1187FB36E6D','Multi Interprètes',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDFXKP12509416B8E','Ruben (Pereza);Fede Celada',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDFXKP12509416B8E','Ruben (Pereza),Fede Celada',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDG2YI1187B9B8BFA','Snot',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDGALJ1187FB55592','Asterisk*',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDGAO91187B989156','SECRET SPHERE',NULL);
@@ -1836,7 +1832,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDNGNH1187FB50C78','*Sh
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDNX631187FB55110','Threads_ The','NY - New York City');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDNZL61187B98F42D','Seeed',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDO3YN1187B9B9A51','Codeine',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDO5Q41187FB4AD25','Huey \'Piano\' Smith','New Orleans, LA');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDO5Q41187FB4AD25','Huey ''Piano'' Smith','New Orleans, LA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDOXBI1187FB4486D','Someday Never','New Jersey');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDPGC21187FB5AECA','Solarstone & Alucard',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDPPCT1187FB37A95','Bo Kaspers Orkester',NULL);
@@ -1857,14 +1853,14 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDTSX01187B9936F0','Zuc
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDU6141187B99AAF7','Jim Stärk',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDUJZJ1252CCFA253','Whitney Cummings',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDUOFX12454A4D81D','The Belmondos',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDUPUU12472CE30FE','Dead Man\'s Bones',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDUPUU12472CE30FE','Dead Man''s Bones',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDUWK31187B98A874','King Kurt',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDV4CY1187B9B0C55','Too Pure To Die',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDVCMS12086C1683D','Thiago Derucio',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDVKE81187FB584B2','L\'âme Immortelle',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDVKE81187FB584B2','L''âme Immortelle',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDVLEX12454A42749','Los Rurales De Gilberto Parra',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDVUFT1187B994637','Cabin Crew',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDVYK31187FB53C64','Ron Allen;Chris Bleth;John Debney;Nick Ingman & his Orchestra',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDVYK31187FB53C64','Ron Allen,Chris Bleth,John Debney,Nick Ingman & his Orchestra',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDW9P51187B9A9B0B','Soweto Gospel Choir','Soweto, South Africa');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDWNOP1187FB3C1D6','The Radio Stars','State College, PA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARDXBUG11F4C8415DD','Wiseguys',NULL);
@@ -1918,7 +1914,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREAVQZ1187FB431E2','The
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREAZSA12086C12524','Azaxx',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREB9421187FB458EF','Tommy Overstreet','Oklahoma City, OK');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREBBM41187FB45049','Der Tante Renate',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREBIAW11F50C4B5B6','Hearin\' Aid',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREBIAW11F50C4B5B6','Hearin'' Aid',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREBJMN1187FB49220','Black Diamond Heavies','KenTexas');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREBWEH1187B99EA9A','Beherit','Helsinki');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREC0KI1187FB37AFA','Steve Perry',NULL);
@@ -1937,9 +1933,9 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREDSJ81187B9953B2','Mig
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREDTBT1187B9A486D','Kirsty MacColl','Croydon, England');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREDTTS1187FB5357E','Eric Champion',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREDVMP1187B9A360F','The Eighties Matchbox B-Line Disaster',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREE69X1187FB438D6','Cannon\'s Jug Stompers',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREE69X1187FB438D6','Cannon''s Jug Stompers',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREE8TD1187FB43EB9','Roy Wood','Birmingham, England');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREE9XF1187FB4060A','Philip Aaberg;Barbara Higbie;Daniel Kobialka','Montana');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREE9XF1187FB4060A','Philip Aaberg,Barbara Higbie,Daniel Kobialka','Montana');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREEEQB12420781BEE','Andrew Fields',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREEJJK1187FB56DC7','Tukan','Sofia');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREEJUW122CC3B0E37','Tom Fuller Band','Illinois');
@@ -2004,7 +2000,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREQRHG1187FB4D2B5','Dot
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARERBR41187FB3A415','Spearmint',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREREER1187FB49E24','Guitar Crusher','Hyde County, NC');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARESEND1187FB43A84','Marlene','California - LA');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARESS0Q1187FB3781B','Morella\'s Forest','Ohio');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARESS0Q1187FB3781B','Morella''s Forest','Ohio');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARESTMQ1187B9B64D7','Chanel',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARESUIV1269FB338F6','CARMEN 113',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARESXAG1187B998B8A','Tiken Jah Fakoly',NULL);
@@ -2020,7 +2016,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREUZEN1187FB48155','Kit
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREV5ZI1187B992CF8','Slowride','Lawrence, KS');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREV80K1187FB44E87','The One Up Downstairs',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREVN1B1187B9944B2','Various Artists- Delicious Vinyl','ANAHEIM, California');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREVNQH1187B98FDDB','Peter Gallagher;Edward Strauss','Cork, Ireland');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREVNQH1187B98FDDB','Peter Gallagher,Edward Strauss','Cork, Ireland');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREVPHS1187FB3B6EB','Martha Argerich/Sergei Nakariakov',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREVXAC1187B998BED','Gatas Parlament','Wilkes-Barre, Pennsylvania');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('AREVZUH11F50C510A1','Holy National Victims',NULL);
@@ -2128,7 +2124,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFHJR61187B9B7FA3','The
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFITAF1271F573DC8','Evidence','Los Angeles, CA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFIU2R1187B9927F9','LCD Soundsystem',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFIWAS12454A43267','MC EIHT FEATURING CMW','Compton, CA');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFIZ9G1187B9B8674','Charles Dutoit;Phillippe Entremont;The Philharmonia Orchestra','Lausanne, France');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFIZ9G1187B9B8674','Charles Dutoit,Phillippe Entremont,The Philharmonia Orchestra','Lausanne, France');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFJ04W1187FB40432','Vanessa Paradis','Saint-Maur des Fossés (94)');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFJ3FT1187B9A77FD','Sagittarius','Finland');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFJDZP1187B9A9234','Daisychain','Fullerton, CA');
@@ -2145,7 +2141,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFK45R1187B989AA7','Gho
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFK68R1187FB467F7','Giuseppe Verdi',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFK7BP1187FB39869','Crashdiet',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFK7FI1187B99D999','Swordmaster',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFKENI1187FB440E7','Fetchin\' Bones',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFKENI1187FB440E7','Fetchin'' Bones',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFKLA11187FB4C5A3','Holy Fuck','Toronto');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFKNYS11F4C847490','Useless I.D.','ISRAEL');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFKOG21187FB43277','Miljoonasade',NULL);
@@ -2165,7 +2161,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFONB81187B994D01','Gav
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFOPE41187FB556CE','Amar Azul',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFPGJY1187B991B23','Willie Mabon','Hollywood, TN');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFQ56I1187B9B65BB','Professor Murder','NY');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFQDE41187B99AD9E','Buddy Rich;Buddy Rich and His Orchestra','New York, NY');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFQDE41187B99AD9E','Buddy Rich,Buddy Rich and His Orchestra','New York, NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFQH541187FB4991A','Loko',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFQKFY1187FB4E9E0','La Grande Sophie',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFQL7C1187B9A0F36','Tony Senghore',NULL);
@@ -2183,7 +2179,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFTMW71187B98E9E4','Kna
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFTVUE11F4C847337','Hi-Jackers Space',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFTY461187B9B6ED9','Barclay James Harvest','Oldham, England');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFTYTS1187B9A0EA2','Aaron Sprinkle',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFUCHF1242078016E','Patrice D\'Angelo & Nick Holson',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFUCHF1242078016E','Patrice D''Angelo & Nick Holson',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFUSHU11F4C844487','TOK','Missouri');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFUZN61187FB4CBA9','Andrew Jackson Jihad',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARFV5BG1187FB3D696','Deathstars','Stockholm, Sweden');
@@ -2212,11 +2208,11 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARG20RP1187B99F7F7','Iss
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARG31291187B98F54B','Moving Targets','London, England');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARG327Z1187B99E61A','Alaska In Winter','United States');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARG38R21187B9AF5B0','The Panoply Academy','Bloomington, IN');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARG396F1187FB4BEE6','Ramblin\' Jack Elliot',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARG396F1187FB4BEE6','Ramblin'' Jack Elliot',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARG4FCD1187B98F8E8','Odetta','SLC/Dogden, Utah');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARG4J2T1187FB3A8B8','Lori McKenna','Mass. - Boston');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARG4LZ51187B98F85C','The Now Time Delegation',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARG5N201187FB570F1','Terence Trent D\'Arby;Booker T & The MG\'s','New York, NY');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARG5N201187FB570F1','Terence Trent D''Arby,Booker T & The MG''s','New York, NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARG5PPW1187FB41119','Eddie Harris','Chicago, IL');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARG6UOX1187B9922D8','Nash The Slash',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARG719Z1187FB551FC','Dublin Guitar Quartet',NULL);
@@ -2246,7 +2242,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGC7891187B98E1F3','Wil
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGC7XR1187B995AB7','Faramarz Aslani','United States');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGCAKY1187B9A5DF5','Manzanita',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGCI8J1187FB4C6D0','Die Mannequin','Toronto, Ontario, Canada');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGD6DO1187FB4951E','Clarence \'Frogman\' Henry','Algiers, LA');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGD6DO1187FB4951E','Clarence ''Frogman'' Henry','Algiers, LA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGDBMK11F4C847E4E','Loudy',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGDENL1250940EE3B','Christoper Titus',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGDF3P1187B98F54E','Mountain','Long Island, NY');
@@ -2279,7 +2275,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGI8JY1187FB4F506','Naa
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGIABO1187FB4B3B5','Ronnie Milsap','Robbinsville, NC');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGICKG12802FDD249','Knxwledge',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGIPGX1187FB52D67','Mike Tramp','Denmark');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGJ1ZL1187FB3FC38','Barbra Streisand;Omar Sharif','Brooklyn, NY');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGJ1ZL1187FB3FC38','Barbra Streisand,Omar Sharif','Brooklyn, NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGK43I1187B992DC6','Across Five Aprils',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGKDQI1187B9AE934','Tony Roots','Great Britain / UK');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGKJT81187FB4E8B6','TOOH',NULL);
@@ -2308,7 +2304,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGP3GD1187B999801','Ton
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGP3HD1187B9A3CB5','V-ro',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGP47U1187FB4D0EB','ABC','Sheffield, Yorkshire, England');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGPGPP1187FB5689C','Laika Dog',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGPNPF1187B98F577','Youp van \'t Hek',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGPNPF1187B98F577','Youp van ''t Hek',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGPVAH12420781FB9','Oen Bearen',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGQCGS11E2835C80A','Chixdiggit!','Calgary, Alberta, Canada');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARGQJWL1187FB3CE9E','La Polla Records',NULL);
@@ -2390,7 +2386,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARH7O4C1187B9A5837','DJ 
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARH7RSF1187B98C57C','Mandy Barnett','Crossville, TN');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARH7YMF1187FB52DC2','Teddy Pendergrass','Philadelphia, PA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARH83G11187B990DA2','Crystal Eyes',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARH8QRR1187FB5026B','5UU\'S',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARH8QRR1187FB5026B','5UU''S',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARH99LV1187B98DEF4','Scritti Politti','London, England');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHAKK21187B9B8F2D','Kirk Degiorgio',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHAL3V1187B9AA462','Joy Lynn White','Arkansas');
@@ -2438,7 +2434,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHKIOR1187B996F6F','Kei
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHKM371187B9943F1','Mattie Delaney',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHKQGH1187B9A4DB4','In Extremo',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHKS0J1187B9A4D51','Belinda Carlisle','Hollywood, CA');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHL4JG1187FB400D6','Fonky Family;Kertra;Kadaz;Arrafat;Moz l\'Ours Blanc',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHL4JG1187FB400D6','Fonky Family,Kertra,Kadaz,Arrafat,Moz l''Ours Blanc',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHLGDG11F4C846A37','Lil Jon_ Lil Scrappy_ DJ Drama','Atlanta, GA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHMCAQ1187FB3D99E','Binomio de Oro','SAN ANTONIO, Texas');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHMI2Y1187B98A41B','New Horizons',NULL);
@@ -2446,7 +2442,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHMKKU1241B9CA333','Ras
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHMLUH11A348F0B1A','Paper Rival',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHMM3W1187B9B9427','Les Baton Rouge',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHMVCB1187FB42AFE','Walter Becker','New York, NY');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHMZAR1187B9B077C','Brian Auger\'s Oblivion Express',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHMZAR1187B9B077C','Brian Auger''s Oblivion Express',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHN6FX1187B98F23C','Orquesta La Fabulosa','New Mexico');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHN7F11187FB57410','Richard Vission','Toronto, Ontario, Canada');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHNB8P1187FB409C3','Bachelors of Science','California - SF');
@@ -2485,7 +2481,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHRIFZ11FF10D858B','Sil
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHRONX1187B9A565A','Dan Siegel',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHRZNQ1187B9AB78F','Prague Chamber Philharmonic',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHSD3O1187FB521CB','Johnny Moore','OKANOGAN, Washington');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHSLWQ1187B9A8FAA','Dustin O\'Halloran','GERMANY');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHSLWQ1187B9A8FAA','Dustin O''Halloran','GERMANY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHSS201187B98A8CC','Yvette Horner',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHSSCE1187FB46EAB','JoAnna James','Minnesota');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHT3XC1187B9B3E5E','Okay','Maryland');
@@ -2497,7 +2493,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHTRR71187B98F305','Mic
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHTVL71187B991539','Mason',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHUJGZ1241B9CBE33','Justus Schneider',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHUPM21187B9A0EEF','Hamilton Camp','California - LA');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHUQPJ11F4C841AB4','We Rock Like Girls Don\'t',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHUQPJ11F4C841AB4','We Rock Like Girls Don''t',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHVQU31187B9B7623','Mary Wells','Detroit, MI');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHVU591187B99F46A','The Nightraver & The Magican',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHWFUD122ECCBB3BC','Downfall 2012','Texas');
@@ -2511,7 +2507,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHXI701187B99E0BE','The
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHXX4T1187FB5ABF7','Red Mitchell','New York, NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHY20W1187B9B8262','Steve Erquiaga',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHYCFJ1187FB3FA1D','Brave Saint Saturn','Denver, Colorado');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHYHZH1187FB48FAD','Oscar D\'leon_ Dimension Latina',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHYHZH1187FB48FAD','Oscar D''leon_ Dimension Latina',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHYJP11187FB462AF','Friendly Fires','St. Albans');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHYNMR1187B9965BE','Organic Grooves','New York, NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARHYWPE1187B9A6928','Men of Vizion','Brooklyn, NY');
@@ -2610,7 +2606,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIL5841187FB5C061','Duf
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARILUEI1187B98DB61','Widespread Panic','Athens, GA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIM2BI1187B9A3BF8','Transistor','Colorado');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIMKO91187FB37DCE','Heaven Shall Burn','Germany');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIMPGH1187B9A6D3F','Varios / Michael N\'Bossa',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIMPGH1187B9A6D3F','Varios / Michael N''Bossa',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIMPQV11E8F5C1281','Axis of Conversation',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIMU8U1187B98AD5E','Papa Charlie Jackson','New Orleans, LA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIMVIY11E2835CCA4','Su-Paka-Pooh',NULL);
@@ -2667,14 +2663,14 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIWQYF11F4C8427FF','Fan
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIXCL91187B9ACF7D','Fear of God',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIXDI91187B99DEAA','Love Me Destroyer',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIXE8X1187B999C7B','Wynton Kelly & Wes Montgomery','Indianapolis, IN');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIXHYL1241B9CC4C2','Africa\'s Chill Out',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIXHYL1241B9CC4C2','Africa''s Chill Out',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIXVAZ11F50C4B5DF','The Smile Rays',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIYRII11F50C4895F','Conector',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIYWMF1187FB42323','Dick Hyman','New York, NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIZ4IH1187FB4CEE3','Sunshine Anderson','Charlotte, NC');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIZ6AI1187FB5197C','Overkill',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIZDPQ122988F25C8','Comunalien','Washington');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIZIDX122988ED664','Meredith d\'Ambrosio',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARIZIDX122988ED664','Meredith d''Ambrosio',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJ0CY71187FB4BCF1','The Davenports','NY - New York City');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJ0EJP1187B9930E8','Loquillo',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJ0PWC1187B99D790','Estados Alterados',NULL);
@@ -2700,7 +2696,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJ68391187FB3F988','Cli
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJ6BQD1187B9B94CB','Gorerotted',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJ6KD81187B9A1764','95 North*',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJ6OOG1187B9B8D1B','Matt Keating',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJ6T2L1187FB539FC','Horacio \'El Negro\' Hernandez','Massachusetts');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJ6T2L1187FB539FC','Horacio ''El Negro'' Hernandez','Massachusetts');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJ78QS1187B998002','The Notations',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJ79N71187B99A032','La Excepcion',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJ7D2E1187FB55998','The Four Seasons',NULL);
@@ -2718,13 +2714,13 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJA8BQ1187B9B4028','Red
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJAETD1187B9B06C6','The Tams','Atlanta, GA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJAIIC12086C12B34','Ysa Ferrer',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJAOPV1187B9A96D9','Javier Mendoza','United States');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJAUV81187FB3CB32','Umphrey\'s McGee','Chicago, IL');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJAUV81187FB3CB32','Umphrey''s McGee','Chicago, IL');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJAVK71187B989FEF','Sonia Dersion',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJB8BM1187FB5CBEC','Intex Systems',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJB9TE1187FB3A9F8','The Edgar Broughton Band',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJBEON1187FB4A8D8','Familjen',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJBVZM1250940EE9A','J.C.A. and Dannii Minogue',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJC3241187B98F495','Moodswings;Liz Upchurch',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJC3241187B98F495','Moodswings,Liz Upchurch',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJCAHL11E2835D168','Jóvenes Clásicos Del Son',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJCCLC1187B98C252','Deep Wound',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJCORP1187B991598','Benjamin Zephaniah',NULL);
@@ -2768,7 +2764,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJLNFI1241B9CC4C7','Dav
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJM4L11187B994D15','Mark Farner','Flint, MI');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJMAKQ12086C14952','Estiva',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJMB691187FB54124','The Three Tenors','Modena, Italy');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJN76O1187FB43C99','Ana Belén;Victor Manuel',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJN76O1187FB43C99','Ana Belén,Victor Manuel',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJNOHP11F50C4E69F','Modernettes',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJNXF41187FB3E0AC','Platero Y Tu',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJO8W91187B9AB734','Mystic Revelation of Rastafari',NULL);
@@ -2811,7 +2807,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJVNU21187B9AF0C8','Rev
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJVTRE1187B9959C0','Foghat','London, England');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJVTZF1187FB379A8','Love Shop',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJW9QV1187FB52D0B','Whispers','Los Angeles, CA');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJWINC11F4C841C4E','Frankie \'Half-Pint\' Jaxon',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJWINC11F4C841C4E','Frankie ''Half-Pint'' Jaxon',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJWKU41187B995537','Jimmy Heap','Taylor, TX');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJWL3E11C8A415C28','Peixe:Avião',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARJWOHS1187FB4361D','Tracey Ullman','Buckinghamshire, England');
@@ -2881,7 +2877,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKBIOY11F4C846D6B','Mea
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKBX5B1187B9ADAFD','Ten Wheel Drive/ Genya Ravan',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKC6ZG11C8A42193A','Leona Williams & Edna Winston','Texas');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKCP4H1187B98B081','The Counts',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKCTSM11F4C83C839','Igor Stravinsky;Columbia Symphony Orchestra',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKCTSM11F4C83C839','Igor Stravinsky,Columbia Symphony Orchestra',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKCZAM11F4C83CFD7','Marvaless_ Messy Marv_ Maniac_ N-Famizz_ Big Hollis',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKDA9Y1187FB3F6CE','Fernanda De Utrera','Utrera, Spain');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKDALD1187FB3F12E','Yakuza','Chicago IL');
@@ -2911,7 +2907,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKHXV61187B993773','Kle
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKI9C71187B9A76FF','Diana Karazon',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKIHH11187FB413E9','Will Saul & Mike Monday',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKIQBD1242078376D','Les Schmitz & Alex Del Amo',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKIUI21187FB462C9','The Red Army Choirs Of Alexandrov (Les Choeurs De L\'Armée Rouge D\'Alexandrov)',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKIUI21187FB462C9','The Red Army Choirs Of Alexandrov (Les Choeurs De L''Armée Rouge D''Alexandrov)',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKJ1PP1187B9A0F3D','Loredana',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKJ8Z21187FB398CE','Kaipa',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKJGXB1187FB4D8C9','Benassi Bros.',NULL);
@@ -2963,7 +2959,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKVMVT1187B98CFB6','Cou
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKVSPC1187B9972F5','Vincent Kwok',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKVU6B1187B9AF1A7','Life Of Agony','Brooklyn, NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKW9JS1187FB50A21','Ursula Rucker',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKWCGR1187B992B71','Patricia Kaas;Alejandro Fernandez',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKWCGR1187B992B71','Patricia Kaas,Alejandro Fernandez',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKWJC61187B9B074A','Petula Clark','PARK CITY, Utrecht');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKWRMO11F50C4F275','Haircut 100',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARKWWXR12509411EF6','Marina Solonos',NULL);
@@ -3030,7 +3026,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLB1N91187B99D823','Nin
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLB90U1187B996AE5','Japanische Kampfhorspiele',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLB9PJ1187B9AC984','Chokebore',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLBG3L1187FB3D8FD','Chisel',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLBIFO1187B9B122F','Miyoshi Umeki;Larry Blyden;Juanita Hall;Ed Kenney;Keye Luke','Keyport, NJ');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLBIFO1187B9B122F','Miyoshi Umeki,Larry Blyden,Juanita Hall,Ed Kenney,Keye Luke','Keyport, NJ');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLBLHM1187B99A51D','Debra Killings','Georgia');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLC3XC1187B9B90AC','Rocio Banquells',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLCINQ1187FB586A8','Piskie Sits',NULL);
@@ -3042,7 +3038,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLDL3D1187FB4D28F','Jok
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLDQAF125094134A6','Ricky Zaziky + die Holidays',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLE2071187FB3A270','Carrie Underwood','Checotah, OK');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLESAT1187FB50D0D','Lene Alexandra',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLEYDF1187FB546F1','Kim Larsen;Gasolin\'','Denmark');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLEYDF1187FB546F1','Kim Larsen,Gasolin''','Denmark');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLEYQM122988F255A','Los Llaneros De La Frontera',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLF92B11A348F0D1E','Silkie',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLFM3B1187B9966D0','Teenage Jesus_ The Jerks',NULL);
@@ -3103,7 +3099,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLS9BQ1187FB37FB1','Joe
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLSASX1187FB3F180','envy.',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLSEGY11F4C8489F3','Cimarons','Jamaica');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLSF8H1187B9A76B0','Dimmu Borgir','Oslo, Norway');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLSRVG1187B9B8CFF','Anita O\'Day','Tumen, Russia');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLSRVG1187B9B8CFF','Anita O''Day','Tumen, Russia');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLSTE11187B9B38E4','The Grapes Of Wrath',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLSWXA1187B98E534','A Hawk And A Hacksaw','Albuquerque, NM');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLSYRZ1187FB3FAF5','Lenny Willliams','Little Rock, AR');
@@ -3111,7 +3107,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLT50D1187B98E956','Sol
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLTMFY1187FB4B0D8','Trouble','Florida');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLTWXK1187FB5A3F8','King Curtis','Fort Worth, TX');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLTX6H1187FB5B187','Jaime Roos',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLTY471187B9A8734','Zap Mama_ Me\'Shell Ndegeocello_ Tony Allen',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLTY471187B9A8734','Zap Mama_ Me''Shell Ndegeocello_ Tony Allen',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLUAK21187B9B785A','Ziggy Marley',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLUF1T1187FB3603B','Ricardo Arjona',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARLUONO1252CCFA58B','Rey Guerra',NULL);
@@ -3180,15 +3176,15 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARM9KFI1187B9B356C','Tia
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARM9Y721187B98DCE5','The Mint Chicks','Auckland, New Zealand');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMAA9I1187B98EB39','Last Exit',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMB2F71187B98CDCF','Jimmy Clanton','Baton Rouge, LA');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMB95F1187B9B5B93','Cam\'Ron','New York, NY [Harlem]');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMB95F1187B9B5B93','Cam''Ron','New York, NY [Harlem]');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMBD941187FB532C0','The Partridge Family','Detroit, MI');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMBDNQ1187FB3F3EC','Arthur Tracy','Kamenetz-Podolsk, Moldavia');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMBLDB1250941014E','Jools Holland And Mick Hucknall',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMBUUC1187FB37C22','Galadriel',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMBXBA11F4C83E575','Let\'s Go Outside',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMBXBA11F4C83E575','Let''s Go Outside',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMBXPZ122ECCB7755','B-Mac','Louisiana');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMC3TI1187FB3A1E2','Matt Darey',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMC4XJ1187B9AB839','Danny Kaye;Original Broadway Cast','Brooklyn, NY');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMC4XJ1187B9AB839','Danny Kaye,Original Broadway Cast','Brooklyn, NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMC5XS1187B9A836B','Yves Montand','Monsummano Alto, Florence, Italy');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMC82E1187FB4E8CB','David E. Sugar',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMCA4N1187FB48B70','Ray Campi','Texas');
@@ -3212,7 +3208,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMENWR122988FDA7F','Jas
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMEYJD1187B9A4522','Daughters','Providence, RI');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMF8CE1187B98CD05','Maze/Frankie Beverly','TUCSON, Arizona');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMFKUH1187B98E387','Ina Deter','Berlin, Germany');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMFL561187B9A55C9','Sinead O\'Connor',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMFL561187B9A55C9','Sinead O''Connor',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMFMAV11F4C8431C1','MC Devvo & Shady Piez',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMFXPI1187B99717E','The London Theatre Orchestra',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMG34A1187FB548A8','Thomas Dolby','Cairo, Egypt');
@@ -3229,7 +3225,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMI28P1187B998512','Acr
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMI3NS1187B9B985A','Trium Se',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMI4DF1187B99552B','Refractory',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMIHGU1187B9AC0EF','Willie Mitchell','Ashland, MS');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMIUWR1271F5766CE','Trio Los Panchos;Hernando Aviles','California');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMIUWR1271F5766CE','Trio Los Panchos,Hernando Aviles','California');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMIVJ81187FB4A5F9','Exploding Heart','Elkhart, IN');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMIYHZ1187B9A971D','Roll Deep',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMJ0J91187B9984F4','Silers Bald','Columbia, SC');
@@ -3282,7 +3278,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMS3AC1187B9936B0','The
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMS7SO1187B991B21','Bud Powell','New York, NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMS97V1187B99DD98','Stevie B','NE');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMSFC51187FB4D61F','Nik P.',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMSL551187FB3F4B0','K\'s Choice;Ensemble Polyfoon',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMSL551187FB3F4B0','K''s Choice,Ensemble Polyfoon',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMSM8L1187B99505B','Mama Ladilla',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMTECY1187FB41948','Cutting Crew',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARMTLJ01187FB4D4D1','Chloe','California - LA');
@@ -3347,12 +3343,12 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARN8SPO1187B992A96','Emm
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARN97VH1187B9B1C24','Polmo Polpo','Toronto, Ontario, Canada');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARN9PWP1187FB413A8','Danielson',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARN9Q881187FB3D951','The Dells','Chicago, IL');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNA8SV1187B99C525','Flying Pop\'s',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNA8SV1187B99C525','Flying Pop''s',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNA8Y91187B99C14B','Blamstrain','Finland');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNA9O51187B9B3BE0','Sylk 130',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNARI81187FB3C9A7','Flora Purim','Rio de Janeiro, Brazil');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNBLYR1187B9A67B4','Dirtmusic',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNBXYG1187FB54D38','Le Peuple de L\'Herbe','Lyon, France');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNBXYG1187FB54D38','Le Peuple de L''Herbe','Lyon, France');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNCTNF1187FB3EBAB','Scariot',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNCW2L1187B98B06A','Via Tania','Chicago');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNCW4U1187FB50CA5','Michael Dow',NULL);
@@ -3372,7 +3368,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNEQCU1187B9A2A72','Dis
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNEWMP1187FB3DB31','Horace Silver','Norwalk, CT');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNF6401187FB57032','Sophie B. Hawkins','New York, NY [Manhattan]');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNF6ZR1187B98C1FA','American Steel','West Oakland, CA');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNFR6T1187FB4FBA3','The Highway QC\'s','Chicago, IL');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNFR6T1187FB4FBA3','The Highway QC''s','Chicago, IL');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNG61X1187B98C7DF','The Original Five Blind Boys Of Alabama','Talladega, AL');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNGAER1187B99E407','Natasha Thomas','DENMARK');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNGG831187B992346','Subsky','Istanbul');
@@ -3389,7 +3385,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNIR7Y1187FB51885','Pla
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNIVOM1187B9A0DFD','Isobella','Florida');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNIXQA1187B99BB98','Santamaria',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNIYE11187FB582F7','Fight Like Apes','Dublin');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNIYM61187FB4F85B','Bobby Womack;The Brotherhood','Cleveland, OH');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNIYM61187FB4F85B','Bobby Womack,The Brotherhood','Cleveland, OH');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNJ4771187FB58301','Lisa Loeb','Bethesda, MD');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNJ50L1187FB3F372','Early Day Miners',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARNJ7441187B999AFD','Serge Gainsbourg','Paris, France');
@@ -3491,7 +3487,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARO31HI1187B9A12E4','Ori
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARO32TC1187FB39461','Chico','Tennessee');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARO3P141187FB50BCA','Bonde Do Role','MX');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARO4H5M1187FB4384D','Adrenaline','Chicago, IL');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARO4XWN1187FB4083F','Boris Vian','Ville d\'Avray, France');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARO4XWN1187FB4083F','Boris Vian','Ville d''Avray, France');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARO4XYR1187B98D596','The Skatalites',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARO4ZPQ1187FB5083E','Denim','Texas');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARO59WV1187FB53267','Vic Damone','Brooklyn, NY');
@@ -3690,7 +3686,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPB10X1187B990323','The
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPBATN1187FB3AA40','Rosalie Allen','Old Forge, PA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPBELW1187B9AD3AD','Wednesday Night Heroes',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPBVLX1187FB4B8D3','HYPOCRISY',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPBYHZ1187FB4E231','Danielle Brisebois;Matt Laug;Lance Morrison;Paul Gordon;Rusty Anderson',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPBYHZ1187FB4E231','Danielle Brisebois,Matt Laug,Lance Morrison,Paul Gordon,Rusty Anderson',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPC1EC1187B99CEA0','Smokie','Bradford, England');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPCISS1187FB3F0D8','getAmped',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPD6WI1187FB4A3DA','Alessandro Safina',NULL);
@@ -3728,7 +3724,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPKFHE1187B990CFE','Ter
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPKK761187FB4D53C','The Ataris','Anderson, IN');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPKLK81187FB42AC9','Death SS','Pesaro, Italy');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPKMIM1187FB397DE','Sane Band',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPKX831187B995605','Manuel Carrasco;Inma Cuesta','Isla Cristina, Spain');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPKX831187B995605','Manuel Carrasco,Inma Cuesta','Isla Cristina, Spain');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPLTOM1187FB43C56','Ultramagnetic MCs','New York, NY [The Bronx]');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPLXXB11F50C4F69B','Dubee aka Sugawolf',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPM95S1187B99A3E1','Skagarack',NULL);
@@ -3769,10 +3765,10 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPSZEW1187FB48350','Cam
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPTC8L119B340323E','Chuck Wicks',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPTCS6119B340398E','ZPU',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPTJHV11F4C83EF53','Mighty Diamonds',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPTKZQ1187FB533D1','Cut \'N\' Move','Copenhagen, Denmark');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPTKZQ1187FB533D1','Cut ''N'' Move','Copenhagen, Denmark');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPTSW11187B98EDB2','The Lord High Fixers',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPTWKQ1187B9B5634','Tommy Johnson','Terry, MS');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPUMHS1187FB442A2','Maureen McGovern;Mike Renzi','Youngstown, OH');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPUMHS1187FB442A2','Maureen McGovern,Mike Renzi','Youngstown, OH');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPUVK01187B998FB1','Cobraverde','Ohio');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPUZ9M1187B9936FA','Yasmin Levy',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARPV3V31187B991B6C','Andrew Vasquez',NULL);
@@ -3832,7 +3828,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQ6JKR1187B99CC19','Grz
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQ6OS81187B998B73','Kid Dynamite','Philadelphia, PA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQ7ABW1187B98A072','DLG (Dark Latin Groove)',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQ7ENU1187FB52E4A','Johnny Fiasco',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQ7P1Y1187B9B3408','Misty\'s Big Adventure','Birmingham, England');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQ7P1Y1187B9B3408','Misty''s Big Adventure','Birmingham, England');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQ8D5D1187B98CB57','The Oscar Peterson Trio',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQ8MZ51187B99364D','Raq','Vermont');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQ940B1187B9AAF5D','Phil Kline','NY - New York City');
@@ -3841,7 +3837,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQ9BXK1187FB5C4CF','Pin
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQ9OZP1187FB3653E','Mad Heads','Kiev, Ukraine');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQ9XS2119B3403109','Video Nasties',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQAC4V1187B9AC349','Michael Kamen','New York, NY');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQAJKO1187FB5C0B4','Force M.D.\'s','Staten Island, NY');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQAJKO1187FB5C0B4','Force M.D.''s','Staten Island, NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQATCR1187FB4D3E6','Alejandro Sanz','Madrid, Spain');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQB7KW1187B9A6C02','Eva Cassidy','Oxon Hill, MD');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQBKRQ1187B9B88A2','The Dead Milkmen','Philadelphia, PA');
@@ -3874,7 +3870,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQHEKY12420780D26','Cas
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQHWLW11F50C4F523','Odd Logic','Washington');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQHYJJ1187B98C776','Black Child',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQI60P1187FB464C9','The Ocean','London, Ontario, Canada');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQIB731187FB3BE17','Arthur Fiedler;Earl Wild;Pasquale Cardillo','Boston, MA');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQIB731187FB3BE17','Arthur Fiedler,Earl Wild,Pasquale Cardillo','Boston, MA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQIR3W1187B9AC152','Bloodkin',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQJ9VM1187FB420BE','The Pastels','Glasgow, Scotland');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQJR4T1187FB3D259','Yonder Mountain String Band','Nederland, CO');
@@ -3912,7 +3908,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQSLGK1187FB47CF3','KC 
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQT8QM1187FB3E3CB','The Bats','Christchurch, New Zealand');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQTCA01187FB50DA0','Sunbeam',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQTFK61187FB5BCFC','Clit 45',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQTMJE1187B9B7A59','Walter Brown_ Jay McShann\'S Orchestra','Dallas, TX');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQTMJE1187B9B7A59','Walter Brown_ Jay McShann''S Orchestra','Dallas, TX');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQU3RU1187B9A5D1B','Blue Orchids',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQUMH41187B9AF699','Linkin Park','Los Angeles, CA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQURRQ11F4C847FEE','In Praise Of Folly',NULL);
@@ -3938,7 +3934,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQY5EG1187FB57063','Chu
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQY6AH1187B9B2F2E','Fleshies','Oakland, CA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQYDED1187B997FA5','Kadim Al Sahir',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQYH461187FB3E975','Underground Alliance','Detroit, MI');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQYX4N1187FB43837','The JB\'s',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQYX4N1187FB43837','The JB''s',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQZ0SI1187FB4870A','Danser Med Drenge',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQZ3MW1187B99C9B1','Barry Künzel',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARQZ4T11187FB41FCD','Kurt Nilsen','Bergen, Norway');
@@ -4054,7 +4050,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARRNTMJ1187B9991C8','Rui
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARRNZ521187FB54B67','Normand Corbeil',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARROLBW1187B9B6574','Shane Jackman',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARROR541187B9B0BBE','Lard',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARROTHV11E2835C202','Raymond Leppard;English Chamber Orchestra',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARROTHV11E2835C202','Raymond Leppard,English Chamber Orchestra',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARRP6571187B9A0DE3','Keith Whitley','Sandy Hook, KY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARRPQJ11187FB4C9AF','Tracy Nelson','Madison, WI');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARRPRJA122C867497B','David Brinkman','UK - Scotland');
@@ -4109,7 +4105,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS18811187B9972F9','Rip
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS1QY21187B9B6047','Sidewinder','FRANCE');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS2EA41187FB3B827','Drums & Tuba',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS2Y7C1187FB52D25','Ray J.','McComb, Mississippi');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS31DK1187B9AFFAC','Waylon Jennings;Willie Nelson;Johnny Cash;Kris Kristofferson','Littlefield, TX');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS31DK1187B9AFFAC','Waylon Jennings,Willie Nelson,Johnny Cash,Kris Kristofferson','Littlefield, TX');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS36RK1187B9B853A','Madonna Hip Hop Massaker',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS39AJ1187B9AE61C','Mick Harvey','Rochester, Australia');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS3CGI1187B9AF8F8','Farrah','Great Britain / UK');
@@ -4122,7 +4118,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS4NTL1187B98D52A','Dow
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS4OQ61187FB3D098','Larry Donn','Arkansas');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS54I31187FB46721','Taylor Swift','Wyomissing, PA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS57XV1187B9B8535','James Blunt',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS5NKR1187FB4EE96','The Carltons','St. Mary\'s, Jamaica');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS5NKR1187FB4EE96','The Carltons','St. Mary''s, Jamaica');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS64PR1187B99DB42','Blonker',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS66PV1187FB56909','Sammy Price','Wallace, LA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARS67ZR1187FB4D327','Bentley Rhythm Ace','Birmingham, England');
@@ -4188,7 +4184,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSGQPA1187B9B5D5F','The
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSGS561187B989C64','The Brought Low','New York NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSGWDC1187B9A8B85','Desperate Measures','NY - New York City');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSH56Y1187B9A6BE6','\"Luther \"\"Guitar Jr\"\" Johnson\"',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSHAD31187FB58F47','The Boston Pops Orchestra;John Williams','Mass. - Boston');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSHAD31187FB58F47','The Boston Pops Orchestra,John Williams','Mass. - Boston');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSHQ2N1187B999CC5','Carla Cook','Detroit, MI');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSHZHP11F33DFFFFA','Massage Therapy Music','JAPAN');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSHZLS1187B9A0419','Son By Four','Puerto Rico US');
@@ -4243,7 +4239,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSUZRJ1187B98C5D9','Edw
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSV13S1187B9AD904','James Eastwood',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSV9ZU1187FB548C2','Anderson Bruford Wakeman Howe',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSVEJC1187B9A8BB5','Alunni Del Sole',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSWHKY1187B9B40B2','Grover Washington_ Jr.;Orchestra of St. Luke\'s','Buffalo, NY');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSWHKY1187B9B40B2','Grover Washington_ Jr.,Orchestra of St. Luke''s','Buffalo, NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSWORN1187B991A7B','The Honeydogs',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSX0C11187FB46400','Don Dokken',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARSX3I61187B98FAC7','Frank Stokes','Whitehaven, TN');
@@ -4333,7 +4329,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTIM391187B9A861D','Ruf
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTIQEB1187B9ACD9C','Tom Tom Club',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTJF1O1187FB383BB','Creaming Jesus','UK');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTJFCN1187B9987CB','CPM22','S�Paulo, Brazil');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTJPA61187B9A7884','Li\'l Cap\'n Travis','Austin TX');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTJPA61187B9A7884','Li''l Cap''n Travis','Austin TX');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTK29M1187B989F07','River City Rebels','Burlington, VT');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTKIWO1187B990963','Endymion / Quentin Poole_ conductor',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTKOGW1241B9CD42B','DJ Omega',NULL);
@@ -4378,7 +4374,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTUHOD1187B99A07B','Lok
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTUPE61187B9AB889','Swirlies',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTURO31187B991AF6','Tommy Körberg',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTUXSS1187FB4BD20','Doc Pomus','New York, NY');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTVBAN1187B9B1E3C','Darryl D\'Bonneau','NY - New York City');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTVBAN1187B9B1E3C','Darryl D''Bonneau','NY - New York City');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTVBNL1187FB52DF3','Grupo Batuque','Brazil');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTVCFX12086C14354','The Teddybears',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARTVEH31187FB4C8F6','Wolf Parade','Montreal, Quebec, Canada');
@@ -4455,12 +4451,12 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUEU7D1187FB3F9F1','89e
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUEUEL1257509E907','Mervit',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUF0461187FB50323','B Real','Los Angeles, CA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUF18H1187FB38A6A','Maria Isabel','Ayamonte, Spain');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUF71J1187FB511C1','Boots Randolph;The Knightsbridge Strings & Voices','Paducah, KY');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUF71J1187FB511C1','Boots Randolph,The Knightsbridge Strings & Voices','Paducah, KY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUFC5R1187B9A351D','Devlin','California');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUFCZ41187B9A868E','Passion','Florida');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUFQW01187FB5BA63','Ashbrg',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUFSOP1241B9CA9B6','Toby Dreher',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUG0051187FB38380','Riccardo Muti;Salvatore Licitra','Naples, Italy');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUG0051187FB38380','Riccardo Muti,Salvatore Licitra','Naples, Italy');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUG6DV1187B992475','Willie Clayton','Indianola, MS');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUGAPO1187B9B21DB','Howling Wolf','West Point, MS');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUGJ761187B98D91D','Smoking Popes','Chicago, IL');
@@ -4480,7 +4476,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUK8PM1187B9A90AC','Lon
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUKCWD122988F1136','The Nimmo Brothers',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUKGLK1187B990F0F','Transmutator',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUKTRJ1187B99EE38','Baby Ranks','BUENA PARK, US');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUKV4V1187FB4258E','Pharaoh\'s Daughter','NY - New York City');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUKV4V1187FB4258E','Pharaoh''s Daughter','NY - New York City');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUKWNK1187B98F57C','Mucky Pup','New Jersey');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUL0VB1187B9A01AA','Cadacross','Finland');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARUM9V41187B993D8F','Black Coffey',NULL);
@@ -4591,7 +4587,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARV6Z5I1187B9A22A8','Guc
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARV74801187B9AD76B','The Sunshine Underground','Leeds, England');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARV7KUA1187B9940D0','Surgeon','Birmingham, England');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARV7SI81187B98B3E0','Skwatta kamp',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARV7VUX1187B9B8D1C','Rodney Crowell;Rosanne Cash','Houston, TX');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARV7VUX1187B9B8D1C','Rodney Crowell,Rosanne Cash','Houston, TX');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARV7XMH1187B9A4248','Aziz Mian_ Sabri Brothers_ Nusrat Fateh Ali Khan',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARV8T9T1187B99F3F4','Amorphis',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARV93CR1187B99C50B','Christian Kjellvander',NULL);
@@ -4619,7 +4615,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVE7RM1187FB4ACAE','The
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVEG0D1187B99A8A9','Subtone',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVEOEX1187FB4E113','Z-Factor','Chicago, IL');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVEQCM1187FB5A08E','SubAudible Hum',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVEVJX1187FB39A70','Shadowfax;G.E. Stinson','California');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVEVJX1187FB39A70','Shadowfax,G.E. Stinson','California');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVEYSY11F4C8484C5','Analogue Minefield',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVF2AD1187FB47580','Rev. Timothy Wright',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVF5P91187B98C878','Cloud 9','Florida');
@@ -4631,10 +4627,10 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVGPOM1187FB55737','Bil
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVGUIF1187FB3DFF2','WC','South Central Los Angeles, California');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVGVPQ1242078184F','Omega Drive',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVH3Z11187B98CD37','Larry The Cable Guy','North Carolina USA');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVH6PU1187FB46B3F','Victor Manuelle;Gilberto Santa Rosa','New York, New York');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVH6PU1187FB46B3F','Victor Manuelle,Gilberto Santa Rosa','New York, New York');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVHLDB1187FB5B45A','Creed','Florida');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVHQNN1187B9B9FA3','Cat Stevens','London, England');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVHYXU11E2835E475','Jim Hart\'s Gemini',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVHYXU11E2835E475','Jim Hart''s Gemini',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVIDW81187FB5AAC3','Georgie Fame & The Blue Flames',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVILQ41187FB3B1D8','Mica Paris','Sheffield, Yorkshire, England');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVIMM01187FB494A0','Luca','DENMARK');
@@ -4654,12 +4650,12 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVM1P11187FB42C62','Joa
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVMBPP11E2835C0ED','Andy Blueman',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVMIQT1187B9B15D8','Alonzo Bodden','California - LA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVMJFQ1241B9C7CAA','Tactical Thinking',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVMPJC1187FB3B954','Pe\'z',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVMPJC1187FB3B954','Pe''z',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVMSCA122988EE7C0','Sugar Aloes',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVMSY21187FB5A687','Small Towns Burn A Little Slower','Minneapolis, MN');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVMTUH1187B9B5AD5','Mustan Kuun Lapset',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVN9FZ1187FB393F1','SNOWPATROL','Dundee, Scotland');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVNDLR1187B99CA1B','Dolce; Oscar G.','Oklahoma');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVNDLR1187B99CA1B','Dolce, Oscar G.','Oklahoma');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVO7YV1187B9B98DB','Paul Harris & Alex Tepper',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVOGKS1241B9C6D3D','Jhonny Rivera',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVOPGC1187B9A2997','Kay D. Smith',NULL);
@@ -4682,7 +4678,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVRCZC1269FCD3508','Fra
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVRK5Q1187B99004E','Asphyx','Holland');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVRUOX1187B9B54CC','Doctor Nerve',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVSQHB1187B992FF0','Drowning Pool',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVT8GM1187B99E863','Terry Seabrook\'s Cubana Bop',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVT8GM1187B99E863','Terry Seabrook''s Cubana Bop',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVT9E11187B9AEC41','Spin Doctors','New York, NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVTCS91187FB44DF6','Thievery Corporation','Washington, D.C.');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVTEOO1187FB3D00F','Music Makers','Kingston, Jamaica');
@@ -4697,9 +4693,9 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVVAMP1242077E4CE','Spa
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVVOPC1187FB5C450','Wilbert Harrison','Charlotte, NC');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVWFRE11EBCD7705C','Craig Ferguson','Folsom California USA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVWIEH1187B9B39B5','This Is Hell','Long Island, NY');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVWMRK1187FB5B32D','Pickin\' On Series','Alabama');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVWMRK1187FB5B32D','Pickin'' On Series','Alabama');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVWN671187B99E4A2','Oxymoron',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVWTPQ1187FB5254A','Devon Allman\'s Honeytribe',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVWTPQ1187FB5254A','Devon Allman''s Honeytribe',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVWU0C1187FB42F7A','Cherish',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVX3XG1187B9B4A3C','Paralisis Permanente',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVXEHQ11C8A416808','Down To Earth',NULL);
@@ -4712,7 +4708,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVXXQD1257509E117','La 
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVY32O1187B9A03BD','Waylon Thibodeaux','Louisiana');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVYESN11F4C83BC84','Tonca','Netherlands Antilles');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVYHKR11F50C4F323','Bill Streett','California - SF');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVYOX31187B9A0C93','Mark \'Oh',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVYOX31187B9A0C93','Mark ''Oh',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVZ8481187B98CB6E','Digitalism','Hamburg, Germany');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVZGMQ1187B98B438','Dr. Didg',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARVZRUJ1187B99E8EB','A Jealousy Issue',NULL);
@@ -4848,7 +4844,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWPN7C1187B9986E6','La 
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWPZD41187FB41816','Willy Porter',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWQ3M31187FB4CF01','ARRESTED DEVELOPMENT','Atlanta, GA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWQ5AG1187B9AC600','Gabriel Gordon',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWQGYW11F4C846BF2','Yodi\'s',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWQGYW11F4C846BF2','Yodi''s',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWQQYJ1187B9ADC4C','Anubis Spire','NY - Upstate NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWQT7I1187B9A71BE','House Of Heroes','Columbus, OH');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWRDJK1187B992CC4','Controlled Fusion',NULL);
@@ -4894,7 +4890,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWY36G11A348EFDFC','Kha
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWYDB21187B997C8E','Auburn Lull','Lansing, MI');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWYVP51187B98C516','The Suicide Machines','Detroit, MI');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWYX7N1187FB42774','Mandy Patinkin','Chicago, IL');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWYXFW11E2835CEFA','Sergio Mendes & Brasil \'77',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWYXFW11E2835CEFA','Sergio Mendes & Brasil ''77',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWYYZP1187FB4FDB7','Mylène Farmer',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWZ7UR1187FB3B817','Yoshihiro Hanno Meets Mick Karn',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARWZ9W91187B9B2B29','Exotique','Birmingham, England');
@@ -4979,7 +4975,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXGUZO1187B9AD4A9','Jac
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXGWZP11F4C83C075','Leon Lai','London, England');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXHB1Y1187B9B27DD','Burmese',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXHWV81187B9A3416','Krikor',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXI96B1187B99433A','Anyone\'s Daughter',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXI96B1187B99433A','Anyone''s Daughter',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXIFQP11F50C4BD29','The Militia','Chicago');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXIIEY1187FB44EAF','Nights Like These','Memphis, TN');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXIIIO1187B9A865A','Las Ondas Marteles',NULL);
@@ -5036,17 +5032,17 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXSUYP1187B98D0DB','Cyp
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXSYN61187B9B2C19','Masters Apprentices',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXSYVP11F4C841744','Muck and the Mires','Boston MA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXTGHN11F4C83EB2E','Vermeer Quartet',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXTLIV12454A2E6AB','Diomedes Diaz;Ivan Zuleta',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXTLIV12454A2E6AB','Diomedes Diaz,Ivan Zuleta',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXTM8U1187B99F200','Pablo Montero',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXU0161187FB3723B','Seno','California - LA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXU1871187B989BB0','Bride','Texas');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXU5XX1187B98D8C0','Failure','California - LA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXUCPO12086C169A4','Frank Sinatra',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXVGFI122BCFC908C','Pascal Lejeune',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXVGI61187B9B64F8','Shorty Long;Art Lund;Mona Paulee;Susan Johnson','Texas');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXVGI61187B9B64F8','Shorty Long,Art Lund,Mona Paulee,Susan Johnson','Texas');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXVH9W1187B9A4919','Seascapes Series',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXVNNA12086C14B31','Darius & Finlay feat. Nicco',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXW2MN1187B9B8817','Xecutioners;Big Punisher;Kool G. Rap','New York, NY');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXW2MN1187B9B8817','Xecutioners,Big Punisher,Kool G. Rap','New York, NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXW5TC1187FB5A6CA','Akira Kosemura',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXWBOL11E2835E5BB','Abbott & Chambers',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARXWLJW11F4C83E4E3','Reign Ghost',NULL);
@@ -5130,14 +5126,14 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYDALR1187B9AD0B0','The
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYDBE71187FB4F847','Deanna Bogart','Detroit, MI');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYDFJA1241B9CBFF2','Jacques Douai',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYDJJW1187B9B5E86','Andre Kraml',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYDQIP1187FB36E3B','Airged L\'amh','Greece');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYDQIP1187FB36E3B','Airged L''amh','Greece');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYDZKJ1187FB540C6','Marshall_ Susan','Tennessee');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYE1S61187B99BF6D','Collective Sound Members',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYE7N51187B9AF501','PRE',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYE82I1187B9A43A6','My Fate','Tampere');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYE9E71187B9AA1B3','Flobots',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYEFR11187FB403E2','Hadise','BELGIUM,TURKEY');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYEFRL1187FB59827','Let\'s Go Sailing','Los Angeles, CA');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYEFRL1187FB59827','Let''s Go Sailing','Los Angeles, CA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYEKVW1187FB4328C','Betty Harris','Orlando, FL');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYETAC11C8A4226EE','granlab',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYFAT91187B99FEF5','Tigertailz','Cardiff, Wales');
@@ -5163,10 +5159,10 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYJSY01187B9B7C65','Lor
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYKA8J1187B989FC6','Kryptic Minds',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYKPBB11E2835D06A','A Girl A Gun A Ghost',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYKPU51187FB3E808','Casting Crowns','Atlanta, GA');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYKZKV122988FA13D','Metal Mike\'s Painmuseum','New Jersey');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYKZKV122988FA13D','Metal Mike''s Painmuseum','New Jersey');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYL4RU1187B9AE1B5','Moke','London, England');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYLECP1187B9B33F8','Odds',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYLG3I119B8668696','Rockin\' Dopsie_ Jr._ The Zydeco Twisters',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYLG3I119B8668696','Rockin'' Dopsie_ Jr._ The Zydeco Twisters',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYLKRH1187B98AC77','Municipal Waste','Richmond, Virginia (Estados Unidos)');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYLM651187B996F67','Fefe Dobson','Scarborough, Ontario, Canada');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYLQTW12420781021','Mark Masri','Toronto');
@@ -5175,7 +5171,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYLSD31187B9AE44F','Sco
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYMFLV1269FCD31B3','Whateverland',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYMMTK1187FB5B138','Dorian','Barcelona');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYMQI31187B99F4D3','Rave Allstars','New York, NY');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYMRIN122988F54BF','Mike Dillon\'s Go-Go Jungle',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYMRIN122988F54BF','Mike Dillon''s Go-Go Jungle',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYMVX31187FB4D487','Arcturus',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYN4771187FB55D03','And Also the Trees',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYN5H31187B9A509A','Eddie Daniels','New York, NY');
@@ -5192,7 +5188,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYPLL71187FB59CFE','The
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYPLX21187FB3657A','The Stills','Montreal, Quebec, Canada');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYPMIM1187FB5A095','Orphange','Netherlands  (Utrecht, Utrecht Province)');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYPPPG1187FB52E16','The Verlaines','Dunedin, New Zealand');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYPQLT1187B988D9F','Letta Mbulu;Letta Mbulu & Caiphus Semenya','Soweto, South Africa');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYPQLT1187B988D9F','Letta Mbulu,Letta Mbulu & Caiphus Semenya','Soweto, South Africa');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYPSRT11E2835C647','Artanker Convoy',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYPUXX1187FB59110','T-99','Netherlands');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYPWUK1187B98ACED','Emperor','Norway');
@@ -5234,7 +5230,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYXUDJ11F4C8462BF','The
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYYFT91187FB50113','Black Moon','Illinois');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYYLEK1187FB59A84','Lisa Bund',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYZ8BG1187FB52ABB','Manafest','CANADA - Ontario');
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYZAE41187FB46A50','O\'Death','New York, NY');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYZAE41187FB46A50','O''Death','New York, NY');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYZK5J1187FB378BE','Splitloop','Dublin');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYZL0Z1187B991F28','Brother Beyond',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARYZV2X1187B997BE7','Chris Standring','California - LA');
@@ -5290,7 +5286,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZDZR21187B99C78C','The
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZE0AG1187FB5BF61','The Five Stairsteps','Chicago, IL');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZEA421187FB5B5BA','Lee Michaels','Los Angeles, CA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZEBW31187FB586EA','Anne Dudley',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZEGTL122988EE54E','Gualberto Castro;Manoella Torres',NULL);
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZEGTL122988EE54E','Gualberto Castro,Manoella Torres',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZEHMQ1187B9950C0','Paulo Flores',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZEIVC11C8A414CCD','Triple C','Carol City, Dade County , Miami , Florida ... USA');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZF5231187B9AEF2B','Bobbi Humphrey','Marlin, TX');
@@ -5377,7 +5373,7 @@ INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZSGHF11F4C8406EA','Ang
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZSGIH1187B9B15CB','Alpha','Maryland');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZSLU11187B99DE13','John Schooley And His One Man Band',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZSUVB1241B9C7E35','Javi Reina feat. Marta Carlim',NULL);
-INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZSXZC1187B99C2CA','David Allan Coe;Bill Anderson','Akron, OH');
+INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZSXZC1187B99C2CA','David Allan Coe,Bill Anderson','Akron, OH');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZTDQE1187B989AB8','Rhythm King And Her Friends',NULL);
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZTGQE1187FB461D9','Ideal','Florida');
 INSERT INTO `artists` (`id`,`name`,`location`) VALUES ('ARZTI381187B98CAA8','Butt Trumpet',NULL);

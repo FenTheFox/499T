@@ -8,7 +8,7 @@ class Results
 		default:	{ js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 },
 		hoard:		{ js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 },
 		jemalloc:	{ js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 },
-		nedmalloc:	{ js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 }
+		# nedmalloc:	{ js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 }
 	}
 
 	# :( probably needs to actually go through and get the raw data

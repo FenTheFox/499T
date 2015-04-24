@@ -1,7 +1,3 @@
-/*
--- Query: SELECT * FROM tmp2.usersongratings
--- Date: 2014-05-07 21:02
-*/
 INSERT INTO `usersongratings` (`userid`,`songid`,`rating`) VALUES ('aaron_arceneaux','SONVEKT12AB0185C6B',2);
 INSERT INTO `usersongratings` (`userid`,`songid`,`rating`) VALUES ('aaron_blasdell','SOXZLVU12A8C14228A',3);
 INSERT INTO `usersongratings` (`userid`,`songid`,`rating`) VALUES ('aaron_jones4','SOLACVI12A6D4F9FE7',4);

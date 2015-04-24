@@ -3,4 +3,4 @@ sqlite3* generated/compiled with -DSQLITE_TEMP_STORE=2 -DSQLITE_THREADSAFE=2 -O3
 sqlite3-rmalloc compiled with -Wl,-undefined,dynamic_lookup
 sqlite3-mem(3|5) compiled with -DSQLITE_ZERO_MALLOC -DSQLITE_ENABLE_MEMSYS$1
 
-*log-128kb use sampling of 1/100 instead of 1/10
+*log-128kb use sampling of 1/1000 instead of 1/100

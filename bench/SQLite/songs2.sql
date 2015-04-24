@@ -1,7 +1,3 @@
-/*
--- Query: SELECT * FROM tmp2.songs
--- Date: 2014-05-07 21:00
-*/
 INSERT INTO `songs` (`id`,`duration`,`loudness`,`title`,`year`,`albumid`,`artistid`,`ratings`,`plays`,`avg_rating_age`) VALUES ('SOAAAOO12A8C1352BF',143.09832,-26.816,'Jig_ Air and Reel op. 9 for String Orchestra: Star of the County Down',NULL,246620,'ARROTHV11E2835C202',0,0,NULL);
 INSERT INTO `songs` (`id`,`duration`,`loudness`,`title`,`year`,`albumid`,`artistid`,`ratings`,`plays`,`avg_rating_age`) VALUES ('SOAACZY12A6D4F8081',291.13424,-8.509,'Take Me With You (When You Go)',1992,489526,'AR4TV7J1187FB400C9',15,23,41.666666666);
 INSERT INTO `songs` (`id`,`duration`,`loudness`,`title`,`year`,`albumid`,`artistid`,`ratings`,`plays`,`avg_rating_age`) VALUES ('SOAADQJ12AB01859A1',300.19873,-12.485,'You want fries with that?',2000,665267,'AR3TV261187B9AD060',0,0,NULL);

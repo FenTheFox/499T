@@ -1,0 +1,14 @@
+# started on Thu Apr 23 15:56:25 2015
+
+
+ Performance counter stats for '/home/timm/499T/source/firefox-bld/dist/bin/firefox -P renderbench localhost:8000/index.php':
+
+   447,897,546,446      cycles                   
+   532,073,684,483      instructions              #    1.19  insns per cycle        
+       779,494,473      cache-misses                                                
+     1,900,108,501      branch-misses                                               
+         2,049,164      page-faults                                                 
+           918,456      cs                                                          
+
+      76.789479356 seconds time elapsed
+

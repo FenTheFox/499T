@@ -1,3 +1,5 @@
+0
+NULL
 SELECT COUNT(*) FROM albums;
 SELECT COUNT(*) FROM artists;
 SELECT COUNT(*) FROM songs;

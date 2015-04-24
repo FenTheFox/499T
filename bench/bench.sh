@@ -5,18 +5,43 @@ setopt NULL_GLOB
 cd ..
 export BASE_DIR=`pwd`
 
-rm -f $BASE_DIR/bench/**/logs/*
+ffr_base=$BASE_DIR/results/firefox
+sqlr_base=$BASE_DIR/results/sqlite
+
+if [[ $1 == '-ff' || $2 == '-ff' ]]; then
+	ff=true
+	rm -rf $ffr_base/logs/*
+fi
+if [[ $1 == '-sql' || $2 == '-sql' ]]; then
+	sql=true
+	rm -f $sqlr_base/logs/*
+fi
 
 for a in $@; do
 	if [[ $a == '-bench' ]]; then
 		bench='-bench'
-		rm -f $BASE_DIR/results/firefox/js/*.txt $BASE_DIR/results/firefox/render/*.txt $BASE_DIR/results/sqlite/*.txt
+		if [[ $ff ]]; then
+			rm -f $ffr_base/js/*.txt $ffr_base/render/*.txt
+		fi
+		if [[ $sql ]]; then
+			rm -f $sqlr_base/*.txt
+		fi
 	elif [[ $a == '-perf' ]]; then
 		perf='-perf'
-		rm -f $BASE_DIR/results/**/perf/*
+		if [[ $ff ]]; then
+			rm -f $ffr_base/**/perf/*
+		fi
+		if [[ $sql ]]; then
+			rm -f $sqlr_base/**/perf/*
+		fi
 	elif [[ $a == '-trace' ]]; then
 		trace='-trace'
-		rm -f $BASE_DIR/results/**/trace/* $BASE_DIR/results/**/logs/*
+		if [[ $ff ]]; then
+			rm -f $ffr_base/**/render/*
+		fi
+		if [[ $sql ]]; then
+			rm -f $sqlr_base/**/render/*
+		fi
 	elif [[ $a == '-warmup' ]]; then
 		warmup=true
 	fi
@@ -29,25 +54,29 @@ if [[ $warmup ]]; then
 else
 	jsi=3
 	reni=7
-	sqli=5
+	sqli=7
 fi
 
 sudo mount none -t tmpfs -o size=4G /ramdisk
 
-cp -rf bench bin Replace-Libs /ramdisk
+cp -rfL bench bin Replace-Libs /ramdisk
 rsync -r -f '+ */' -f '- *' results /ramdisk
 
 args=($bench $perf $trace)
 
-cd /ramdisk/bench/Firefox
-./js.rb $jsi $args
-./render.rb $reni $args
-chmod 755 *.sh
-./js.sh
-./render.sh
+if [[ $ff ]]; then
+	cd /ramdisk/bench/Firefox
+	./js.rb $jsi $args
+	./render.rb $reni $args
+	chmod 755 *.sh
+	./js.sh
+	./render.sh
+fi
 
-cd ../SQLite
-./bench.rb $sqli $args
+if [[ $sql ]]; then
+	cd /ramdisk/bench/SQLite
+	./bench.rb $sqli $args
+fi
 
 cp -rf /ramdisk/results/* $BASE_DIR/results
 
@@ -55,8 +84,6 @@ if [[ $warmup != true ]]; then
 	cd $BASE_DIR/results
 	./results.sh
 fi
-
-cp -rf /ramdisk/bench/Firefox/logs $BASE_DIR/bench/Firefox/
 
 cd $BASE_DIR
 sudo umount /ramdisk

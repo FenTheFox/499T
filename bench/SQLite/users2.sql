@@ -1,7 +1,3 @@
-/*
--- Query: SELECT * FROM tmp2.users
--- Date: 2014-05-07 21:01
-*/
 INSERT INTO `users` (`id`,`name`,`password`,`age`,`gender`,`location`,`plays`,`ratings`) VALUES ('aaron_arceneaux','AARON ARCENEAUX','e#t7nud4',18,'Male','Alaska',13,10);
 INSERT INTO `users` (`id`,`name`,`password`,`age`,`gender`,`location`,`plays`,`ratings`) VALUES ('aaron_blasdell','AARON BLASDELL','o86SOPF7',32,'Male','California',11,6);
 INSERT INTO `users` (`id`,`name`,`password`,`age`,`gender`,`location`,`plays`,`ratings`) VALUES ('aaron_edwards4','AARON EDWARDS','E!Zcj1Ut',46,'Male','Oklahoma',12,7);

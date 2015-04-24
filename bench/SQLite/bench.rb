@@ -5,9 +5,9 @@ require 'pry'
 
 class Bench
 	@@mems = ['mem3', 'mem5']
-	@@sizes = ['', '-128kb', '-16mb']
+	@@sizes = ['128kb', '1mb', '16mb']
 
-	@@itrs = 30
+	@@itrs = 7
 	@@flags = '-q -s 8'
 	@@schema = 'songdb.sql albums2.sql artists2.sql songs2.sql tags2.sql users2.sql usersongplays2.sql usersongratings2.sql'
 	@@queries = 'query1.sql query2.sql query2-1.sql query3.sql query4.sql query5.sql query5-1.sql query6.sql query6-1.sql query7.sql query7-1.sql query8.sql query9.sql query10.sql'
@@ -28,7 +28,7 @@ class Bench
 		run_test('sys', "sys-#{itr}", nil, true)
 
 		@@mems.each do |m|
-			@@sizes.each { |sz| run_test("#{m}#{sz}", "#{m}#{sz}-#{itr}", nil, true) }
+			@@sizes.each { |sz| run_test("#{m}-#{sz}", "#{m}-#{sz}-#{itr}", nil, true) }
 		end
 
 		['hoard', 'jemalloc', 'nedmalloc'].each do |lib|
@@ -41,13 +41,13 @@ class Bench
 
 		@@mems.each do |m|
 			@@sizes.each do |sz|
-				run_test("#{m}log#{sz}", "logs/#{m}#{sz}-#{itr}")
-				mv_trace("#{m}#{sz}-#{itr}")
+				run_test("#{m}log#{sz}", "logs/#{m}-#{sz}-#{itr}log")
+				mv_trace("#{m}-#{sz}-#{itr}")
 			end
 		end
 
 		['hoard'].each do |lib|
-			run_test('sys', "logs/#{lib}-#{itr}", "#{lib}-log")
+			run_test('sys', "logs/#{lib}-#{itr}log", "#{lib}-log")
 			mv_trace("#{lib}-#{itr}")
 		end
 	end
@@ -58,13 +58,13 @@ private
 		cmd = ''
 		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
 		cmd_perf = cmd + "perf stat -e -o #{@@base_results_dir}/perf/#{resultsf}.txt "
-		cmd += "#{c} > #{@@results_dir}/#{resultsf}.txt"
-		cmd_perf += "#{c} > #{@@results_dir}/logs/#{resultsf}perf.txt"
+		cmd += "#{c} >> #{@@results_dir}/#{resultsf}.txt"
+		cmd_perf += "#{c} >> #{@@results_dir}/logs/#{resultsf}perf.txt"
 
 		tries = 0
 		if @@do_bench
 			puts cmd
-			puts $? while((result = Kernel.system(cmd)) != true && (tries += 1) < 10)
+			puts $? while((result = Kernel.system(cmd)) != true && (tries += 1) < 8)
 		end
 
 		if(perf && @@do_perf)

@@ -1,0 +1,35 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x16\x00s\x00q\x00l\x00i\x00t\x00e\x00-\x00t\x00e\x00s\x00t)
+
+[Defines And Includes][Compiler]
+Name=GCC
+Path=gcc
+Type=GCC
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=New Compiled Binary Launcher
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=3 -q -s 8 songdb.sql albums2.sql artists2.sql songs2.sql tags2.sql users2.sql usersongplays2.sql usersongratings2.sql query1.sql query2.sql query2-1.sql query3.sql query4.sql query5.sql query5-1.sql query6.sql query6-1.sql query7.sql query7-1.sql query8.sql query9.sql query10.sql
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\x16\x00s\x00q\x00l\x00i\x00t\x00e\x00-\x00t\x00e\x00s\x00t\x00\x00\x00"\x00s\x00q\x00l\x00i\x00t\x00e\x003\x00-\x00m\x00e\x00m\x003\x00-\x001\x006\x00m\x00b)
+Dependency Action=Build
+EnvironmentGroup=
+Executable=file:///home/timm/499T/bin/sqlite/sqlite3-mem3-16mb
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+Project Target=
+Use External Terminal=false
+Working Directory=file:///home/timm/499T/bench/SQLite
+isExecutable=true
+
+[MakeBuilder]
+Default Target=all
+Number Of Jobs=8
+
+[Project]
+VersionControlSupport=kdevgit
