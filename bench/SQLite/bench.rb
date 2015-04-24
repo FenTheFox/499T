@@ -64,15 +64,15 @@ private
 		tries = 0
 		if @@do_bench
 			puts cmd
-			puts $? while((result = Kernel.system(cmd)) != true && tries++ < 10)
+			puts $? while((result = Kernel.system(cmd)) != true && (tries += 1) < 10)
 		end
 
 		if(perf && @@do_perf)
 			puts cmd_perf.gsub('-e', '-e cycles,instructions,cache-misses,branch-misses,page-faults,cs')
 			puts cmd_perf.gsub('stat', 'record').gsub('-e', '--call-graph dwarf').gsub('.txt', '.data')
 
-			puts $? while((result = Kernel.system(cmd_perf.gsub('-e', '-e cycles,instructions,cache-misses,branch-misses,page-faults,cs'))) != true && tries++ < 10)
-			puts $? while((result = Kernel.system(cmd_perf.gsub('stat', 'record').gsub('-e', '--call-graph dwarf').gsub('.txt', '.data'))) != true && tries++ < 10)
+			puts $? while((result = Kernel.system(cmd_perf.gsub('-e', '-e cycles,instructions,cache-misses,branch-misses,page-faults,cs'))) != true && (tries += 1) < 10)
+			puts $? while((result = Kernel.system(cmd_perf.gsub('stat', 'record').gsub('-e', '--call-graph dwarf').gsub('.txt', '.data'))) != true && (tries += 1) < 10)
 		end
 	end
 

@@ -2,7 +2,8 @@
 
 class Tester
 	@@root = 'localhost:8000'
-	@@libs = ['hoard', 'jemalloc', 'nedmalloc']
+	# @@libs = ['hoard', 'jemalloc', 'nedmalloc']
+	@@libs = ['hoard', 'jemalloc']
 
 	def initialize (profile, timeout)
 		@profile = profile
@@ -56,7 +57,7 @@ class Tester
 		puts "echo 'end' >&0"
 		puts ''
 
-		['hoard', 'jemalloc', 'nedmalloc'].each do |lib|
+		@@libs.each do |lib|
 			puts "logf=#{@logs_dir}/#{@profile}#{lib}.log"
 			puts 'exec {logfd} >> ${logf}'
 			@iters.times { |n| do_test('bld-rmalloc', n, lib + '-rmalloc') }
