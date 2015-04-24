@@ -56,7 +56,7 @@ class Tester
 		puts "echo 'end' >&0"
 		puts ''
 
-		['hoard', 'jemalloc'].each do |lib|
+		['hoard', 'jemalloc', 'nedmalloc'].each do |lib|
 			puts "logf=#{@logs_dir}/#{@profile}#{lib}.log"
 			puts 'exec {logfd} >> ${logf}'
 			@iters.times { |n| do_test('bld-rmalloc', n, lib + '-rmalloc') }
