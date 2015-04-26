@@ -1,8572 +1,8569 @@
-1
-str
-SELECT * FROM albums a WHERE a.name = ?;
-Nellyville
-Open Heart Zoo
-Only Forever
-Beautiful Day
-Angels With Dirty Faces
-Tropical Gangsters
-Ba Ba Ti Ki Di Do
-In Search Of...
-Trouble (B-Side)
-Live Magic
-The Best Of 1980 - 1990 / B Sides
-Come Away With Me
-Bag Of Hits
-The Beach Boys Classics...Selected By Brian Wilson
-Your Love Means Everything
-Diamond Dogs (30th Anniversary Edition)
-Thank You
-Everybody Hertz
-BRA
-Shapeshifter
-Among My Swan
-Retrospectacle - The Best Of Thomas Dolby
-The Madcap Laughs
-Ad Nauseam
-Today''s Specials
-Best Of Carteline
-She Hangs Brightly
-Live At The Moonlight Club
-Mornington Crescent
-The Best Of Runrig - Long Distance
-Supergrass
-Sunflower/Surf''s Up
-Actually
-Very
-The Optimist
-Size Matters
-The New Danger
-Bat Out Of Hell Live with The Melbourne Symphony Orchestra
-The Royal Society
-Lest We Forget (The Best Of)
-A.B. Quintanilla III Presents Joe Lopez
-Lady
-15 De Coleccion
-Trailer
-The Queen Is Dead
-A Slice Of Heaven
-Popped In Souled Out
-Love Is All / I Need Your Love
-Fefe Dobson
-False Smiles
-The Ultimate Collection: The Commodores
-Jeffrey Osborne
-Rapt. Dept.
-Cherie
-Reach 454
-Moonlight Survived
-Little Things
-Wild West Show
-Distracted
-Travelogue
-Nicole C. Mullen
-The Breaking of the Dawn
-Jardin Azul: Las Canciones Favoritas
-Get Up On It
-Van Halen II
-My Christmas EP!
-Happy Town
-KC & The Sunshine Band: 25th Anniversary Collection
-Beg_ Scream & Shout!: Vol. 2
-Packed!
-The Isle Of View
-Leaving New York
-Crush With Eyeliner
-Come Poop With Me
-Shhh...Don''t Tell
-O
-Come And Get It
-Best Of
-Evolucion
-Motown II
-Only Yazoo - The Best Of
-The Motown Anthology
-Flesh Of My Flesh_ Blood Of My Blood
-The Great Depression
-God''s Favorite
-Bigger & Deffer
-Introducing Michael Fredo
-Feelings
-Soul Journey
-Version 2.0
-Hysterical Mama
-Elegia
-Diana Karazon
-Ideal
-Orup 2
-Agua De Luna
-88 Elmira St.
-Ronroco
-Underneath The Surface
-Renee Olstead
-Laura Pausini
-The Real Me
-Deutschland_ Deine Hymnen
-Blues Hit Me
-I Know Electrikboy
-A golpes de Rock''n''Roll
-CoolTur
-Meeting At The Building
-Denk Jeden Tag
-Live
-Something''s Going On (And On)
-Greatest Hits
-Cruel Town
-Mr. Las Vegas
-Happiness Is Fiction
-Toxic Voodoo
-In Cold Blood
-Disturbing Tha Peace Presents Bobby Valentino
-The Very Best Of Brother Beyond
-The Very Best Of Herman''s Hermits
-Modern Day Drifter
-The Heartlight Set
-All Mapped Out
-In At The Deep End
-1 x Equilibrium
-Verve Remixed 3
-Burn The Black Suit
-Jump
-L''indispensabile
-Koncert
-Mambo Sinuendo
-Mirror Ball
-The Heart Has Its Reasons
-All Or Nothing
-Sweet Surrender
-BOF Michel Vaillant
-Forget Me Nots & Other Hits
-Adventure
-Tic & Tac
-Bedroom Classics_ Vol. 2
-The Very Best Of Montrose
-Greatest Hits: Naughty''s Nicest
-Frammenti Di...Massimo Ranieri
-Searching For A Land
-Scolopendra
-Live
-The Best Of The Fourmost
-Perverse
-A''s B''s & EP''s
-Parabelo
-A Little Deeper
-Ghosts
-George Is On
-The Truth
-Magpie
-Sheryl Crow And Friends Live From Central Park
-The Marshall Mathers LP
-2001
-The Eminem Show
-All-Time Greatest Hits
-Evolution
-Elephant Shoe
-Classic Black Uhuru - The Universal Masters Collection
-Confrontation
-Love Always
-Little Johnny From The Hospital
-Something Worth Leaving Behind
-Perseverance
-Legal Drug Money
-Da Derrty Versions: The Re-invention
-Elements: The Island Anthology
-Dru Hill
-Soul Of A Woman
-Feel So Young
-Elegy
-Good Vibes
-Songs For Traffic Jams
-Runnin'' Wild
-Grease
-THE BEAT OF BRAZIL
-Girls_ Girls_ Girls
-The Tourniquet
-Rastafari Centennial: Live In Paris - Elysee Montmartre
-Great Divide
-All About Chemistry
-Planet Helpless
-Poses
-North
-The Last Tour On Earth
-God Says No
-Elva
-Get Rich Or Die Tryin''
-An Electric Storm
-Heaven Is In Your Mind - An Introduction To...
-The Grand Tour
-Greatest Hits
-Mr. Fantasy
-Handsworth Revolution / State Of Emergency / Rastafari Centennial
-A Little Deeper
-20 Beat Classics
-Hai Hai
-The Best Of Taste
-A Bestiary Of
-New Forms
-Gold
-Gold
-Gold
-Varekai
-A Brief History Of The 20th Century
-Shakespeare Alabama
-World Record
-Super Lungs
-Forever
-Legsikeresebb dalai Best of I.
-Neon Nights
-Live At The Bloomsbury Theatre_ London
-Talk About It
-Lifelike
-Gli altri siamo noi
-Giulia
-Desde Que No Nos Vemos
-Greatest Hits - Das Beste
-Que pides tu?
-Welcome
-Sin Documentos
-It''s All About The Stragglers
-That One Way
-Feeling
-The Best Of Altan - The Songs
-Gladiator - Music From The Motion Picture
-Electro-Shock Blues Show
-The Artist Selects
-Maria Rita
-Saturnz Return
-Home
-Royal Albert Hall London May 2-3-5-6 2005
-Super Extra Gravity
-Narada Jazz The Singles
-Big River
-Catching Tales
-Best Of Silkk The Shocker
-Live - The Definitive Edition
-Justamustache
-Sunny Side Garden
-Of This Blood
-Denim On Ice
-Wonders Never Cease
-I Believe
-Romantic Rights
-Biology
-Flo''Ology
-Run It Red
-Get Rich Or Die Tryin''- The Original Motion Picture Soundtrack
-Only Love Can Conquer 1976-1979
-Hummel : Piano Trios Vol.1
-Watermark
-The Red Moon E.P.
-Anthology
-Want
-Medium Energy
-The Frenzy Of Renown
-UMOJA/20th Century Debwise
-Romeo Unchained
-Welcome to Loserville
-Natty Universal Dread 1973-1979
-Plastic Ono Band
-The Breakthrough
-Between Force And Fate
-Elevate
-Ralph Tresvant
-Anthology
-Blazing Arrow
-Ecstasy
-Sumo Surprise
-The M-Pire Shrikez Back (Explicit)
-Hey Hey
-Killer Lords
-Horace Silver And The Jazz Messengers
-Vixen
-Otro Dia Mas Sin Verte
-Broadcast
-The Best Of Me
-Present Arms In Dub
-Runaway Horses
-456
-Brilliant Trees
-Defector
-Le Voyageur
-Sign Of The Hammer
-Sid Sings
-Hot Potatoes: The Best Of Devo
-Legalize It
-The Real Chuckeeboo
-Cupid And Psyche ''85
-Fruit At The Bottom
-Majurugenta
-The Best Of Racey
-Damn The Torpedoes / Southern Accents / Hard Promises
-The Essential Collection
-20th Century Masters: The Millennium Collection: Best Of Semisonic
-The Hit Singles Collection
-Protection - The Remixes
-Wrath Of The Math
-Rispetto
-Mademoiselle Chante
-En Concert
-Futurama
-Never Too Far
-Boogie People
-Greatest Hits...And More
-The Best Of Bud Powell
-Liquidizer
-Walk Don''t Run - The Best Of The Ventures
-The Wild One - The Greatest Hits
-The Very Best Of The Royal Marines
-Sailor
-American Originals
-Hear My Song
-Jazz Funk
-Unplugged
-Wormwood
-White Feathers
-Dansez Maintenant
-Blue Breakbeats
-25 Greatest Hits
-Edyta Gorniak
-The Capitol Years
-The Essential Bobby Vee
-Avenidas
-Too Much Coffee Man
-Freddie And The Dreamers
-Kill Your Television
-Missing... Presumed Having A Good Time
-Le Temps Des Gitans & Kuduz
-Tom Lehrer In Concert
-Les Poetes:Baudelaire (Vol.3)
-Yes I Am
-Hood Rich
-Let''s Get It On
-Three Days
-Instant Vintage
-Live Up  & Close
-Live!
-Black The Sun
-Kenya
-Live At The Lighthouse
-Ghetto Heisman
-Cradle 2 The Grave
-A Night At Red Rocks With The Colorado Symphony Orchestra
-More Fire Crew CV
-Exit
-Sabe A Limi-T
-Alive!
-Lift Every Voice
-The Essential UFO
-Black Coffey
-Becstasy
-New Tattoo
-Out Demons Out - The Best Of
-The Best Of The Blue Note Years
-The Peter Sarstedt Collection
-Emilie Simon
-Melange
-Jihad (EP)
-About The Blues/London By Night
-The Ultimate Peter And Gordon
-Farover
-Antologia - Su Historia Y Sus Exitos
-Warm & Soulful
-Lethal Injection (World) (Explicit) (Remastered)
-Perfect Timing
-The Collection
-From Me To U
-Belinda
-Love Songs A La Rosa/On The Sunny Side
-High On The Happy Side
-Listen
-Another Ticket
-Bad Reputation
-Boy Child: 67-70
-Mobile Home
-Collection
-Punk Singles Collection
-An Introduction To Phil Ochs
-Country Ladies
-Jazz Legends - Songs Of Cole Porter/Rodgers & Hart/Gershwin
-Architecture And Morality
-Vertigone
-Pansoul
-Essential
-Soul Of The Bible
-Federation The Album
-Waking Up With The House On Fire
-Howyoudoin?
-The F-Ups
-RENDEZ-VOUS
-The Oliver Twist Manifesto
-Victoria Beckham
-Roses
-Everything''s Gonna Be Alright
-Standards
-Life Is A Carnival
-The Plan
-Desire Walks On (Int''l Only)
-Hard To Earn
-KooKoo
-Born To Quit
-Flashback
-Blues With A Feeling
-Tonight You Are The Special One
-Jammy Smears
-Greatest Funkin'' Hits
-King Of The Blues
-Ultra-Lounge / Bachelor Pad Royale  Volume Four
-Frampton Comes Alive II
-Fit But You Know It
-The Palo Alto Sessions 1981-1985
-I Could Be The One
-Girlfriend
-Falling Forward
-Around The Next Dream
-Born Dead
-Beggar On A Beach Of Gold
-Tomorrow Will Be Too Long
-Saida
-More Than This - The Best Of Bryan Ferry And Roxy Music
-Nocturnal
-Sax At The Movies
-Valotte
-Book Of Spells
-Greta Y Los Garbo
-Aire/Invisible
-Rasassination (The End) (Explicit)
-Dead Bees On A Cake
-Un Poquito Quema''o
-...A Place On Earth - The Greatest Hits
-Lucy Pearl
-Navidad
-Slave To Love - The Best Of The Ballads
-Magazine... (Where The Power Is)
-Northern Star
-Rush Hour
-Center Of My Universe
-Keepin'' It Cool
-Aussen Top Hits_ Innen Geschmack
-Concierto En Vivo I - Concierto En Vivo II
-Who Dares...wins
-Wicked Little High
-Canciones 96-06
-Try Not To Cry: The Singles Collection
-Not One Bit Ashamed
-Old School To New School
-On An Island
-Blissed Out
-For The Love Of Indie Rock
-Kick
-Joan As Police Woman
-Theme From Chalets
-Harmonies For The Haunted
-Songs We Sing
-Whole Lotta History
-Peach Blossom Fan
-My Utmost For His Highest - The Covenant
-Gold
-In The Hands Of Love
-One Hot Minute
-Show Your Bones
-Band-Girls-Money
-Motorcycle Diaries with additional Music
-Impulsive! Revolutionary Jazz Reworked
-Gold
-The Beautiful South - Gold
-Man To Man
-Something For The Weekend
-Bang Bang You''re Dead
-Pirate Radio [w/Bonus Tracks & Interactive Booklet] [Digital Version]
-El Balneario
-Roberta Flack Featuring Donny Hathaway
-Love Is Gonna Call
-Olhos Meus
-Rriot
-The Best Of The Tams
-I Am Woman (Digital Only)
-Sin Sin Sin
-Ollaan Elaimia
-Vallen En Opstaan 2
-The Weight Of This
-Never Mind Me
-Walker
-Ojala Estuvieras Aquí
-Good Night_ And Good Luck
-We Don''t Need To Whisper
-Fundamental
-Miriam Yeung X Chet Lam Music Is Live
-Anouk Is Alive
-Take Two
-E Botumare
-Kopfüber
-Flow Motion
-Arrastando Maravilhas
-Yerba Buena
-Moderna Tider
-My Own (Explicit)
-Solo
-Silent Treatment
-11:11
-A Little Ain''t Enough
-School Punks
-Got Any Gum?
-Beethoven : Middle String Quartets Nos 7 - 11
-Ven Conmigo - Selena 20 Years Of Music
-Sparks Present Motown Made To Measure
-Ingravitto
-Life After That
-Guerreira
-Music Is A Hungry Ghost
-Diamond in the Fish
-The Original Singles Collection - The A- & B-Sides
-Cuerpo y alma
-Stay Afraid
-Vessel States
-Heart And Unicorns
-Drain
-Brain Damage
-I Apli Methodos Ton Trion
-Sleepytown
-Barcelona Nights: The Best Of Ottmar Liebert Volume One
-Beauty Stab
-So Close
-Voyage
-Seven
-The Very Best Of The Four Pennies
-Decade
-Tighten Up
-I Remember Chuck Willis
-Pittsburgh
-Mr Johnson_ your room is on fire
-Vivir no es solo respirar
-Definitive Collection
-Why You Wanna
-Morph The Cat
-Talk to Her
-Down By The Jetty
-Adoniran Barbosa
-Every Man For Himself
-Liberation
-O Bom- (Os Originais)
-Semillas Del Corazon
-Light Poles And Pine Trees
-Contigo
-Alright_ Still
-Sensitivity
-Riding Out The Storm
-Blue Sunshine - Deluxe Edition
-Guten Morgen Spinner
-Born Under
-D Is For Dumptruck
-Big Sexy Land
-The Complete Atlantic Sessions
-Greatest Hits - Postcards From East Oceanside
-Live
-Standing On Ceremony
-The Very Best Of Marc Cohn [Digital Version]
-Salsa Dura
-Thrills
-Every Kind Of Light
-The Smooth Sounds Of Josh Rouse
-Stars
-Norma Waterson
-Music For Films III
-Sings Ballads And Blues
-Le cose da difendere
-Take Your Shoes Off
-Timbre
-Big Lizard In My Back Yard
-Best Of The Wipers And Greg Sage
-Death Rides A Pale Cow
-Rodney Crowell
-Briefcase Full Of Blues
-Out Of Limits!
-Supremacy
-11 Tracks Of Whack
-Heartbreak In Stereo
-Comiendo Fuego
-Civil Sin
-Master Of Puppets
-Testimony: Vol. 1 Life & Relationship
-Chopin Piano Sonatas 1 & 2
-The Sound of Revenge
-Fred Åkerström Sjunger Bellman Till Carl Michael
-Bad Cash Quartet
-Messiaen : Edition
-Grandes Exitos
-Soul Legends - Marvin Gaye
-Dia De Concerto
-LeToya
-L.E.F.
-River
-The Meters
-Disco Inferno
-Bach_ JS : Violin Sonatas Nos 1 - 6 [Complete]
-You Give Me Something
-Wonderful World
-Enamorado
-Bad Boy
-Everglow_ The
-Kidology
-Serious Hits... Live!
-As Cruel As School Children
-Blush Music
-The Soul Of Ike & Tina Turner/Dynamite
-Rolling Stone Original
-Mozart : Chamber Music
-La Cantina
-The Wizzard! Greatest Hits And More - The EMI Years
-The Outsider
-Loto FireS
-The Best Of William Bell
-I Don''t Feel Like Dancin''
-Score: 20th Anniversary World Tour Live with the Octavarium Orchestra
-This Is Where You Belong
-Step Outside Yourself
-Honegger : Symphonies Nos 1 - 5_ Pacific 231 & Rugby
-Greatest Songs Ever: Middle East
-Nova Bis-O Terço
-Encore!
-Screaming Fields Of Sonic Love
-Every Time I Breathe
-Hybrid Theory
-Someone Else''s Problem
-Gary Moore - The Platinum Collection
-I Could Live in Hope
-owL (Low Remix)
-A Work In Progress
-Nosso Amor Rebelde
-Sweet Talkin'' Girls: The Best Of The Chiffons
-Leonard Cohen: I''m Your Man
-Forever Diamondz - Collector''s Edition
-20 Y.O.
-Lännen-Jukka
-Nova Bis-Clara Nunes
-Nova Bis-Clementina de Jesus
-Mr. Brown
-Teachings From The Electronic Brain
-Mongo ''70
-Offshore
-Claridade & Canto Das Três Raças
-Don''t Wait
-The Complete John Peel Sessions
-Six White Russians And A Pink Pussycat
-Accident & Emergency
-Take A Chance
-Pasado_ Presente Y Futuro
-The Best Of UB40 Volume I
-Fashion Parade
-Boys And Girls In America
-Chronicle: 20 Greatest Hits
-Ardiente
-Harpers Bizarre 4
-Verities & Balderdash
-Green Mind [Digital Version] [with Bonus Tracks]
-El Mirage
-In Due
-Suuren meren suolaa
-Eastmountainsouth
-The Places You Have Come To Fear The Most
-The Gospel Of The Blues
-The Excello Singles Anthology
-Focus
-The Art Of How To Fall
-Plus Vivant
-Magick
-Love Like Winter
-Up From The Ashes
-Love Among The Ruins
-Shoki Shoki
-Rhino Hi-Five: The B-52''s
-Rhino Hi-Five: Spinners
-Surf Drums
-Till
-The One Up Downstairs Ep
-Su e giù da un palco
-Strictly The Best 36
-Soulstar
-Let Them Eat Pussy
-Love Is Vain
-Relish
-2001
-Days Of The New II
-Blue Midnight
-Le Poisson Rouge
-Out Of Business
-What You Could Have Won
-Politics Election EP
-Vehicles & Animals
-Righteous Love
-New Miserable Experience
-A Thousand Miles
-Get Some
-This World Is Not My Home
-Greatest Hits: The A&M Years ''87- ''94
-Awake
-My Love Is Like...Wo
-Free As A Bird
-Mis Dos Amores
-Nova Bis-José Augusto
-¡GRRRR!
-The Teleparis EP
-Dreams - The Ultimate Corrs Collection
-Rhino Hi-Five: Force M.D.''s
-Raffaella
-Aguantando el tiron
-Keine Zeit
-Rock Normale
-Stay With The Hollies/In The Hollies Style
-Rock Now_ Roll Later
-LaFee (Bravo Edition)
-Te Sigo Amando
-Welcome To The Cruel World
-Playing With My Heart
-Everyday I Wear A Greasy Black Feather On My Hat
-Bon Voyage
-Shine
-Return Of Dragon
-Small Group Swing
-Louder Than Words
-12 Nouvelles De Brassens (Simple)
-Moving Pictures
-Perfectly Good Guitar
-Voice: The Best Of Beverley Knight
-Count Your Blessings
-The Lost Interview Tapes Featuring Jim Morrison - Volume Two: The Circus Magazine Interview
-Nine Lives [Digital Version]
-Return To The Acid Planet
-Sweet Potato Pie
-Overture
-Across The Airwaves
-Live From The Middle East
-Zap Mama
-Moray Eels Eat The Holy Modal Rounders
-Witchcraft
-Aurora Borealis
-Tierra De Nadie
-Statement
-Hollywood Vampires
-Unknown Language
-Alles Gute vor uns
-Edición Aniversario
-Deadly Wiz Da Disco
-Punk Rock High Roller
-Everyone Down Here
-His Last Walk
-Fonseca
-Best Of Whitesnake
-Dove Sei Tu
-Raoul
-The Piano: Music From The Motion Picture
-Roofers
-Classic Masters
-Fight The Tide
-There Is Joy In The Lord
-No Sir_ Nihilism Is Not Practical
-We Three Kings
-Big House
-Are You With Me?
-20th Century Masters: The Millennium Collection: Best of Bel Biv DeVoe
-The Gregg Allman Tour
-Musical Massage
-Mayerling
-House on Hill
-Eye Of The Beholder
-Straight To Inglan''s Head - An Introduction To
-Chocolate Moment
-Two Brothers
-The North Pole By Submarine
-The Rise & Fall Of The Third Stream
-U
-Da Qui
-Testa_ Dì Cuore
-All Night Long
-Lucky Day [Live]
-Lost And Found
-No Frills
-Satin Chickens
-Alpha Dog
-The Best Of N.W.A: The Strength Of Street Knowledge
-Bis
-Para Sempre
-First Class Ticket To Telos
-Where Shall You Take Me?
-On My Way To Absence
-A Sea As A Shore
-Life And Love In Sparrow''s Meadow
-Handel : Operatic Arias
-Don''t Try This At Home
-A Monastic Trio
-Rio
-Light Years
-Meus Caros Amigos
-I Got That Work
-Steal Away
-Live At Bradley''s
-Save Our Children
-Willow Weep For Me
-Rhythm Of Life
-Little Bit Of Somethin
-Star
-Dave Grusin Presents GRP All-Star Big Band Live!
-Attitude Adjustment
-Brownie
-Other Places
-Glimmer
-Happy?
-Joao Voz E Violato
-Freefall
-Third Wish
-Skysurfer
-Panic Prevention
-36 Grad
-MiniPak
-Humanoid Erotica
-Pocket Symphony
-Prisoner
-Live Studio Session
-Washumkhukhu
-No Tellin'' Lies
-Kollaps
-Another Illusion
-The Third Hand
-He He
-Organ
-Hij Leeft
-Berchem Trap - Digipack
-Casablanca + Beats Of Love
-The Many Faces Of The Detergents
-Electric Angel
-Rhino Hi-Five: Jay Ferguson
-Rhino Hi-Five: Debbie Gibson
-Rhino Hi-Five: Michael Franks
-Definitive Pop: Bobby Darin
-Your Ghost Is A Gift
-She''s A Queen:  A Collection Of Greatest Hits
-Rackaz
-The Looks
-Nhu Golden Era
-Do It
-Living On Video
-Satellite
-Break My Stride
-Summer Elements
-Fresh Moods
-Hard Weird Movie Cats
-Tears Don''t Lie 2002
-Shockwave )))
-Into The Ocean
-Neonlights E.P.
-Popcorn
-Volksworld
-Tristan & Isolde
-Inertia
-Sax At Midnight
-Queens Of Africa
-The Warner Brothers Collection
-Reprise Please Baby: The Warner Bros. Years  [Digital Version]
-I''ve Got You
-Born To Do It
-Vertical Tones & Horizontal Noise Part 5
-Willie Bobo''s Finest Hour
-The Simpsons Sing The Blues
-Smoove Moves - The Sound Of Lounge Records
-Gimme A Bassline!
-Gourmet De Funk (Limited Edition)
-Viktor Krauss II
-A Journey From A To B
-The Box
-Hecho en Cuba
-Timid Tiger & Miss Murray
-3rd Perspective
-Orfeu Da Conceição
-Archaeology
-At The London Palladium
-Jools Holland''s Big Band Rhythm & Blues
-The World Can Wait
-LaBelle
-The Besnard Lakes Are The Dark Horse
-Seleksi Terulung Jamal Abdillah Vol 2
-White Lies
-A Tale Of Two Cities
-Little Red Riding Hood
-Vamos! Vol.9: Merengue and Salsa
-Brotherhood of Brass
-La Lu La Roo
-Woman Is The Fuehrer Of The World
-Popmodel
-The Noise of Trouble:Live in Tokyo
-Highlife
-Tell Me
-Los Valientes del Mundo Nuevo
-Who Wrote The Book Of Love? [Digital Version]
-We''d Like To Teach The World To Sing
-In The Mood For Something Rude
-Zig Zag Walk
-Waiting On Egypt / The Bible Belt
-Banaroo''s World
-Galerie Tolerance
-Balkan Beat Box
-Seelentaucher
-Hank Wilson''s Back!
-That''s Life
-Soulful Spirit/Mrs. Broflovski
-Lejos
-The Completist''s Library
-What Is the Point?
-Robots Après Tout
-Crossover
-Ghetto Dictionary: The Mystery
-Fernsehwunschkonzert mit
-Hubert Sumlin
-DoubtFool
-Best Of No Respect Records
-On The West Side
-Scratchin'' On My Screen
-Low To The Ground
-My Left Foot
-Miller''s Crossing
-Aliens - The Deluxe Edition
-Evolution
-The Magnificent Seven
-I_ Robot
-Million Dollar Baby
-Mission: Impossible III
-Stargate The Deluxe Edition
-The Fast and the Furious: Tokyo Drift
-Hold On / Hello
-Add Your Light To Mine_ Baby
-Love Is Dead
-S Nachts Kouder Dan Buiten
-A To B Life
-Get Real
-A Small Noise
-Petrafied! (Very Best Of Petra
-De Mens
-Miracle
-The Legend Of Chin
-Son I Loved You At Your Darkest
-Christmas Time Is Here
-HIGH PRAISE
-Caribbean Party - Official 2007 Cricket World Cup
-Man Next Door
-Hallo Mik
-Gypsy Living
-Schützt die Verliebten
-1970: The Complete Fun House Sessions
-Hold Your Breath
-It''s Spooky
-Revival Generation: Let Your Glory Fall
-Second Hand Clothing
-Mermaid Avenue
-Far Beyond Driven
-BalkanBeats Volume 2
-Living with other people
-Different Degrees Of Empty
-Bakerman
-Musik für taube Ohren
-Secret Words & Little Treasures
-A Life In Music
-Waking Giants
-Come An'' Get It
-Tu Te Trompes
-Ich rocke
-Beauty Queen
-Fireships
-The Man
-A Prayer For Every Hour
-Our Earthly Pleasures
-Mojo Priest
-But I Could Be Wrong
-Pino Daniele: The Best Of Platinum
-Psychedelic Man
-Blanco Fácil.
-O Compositor E O Cantor
-Si tu me miras Edicion 2006
-Con el alma entre las manos
-Here And There
-Sound Catcher
-Rocket Man
-Be Your Own Pet
-The 12 Inch Mixes
-Guerolito
-Premonición
-Separation Road
-High Life
-Autrement
-Kamikaze
-Mega-Mix ''98
-Talkin'' About
-The Remixes
-Eliminator
-Vieraalla maalla
-Candleland & Mysterio [Extended Editions]
-Rekognize: Loob @ Labas
-Stax/Volt - The Complete Singles 1959-1968 - Volume 9
-Watching Angels Mend
-Stax/Volt - The Complete Singles 1959-1968 - Volume 2
-io_ Ennio Morricone
-Nothing Changes Under The Sun
-The Best Of First Choice
-zero4
-Take This Ride You Will Never Know
-The Best Of Perez Prado
-Philly Golden Classics
-Soldier Of Fortune
-Gardi
-Don''t Panic
-Where Did Our Love Go: 40th Anniversary Edition
-OTR Benefit for the National Multiple Sclerosis Society
-A Un Idolo
-Disgraceful
-Doubt
-Quality Street
-Mikrokosmos
-Kaunis ihminen
-Arm Of The Starfish
-The 5th Annual End Of The World Tour
-Blind Behaviour
-Strictly The Best Vol.3
-Year Zero
-The Unreleased Album
-Geronimo''s Cadillac
-Joyful Jukebox Music / Boogie
-In Japan!
-Mi
-Astronomy For Dogs
-Grandes éxitos
-Svart Blogg (Deluxe Edition)
-Amtlich! - Remaster
-Rewind Remix - Club Version
-Worldbeat
-Worldbeat Brazil
-Worldbeat Africa
-CD Sigle 2
-Mestijaia
-The Red Tape
-Clown
-Dirty Shame
-Never Had It So Good
-The Best Of The Solo Recordings 1990-1997
-Everything
-Jazz For The Road (Jazz Club)
-Game On
-Colour It In
-Palo Santo (Expanded Edition)
-Zet Um Op Baby
-The Black-Out
-Watch For Today
-Donut Comes Alive
-Ms. Fine Brown Frame
-Call Of The Wild
-Gary Nichols
-The Sweethearts Of The Blues 1
-Live I & II
-The Best Of Dr. Know
-Workin''
-Haunted Hill
-The Hospitals
-Mal Cantaitalia
-Ports of the Heart
-Alice Magnified
-Panic Prevention
-Entre Paris et versailles: Musiqe de Chambre Française du XVIII Siècle
-Reduction
-Can''t Get Enough
-Pieni ihminen
-See My Trains Passin'' Vol 2
-Goodbye Bafana
-A Mind Of Its Own
-Techno Playtime
-One More Song
-The Late_ Late Show
-Requiem
-Pterodactyl
-The Prize Winner of Defiance_ Ohio: Original Score from the Motion Picture
-Crashing Into Consciousness
-Wolfe
-Lure
-Reflections
-The Angkor Sessions
-Just A Little Song
-Crazy? Yes! Dumb? No!
-Heavenly Toast On the Paradise Road
-Jen Chapin Live at the Bitter End
-This Is The Moment
-Lowflow
-Merit
-The Four Walls
-Higher Ways
-Quiet Storm: The Ballads
-Dawn of New Age
-Indalo
-Control
-I Won''t Be Crying
-The Secret Sickliness
-N Crugu Bradului
-Pleasure And pain
-The Essential Collection
-I''m Not Sorry
-Every Dog Has His Day
-Parasiempre
-Deep
-Precious Time
-Magnitude [The Sire Years]
-Arena
-For You Only
-Bendita Mujer
-15 Exitos Corridos Famosos - Antonio Aguilar
-Racing Hearts
-15 Exitos Vol. 2 - Chayito Valdez Con Mariachi
-Whatever
-Pa'' Puras Verguenzas
-Acoustic Landscape
-One Down
-Bhorus and the Cridge
-A Vida Que Eu Escolhi
-Sólo Clasicos
-Sólo Clasicos
-Omar Geles - 10 Años De Historia
-The Present Lover
-Mayday
-A Ver Que Pasa!
-The Soft White Ghetto
-Por Amor Al Arte
-Barbie Reloaded - das Ziel ist im Weg
-Firmament
-Flextone / Signal Up Ahead
-Firmament III
-The Sound Of B21
-Tera Roop
-Miles Davis
-Calendario De Amor
-El Piporro - Mi Historia
-Hated On Mostly
-Tales Don''t Tell Themselves
-Shrek The Third
-For Those Who Know
-Good Thoughts
-Up All Night
-Just Kidding
-The Key
-Greatest Science Fiction Hits Vol. IV
-Raw & Alive
-Wire Daisies
-The Very Best Of Bobby Goldsboro
-Love Or Physical
-Dead Without You
-Resistance
-Captain Lockheed And The Starfighters
-Greatest Hits
-Are their spirits here?
-Blind Boys of Alabama
-Ronnie Milsap Sings His Best Hits For Capitol Records
-Anything Near Water
-Orphan''s Tragedy
-Freeway Madness
-War On Everybody
-It Could Ruin Your Day
-Quick_ Fast_ In A Hurry
-Some Stupid With A Flare Gun
-The Very Best of Jimmy Reed
-Four Walls
-Build To Rock
-Architectural Effects
-Gwen McCrae Sings TK
-August
-Decoder
-Agua da Vida
-Wrapped Up In A Five Pound Note
-Anthology:  ''83 - ''89
-Porelamordedios
-Recital
-Universitat
-A Penny For Your Thoughts
-Talking Drum
-Louisiana Hot Sauce
-Happy Again
-Tej Leo(?)_ Rx/Pharmacists
-Seguimos Cantando
-Sittin Here Wonderin
-F*ck You All
-African Gnaoua Blues
-Cecil''s Boogie
-La Gente Arriba
-Texedores de Suaños
-Terra
-La Flama
-Pars Vite Et Reviens Tard
-The 21 Century Tour
-Copa Pavón Y Llave De Oro Del Cante Vol. II
-Amor Sem Limite
-Cabulero
-Call of the Mystic
-American Hunger
-Complete Recordings_ CD E
-Sonny Terry & Brownie McGhee_ Vol. E (1938-1941)
-New York 1938-1939_ Vol. C
-Buio Omega
-Songs of the Mystics
-Live Around The World 1991 - 1996
-Tour de Flock - Live At The Point
-New Epidemic
-Iris
-15 Exitos 15 - Joan Sebastian
-Lucha Villa
-Jazz For Weddings (Jazz Club)
-The Love Lost EP
-Leather Jackets
-Chansons pour qui?
-Punk Debutante
-Hit Maker!
-Respect
-Sliding Reins
-The Chill Out Album
-The Hits Of Edwin Starr
-Endless Dream
-Good News - An Introduction To 10CC
-Priceless
-Happy Music: The Best Of The Blackbyrds
-Old Lions (in the world of snarling sheep)
-With No Human Intervention
-Do You Know? (The Ping Pong Song)
-Mischa Maisky - Cellissimo
-Who Do Ya Love
-Hemispheres
-Homongously Yours
-SolAce
-W.A. Mozart Flute Quartets
-A Stiff Little Breeze
-Plou Plom (Musiqueta Que Enamora)
-Electric Guitar
-Shreveport''s Throwdest
-Tulenkantaja
-The Necropimp
-Lo Mejor De Vilma Palma
-A Few Things To Hear Before We All Blow Up
-Ground Zero
-Everything You Heard Is True
-Live Underslunky
-Warm
-Red For Fire - An Icelandic Odyssey Part I
-13
-The Fuse Is Lit
-Caramelo
-Ragged Edges
-Where Were You...
-Tommy Johnson 1928 - 1929
-Blind Lemon Jefferson Vol. 4 1929
-Blind Boy Fuller Vol. 6 1940
-Messages
-Kokomo Arnold Vol. 3 (1936 - 1937)
-Kokomo Arnold Vol. 4 (1933 - 1934)
-Sapni Di Kanj Vargi
-Papa Charlie Jackson Vol. 2 (1926 - 1928)
-Splashing
-Thank You For Supporting Country Rock''N''Roll
-Field Conditions
-Anthology
-Thrust
-Weep No More
-Elemental Evil
-Maximum Coldplay
-Tender City
-Self-Titled
-The Reunion II
-Terra Incognito
-Pride of Lions
-Dust Off And Dance
-Fade
-Blanc Faces
-Return Of The Devious Styles
-Frances Nero The Hits
-Mettete Dei Fiori Nei Vostri Cannoni
-30 Mejores
-Jersey Boys Original Broadway Cast Recording
-Mapmaker
-Nada Es Igual
-Massive R & B - Spring 2007
-Nederlands Grootste Nachtmerrie
-Enamorado (Fan Edition)
-Punkrockacademy-fightsong
-Suburban Light
-Argyle Heir
-Life Won''t Wait
-Out Of Bounds
-Modern Day City Symphony
-The Struggle Continues
-Skeleton Jar
-Springtime Can Kill You
-The Aggrolites
-Rogues Gallery; Pirate Ballads_ Sea Songs & Chanteys
-The Guitar Man
-Sun Shower
-Temptation [Musicload Only]
-Hi Lili Hi Lo
-The Spotnicks
-Rameau : Les Indes galantes
-Sanna Nielsen - Min önskejul 2001
-Schumann : Kinderszenen_ Waldszenen & Bunte Blätter
-Big Every Time
-Roussel : Symphonies Nos 1 - 4
-Schönberg : Pelleas und Melisande_ Variations_ Violin Concerto & Piano Concerto
-Best Of Luna
-Now Thats Disgusting Music
-Valentino
-Welcome To The Pleasuredome
-Titanic Days
-Compass Point
-Shades Of Rhythm Singles  - Volume 2
-The Stiff Years
-ZTT Singles Volume 2
-Lamb Favorites
-Family Tree
-Family Tree
-El Cartel: The Big Boss
-The Grass Is Always Greener
-Cocktail Disco
-Hymn
-Você E Eu
-One_ Two_ Three
-Innocence
-Attention!
-SHOGUN
-Hymn
-Wouldn''t It Be Good
-The Prodigal Son
-My Definition... RMX
-Rebel Extravaganza
-Renegade
-Live in L.A. Death & Raw
-Finally Made Me Happy
-So ist das nun mal
-Shadows & Dust
-Death Cult Armageddon
-The Best Of Spinners
-Randy Meisner
-Grand Slam
-Rhino Hi-Five: The James Gang
-Mature Fantasy
-Walking In Memphis/Can Delight
-Jack Is Back / Don''t Stop
-Hellfire Club
-Dance Lesson No. 2
-Tejano All-Stars: Masterpieces by La Fiebre
-Sag Mir Wo Die Party Ist!
-Super Lungs
-Robot Man
-Critical Beatdown
-Slipknot
-Don''t Stay Out Late/ Lord Creator Greatest Hits
-Sessions@AOL
-Away We Go!
-Live In New York
-Pensa
-Generazione X
-Noll
-New And Improved
-The Paul Butterfield Blues Band Live
-Überfall
-Poesía Básica
-Volume 8
-Musique inspirée du film Scorpion
-Lost
-RE-LICKED: The Best of & Remixes
-Beyond The Valley Of The Murderdolls
-Love Life
-Based On A True Story
-Inspirational Vibes
-Octagon_ Octagon_ Octagon
-Just Roll Tape - April 26th 1968
-The BBC Sessions
-Best Of
-The Tranzmitors
-Sen
-Storybook
-The Essential Capitol Collection
-Family Collection 1987-2007
-Variations Sur Le Meme T''Aime
-Eat Or Get Ate
-Reunieconcert 2007
-Easy Money
-The Very Best Of The Dramatics
-Girados
-lo mejor de  Luar na Lubre
-NapsterLive Session
-Dreamhouse
-Lightworker
-Myths_ Legends And Other Amazing Adventures
-Anything Worth Saying
-Hotel Lives
-A Revelation For Despair
-Hands Across the Void
-Erol Alkan 12 Mixes
-Relax With Mekon
-Magician''s Hat
-Attic Thoughts
-Legend Of The Sun Virgin (World)
-2 Become 1
-Mechanical Forces Of Love
-The Last Kind Words
-Ventill/Poki
-Athiest Lovesongs ToGod
-Alone in the Bright Lights of a Shattered Life
-Rockstar Mentality
-Live Free Or Die Hard
-Dandruff
-5 Years Get Physical
-The Ultimate Collection
-Live At The BBC Vol 2
-KFC
-Volume
-Odysseus 7
-Genius + Love = Yo La Tengo
-Ghetto Youth
-Sojourner
-James Brown''s Funky People Part 2
-Manfred Mann - Down The Road Apiece (Their EMI Recordings 1963-1966)
-Presenting Isaac Hayes
-Songs Of The Brazos Valley
-Burn Out At The Hydrogen Bar
-Bunsen Burner
-Intuition
-Harry Potter And The Order Of The Phoenix Original Motion Picture Soundtrack
-Unglamorous
-Western Electric
-Hot Flashes / Crazy All The Time
-Nothing New For Trash Like You
-1408
-Mo'' Mega
-ME BEING ME
-Killa Season
-Eardrum
-Little Black Numbers
-...Always Leave The Ground.
-The Classic Collection
-Peaches
-Journey To The Windward Islands
-Night And Day
-Zero Zero EP
-Fruity EP
-Rush Hour 3
-Beautiful Someday
-Ready_ Set_ Go!
-Versatile Heart
-Rock Star
-Bambusbeats
-Electric Wildness
-Shoot ''Em Up
-Über die Jahre
-Reggae Hit L.A.
-Drop Down To Earth
-Howie Beck
-Hard Trance EP11
-So Pale Is The Light
-A Tribute To The Pussycat Dolls
-Fantastic Star
-The Adventures Of A Dub Sampler: Dub Me Crazy Part 7
-Vapour Trails
-Like Something 4 Porno !
-Let''s Spend Some Love
-1964
-Cyberpunx
-Ph Theme
-Ut Zwarte Aap
-Stylin'' Up
-Looking For Butter Boy
-Come My Way
-1st Album And Future Shock Ep
-Submarine Bells
-Weeville
-Spill The Beans
-Unknown Country
-Positively George Street
-Kaleidoscope World
-Vanusa
-In Absentia
-20 Suosikkia / 70-luku / Iskelmä 2 / Apinamies
-Song For Jasmine
-At First Sight  Includes Bo Nus Disc With Bsides  Live Tracks
-Come With Me Revisited... La Suite
-This Love
-Ystävälle
-Nobiltà di strada
-Rhino Hi-Five: Bryan White
-20 Suosikkia  / Laulajan testamentti
-20 suosikkia / Yyterin twist
-Tributo
-20 Suosikkia / Pure mua
-Reggaeton Ignition_ Vol. 4
-The Best Of Pantera: Far Beyond The Great Southern Cowboy''s Vulgar Hits
-Intuition / Sunrise
-Underground Hip Hop Vol. 2
-Sämpler Vol. 2
-Social Distortion
-Out Of The Dark (20 Years Nuclear Blast)
-Access Peace (Loveparade 2002)
-Love Parade 1998  One World One Future
-DOCUMENT
-skin on fire
-Crows Fly Black
-System Shock (The Lost Album 1999)
-Compact Disco Volume One - Ladomat 2000
-STORM
-II
-Motown #1''s Vol. 2 ( International version )
-Mercury
-Catedra Del Cante_ Vol. 49: Pepe Pinto
-Tito Schipa: Greatest Hits - Italian_ Spanish & Neapolitan Songs
-F.O.A.D
-Been caught buttering
-The Great Fall
-Blues For Yesterday
-Let''s Just Be
-Rise Above
-Tangaria Quartet
-Cover Your Tracks
-18 CANDLES: THE EARLY YEARS
-Beauty And The Breakdown
-What Demons Do To Saints
-Goodbye To The Gallows
-A Better View Of The Rising Moon
-try
-The Simpsons - Testify - A Whole Lot More Original Music From The Television Series
-Kun Suomi Putos Puusta
-Straight From The Heart
-And Who Shall Go To The Ball ? And What Shall Go To The Ball ?
-Transylvania 90210
-Greatest Hits
-Gun Shy_ Trigger Happy
-Johnnie B. Bad
-25th Day Of December With Bobby Darin
-The Unsinkable Molly Brown - O.S.T.
-The Best Of Bill Cosby
-Live Forever
-Radio Radio TV Sleep
-Alma de fuego
-Strikes
-Music From The Motion Picture Lock_ Stock And Two Smoking Barrels
-Live: Sittin'' In Again At The Santa Barbara Bowl [Premium Version w/Bonus Tracks]
-2X4
-Happy Hour
-Il mondo insieme a te
-Le Canzoni Intelligenti
-Eclipse
-Oi Oi oi
-Killing Me
-I''m On A High
-Time Together
-Southern Gospel Treasury Series
-Spread The Word
-Here''s To You
-Bobby Darin Sings Ray Charles
-Camille Jones
-NERVOUS TOP TEN PRIDE CLASSICS
-Girl In The Moon
-If You Need Me
-The Art Of The Trio Vol. 5: Progression
-Trio
-Llevame Contigo
-Nanoalbum
-High
-20 Suosikkia / Tulipunaruusut
-20 Suosikkia  / Siks'' oon mä suruinen
-In The Belly Of A Shark
-Grow Up and Blow Away
-Infernal...But There''s Still A Full Moon Shining Over Jalalabad
-Lo mejor de Enrique Urquijo y Los Problemas
-Somos Otra Cosa
-Sweet Nothing
-12 Grandes exitos Vol. 1
-Watching black
-NYC Underground DJ Mix
-My Kind Of Music
-Forever
-Revolution
-White Trash Christmas
-Long Night Out
-Live It Up
-Classic Wave
-Forever Changing: The Golden Age Of Elektra Records 1963-1973
-The Mad Twenties
-Sings The Old & The New
-A Funky Thide Of Sings
-Definitionen Af En Stodder
-NapsterLive
-Two Eyes
-Josh Rising
-M.I.A.: The Complete Germs
-Back Of My Mind
-Doo Wop Classics_ Vol. 4
-Freakshow pt.2
-Je Ne T''aime Plus
-Silence [feat. Sarah Vieth]
-FULL MOON
-Something / Fantasy Mega
-Now I See
-Vida loca
-Sore
-Party on my own
-Storm
-No Podemos Volar
-Come Pioveva
-Made Me Hard
-En Vivo Mucho Mejor
-Los singles y primeras grabaciones
-Best Of DWA
-In Your Face
-Hellalive
-Slow_ Deep and Hard
-Full Circle
-Rhino Hi-Five: Joe Sample
-12 Grandes exitos Vol. 2
-Fantastic Damage
-Killing Some Dead Time
-Bertzeloona
-Due Season
-Calling All Stations
-Bravo
-Hi-Jacked
-Self
-Tatü-Tata
-1973
-Welcome To The Zoo
-One Wintry Night
-Hatefiles
-Retaliation
-DAH INSTRUMENTALZ
-River Runs Red
-The All Star Sessions
-Dark Ages
-The Best Of Annihilator
-I Still Have A Pony
-Reclamation
-Live
-Together
-Walking The Dog
-Cat Trick
-4 Rosas Y Que Dios Reparta Suerte
-The Right To Bare Arms
-In Camera
-Invitation [Live]
-Eleventh Dream Day
-Laihoilla hartioilla
-Vision of Disorder
-En Public Au Théâtre De La Ville
-We''ll Never Turn Back
-Riddim Driven: All Out
-Tokyo Rose
-Stax-Volt: The Complete Singles 1959-1968
-Brujerizmo
-The Soundtrack
-The Goofy Movie Original Sound Track
-Girls & Weather
-Alles Is Liefde
-The Fury Of Our Maker''s Hand
-Mathilde Santing
-Nah No Mercy - The Warlord Scrolls
-Live In Buffalo July 4th_ 2004
-Louis Andriessen: Rosa - The Death Of A Composer
-Dreamer
-Blue Afternoon
-Eye To Eye
-SCHEISSE
-Samling
-Marmellata#25
-Emancipate Myself
-Genoux A Terre
-Selfcontrol
-A Girl''s Best Friend
-Telektroponk!
-12 Grandes exitos Vol. 2
-Hay poco Rock''n''Roll
-Seven Songs for Jim
-Rockin'' This House: Chicago Blues Piano 1946-1953_ CD D
-Where Is Your Love Mankind
-Teorema Ed Altri Successi
-Cinema
-The Wolves Go Hunt Their Prey
-Somebody Else
-Jana Gana Mana
-Englabörn
-Self-Titled Split
-Cuerda Para Rato
-10 Años Repartiendo Salsa
-Lightning Strikes
-The Big Three
-Want Me (Like Water)
-In And Out Of Fog And Lights
-Sous le regard d''un soleil noir
-The Search Is Over
-In All Of My Life
-Hurricane
-Young Man''s Blues: The Best Of The JSP Sessions 1989-90
-Maximum Kate Bush: The Unauthorised Biography
-Worried Blues (CD A)
-Nailwork
-The Awakening
-Post Momentary/Scrolls
-The Temple Of Knowledge
-Choose Life
-Catch 22
-One Crimson Night
-New Orleans Guitar_ CD C
-Termination Bliss
-Marvin At The Movies
-Jörn Schlönvoigt
-No Good_ No Time_ No Pride
-Final Attraction
-Running Free
-Pulverturm 2.0
-Marc Romboy Presents Musica Electronica
-Banghra (All Mixes)
-Homecoming Hymns
-Jus'' Jake And A Few Close Friends
-This Is The Sound Of An Eclectic Guitar - A Collection of Other People''s Songs
-Meet The Robinsons Original Soundtrack (French Version)
-1
-The Brave One
-Rise Up!
-Soho Live At Ronnie Scotts (Disc 1)
-CRISTIAN MARCHI EP
-The Silver Arm
-Under The Boards
-Ma Vision
-Forgotten Paths (The Early Days)
-Solar Powered EP
-Thunk
-Ascension
-DR DRE 2005
-Live In Japan
-Expanding Senses
-Follow The Reaper
-Inside
-Nothing
-20 Melodies pour rever_ Volume 1
-Lights On
-Best Off
-Higher Grounds
-Harmony House Verse 2
-Nostalgia
-Step By Step
-Funky Jazz Party
-Bobby_ Noel & Cole
-Long Hard Look
-Anything Is Possible
-Konstpaus
-Yet Dreaming
-Oh_ Didn''t He Ramble
-Nawet
-Ugyanaz Vagyok
-Pernao Poli Kala
-Bis Zum Erbrechen Schreien
-Hindemith: Kammermusik Vol.2
-Respighi: Orchestral Works
-The Quiet
-The Pledge
-FEELS GOOD TO BE FORGIVEN
-Kinetic Faith
-Value Pac
-Havalina Rail Co.
-Dziewczyna Szamana
-Mozart: Eine Kleine Nachtmusik etc.
-//:Tres.Jeans
-Secada
-The Best Of Mink Deville
-You''re My Everything
-Tartson Orokke
-Da Hoola
-El Camino (Remix)
-Force of Nature
-Black Shines Through The Black EP
-Sentidos Opuestos
-Confí De Fuá
-Ayudame A Mirar
-From Me To You (Love Songs of Lennon & McCartney)
-Simple Gifts (Songs of Inspiration)
-Memorias Cronicas E Declaracoes De Amor Textos_ Provas e Desmentidos
-Mozart String Quartets
-Delta Hardware
-Ruem Hart
-Krause Alarm - Das Beste Party Album Der Welt
-Rex Allen: The Last of the Great Singing Cowboys
-Mozart: Opera Overtures
-Aina Nälkä
-Strategies Against Architecture III
-Freek Funk
-Taking Tiger Mountain (By Strategy)
-Sir Thomas Beecham: Great Conductors of the 20th Century
-After God''s Own Heart
-Onder De Duinen
-Just Like The First Time
-Set The Mood
-Hit Parade: The Greatest Hits
-23 Millennium Classics
-X
-Deeper
-IV
-High School Rock
-Tales Of Silversleeve
-Yi Ge Ren De Gan Jue
-Brahms/Mendelssohn - Concertos
-Julie Andrews Selects Her Favourite Disney Songs
-Cherubini & Wolf-Ferrari:Overtures
-La Belle Helene
-Under Neon Light
-Caravane
-Crazy Love
-Måla Mitt Minne
-Works For Piano Vol.1
-Treehouse
-Nolita
-Intoxicated Man
-Racist People
-Buoni O Cattivi
-Wrodzony Instynkt
-El endemico embustero y el incauto pertinaz
-Caravan Of Light
-Collection: B. Carlisle
-La Varsta De 3 Ani (At Three Years Old)
-Impredecible
-El Canto De Un Rebelde Para Un
-Retratos
-Criaturas Da Noite
-Devils
-Cookies 11 Fire Concert Live
-Stay
-L''Eternité De L''Instant
-Wawamix
-Radioaktywny
-A New Sound - A New Star
-Babies Go Sting
-Companeros De Viaje
-The Magic Of
-Ferry Cross The Mersey (Mono And Stereo Version)
-Before The Rain
-Collection Disques Pathé
-Nous Les Amoureux
-Su Cante
-Bach St Matthew Passion (abridged)
-Four Corners
-Ultimate Experience_ The
-Un Mundo Separado Por El Mismo Dios
-Donna
-Cantes Antiguos Del Flamenco
-Matono
-Now And Then
-Puoli Viisi Aamulla
-Now That It''s Over
-Serenades
-Dvorak: Symphony No 9 / American Suite
-Jin Zhuang Ge Lan Ming Dian
-Root Hog Or Die
-Na Maar Jalma Ve
-the bird and the bee
-When I Am God
-Best of Kuldeep Manak Vol. 2
-I Do Believe
-Bass Paradis
-Queen Rock Montreal
-A Distant History: Rarities 1997 - 2007
-Carmen
-Wen Ku Chih Hsin:i Ke Jen Te Tien Huang Ti Lao
-America
-As I Moved On
-Rolando Villazon: French Opera Arias
-Solar Plexus
-Te Conquistare
-Rogelio Martinez Con Tambora
-Jose Julian
-Los Chunguitos
-Memories Of Christmas
-Ilta Illan Jalkeen
-Perro Malagradecido
-Sanctuary
-Lifeline
-Dear Shunza
-Totta 5; Turnén
-Bobby
-Afinidades
-Mazz Fuerte Que Nunca
-Siempre Pensando En Ti
-El Sentimiento Garrapatero Que Nos Traen Las Flores
-Deja Vu
-Everything Was Beautiful And Nothing Hurt
-1000 Vivos
-Terrorist Threats
-Era Renifera
-Raizes Do Samba
-Niezwykle Miejsca
-Wild_ Cool & Swingin''
-Dr. Spikee
-Coleccion Aniversario
-En Vivo...Desde Monterrey_ México
-Viento A Favor
-Sensual Embrace Volume 2: More Soul Ballads
-Corazones Antarticos
-Wehikul Czasu Vol.2
-Time Was - Time Is
-Welcome To Blue Island
-Aftermath
-Francis'' Lonely Nights
-Figureheads On The ForeFront Of Pop Culture
-Building A Better Me
-The Narrow Scope of Things
-Plastic Surgery
-The Ball Point Composer
-Satan''s Little Helpers
-Deliberation
-Dating
-The Very Best Of Reginald Dixon
-The Best Of The Flying Pickets
-Hidden Pathways
-The Cool School/Do Re Mi
-O Yeah
-Kugatsu no Sora
-Even Stil
-Mensajes Y Locuras
-Hyvaa Yota Bangkok
-Monteverdi - Salva Regine; Motets for 1-3 voices
-A''s_ B''s And Rarities
-The Ownerz
-Caught In The Act
-Come Softly To Me: The Very Best Of The Fleetwoods
-Skyline Firedance - The Orchestral Works and The Solo Works: 2 compact discs
-Straight Outta Compton
-Rock For Light
-Seismic
-Helium
-Handel -  Rodelinda
-Mozart : Violin Concerto No.3/Adagio & Fugue/Symphony No.41
-Martha Argerich presents...Sergio Tiempo
-Almost Ambient Collection Volume One
-Chip In
-The Power And The Myth
-Abraço Português
-Now & Live CD 1: Now
-Tour
-On Broadway
-The Forties Vol. 2: 1947-1949
-The Best
-The Panama Limited
-Good Rockin'' Tonight - Live In San Francisco
-Ma Goutelha Oualou
-Celebration
-Qu''Est-Ce Que Je Fai La?
-Ashaer Quloub
-Mare Di Memorie
-Never Look Back Here Again
-Spanish Guitar Virtuoso - Volume 1
-Those Simple Things /Daydream
-Dancehall Mood
-The 89ers Boy
-Top Of The World
-Ten Pieces To Save The World
-Foste Embora
-David Tao
-Realive Tour 2002 -Odoranya Son Son- in Tokyo
-Summer Love
-Drömmarna
-Bolero! Be Happy Live
-Dazkarieh
-Red Harvest
-Loose Lips b/w Start to Dreaming
-Everything Good
-Jimmy Carter: Man from Plains
-In Your Blood
-Truth
-The 911 Report - The Ultimate Conspiracy
-Break Glass&
-All Fates Have Changed
-Hip-hop For $ale
-c True Hollywood Stories
-A New Dope
-Mimame Bandoneón
-Symphony of Voices
-Mezi Nima
-Bad Story_ Happy Ending
-Mustang Sally
-Ladioo
-Yeniden Hayata
-The Return Of Jack Splash
-LazyTown
-I''m Gonna Lasso Santa Claus
-Simply Chopin Volume 4
-American Gangster
-No Illicit Dancing
-Neighbourhood
-Copasetik and Cool
-Deeply Dippy
-I''m Too Sexy 2007
-Revolución
-Bilduma Bat
-Next Stop Armageddon
-É Assim...
-Extraordinary Popular Delusions and the Madness of Crowds
-Frenzy
-Ataxia''s Alright Tonight
-&Que viva el vallenato!
-The Release Party
-São Paulo - 1554 / Hoje
-O Violeiro Mais Sertanejo Do Brasil
-Start All Over Again - Taken From Superstar Recordings
-Left and Leaving
-Lions For Lambs
-Krunk / That''s It
-The Glam Years
-Parallax Panorama
-Mharch Mhadness
-Haven''t Stopped
-Half Dozen
-Let''s Stay Friends
-Morning Star: Soul Of The Beast
-The African
-This Is Mine
-Pop Rock & Vice Versa
-Easy Tiger
-Glorias Del Tango: Aníbal Troilo Vol.2
-Monster Maker
-Humppasirkus
-Validated
-Black Sounds Of Freedom
-Steppin'' Out
-Coda
-Varjoissa Vapaan Maailman 10v. Juhlapainos
-Yö enkelten - kauneimmat joululaulut
-Christmas All Year Long
-Laura Häkkisen Silmät
-Intimately Yours
-Tinta Y Papel
-Unspoken Emotions
-Everything Is Temporary
-Old Dogs_ New Tricks
-Mannequin Depressive
-Fanning The Flames Of Fire
-Lust Lust Lust
-Plagues & Snakes
-Figureheads
-Conversations with Dudley
-Home Is Where The Heartache Is
-Songs Of Life
-Slice of LIFE
-Cooking With&
-Y34RZ3r0r3mix3d
-Ces Petits Riens
-Saqueando A Cidade
-Om Du Lyssnar Noga
-Big Bill Broonzy Vol. 9 1939
-Jazz Gillum Vol. 2 1938-1941
-Casey Bill Weldon Vol. 1 1935-1936
-Frankie ''Half-Pint'' Jaxon Vol. 2 1926-19309-1937
-Creator Of The Memphis Blues
-Lil Johnson Vol. 2 1936-1937
-Birmingham Jubilee Singers Vol. 1 (1926-1927)
-Lucille Hegamin Vol. 3 (1923-1932)
-Suture
-Life is Easy
-Brooklyn Bank
-Blonde Exodus
-Wishing Well
-Solo [3]
-Web
-When The Blues Hit You
-Rexx Erected
-Kajuvej
-How High The Moon
-Remember&
-Stay Tuned
-UltraTerrestre
-Songbones
-Beautiful Day
-THAT''S RIGHT / DON''T TREAD ON ME
-Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set
-The Devil Makes Three
-Staring At The Rude Bois
-Metal God Essentials Volume 1
-Electropop Remix EP
-Jako Sántideví
-King Of Western Swing_ Vol. 1
-Meu Oficio É Cantar
-DJ Play My Blues
-The Early Greatest Hits
-Here I Am
-10000 Km
-Hagan Correr La Voz
-Harbour
-Solos
-Fragment Two (The First Picture)
-Destinos
-Det Snurrar I Min Skalle
-Pra Te Abrigar
-Viva Mexico
-Close Cover
-Dreaming Out Loud
-Acoustic - The Best Of Souad Massi
-Skins
-The Bird Of Music
-Fuse Box Live & In The Can / King of Fools
-Day Too Soon
-Anthem
-Desert Poems
-Nafas
-Giramundo
-Something is Wrong
-The Angel And The Dark River
-As The Flowers Withers
-Officium
-Live At The Olympia
-Werner Pirchner: EU
-I Hate To Sing
-Rufus Does Judy At Carnegie Hall
-Trinity
-Asile''s World
-Pearl Days
-The Way
-Ein Geschenk
-Ou Bien Le Débarquement Désastreux
-Gjallar
-Metal For Life
-Shap
-New Religion
-The Further Adventures Of Little Voice
-Farida Khanum: Meri Pasand Vol 1
-Guitars In Orbit
-Rumba Blanca
-Asi Bailaba Cuba Vol.1.2
-Of The Past
-Thirty Three & 1/3
-Sente A Pegada
-Forróneirando
-Sand on Seven
-Encyclopedia of the Insane
-Gauderiando
-The Best Of Petula Clark
-Is You
-Frédéric Chopin: Walzer
-Stax-Volt Chartbusters Vol.6
-Alone- The Home Recordings Of Rivers Cuomo
-Terraplane
-Stuck Together With God''s Glue
-Zman Sukar (Sugar Tme)
-Lazooz (Move)
-Homer Mekomi (Local Material)
-N Stille Runaway
-Samba Raro
-Roots - The Best of Show of Hands (Digital-Only Bonus Version)
-What''s It All About?
-If He''s Protecting Our Nation_ Then Who Will Protect Big Oil_ Our Children
-Hey! Piano Man: Selected Boogie Woogie Sides Remastered - CD B
-Harpslinger
-The Shoop Shoop Song
-All Night Long
-Recuerdos De Provincia
-Maga (negro)
-Somnium Obmutum
-Flash Paper Queen - The 4-Track Demos
-La venganza de la abuela
-Berri Txarrak
-En la kalle
-Green Thoughts
-The Best of Westside Connection
-Lovehate
-Solo Hits Vol. 1
-Set You Free
-Riddim Driven: Buy Out
-Platinum Soca Vol 3
-Riddim Driven: Flava
-Riddim Driven: Career
-Riddim Driven: Cookie Monster & Allo Allo
-Riddim Driven: Sunlight
-Sleng Teng Resurrection
-Riddim Driven: Grindin
-In The Jungle_ Babe
-My Love Is Pink
-Transmetropolitan
-Wolves
-Scorpion Tales
-If Jah
-Riddim Driven: Golden Bathtub
-Party Alliance
-1985 Sleng Teng Extravaganza
-Like A Sadhu EP
-Live 100
-Many Moods Of Moses
-Los Peces
-Se habla español
-Jamparalele
-Christmas Like This
-Tour 2007
-Instrumental-Hits in Gold
-Zion Gates
-Triple Spin Vol. 1
-Black And White In A Grey World
-Mendika
-The Best Of Rolf Harris
-Opium Haze
-Up In It
-Frigid Stars
-Dayglo
-The Question Is No
-Rambo - First Blood
-The Smoke Of Hell
-Simpatico
-Weißes Album
-One Love - The Best of Ursula Rucker
-Calling From a Country Phone
-After the Snow
-Red House Painters I
-Elvis Sex-Change
-Erotic Terrorism
-41
-Immigrant
-Hate
-Something Dangerous
-Nino Rojo
-Arular
-Ewan
-Mclusky do Dallas
-My Pain And Sadness is More Sad And Painful Than Yours
-Seasons
-The Bucket List
-The Golden Foretaste of Heaven
-He''s In The Jailhouse Now
-So Fine
-A Higher Calling
-The Search/Land Speed
-TNT
-Flyleaf
-Just A Little Lovin''
-I Feel Fo Ya
-Live: Official Bootleg (Vol. 1)
-Other Valentines
-The Pigeon Is The Most Popular Bird
-Idea [Expanded]
-Songbird
-Nuclear Blast Showdown 2007
-The Best Of Johnny Dankworth
-The Ups and Downs: A Very Beautiful Collection
-Alex Loves...
-Sony Connect Set
-INKARU
-Night On Earth
-The Perpetual Motion
-The Very Best Of
-LP ESB
-Ricetta Antirughe
-U & Me
-REvolution Live!
-Leona Williams & Edna Winston (1922-1927)
-East Coast Invasion - Audiobook
-Oberon
-In My Life
-Sweet Sweet Frenzy
-Americana - Disk 1
-$ Word is Bond $
-Swamp Blues
-On The Sunday Of Life
-A Perfect Way To Say Goodbuy
-Battery Milk
-Cotton Pickin'' Blues
-Poison Songs - Show Me Your Hits
-Don''t Sleep
-Sinthetic
-As I Am
-Something To Talk About
-Temptations
-Pain Disappears
-Absolutely The Best
-Lost And Found: 1960s Pop Volume 2
-Live
-The Story So Far
-Debut Rarities_ vol. 4
-BatBox
-The Greeting
-Fear Not
-Abhathu Anki
-Archer Prewitt Live at Schubas 08/14/2004
-Izzay Terafni
-Blue Mountain: Tonight It''s Now Or Never--Live At Schubas
-Boy Zone Live at Cat''s Cradle 12/12/2004
-Brave Combo Live at Cat''s Cradle 03/13/2005
-Bumpus Live at Schubas 06/18/2004
-Cracklin Moth Live at Schubas 07/01/2005
-Unnatural Causes
-Dash Rip Rock Live at Schubas 08/13/2005
-Black for Death - An Icelandic Odyssey part II
-Icon: Acoustic TV Broadcast
-Live In Atlanta
-Sweet Life
-Rainbow Tales
-You''ll Never Walk Alone (The EMI Years 1963-1966)
-Disco Not Disco Digital Edition
-Jetzt schämst Du Dich!
-Feeling Good
-Working Man''s Blues
-15 Aniversario
-Ravi Shankar Digital Collection 4
-It Ain''t Me Babe
-Live At The Gods Festival 2002
-No Comply
-Blow Up
-Fireproof
-Beat Pyramid
-Chillout Ambient Christmas
-Honey - The Best of Bobby Goldsboro
-Capitol Collectors Series
-More Music For Films
-Texas Gold/Comin'' Right At Ya
-Once Around The World
-Traditional Sufi Qawwalis - Live in London_ Vol IV
-Canta O Samba De São Paulo
-Bob Crosby''s Bobcats
-Post-Mersh_ Vol. 3
-I Can See You
-Governor Jimmie Davis: Louisiana
-Hank Penny: Crazy Rhythm: The Standard Transcriptions
-Johhny Bond: Country and Western: The Standard Transcriptions
-Interstellar Space Revisited (The Music of John Coltrane)
-Clubber''s Guide to Breakbeat
-Burn The Incline
-&Gay
-First LP Record: Collectors Edition
-Fly The Flag
-Drowning in Limbo
-Nipples
-Waves from Albert Ayler
-True 50''s love
-The Best Of Polecats
-Take Over
-Sirens
-Performance
-Knockin Boots 2001& A Sex Odyssey
-D.I.G.I.T.A.L.
-Demonstration Tape (1997-2007)
-Idolator
-Irma Chill Out Cafè Volume Sei
-Unerschuetterliches Selbstvertrauen - Selbst-Management
-House Is Love - Club Sounds For A Better World
-Kiss Kiss Bang Bang
-Bring On The Night
-Iscariot The Ladder
-Guitar Christmas
-3 At Last
-Lección De Vuelo_  Versión 3
-Tiny Dancer
-Red Lights
-State Of Flow
-Automatic
-The First Conspiracy
-End Of The Millennium
-1 World - 0 Future
-Headcleaner
-Elegant Machinery
-Dif Dif
-The Aftermath
-Gee Whiz
-Art Rules
-Canciones De Amor - Rock
-60''s Rock Instrumental Collection_ Vol. 1
-Real Man
-Billy Dean
-Audio Manifesto
-At The Five Spot_ Vol. 2
-You''re My Road
-Smash
-Cosmic Spring
-Rancid
-I Am The Movie
-How Could Hell Be Any Worse?
-The Craft
-59.59
-Lateral
-Ins offene Messer
-Life Underwater
-Definitions
-The point at which it falls apart
-Novi Svet
-that''s nice ep
-I Love My Sex - Single
-Shimmers
-Rocket in the sky - Single
-Come Up For Air
-If You Can''t Join ''Em& Beat ''Em
-Unforgettable
-The Evening Descends
-Right On Time
-The Butterfly Collection
-Four On The Floor
-East Los Presents
-So Long & Thanks For All The Shoes
-Insider
-Symbolic
-The World As We Know It
-Orange Glow
-Rockferry
-The Land Of Freedom
-Hit Drop Selection
-Cerca Del Mar
-Southern Fried & Tested Mixed By The Mighty Dub Katz and Cagedbaby
-Black Water
-Pacer
-Excerpts From A Love Circus
-New Awakening
-Fucking Consumer
-Future
-Hooray For Everything
-Showcase Vol. 1
-Showcase
-No Come Down
-Rikkaboshi + a
-Grammy Nominees 2008
-Discipline
-Liquid Cocaine
-Rise
-Lost & Found: Peter Frampton
-The Time
-Something Beautiful
-Funplex (Remix EP)
-Heathenreel
-The Sound Of Bassline
-Noisy Electro House Vol. 1
-Lurking Fear
-the badtime stories e.p.
-Ribosomal (The Remixes)
-Strangers In The Night - Raritäten & TOP Hits
-Don''t Give Up Remixes
-Sweeter Than Fever
-Chimera
-Coma Divine (Special Edition)
-kaotic brain beautiful noise
-You Don''t Know - Ninja Cuts
-Covers
-Wonderful World
-Ultimate Collection: Lullabies
-International Standards Remixes
-presents: No Elevador EP
-Gunjan
-David Mead Live at Schubas 06/10/2006
-Live And Still Kickin''
-The Mix
-Every Day Is Saturday
-Wolfgang Amadeus Mozart Serenades
-Off Da Hook
-Comedy & Romance
-King Of The Hillbillies_ Vol. I_ CD A
-Un Mundo De Sensaciones
-No Es Nada Facil
-My Radio - Single
-The Very Best Of Hazel Dean
-Rapture Reconstruction: Platinum Edition
-Memories Of You
-Favourite Sounds Of Petula Clark Volume 1
-10 años de Mártires
-Las aceras estan llenas de piojos
-El Pan y la Sal
-At Carnegie Hall
-Sean-Nos Nua
-Utazás az ismeretlenbe 2
-Live In New Orleans
-Lars and the Real Girl
-Vivo_ 17 grandes exitos en directo
-São João Vivo
-Time-the Destroyer
-Archetype
-Died Laughing
-I Had Love
-Lo mejor de Manzanita
-Inner Conflicts
-Do You Wanna Ride?
-Places
-The Faithless
-Que grande es esto del amor
-Trini Lopez Now!
-So Far From Home
-The Very Best Of
-Peace Sign
-Chrome_ Smoke & BBQ: The ZZ Top Box
-5:55
-Searching For The Hows And Whys
-A Mad And Faithful Telling
-Movement
-Trabajito de chinos
-Live Bootleg
-Ugly
-Never Be Taken Alive
-Be Original
-Freedom
-A Book Like This
-MY Trance Anthems - Future & Classic Trance
-Planetary / City Tales
-Wishmaster
-For Emma_ Forever Ago
-Fire And Water
-Attack & Release
-Antidotes
-Adama
-Absurda Cenicienta
-Colleen Et Les Boîtes À Musique
-Strangers Almanac [Deluxe Edition]
-Soul Speak
-Super Deluxe
-Cantus Buranus Live In Berlin
-That Is Why You''re Overweight
-Spheres
-Tormenta A Las Diez
-After Hours Volume Six
-Cheeses
-Musical Chairs
-Communication
-Accelerate
-Go Bang! Volume 1
-The Green Owl Comp: A Benefit For The Energy Action Coalition
-Moontraveler
-Cal y Arena
-Radikal
-Ángeles S.A.
-Rata Blanca En Vivo En Buenos Aires
-Live At The BBC
-Colour Collection
-Una Guitarra En Granada
-Night Games
-Alta Fidelidad
-De Gainsbourg A Gainsbarre
-Pure Fire! A Gilles Peterson Impulse Collection
-Tercera Parada
-Hellfire Club
-Alone In The Dark
-Solar Soul
-Everywhere At Once
-Boozoo Chavis
-Studio 330 Sessions
-Ihmisten edessä
-Por Quê Ultraje A Rigor?
-Glory Days
-Skin
-Ilta Savoyssa
-Survivor Concert
-Pot Boiler
-The Resterberg
-Morricone RMX
-Good Weird Feeling
-French Kiss
-Pogo (Remixes 2008 EP)
-I_ Lucifer
-Years on the road
-My Heart Rate Rapid
-Segundo
-20 Suosikkia / Jätkän humppa
-Two Bad D.J.
-Buscando Un Amor
-Menos Jóvenes Más Clásicos
-Downright Upright
-Here Come The Tears
-Inventions for the New Season
-Star < Parallel
-Dead Can Dance (Remastered)
-Horton Hears A Who!
-Deep Elm: Forty-Fives
-The Life and Timez of the Mob Figaz
-Beloved One
-Apocalicious
-Esqueletos
-Liberty Toast
-The Last Temptation Of Reid
-Thizz Nation Volume 13
-The Fourth Plague: Flies
-Heaven (Digital Single)
-The Promise in Compromise
-Never Or Now
-Hentch-Forth.Five
-Split Decision
-Wenn Du aus dem Fenster siehst
-Funny Business : The Best of Uproar Comedy Volume 2
-Reach
-Live! At The Dance
-Sound of Light - Nordic Light Hotel
-$35 And A Dream
-The Cult Of Ray
-England_ Half English
-Magician Among The Spirits And Some
-Elephant Eyelash
-DJ Goldfingers : Les Yeux dans la Banlieue
-Raw Electric 1979-1980
-13 pezzi per svuotare la pista
-7 Respiri
-Penny And Me
-The Night Before Christmas 2
-Dial M-A-C-E-O
-Heat Miser
-The Boy Bands Have Won
-The Dream Merchant 2
-Dance Party In The Balkans
-A Picture Of The Three Of Us At The Gate To The Garden Of Eden
-My Body - The Pistol
-At Cafe Des Copains
-There Should Be More Dancing
-Think About Life
-Blackthorn: Irish Love Songs - An Draighnen Donn: Amhrián Grá
-Jazz Grooves
-Giving Machines
-Stay Tru
-LIVE [at the Echo - December 21st_ 2007]
-10 Bare Essentials
-October
-Take Me To The Continent
-Western Stars - The Bands That Built Bristol Vol. 1
-2 Unlimited
-Unforgettable
-The Truth
-Stratégie De La Rupture
-Enjoy CCCP (2008 Remastered Edition)
-The Individuals Are Born
-Casa de Praia
-I Know Youre Married But Ive Got Feelings Too
-Allennig II
-Aware
-Mudcrutch
-Just Me
-Some Time Ago (A Collection Of Her Finest Moments)
-Tiny Vipers
-Conector
-The Lure of the Tropics
-Ethiopiques vol 4 (ethiojazz)
-On the Inside
-Miss Machine
-Onward To Golgotha
-Flat Tracker
-Stigmata High-Five
-This Is Rose Maddox
-Fresh Fruit For Rotting Vegetables (Digital Version)
-Hello_ Avalanche
-Holi''De''
-The Road Home
-And Did Those Feet
-Make ''em Like It
-Terrain vague
-The Bluff
-Reproductions
-Is This Real
-Me Equivoque
-Friendly Pressure
-Krulle Bol
-The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition
-Gather Up
-Wish Me Luck
-Racine 2
-The Lone E.P.
-Diamond In the Rough
-Ire Works
-Aren''t Ready for the Country
-The Missing Years
-Suspicion
-Rawkus 50 Presents Hunger Strike
-Rawkus 50 Presents theBREAX
-Rebekah Higgs
-Keeping Company With Dinah
-So In Love - Original Recordings 1947-52
-Crisis
-Landungsbrücken Raus EP
-A2G EP
-Suite Flamenca
-Porno ''75
-Staying on the Watch
-Panteón Rococó
-Un Okupa En Tu Corazon
-Phoney Phranchise
-Icons
-Bambino Vol 1
-Efecto Mariposa
-It''s All About Love
-Ghetto-ology + Dub
-Ayer Y Hoy
-Los Chichos Sus 22 Mejores Canciones
-Cuerpo A Cuerpo
-America America
-Pre-Emptive Strike
-The Fast and The Furious
-Brian Regan Live
-New Girl In Town
-In All the Wrong Places/ Give Thanks
-A Singsong and a Scrap
-Overnite Encore: Lyrics Born Live!
-Prospects
-The Mob Gets Explosive - Explosive Mode III
-I Heard They Suck Live!
-Live From Toronto: Songs In The Key Of Eh
-Quality Soft Core
-Cognicide
-Pucker Up!
-Hard Act To Follow
-Hold Me To It
-Working Man
-Exception To The Rule
-Picture This
-Soul Shaker
-Believe It!
-Cien Por Ciento
-Por El Mismo Camino
-En Vivo
-Mal O Bien
-Larry Levan''s Classic West End Records Remixes Made Famous At The Legendary Paradise Garage
-Black Holes And Revelations
-Bayou Bluegrass
-Reverie
-Néochrome 2
-Deep Elm Unreleased No. 4
-Atlanta Boys
-After The Last
-The Gospel Collection
-Sex
-The Man Who Couldn''t Say No
-Here Comes Cleo
-Just Like That - Remixes V2
-Kar Kar
-Medicine Fuck Dream
-Compadre''s Texas Outlaws
-Scenic Overlook
-Sea Lion
-I Got The Guns
-Champions Of Magic
-The World We Live In
-After The Day - The Radio Broadcasts 1974 -1976
-Are You Ready For The Big Show?
-When The Telephone Rings
-West On 40
-Was nicht passt_ wird passend gemacht.
-Imagine Me
-I Am Still
-The Middle Of Nowhere
-Aijuswanaseing
-Awake Live
-Inventor Of Evil
-The Lemonade Ocean
-Verschwende dich nicht
-Tale Of Two Cities
-Seitsemän Surman Siunausliitto
-Don''t Lose The Magic
-ESSENTIAL 08
-The Old Rugged Cross
-Up Your Chimney
-Sea of the Dying Dhow
-Right On Time
-Houston
-Hala Strana
-In the Blood
-Come Get Some
-Corsario Negro
-Relapse
-Picture This...
-Bastards & Rarities 1989-1994
-Hell And High Water
-The Rules of the Game
-Rawk n'' Roll
-Discos Fuentes Salsa All Stars- La Biblia De La Salsa Vol. 1 & 2
-Evocando A The Beatles
-Devil in the Drain (Expanded)
-Introducing&
-To Whom It May Concern
-Believe
-So Begins the Test of a Man
-Can''t Buy Time
-Help Yourself
-Irish Folk Songs And Airs
-Boleros In Trío
-Jimi Hendrix - His Greatest Hits
-Never Surrender (Part Three)
-The Day I Turned To Glass
-Sam Mangwana Sings Dino Vangu
-Download
-Rumba Del Barrio
-La Tariacuri
-The Audio of Being
-Legacy
-Endless Pain
-The Transcription Performances 1946
-Beautiful Bend
-Viva El Mariachi Vol. 5
-Ultimate New Orleans
-Blessed Be This Nightmare
-Feel Like A Rocket
-Haran
-Stompin'' Around
-dB Jams Volume 3
-The Pat Patrick Band
-Now Hear This
-Finzi: Nocturne_ Severn Rhapsody_ Eclogue_ etc
-Last Train To Dover
-Freestyle Frenzy Vol. 6
-Freestyle''s Greatest Moments Vol. 2
-30 Del Recuerdo
-The Master''s Bedroom Is Worth Spending a Night In
-From Tokyo To Naiagara
-Etiquette
-Sangue Puro
-Warchild
-Bargrooves Bar Anthems
-Energía Inagotable
-Inheritance
-La Chiqui Big Band
-Daddy O
-My Paper Made Men
-4 Life
-Singles Box Set - HMV Parlophone Singles ''91-95''
-Wild & Wicked
-Valentine Kid''s Litter
-Curious?
-Daybreak
-Forever On The Edge
-Crosspross Bells
-Pokhititeli Knig / Book Thieves
-In This Place
-1980-1981: I Wanna Kill My Mom!!!
-Live And Rockin
-Watch Your Money
-All Lingo''s Clamor
-Economy of Motion
-Only You_ O God: Simple Songs for Worship
-The Carbon Copy Building
-Canta Como: Selena
-Serious Matter Dub
-Greatest hits Live with Sly & Robbie
-Summer Nights
-Los Titanes - Greatest Hits
-Sweet Wivelsfield
-Los Años De Oro - La Carta De Sus Éxitos
-Timeless Kiss ~ The Best Romantic Piano Music from Four Winds Kiss and Classic Romance Series
-Stars Of Hard Salsa
-Whoop That Trick Screwed and Chopped
-Horse Feathers / Animal Crackers
-6:AM
-Invencibles
-Cold Enough To Snow
-Organic Grooves 4- Live in NYC
-Stillbirth
-Queda Algo
-Sly & Robbie Present The Punishers
-On Top
-Ear Hines - Teddy Wilson - Art Tatum_ The Magicians of the Swing Piano - The Originals Series
-Jah Chas Ska
-Purpurina 37
-LIVE [in Spaceland - June 13th_ 2007]
-Rad Jackson
-Vietnam
-Mutilated In Minutes
-Kings Are Coming - The Freestyles
-Destroy The New Rock
-Karaoke : The Best Of Hip-Hop Volume 6
-Por Siempre
-The Funeral March
-Jellybean Soul Presents: Feel the Spirit_ Vol. 1
-Mercury Blues
-Steinway to Heaven
-Snooky
-Ginmill Perfume - The Story So Far 1995-2000
-Smoke! Smoke! Smoke!
-Melancholia
-Classic Years Vol 2
-Raw Blues Vol. 3
-The Best Of Clifton Chenier
-Opelousa Waltz
-Nashville Country Gals_ Volume 2
-Mellow Mood
-Powerful Music
-Tour 2007
-In the Eyes of God
-Canada Songs
-Pa'' Rato
-Rawkus 50 Presents Smilin'' On You
-Harpoon
-Blurred 1999-2004
-Country Boy Down In New Orleans
-Bored Teenagers Volume 3
-No-One to Blame
-Dear Summer
-When Angels Die - A Benefit Compilation
-Creature Comfort
-Dear Summer Volume Two
-The Kottonmouth Experience Vol. II
-War of Attrition
-Sieg Howdy!
-Deep Elm Unreleased No. 1
-Feeding The Wheel
-With Los Caminantes Flaco''s First
-The Negatives
-Karelian Isthmus
-Snakebite
-Kingspade
-Techincolour Mother
-Workers Playtime
-Como Antes
-Moments
-Swing
-Everybody Wants Some
-Estados Alterados
-Bring You To Your Knees - A Tribute to Guns ''n Roses
-Brewed In Texas Volume 2
-El Vivoron
-Sounds of the Animal Kingdom / Kill Trend Suicide
-Slidetime
-Raised On Rock
-Guadalupe Pineda
-Town By Town
-OST - All Hat
-With My Song
-Bernstein: Candide Suite_ Etc.
-Don''t Take My Kindness For A Weakness
-Don''t Want To Know You
-Vingt-Quatre Quarante
-Cultural Warrior
-We Sing.  We Dance.  We Steal Things.
-Whole Lotta Bluegrass: A Vocal Bluegrass Tribute To Led Zeppelin
-If You Only / Stay With Me
-The Definitive Gospel Collection
-How We Lost
-It''s Not Over
-Gnosis
-Sky Of Grace
-Lullaby Renditions of Metallica
-Bodyjar
-Who''s On The Lord''s Side Live
-Shake Them Ghosts
-Mentiroso mentiroso
-Strange Attractors
-Roots And Rumours - The Roots Of Elvis_ Volume Two
-Headthrash
-Shorland
-Black Nasa
-These Are the Days
-Chumps On Parade
-Double Happiness
-It''s A Calling
-Coquelicot Asleep In The Poppies: A Variety Of Whimsical Verse
-Fern Knight
-Little Junior Parker
-The Early Years EP
-Overnighter EP
-Dead Man In Reno
-Jazz Eps
-How to Survive In + In The Woods
-Come On Primates Show Your Teeth!
-Vintage Jazz Volume 14
-1986-1992
-Bones
-That Sinking Feeling
-Cryin'' Heart Blues
-Entre Dos Generaciones
-Pirates Of The Mississippi
-Present the Paisley Reich
-Get The Knack
-Midnight Run
-...All This And Hieronymus Bosch
-Rumberos de Corazon- 50 Aniversario
-Sufro Sufro Sufro
-If the Flames Don''t Kill Us We Will
-Extend
-Four Years In 30 Seconds: A Collection Of Music From Around The World
-Alligator Lips And Dirty Rice
-Southern Steele
-Camilleri: Four Greek Songs_ Trio No.2_ Shomyo_ etc.
-Songs On The Rocks
-The Mid South Snake Pit
-Graham Waterhouse: Portrait 2
-Philip Glass: The Orphée Suite for Piano
-20th Anniversary Celebration Volume One
-I Am Not a Freemdoom
-Myra Lee
-Okul Orijinal Film Müzigi
-King Kong Kotton
-World end carnage
-That''s My Boy
-The Evolution Of Ghetto Rock
-Almost Famous
-Drawing circles
-Screw Tape in The Deck Part 3.  The Final Chapter
-Exitos Y Mas Exitos
-Paving The Highway With Tears
-Choice Quality Stuff...Anytime
-Hope That Lines Don''t Cross
-Easter Songs
-VSNARES 2370894
-City Kids
-Cell-Scape
-How I Left You
-Haus de Snaus
-Need Your Lovin
-Lisbon Concert
-Anicca
-A Reggae Tribute To The Police
-Turn Out the Lights
-Atomic Ritual
-Breathe On Me
-Another Days Blues
-3rd Eye Vision
-Little Music
-Crown of Horn
-Greatest Hits
-Guadalupe Pineda & Carlos Díaz Caito
-Endless Nights
-Underground Muzic Volume One
-Hillbilly Love
-Stycology
-718: Official Mixtape
-Show Ya Grill
-A Fragile Hope
-Da Dro
-Cuestion De Amor
-Da Game Owe Me
-Hands On
-Hidden Talents
-2_4_6_8...We''re The Kids You Love To Hate
-On The Air
-The Story Of My Life
-Already
-My Mother''s Voice
-Matt Skiba & Kevin Seconds Split CD
-Farm and Fun Time Favorites - Volume One
-Rollin'' & Tumblin''
-Dennis Brown In Dub
-Burton_ Leonhart_ Clarke_ Beck Play The Music Of Duke Ellington
-After School Special
-Children''s Music
-Firework Anatomy - A Twenty Band Compilation
-Eddie Gonzalez Performs Los Fantasmas del Caribe - El Reencuentro de Éxitos
-Taste the X
-Hits & Hymns Volume II
-Live at Austin City Limits Music Festival 2006: Asleep at the Wheel
-Life
-Maria Tebbo
-Live From Europe
-Cuban Dance Party
-Memorial Drive
-This is where the Fight Begins
-Shanti Project Collection 1
-360 Degrees
-The Northumbrian Small Pipes
-Suicide Sessions / Anti-Social Personality Disorder: Live
-At His Best!
-Stiff Lovers Holymen Thieves
-Zonked
-Always Was_ Is_ and Always Shall Be
-Boom Times!
-What...is in Between?
-The Queen Of Guess
-Illuminations
-Metric Midnight
-Remedy
-What Was Music?
-Tcha Tcho
-Dark Waters
-Crush The Dream
-Watermelon Slim & The Workers
-Bad Boy From GA: Greatist Hits Vol. 1
-The Curved Glass
-Be Thou My Vision
-Down South Produckshuns
-Diamond Jubilation
-Winning Hearts
-From Yorkshire to New York
-Aimer Le Mal
-Drive By En Caravane
-Make It So
-Welcome the Child
-Dirty Lover
-FANtastic Volume 2
-Cactuses Come In Flocks
-Zèlé
-The Essential George Gershwin Collection
-Live on Tour
-Thy Kingdom Come Undone +9
-Schoozzzmmii
-The Voice Within: The Speciality Singles 1950-55
-Charlottefield
-Fuego Y Tambor
-The Famous Moanin'' Mama
-Piron''s New Orleans Orchestra
-Pussycat
-Suicide - Live In Berlin
-Single File
-17 Reasons
-Note Pad #38
-The Cutting Edge
-The Things Around Us Burn
-Anthology III: 1990-1996
-Collapse
-Cuba - Fully Charged
-Best Sellers
-English Folk Songs
-Medina
-Waiting for the Real Thing
-Automatic 7
-Millions of Dead Cops / More Dead Cops
-Consistency Theory
-Salsa En Matinee Vol. 2
-Exitos Tito Rojas - 10th Anniversario
-Oops I Did It Again
-Candy Apple
-Kombinator
-Los Dos Oros / Los Dos Reales - Feria Mexicana
-Best of Louisiana Music!
-Lullaby Renditions of The Rolling Stones
-So Here We Are
-Thoughts Of Bill Evans
-Voice of the People 18: To Catch a Fine Buck Was My Delight - Songs of Hunting and Poaching
-The Stars of the Buena Vista
-Suzie Le Blanc Portrait
-Space Between
-Hoddinott Piano Sonatas 1-5
-The Miracle of Sound in Motion
-North Amerikay
-Shostakovich: Cello Concerto No. 2 / Prokofiev: Symphony-Concerto
-Soul Arch
-Scriptures Of The Golden Eternity
-Between
-INUI.3
-Wigwammin''
-Mouthin'' Off... Live! France ''92
-I Like Dem Girlz / Just A Bit*h
-Chant From The Hermitage
-FANtastic Christmas
-Love Is The Devil
-Git Dat Money
-Long Beach 2 Fillmoe
-Relaxin'' With Tyrone
-You Are Here
-28g w/o The Bag
-Win The Battle
-Full Circle
-Terrible Things Happen
-27 Christmas Classics
-I Hear Voices
-Rebel Action
-Stinking Up The Night
-El Charanguero Mayor
-Disk@Jokey (Remixes)
-The Great Collapse
-In Battle&
-Vent
-Alone
-Ghetto Living
-Rebel Heart Vol. 8
-Necrology
-Stress related Live and learn
-Under Reprisal
-Into The Light - 20 Years NB
-Silent Reign/Colony/Shift
-L''esprit de Mai 68
-Détrompez Vous
-Larger than live
-Victor Démé
-Paris Rockin''
-Endura
-Luv Dancin''
-Many moods of love - vol.2
-Music For Tourists
-Beauty And The Beast
-Meteor show extended
-Salsa Legende - Best Of Ismaël Rivera
-Rock'' n'' Rave
-August
-An anthology of noise and electronic music vol_1
-An anthology of noise and electronic music vol.4
-For All Tid
-Logical End/ He Who Laughs..
-The End of Sanctuary
-Musique
-Icon: Solomon
-Live in Midgard
-Heart & Anger
-Workout Holiday
-Hollywood Hillbilly Hepcats
-Psalms For I
-El Rocker''s
-Aquarius Rock: The Hip Reggae World Of Herman Chin-Loy
-Dialog
-Now_ Diabolical
-The Best Of Mountain Stage - Vol. 7
-Capitol Rare_ Volume 1
-The Sleeper
-God & Country
-No lo Hagas
-Music Music Music/Slip That Disc!
-Inherit
-A night of electric silence
-Buena Vista Social Club Presents Manuel Guajiro Mirabal
-A Night In San Francisco
-The Very Best Of Billy Idol: Idolize Yourself
-New Day
-Worse Than Pride
-Heroes & Friends
-The Best Of Fourplay
-Shocking Shades Of Claw Boys Claw
-The Contender
-The Feeling
-Blueberry Boat
-Blue 70''s: Blue Note Got Soul
-Citizens Activ
-Mi Musica... Dos Tiempos
-Out (In Essence)
-Black Love
-Cage The Elephant
-Tres noches en el Victoria Eugenia
-At Mount Zoomer
-Word Of Mouth
-Unicorn Steak
-Do Whatever Turns You On
-Farewell Sorrow
-The Life Pursuit
-Give Blood
-Amman EP
-Oblivion
-Son Of Dragon
-DJ Gregory presents The Unreleased Sessions
-Booze_ Broads & Beelzebub
-Move On
-Complete Captured Live
-Monster
-Pasiones de Cabaret
-Menace Sur La Planète Rap
-Skin deep
-Don''t stop dub!
-Ashes to ashes - dub to dub
-Common One
-Blind Lemon Jefferson
-Cyber Ghetto
-Skydivin''
-CinemaSonics
-Always Now
-Cast From The Platform
-Kill the Dreamer''s Dream
-Zero Population Growth: Bliss Out V.15
-The Singles
-Swinging Christmas
-ComMerz (Vol 2)
-Freigang / Geile Tiere
-Open Your Eyes (The Child You Are)
-Anna Domino
-Aida - Nabucco - Othello - Die Macht des Schicksals
-Carmen Suite Nr.1 & 2 - Karneval der Tiere
-Publicidad
-Antikörper
-Serenity
-Alpha
-I
-Sounds So Good
-Death Before Dishonor
-Shine
-Apocalypso
-Pedrophilia
-bargrooves Summer Sessions
-Legacy
-Bitter Verses
-Bernstein:Serenade / Barber: Violin Concerto / Foss: Three American Pieces
-The Ceilidh Album
-Premier Mandat
-Matéria Prima (1997/2007)
-Welcome To The Orgy
-Bittersweet
-Hypnotize
-Grandes Exitos
-This Is An Outrage!
-Bull Talk
-Hail The King
-Tolko tebe
-Billie Holiday 1940-49
-Blues Masters Vol. 11
-Charkha
-Blue Danube
-Kao Nekad
-King Of The Hillbillies_ Vol. I_ CD D
-Rikers Island
-That Green Gentleman [Things Have Changed]
-She''s The Dutchess_ He''s The Duke
-Movement
-Ssssh
-Pieces Of The Sun
-Secrets
-The Agony Scene
-Essential Reggae
-The Bonfa Magic
-The Best Of Shaggy
-The Best of Pato Banton
-Good Golly_ Miss Molly! (The EMI Years 1963 - 1969)
-Nick Warren - Paris (Global Underground GU030)
-Electric Calm V.3 (Global Underground)
-Pretty Girls Make Mothers
-All Under
-Reachin Out
-Sasha - Fundacion NYC
-Oh What A Lovely Tour - Babyshambles Live
-Like Cats & Dogs
-Home
-Dear God
-Cookie Jar [Feat. The-Dream]
-Deflated Chime_ Foals Slightly Flower Sibylline Responses
-She''s A Rejecter
-Nolita
-The Blue Idol
-Freddy''s Favorites: The Best of A Nightmare On Elm Street
-Pur
-Meet Dave
-Stephilosophy
-Nocturama
-Handel: Keyboard Suites Vol. II
-14 Megala Tragoudia - Stelios Dionisiou
-Who Dat
-Live In Los Angeles
-Welcome To Goon Island
-0+1=01
-Classic Movie Love Songs Vol. 2
-Obsessive
-The Scent of Light
-Viimeinen laulu kuolemasta
-The Silver Cord
-Rush Hour
-Broken Hymns_ Limbs and Skin
-Your Anchor
-Harold In The Land Of Jazz
-175 Progress Drive
-100 Pan Pipe Chillouts
-Freedom Bondage
-Kamikazeherz
-Studio One Rub A Dub
-&Like A Bolt Of Lightning
-The Hit Collection
-Davy´s On The Road Again
-Bonebreak Boogie
-Best Of 1990 - 1993
-Without You
-Beyond The Valley
-Evolution: The Hits
-Mad_ Bad And Dangerous To Know
-Whatever You Say_ Say Nothing
-Sandinista!
-Highlights from Jeff Wayne''s Musical Version of The War of The Worlds
-Time To Grow
-Revenge
-Savage
-Dedication
-Walking In The Sun
-Hoodoo
-Dear Heather
-The Definitive Collection
-Rockabye Baby - Lullabies with Orchestra
-Stalo Sa Zive
-Boys Like Girls
-What A Heart Is Beating For
-Cannons
-Rise To The Occasion
-Allenrok
-At Osteraker Prison
-The Best Of Echobelly
-Slow Dancing With The Moon
-En Vogue
-Original Album Classics
-Première
-Angus_ Thongs and Perfect Snogging
-Young And Crazy
-Neverneverland
-Crash And Burn
-R & B From The Marquee
-Echoes
-Slow Motion Riot
-Soundtrip Northeast Brazil
-Aquanaute
-UGK (UnderGround Kingz)
-Ladies & Gentlemen... / Let It Come Down
-Worlds Collide
-Pandemonium Shadow Show
-The Definitive 60''s (sixties)
-The Best Of The 70''s (seventies)
-Lentoon
-Intégrale Les Cactus
-Original Album Classics
-Crazyhorse Mongoose
-Duets
-Up To Date
-The Pink & The Lily
-The Light of Things Hoped For
-Napoli Ieri Napoli Oggi Vol.5
-Rhythm Is A Mystery
-Afterhours Ibiza
-Joe Petrosino
-100 % Haïtian Music - Konpa Essentials
-Greatest Hits
-The Ultimate Collection
-Detuner - I''ve Got The Wild Style (single)
-Stravinsky/Brahms: Violin Concertos
-The One Thing
-Affirmation
-Na Fisai I Anixi
-Reflections: Songs Of Love & Life
-The Best Of New Riders Of The Purple Sage
-Original Album Classics
-Federal
-Windows And Walls
-Wendy & Lisa
-Rumble Doll
-White Limozeen
-Tony Terry
-Lights...Camera...Revolution
-Family Style
-4_5_6
-HIStory - Past_ Present and Future - Book I
-Comfort Eagle
-Scent Of Attraction
-Fifty Eggs
-tin cans & car tires
-Vincent LaGuardia Gambini Sings Just For You
-Christmas With Babyface
-Recommended For Airplay
-Strange Pleasure
-Boggy Depot
-If This Bass Could Only Talk
-Canto
-The Unauthorized Biography Of Reinhold Messner
-Fahrenheit
-No. 10_ Upping St.
-Hangin'' Tough
-We Come Strapped
-Next Position Please
-Hot Stuff: The Greatest Hits
-The Senior
-Hard
-Raw Like Sushi
-Shakespeare in Love - Music from the Miramax Motion Picture
-Yesterday_ Today_ Tomorrow - The Greatest Hits Of Kenny Loggins
-My Passion For The Piano
-Personal
-Layin'' Da Smack Down (Clean Version)
-10 Years Of Greatest Hits
-Here Came The Psychedelic Furs: B-Sides & Lost Grooves
-Timeless - Live In Concert
-Receiving The Gift Of Flavor
-Tattoos & Scars
-Greatest Hits Volume 2
-Mark Chesnutt
-Nightbirds
-Frankie Yankovic & His Yanks'' Greatests Hits
-It''s All Relative - Tillis Sings Tillis
-This Time Of The Year
-TURN IT UPSIDE DOWN
-A Horse Called Music
-Genuine
-East River Drive
-Billy Joel - The Ultimate Collection
-Vs.
-QBO
-The Basement Tapes
-Greatest Hits
-A Decade Of Rock And Roll 1970 to 1980
-Topsy-Turvy Original Motion Picture Soundtrack
-I''Ve Got The Rock ''N'' Rolls Again
-Stravinsky Conducts Stravinsky
-New Orleans - Vol. IV
-The Legend Of Paul Revere
-Messiah_ HWV 56 (Highlights)
-Urban Dancefloor Guerillas
-Get Your Wings
-Viva Santana !
-SKETCHES for My Sweetheart The Drunk
-Los Grandes Éxitos En Español
-Steppin'' Country: 19 Great Line Dancing Songs
-Simply Baroque II
-Sound Loaded
-G. Love And special Sauce
-Tidal
-Estrellas
-Feel
-Illumination
-STILL CLIMBING
-Ricky Martin
-Highwayman
-Russian Roulette
-Allure
-Jetzt Geht''S Ab
-The Real Ambassadors
-Rachmaninoff: Greatest Hits
-Live At Felt Forum - The 2001 Concert
-Gershwin Fantasy
-Blue Jays
-Rabbit Songs
-Endangered Species
-The Time Machine
-Time And Tide
-Naughty Baby: Maureen McGovern
-Collected Works
-John Williams Conducts John Williams
-Goldilocks
-The Essential Marty Robbins  1951-1982
-16 Most Requested Songs
-16 Most Requested Songs
-The Essential Carl Smith  1950-1956
-The Most Happy Fella
-The Complete Blind Willie Johnson
-Mandy Patinkin
-Great Blues Guitarsists: String Dazzlers
-ANOTHER SIDE OF BOB DYLAN
-In The Blood
-Sleepwalking
-The Platinum Collection
-Love Songs
-The Great Subconscious Club
-The Best Of MFSB:  Love Is The Message
-Tribute To Tradition
-Naveed
-At Home In Muscle Shoals
-Can The Circle Be Unbroken: Country Music''s First Family
-Look What Thoughts Will Do
-Solo
-Demokratischer Sektor
-Only DBS Is Pure Bodybilly
-What A Man Could Do
-Elf
-The Statement
-Thug On Da Line
-The Best Of Ottmar Liebert
-Moe Bandy & Joe Stampley - Super Hits
-The Roots Remain
-Tanya Tucker''S Greatest Hits
-So So Def Bass All-Stars Vol.  III
-Tanz! With Dave Tarras And The Musiker Brothers
-The Pianist (Original Motion Picture Soundtrack)
-Six Degrees Of P-Funk: The Best Of George Clinton & His Funk Family
-Essential Igor Stravinsky
-The Streetsweeper Vol. 1 (Clean Version)
-Dangerously In Love
-What''s A Man To Do?
-Ococo
-The Very Best Of Euphoric Dance Breakdown Summer 2008
-The Historical Conquests Of Josh Ritter
-Animal
-Milagro
-Eternal Love
-This One''s For You
-The Sopranos - Music From The HBO Original Series - Peppers & Eggs
-Between The Never And The Now Album Advance
-Yeah Baby
-Pop Music: The Golden Era 1951-1975
-Albatross / Christine Perfect
-The Snowman
-Intact - The Singles Collection
-Breakout
-Strange Beautiful Music
-Giant Steps
-Casa Paradiso Presents Karma Chill
-Club Summer 2008
-Small Feces Vol. 1
-Champagne
-Room To Roam
-CeCe Winans
-A Gershwin Songbook & Improvisations
-Quick Turns
-Nicolette
-Intimate Connection
-Waiting For The Sunrise
-All The Songs I''ve Loved Before
-Somos Gitanos
-The Magic Box
-O3
-Black Gold: The Best Of Soul Asylum
-Test. Don''t Test
-How To Steal The World
-Gotcha
-Live
-Volume I
-Prince Charming
-Top Gun - Motion Picture Soundtrack (Special Expanded Edition)
-School Days
-BTTB
-Love And Pride - The Best Of King
-Super Hits
-Songs Of Leonard Cohen
-Love Is Real
-Discoveries
-My Paper Heart
-The Walking Wounded [Gold Edition]
-3 CD Boxset
-Twin Peaks
-Si Dieu Veut....
-Make Yourself
-Reflected Images - The Best Of Altered Images
-Spider Man - Music From And Inspired By
-Not Satisfied
-Cut Your Noose
-Greatest Hits
-Victory
-Comforting Sounds
-Clutching At Straws
-Sissel
-La Folie Des Grandeurs
-Whiskey Rebels
-Skins & Pinz 3
-Privilege Of Your Company
-Horowitz: The Celebrated Scarlatti Recordings - Expanded Edition
-Friends & Lovers
-Una Rosa Blu
-Simple Songs Of Freedom:  The Tim Hardin Collection
-Samen Met Jou
-Music from the Motion Picture Mona Lisa Smile
-Much More Than Much Love
-Good News For People Who Love Bad News
-Live At The Metro
-The Passion Of The Christ - Original Motion Picture Soundtrack
-Life
-The Best Of Jim Nabors
-Little Italy
-Flat 29
-Collection Gold
-10
-Hit That
-Till Death Do Us Part
-Big Fish - Music from the Motion Picture
-El Idolo De Mexico
-Wandering Moon
-Annie - Original Telefilm Soundtrack
-LVL IV
-Foggy Mountain Gospel
-Jaku
-König von Deutschland - Das Beste von Rio Reiser
-Get Away From Me (Explicit)
-The Collection
-After The Flood: Live From The  Grand Forks Prom
-Florilège
-Another Day
-Amazing
-Public Energy No 1
-Edgar Broughton Band
-Poison Kiss
-Another Perception of Jazz
-Starost
-The Mix-Up
-Les Misérables - 10th Anniversary Concert
-British Oi! Working Class Anthems
-Toca''s Miracle 2008
-The Blue Thumb Recordings
-Le Vibrazioni II
-Jimmy Cozier
-Music
-Super Hits
-RCA Country Legends
-On The Road To Find Out (Repackaged)
-Best of the Alan Parsons Project_ Vol. 2
-Justin Guarini
-The Very Best Of Ed Ames
-That''s All Right (When the Sun Goes Down series)
-Händel: Messiah - Highlights
-Hymns
-The First Family of Soul: The Best of The Five Stairsteps
-The Essential Guy Clark
-Silhouette
-If I Should Love Again
-Run DMC
-Amplified
-The Boy Is Mine
-Dances For Flute
-Gimmie Da Mic
-Friendly Fires
-Distances
-Tough All Over
-Details
-Country Bluegrass Homecoming Vol. 1
-Auweia
-Room With A View
-Love Songs
-World Party
-Wimoweh!!! - The Best Of The Tokens
-Devotion
-The Essential Keith Whitley
-Mefistofele
-Chez Toots
-Balances & Options
-Music
-Strip
-American Child
-Midnight Marauders
-The Best Of Rick Springfield
-Ich Bereue Nichts - The Best Of Ina Deter
-Duke''s Joint
-Music Of The Celtic Harp
-The Canadian Brass Plays Bernstein
-Gods And Monsters
-Best Of Grim Reaper
-A Place In The Sun
-Greatest Hits
-American Anthem
-Let''s Make History
-Amateur Dramatics
-Out Of The Valley
-Angels Running
-Between Black And White
-Peculiar Situation
-I Love You...Me
-Sings And Swings (Bluebird''s Best Series)
-Inside The Kremlin
-Live At Last
-The Renaissance Album
-The Romantics: Romantic Music of the 19th Century
-The Opening Of Doors
-One Church
-The Definitive Collection
-Letters Never Sent
-Land (1975-2002)
-Exposé
-Easter
-Radio Ethiopia
-Lagrimas Negras
-Esta Boca Es Mia
-Der Beste Tag Meines Lebens
-Tausend Dankeschön
-City
-Holes In The Wall
-Saltbox
-Hot In The Shade
-Supernova
-Everyday I Love You Less And Less
-Lifehouse
-Blue Bash
-Gold - Greatest Hits
-America
-The Collection
-Musica Di Te
-Dann habe ich umsonst gelebt
-Misty Eyed Adventures
-Live
-20th Century Hits
-Im elektromagnetischen Feld
-Wenn der Abend kommt/Circulus
-Italiano Medio
-One Love (2nd Edition)
-Bully
-Danilo Perez
-The Ultimate Collection
-Love A Little Stronger
-Best Of Classics 3: Beethoven Sinfonie 5_ 6
-Mahogany Soul
-The Very Best Of
-Ay Fond Kiss
-C''Est Ca Lavoine
-Coming Around Again
-Life Think It Over
-36 Grands Succès
-The Preacher''s Son
-The Very Best Of 1990 - 1997
-Keep It Natural
-María
-Wahrheit Oder Pflicht
-All That I Am
-Diary Of A Sinner: 1st Entry
-No Strings Attached
-Schubert: Symphony No. 9
-Between Friends
-Balance Of The Force
-Lucia
-Bittersweet
-Hello Afrika
-Tougher Than Leather
-Iso E
-The RCA Years
-Wisdom Of Forgiveness
-Alors Regarde
-Niño Josele
-1991 Concerti
-La Voz De Oro
-Recycling The Future
-Se Stasera Sono Qui
-It''s A Man''s Man''s Man''s World
-Trampin''... Live aux Vieilles Charrues 2004
-Confessions
-Gavin DeGraw
-Nonstop
-Tubthumper
-Whitesnake''s Greatest Hits
-Eye Candy
-Miss Jane Russell Sings
-Mervyn Nelson''s ''The Jazz Train''
-Bitter River
-Invasive Signals
-A Knight''s Tale - Music From The Motion Picture
-Alive and Amplified
-Alunni Del Sole
-Touch Me
-Vera
-Csak Egy Perc
-Mercy... Dancing For The Death Of An Imaginary Enemy
-Super Hits
-The Best Of Glenn Jones
-R&B Chillout
-Rumì
-Hymie''s Basement
-Me And Armini
-The Best Of
-Nocturnece - Sessiones Reggae Instrumental
-We Are One
-Pure ''80s Hits
-Order Of The Leech
-Pierrot Lunaire
-Falling - The Best Of
-Starcollection
-Loop Doctors The Album
-Freudige Weihnachten
-El Canto Del Loco
-Hey World
-Arzobispofobia
-Debajo Del Puente - Vertigo
-Tausend Sterne
-Kamikaze Rock ''N'' Roll Suicide
-The Digital Collection
-Back Again
-Ice-T & Posse 2
-One Million Strings
-Greatest Hits
-Gli Anni Miei
-All Maps Welcome
-What Are You Waiting For
-Welkom In Utopia
-Live
-Twee
-Star Warz
-Onnelliset Kohtaa
-20/20 Best Of
-Föder NåT Nytt
-Pop De Los 60
-Il Circo Mangione
-Amor
-Made in Japan
-Tan Cerca De Mí
-David De Maria
-Mucho Mas Que Dos (Live In Concert)
-Männer_ Frauen und Maschinen
-Iniziali Bi-Bi
-Chloe''
-Hagnesta Hill
-Tissues And Issues
-Panorama
-Wasser und Sonne EP
-Früher war''s besser
-Verve Jazz Masters 52:  Maynard Ferguson
-What Sound
-Deckwatch EP
-Remix EP
-Essence EP
-M Series Part 2
-Connect
-Alles klar?
-Casa Mia
-Ci Vuole Un Fiore
-Animales
-Grown & Sexy
-The Dead 60s
-The Best Of
-Yuletide Joy
-Most Known Unknown (Screwed and Chopped)
-7 Days In Memphis
-Back II Da Basics
-Duffy
-Rockin'' The Joint
-Underage Thinking
-Killadelphia
-Ultimate Collection
-Let It Snow! Let It Snow! Let It Snow!
-Édes Méreg
-Love... And Then?
-Do You Love Me Like You Say: The Very Best Of Terence Trent D''Arby
-Ev''rybody Know Me
-O Gun
-Christos Dantis Best
-Letting Go
-Ahead of the Lions
-Boneclouds
-For Blood And Empire
-The Essential Roy Orbison
-Bebo
-Alunni Del Sole
-Drupi
-Pure Shadowfax
-Around The City
-Dance Vault Remixes - I Learned From The Best
-Sing It Out
-The Wedding Singer - Original Broadway Cast Recording
-Pure John Gorka
-Les Indispensables
-The Ghost Of Cain (Bonus Content)
-Handel Keyboard Suites_ Vol. 2
-Schumann: Carnaval/Papillons/Faschingsschwank aus Wien
-All Hope Is Gone
-Back Together Again
-DEFECTED ACCAPELLAS VOL 7
-Conor Oberst
-The Collection
-Your Woman
-Blackwater
-BTNHRESURRECTION
-U + Ur Hand
-I Killed The Zeitgeist
-Sauf Si l''Amour
-Sound Theories Vol. I & II
-Tryo Fête Ses 10 Ans
-Headlock
-Everything Changes
-Another Girl Another Planet The Best Of
-Hell Hath No Fury
-16 Biggest Hits
-Rachmaninov: Piano Concertos Nos.2 & 3; Prelude in E flat etc.
-I Wish I Could Have Loved You More
-Ray Quinn
-Good Morning Revival
-Act Your Age
-Cannibal Hood Carnival Hat
-Rise
-Invol2ver
-Il mercenario - Le Mercenaire - The mercenary (bande originale du film de Sergio Corbucci)
-Spirit They''re Gone Spirit They''ve Vanished / Danse Manatee
-Pure Bossa Nova
-24 Postcards
-Piero piccioni in lounge
-Verve Jazz Masters: Tal Farlow
-Some Things Just Stick In My Mind
-Daddy Always Wanted Me to Grow a Pair of Wings
-On Call
-The Very Best Of Ram Jam
-Anatomia
-Ça Plane Pour Moi
-Sahara Euro Edition
-American Pride
-Wire
-Offerings: A Worship Album
-L''Instinct Et L''Envie
-Elvis At The Movies
-Tattoo You
-I Successi Di Miguel Bosè
-Aproximaciones
-My Home''s In Alabama
-Michael Jackson: The Ultimate Collection
-Afterglow Live
-The Recession
-Due
-Dan Sartain vs. the Serpientes
-Naked and Mixed Up
-Powder Burns
-Hits And Exit Wounds
-The Motown Years 50
-Los Ninos de Sara - Le Son Gitan d''Alabina
-Favors
-Declaration
-Soul Symphony
-Audio Day Dream
-Signals
-Cleopatra Grip
-If We Can''t Escape My Pretty
-Able Treasury
-Oozing Bass Spasms
-Big Floor Funk EP
-Red Forest
-Hypnotic Tango
-The Sisterhood of the Traveling Pants 2
-Live In Gdansk
-Elite Squad
-Round Trip (Plus Bonus Tracks)
-Catch Me If You Can
-Brass Knuckles
-The Iron Giant
-Creative Spaces
-Great Composers: Elmer Bernstein
-Judgement Day
-Jetzt
-Playlist: The Very Best Of Aretha Franklin
-Playlist: The Very Best Of Eddie Money
-Svet Mi Stupil Na Nohu
-La Riconquista Del Forum
-Soul Movement Vol I
-Livewire Perform The Best Of ACDC
-Zwischen Null und Zero
-Life Is Not A Waiting Room
-Diesel And Dust
-Scarborough Fair - Songs from the British Isles
-You May Already Be Dreaming
-Songs For You_ Truths For Me
-Twilight Of The Innocents
-Tyler Hilton: The Acoustic Sessions
-Home For Christmas
-Halo (Original Soundtrack)
-Beethoven : Complete String Quartets_ Quintets & Fragments
-Smell My Finger
-Pleased To Meet Me [Expanded Edition]
-Silverlake
-Murs For President
-Novos Hinos Para a Mocidade Portuguesa
-Colors Of The Sun
-Tame Impala
-Howl
-California Blues
-Second To None
-Touchstone
-Do What When Who Attack
-From Distant Vessels
-The Thief & The Heartbreaker
-Tech Dance Euphoria Mixed By Yoji
-Scheme For Thought
-De Geesten
-Canzoni da spiaggia deturpata
-The Bones Of You
-Multiplicity
-Got You Covered
-Montagnola
-Another Day (osunlade Remixes)
-Taster 4
-Taster 3
-Autour De La Lune
-7
-Wrong
-Another Day At The Orifice
-10_000 Years Beneath The Street
-Whole Lotta Live 1998
-Implant
-A Flat Man
-Fiction Fever
-Blood Red Earth
-Cello Blue
-Free Hauz
-Perfect Symmetry
-Lil Irocc Williams
-Krinkle
-Stand out
-Unwritten
-Weird hits_ two covers & a love song
-Far End Of Summer
-Eye Of The Wolf
-Am I Blue (1978) (Blues Reference)
-Pneuma
-Ain''t She Sweet
-Karl Jenkins: Quirk
-Like Hearts Swelling
-Ruck Rover
-I Love You So
-Everything Seems Clear
-Dr. Dre Presents Mega Big Gangsta Rap
-Creek Bank
-Regulars And Refugees
-My True Name
-Visions and Dreams
-Jake Summers
-Trancemaster 6002
-Elgin Avenue Breakdown (Revisited)
-Undanced II
-Timeless
-Your Love / Gonna Make You Mine 12s
-Still Making History
-Jack - Pot
-Blueprint Of A Lady: Sketches Of Billie Holiday
-The Concord Jazz Heritage Series
-Steppin'' Out
-Beauty Never Ceases
-...It''s Ugly Or Nothing
-Living Country Blues USA Vol. 12 - East Coast Blues
-Living Country Blues USA Vol. 11 - Country Gospel Rock
-Jazz Trash
-Los geht''s - Das Beste
-Bonita
-Within The Heat
-Without This You Can Never Change
-Tools for Fools
-Beethoven Piano and Cello Works
-Varese Sarabande: A 25th Anniversary Celebration
-Come Back To Me
-Thieves
-Cold Chilly Woman (1972)
-Born In Georgia
-Luther''s Blues (1976) (Blues Reference)
-Being This Side Of Insane
-I Still Believe In You
-Torture Pit
-The Greatest - Souvenir Edition
-Esto es Sólo una Canción
-Bad Manners
-You Gotta Say Yes To Antother Excess
-King Of Kings
-Beggin'' : 1967 - 1969
-Clear Blue Sky
-Present From Nancy
-Dark Saloon
-Teenage Wristband
-Capsule (The Best of KOD: 1988-94)
-Maupassant et les femmes : Nouvelles
-Here_ It Never Snowed_ Afterwards It Did.
-Love Is Overtaking Me
-7
-Atardecer
-Softer Diagram
-I Don''t Want To Be A Freak
-Carnival Ride
-The Hotel Café presents... Winter Songs
-Portable Life
-Comptant
-The Peoples Champ
-The Black Rob Report
-Stands For ICPMABOYC
-Guitar Boogie Fever
-It''s My Day
-A Day In June
-O.S.T. - L''allenatore nel pallone 2
-The Devil Hits Back
-Here''s Your Sign
-Amazing
-The Best Of The Dramatics
-Mis Romances
-Cafè De La Paix Vol.1
-Chillin'' Mania Vol.1
-Count Basie Swings - Joe Williams Sings
-Deepest Dark
-Space Shanty
-Always The Bridesmaid: A Singles Series. Volume III: A Record Year For Rainfall/ Raincoat Song
-balance
-Dance To The Underground
-Robbie Dupree with David Sancious
-Live At The Roxy_ London (1977) / Live At CBGB Theatre_ New York (1978)
-Put Your Hands Down
-A Winter Moment
-Friday''s Child
-In The Space Of A Few Minutes
-The Selecter''s The Tide Is High
-Talk To You By Hand
-Rack ''Em Up
-The Fathomless Mastery
-Black Snow
-Satin Sheets
-Don''t Squeeze My Sharmon
-The End Of The World
-Angel Of The Lake
-New Baby Boy Adam
-Monuments
-New Baby Boy Dennis
-Frore Meadow
-A Fallen Temple
-Engraved in Memory
-Kiss R&B Digital Downloads
-David Archuleta
-Just The Beginning
-La mixtape...Street Album vol.1
-Dancehall: The Rise of Jamaican Dancehall Culture
-the hares corner
-Life on Planet Groove
-Get On Down / Hold On
-Conspiracy To Riot
-Certifiable
-Ejector Seat Reservation
-Java Sur Seine
-Samo Voo Voo
-The Bang Gang Deejays ''D Is For Disco_ E Is For Dancing''
-Greatest Remixes
-David Cook
-V.I.P. 2008
-Italuba
-New Beginning
-Put on Your Rosey Red Glasses
-Brothers of Peace: The Definitive Collection
-Vom selben Stern - Live
-Brazilian Love Affair 2
-The Cries Of The Broken EP
-Gift Grub 9 How To Look Gift Naked
-Scars Remain
-Who Stole The Sky?
-Cranes
-Absolutely Freak Out (Zap Your Mind!)
-Satyre Cornu
-You''re Lucky To Have Friends Like Us
-The Albums
-Rhythm''n''blues
-Concert Hall Live
-''A Classic FM Christmas'' - The Ultimate Classical and Jazz Album
-Celebration
-Janacek: Chamber & Orchestral Works
-Revisited By
-Al final de este viaje
-Dave Clarke - Back In The Box
-The Best Of Fury Rockabilly Vol. 1
-The Complete John Peel Sessions
-Stretching Out
-Van Der Bascule
-Further Listening 2003-2008
-Feedback
-Get A Life
-Colección de Oro - Horacio Salgán
-truANT
-Blast Action Heroes
-The Third Storm Of Cythraul
-Greatest Hits
-Das Kann Nur Liebe Sein
-The 11i Remix EP
-Split
-A Collection: Past_ Present and Future
-Chess Blues Guitar / Two Decades Of Killer Fretwork_ 1949-1969
-Gavin
-Por siempre
-Ano Neko
-All you need is a song
-Le champ des larmes
-Oye Como Va
-Clubland 14
-Private City
-Closer (Than A Heartbeat)
-Master Of Pigeons
-Dump The Body In Rikki Lake
-Sin Gulls (Goring St. Eddy)
-To Hell With Humdrum
-The Document II
-Elektrik Elefant
-2C
-Pensión Triana
-Take The Blame
-Stepping Out Of Line - The Anthology
-A Stone Alone - The Solo Anthology 1974-2002
-The Ultimate Collection
-20 Original Greats
-Rock Island Line - The Singles Anthology
-Everything''s Tuesday - The Best Of
-Deeper Still
-The Wind Beneath My Wings
-Mar de Pedra
-Eels
-Where The Light Is: John Mayer Live In Los Angeles
-Singles
-A Collection Of Spikes
-The EMI Years - Best Of The Swinging Blue Jeans
-The Prospect Before Us
-Twelfth Night
-Ages
-(Come On_ Join) The High Society
-Hits of The 60''s Volume 1
-Wabash Cannonball
-Trueno Oscuro
-Odyssée First Série: Chansons Créoles
-Odyssee First Serie: Latitudes Fêtes
-Spotlight On Gale Storm
-New Flowers
-Chemical Chords Extra Tracks EP
-* Naked As Advertised  Versions 08
-Music For Solo Piano
-Knowledge Is King
-Kool Moe Dee
-Changes
-Boots_ Buckles & Spurs - 50 Songs Celebrate 50 Years of Cowboy Tradition
-One Eye To The Future
-Should I Tell You?
-Live At The House Of Blues
-Nadando A Crol
-La Paz Está En Las Matemáticas
-The Sidelong Glances Of A Pigeon Kicker
-Little Heart Attacks
-Ragga & The Jack Magic Orchestra
-All Out
-The Bonzo Dog Band - The Intro
-Fish And Chips
-Disposable Half-Truths
-Il Vuoto
-Solid Bronze - Great Hits
-Soul Zouk
-Tasty Jam
-The Goldwax Years
-Life Force Radio
-A Moment''s Pleasure
-Rooty
-Liberation - The Best Of
-Happy New Year!
-Discolights
-Reggae Max
-Recharge & Reload
-Kristal Zouk
-The Very Best of Tom Lehrer
-Best Of The Best
-Methodology ''74-''78: Attic Tapes
-I Am Love Ep
-In The Meantime
-Punk Crazy
-Versus
-Bares y Fondas
-Zomby EP
-The Gunslinger Part II: Fist Full of Dollars
-IZZ Live at NEARfest
-1945 - 1950
-Versoeking
-Getcha Weight Up
-Swing
-Pubis Angelical / Yendo De La Cama Al Living
-Live and Loud! / Fly the Flags
-Takin'' a Detour #2
-BBC / Peel Sessions
-Live in London And Paris
-Heard That
-Justin Hinds'' Once A Man Twice A Child
-The Notations'' Take It Slow
-Rasputin Stash''s I Can Feel Your Love Jones
-Billy Butler''s Sugar Candy Lady
-The Contours'' In The Still Of The Night
-Arbee Stidham''s Please Let It Be
-Duncan Browne''s Ninepence Worth Of Walking
-Joe Loco''s Polonaise Op.53
-Glider
-Andre
-The North Wind Blew South
-A Thing For Me 2
-Hard Promises
-We Are Crazy
-Hardstyle Bundle Vol. 1
-The Very Best of Relaxing Classics
-Nervous Acappellas 2
-Not Afraid
-Bretton
-Duos II
-The Dynasty Collection 1 - Early Years
-Pa''l Mundo
-In The Absence Of Truth
-Ridiculous Bohemia
-Midnight Showers
-Mama
-The Best Of Me
-Les 4 saisons de Sonia Dersion
-West Of Broadway
-Nothing''s Gonna Spoil My Day Today
-The Early Years
-She Loves Me/There''s Love & There''s Love & There''s Love
-Clb
-Attimi Regolari
-YoYoYoYoYo
-15 Levels Of Magnification
-Genetically Modified
-Tone Tales From Tomorrow Too
-Every Day
-USSR: The Art of Listening
-Middle Age Rampage
-The Complete Motown Singles_ Volume 2: 1962
-Skalpel
-The Complete Motown Singles_ Volume 4: 1964
-Paradise Blown
-The Complete Motown Singles_ Volume 5: 1965
-Souvenir
-Arcade Terra
-Blue Honey
-Music''s Made Of Memories
-With Voices
-Adventures in Foam
-Bothers In Blues
-Storm In A Teacup
-The Ugly Duckling and Other Great Songs
-John Coltrane
-Petula Clark
-The Very Best Of Charlie Parker
-The Best Of Quincy Jones
-Johnny Mathis
-Ray Charles Vol 1
-Piano pour films muets / Music for silent movies vol.3
-Elephant in the sand (Diss Fat Joe)
-Back to Fundamentals by DJ Gregory
-UK - 1958 - June
-Lollipop
-Among Flies
-Only Baby
-Trasmazonia
-Live In London
-Scarface
-Definitive Collection
-The Way Of The Fist
-The Anthology
-Hits Of The War Years
-Ost.: Underground
-Epures
-One Single Breath
-What I''m For
-Withering to death
-D.e.v.o.l.u.t.i.o.n.
-Teddy Wilson in 4 Hands
-Be True
-Get It On
-Chilltronica - A Definition No. 1
-Mr. McGregor
-Francis Albert Sinatra & Antonio Carlos Jobim
-Keepin It Real
-Best Of Hilary Duff
-Babe Ruth
-Zeno
-Mix-Up
-Echoes Of Jilly''s
-Sunny day
-Nena Macht Rabatz
-Do It And More
-Rhythm Science
-Are You Gonna Go My Way
-Twisted Memories - Poems In C-Minor
-Volonta d''Arte
-Gigolo
-Songs For Swinging Lovers
-Just Do Me Right
-Drive Time
-More Out Of Today
-The French Christmas Album Volume 1
-Great Escape
-Cry Holy
-Three Trapped Tigers EP
-Step Back in Time
-And So It Went 1979 - 1981
-The Lone Gunman
-Ein kleines bißchen Horrorschau
-It''s About Time
-Shake Those Hula Hips!
-Get On Board
-Jesse Fuller''s Favorites
-They Tore My Playhouse Down....
-Sterne
-Gone With The Woodwinds!
-Sad Pig Dance
-Encounter!
-Live
-Live In Chicago
-Die Welt ist schön
-Sounds & Pressure 6
-The World of Purcell
-The Roulette Story
-We''ll Be Together Again
-Primitive Enema
-Turning Point
-The Motels
-Tribute
-My Place
-Zippo
-Hold Time
-Music from the Motion Picture The Curious Case of Benjamin Button
-Rodgers Conducts Rodgers
-Attitude Identitaire
-Live UK Tour ''75
-Rockabilly
-La Bamba
-Summerfish
-The Best of Horace Andy_ Ken Boothe & Dennis Brown
-Live From Relapse Contamination Festival
-On My Way
-Blame It On Love
-Sleepdrunk Seasons
-Muzica De Tolaneala & Depravare
-Dr Ragtime & Pals / Self Titled
-Best of the Comedians - The 50s
-Insanus_ Ultio_ Prodito_ Misericordiaque
-1958 - August - US
-Variations
-Smash Hits 1982
-Greatest Hits
-Darla 100
-The Crackling of the Anonymous
-Roamin'' and Ramblin''
-My Love Is Like A Red Red Rose
-Oceans Will Rise
-In This Life
-Sólo Éxitos
-Knight Time + A Little Knight Music
-Heritage - Maintenant Que La Jeunesse... - BAM (1968-1971)
-Heritage - Récital n°3 & 4 - BAM (1956-1957)
-Lucas
-rEVOLUCION
-Terror Squad Presents DJ Khaled / Listen...The Album
-I Got To Find Me A Woman
-Todeswunsch - Sous Le Soleil De Saturne
-Have Mercy: Live
-The Sue Story
-My Future
-Beyond Colossal
-Across The Water
-Eminem Presents The Re-Up
-10 Years Of Quality Control
-Washingmachine Mouth - Unreleased
-Backroom Austin_ Tx 05-29-99
-Emo''s Austin_ Tx 04-01-97
-Live In Studio
-Breech
-Utopia Live from the Texas Opry
-Mit Gas
-Reggae Time
-Kool Funk Essentials CD2
-My Confession
-Mix Up Moods
-Nyahbinghi
-Crisis Time
-Real Clint Eastwood
-The Best Of Funkadelic 1976-1981
-Tales Of Mozambique
-Early Rhythms
-54
-The Twelve Inch Singles
-Single Ladies (Put A Ring On It) - Dance Remixes
-Live At The Old Quarter_ Houston_ Texas CD2
-Long Beach 1983
-The Four Horsemen Of Apocalypse
-Story of the Blues - The 20s
-All Time Greatest Hits
-Vicious Delicious
-The Complete Quiet Elegance on Hi Records
-Energy to Burn + 1980
-Love On The Dancefloor
-''Twas the Night Before Christmas
-Cuffed_ Collared and Tagged / Doing A Party Tonite
-Historiq volume 1
-Dark Was The Night (Red Hot Compilation)
-Jump Addict By Lethal Mg
-Never Alone
-Shake A Hand
-Una Estrella En Mi Jardín
-This Present Darkness
-Subsuelo
-Sugar Man
-Four Walls
-Takorce
-Lounge Jazz Volume 1
-Ornament
-Capital Inicial - Remixes
-Demon Music UK Top 75 Hits Vol 5
-Demon Music UK Top 75 Hits Vol 2
-National Anthems Of The World
-Playa
-Unchain Your Brain: The Best Of Gillan
-Voyager + Time Is Slipping Away
-Live At The Budokan
-Soul Serenade + Willie Mitchell Live
-Everybody''s Free
-The Very Best Of
-Live! Coast To Coast + TP
-Do It Yourself (Deluxe Edition)
-My Music
-Hors Beat
-Real Life
-Uncle Charlie
-Mud Slide Slim And The Blue Horizon
-Accordionist
-Jimmy''s Happy_ Jimmy''s Blue
-Soul Stirrings - Early Recordings Of Joe Tex_ Lee Dorsey_ Benny Spellman and Chuck Carbo
-Jimmy''s Tunes
-Light My Fire
-The Black Rider
-Demon UK Top 75 Hits Vol 6
-Out Of My Hands
-Edge Of Allegiance
-From My Pen
-A-lex
-69% Unplugged
-R.I.P. Young Dot
-Award-Winning Movie Themes : The 70''s
-One World One Chance
-Cuando Ya No Me Quieras
-Gaiton N°5
-Two Below Zero
-Good Morning
-Voodoo Circle
-Sings Stardust And His Other Great Compositions
-Fearless
-Keep It Hid
-Christmas Classics
-Dance To The Music
-Les Indispensables
-WALK THAT WALK_ TALK THAT TALK
-SLAM
-Fascinado
-Love Is You
-Til Kragerne
-Motifs
-Perfection R.I.P.
-Echte Musik
-Pascow EP
-Daemmern
-Sings The Blues
-Blues Guitar Magic
-Cow Town Blues
-Blues Blastin'': The Modern Recordings Vol 2
-The Best Of The New Seekers
-Einfach leben - Best of - Live um die Welt
-Song 4 Mutya (Out Of Control)
-Teilzeithippie
-Fénix
-8
-50/50
-Todo Bien
-Canto Per Amore
-Sweetheart Snackbar
-Wrap Your Arms Around Me
-The Definitive Collection
-The King
-Let''s Groove - The Best Of
-Yuugata Generation
-Yume Is Vision
-let´s did it - Live - Raritäten
-Hittil og Littil
-Das weisse Lied
-Martha Argerich: Live from Lugano 2008
-Lost Messengers: The Outtakes
-Wheels Of Steel
-Ibiza ''06 Sampler 2
-Look Inside_ Now!
-Living Ornaments 80
-Skeleton Boy
-Made In the Shade
-Band-Aide and Scoot
-Common Existence
-Destiny
-Un cafe_ setanta matins
-Rockefeller
-Nobody Excluded
-Inhaler
-Somethin'' For The People
-The Dance Of Life
-Bring Me Home
-Ridin'' High
-Waiting For Columbus [Live Deluxe]
-J. Geils Band
-Johnny Clarke''s Tribute To Bob Marley With Dubs
-Narada Decade (The Anniversary Collection)
-Sozinha
-Dreamin'' My Dreams
-#1''s
-UGK (Underground Kingz)
-The Best Of
-Jackson C Frank
-My Lips Shall Utter Praises
-Holiday
-Love Dance
-The Cursing
-Mein rasend Herz
-Reise zum Horizont - Der Soundtrack zum Film
-Straight Outta Looplandia
-Directo desde New York!
-Tocando el cielo
-Austropop Kult
-Ikuinen Virta
-The Best Of
-BUDOKAN! (30th Anniversary)
-Raw Delights
-Floored Memory...Fading Location
-Bird of Paradise
-Seya
-Black Square
-The Love Language
-Born and Raised
-Loose & Juicy
-Nice And Warm
-The Chain
-Skaggs and Rice
-Red On Blonde
-Antonis Remos Live
-Christmas With The Brady Bunch
-Ma Rainey
-My First Xmas E.P.
-Savoir Ecouter Le Blues (Listening to Blues)
-Strike
-Soil In The Synth EP
-Dopisy z kvetin
-Kaikki Muuttuu
-Die neuen Männer
-The Masters Series: Funk Vol 1
-Last Of The Good Guys
-Weezer
-Die Deutschen Hits Der 50er
-Moonlighter
-Living On The Other Side
-Daily Bread
-Woman Of The House
-Christmas Classics
-Ultra-Lounge / Mambo Fever  Volume Two
-Ultra-Lounge / Space-Capades  Volume Three
-Start Of Something
-When I Hit The Ground
-The Bridge - Concept Of A Culture
-Joan Baez
-100 A state Of Trance Tunes
-25 Trance Essentials_ Vol. 6
-Vanguard Visionaries
-The Best Of
-I''M Gonna Be A Country Girl Again
-Vanguard Visionaries
-Vanguard Visionaries
-Rare And Unreleased
-20 Underground Music Tunes_ Vol. 3
-Big Sky
-Armada Winter Sessions 2008
-Americana Master Series : Best of the Sugar Hill Years
-5
-Magnya Carta
-Un Tour Ensemble
-AMIGOS
-Leave No Trace
-Wanita
-I Don''t Wanna Be
-Coldharbour Selections_ Vol. 16
-Turn It On! Turn It Up!
-Back Home Again
-One Step Ahead
-No Angel Knows
-The Bluegrass Guitar Collection
-Large Marge Sent Us
-L''amour fou
-Livin'' Lovin'' Rockin'' Rollin'': The 25th Anniversary Collection
-Unleashed
-Emotions
-Live Catch
-Backline X-Mas Edition 2008
-Bromst
-Forty Reasons & The View
-High Risk
-Like Cats And Dogs
-It''s Like This - The Best Of
-Brainstorm
-Drowning Ep
-Vagabundo Por Amor
-Take Us To The River
-Ao Vivo No Campo Pequeno
-Memories Lost EP
-Phantoms
-Caixa de música
-Love Is My Profession - Une Parisienne (Original Film Soundtracks)
-Built From Scratch
-Ultimate Yanni
-Ever
-Progressively Funky
-First Sessions
-Love & Hope & Sex & Dreams [Deluxe Edition]
-What U Need
-Advance Base Battery Life
-Punk Goes Pop Volume Two
-Live At Blues Alley
-Jesus Christ Superstar ''20th Anniversary Cast
-Kimera chante noël
-Private Life
-Y despues de todo
-I Visionari
-Best of Wayne Fontana & The Mindbenders
-The Cosmodemonic Telegraph Company
-D-Code
-Frazzbass & Negative Network EP
-The Fake Sound Of Progress
-Save This Christmas For Me
-Down The Old Plank Road: The Nashville Sessions
-Lunar One EP
-Smoking Gun
-Outside The Gates Of Eden
-Pure Bossa Nova
-Les Chansons De Clarisse
-Jours Etranges
-Nanana Club
-Holyhead
-Saveurs Créoles
-The Duke Ellington Carnegie Hall Concerts_ January 1946
-Tue West / Meldingen Kommer
-Essential Collection
-The Click Song
-Happy Day
-Todas
-Todo Gardel  -Fundamental-
-Straight To The Highway
-CPM22
-Movin'' On
-The Stars Are Out
-Never Better
-Dois Na Bossa No.3
-Clues
-Bobby Hackett & Jack Teagarden
-Fearless
-Sell Out
-Plays Well With Others
-Whispering Grass
-I Give my Soul
-Boogieology - The Boogie Woogie Masters
-Questamation
-Joe Sent Me
-It''s Christmas - Natale In Vaticano
-La petite boite en fer
-Paranoid Prophets
-Everybody''s Talking_ Nobody''s Listening!
-The Burden Of Mules
-Honky Tonk Rockabillies_ Volume 1
-iTrance_ Vol. 4
-So In Love
-Places
-Fox
-Calle ilusion
-King Baby
-Cultura Jonda XVIII. Lebrija joven
-Hello My Apple
-Dear Diary
-The Best of Jimmy Hughes
-The Shadow Of The Cat
-Iltavilli
-They Came To Rule
-Amplified
-Negra_ Si Tú Supieras
-Balance Of The Force Remixed
-Hannah Montana The Movie
-Screamin'' The Blues
-The Mod Scene
-Le Transporteur 3 - The Transporter III (Original Motion Picture Soundtrack)
-La Historia Del Blues
-Live at 42 Walnut Crescent
-Breakaway
-Stepmom - Music from the Motion Picture
-Attack - The Remixes Part 2
-Ironias
-Mysteries Of Funk
-Remixed
-Skeletons
-Fist Of God
-Strange Liaison
-A Hundred Million Suns
-The Complete Motown Singles Vol. 11B: 1971
-How About Now
-Nobody''s Fault But Mine
-Midnight At Mabel Mercer''s
-Syvään valoon
-Twilight Of Jesters
-Kill Bill Vol. 1 Original Soundtrack
-Def Jamaica
-Love Songs
-Through The Trees
-Skream  - Watch The Ride
-Laugh&..Plus!
-Ella & Louis - The Collection
-On All Fours
-Joey Tempest
-Spotlight On Frankie Lymon
-Colours
-Tempa Allstars Vol. 3
-R U Still Down?
-Decisions
-Klappe die 2te/4 Bonus Tracks
-Funky Pukanky
-Dawn Patrol
-Back Home
-The Best Of Warrant
-Live At The YMCA 27.10.79.
-The Essential
-Blackbird: The Music Of Lennon And McCartney
-Live In London
-Staring Down The Barrel
-Radio Futura
-Bun Them
-Stronger Rastaman
-Love Rule
-The Vintage Series
-George Phang: Power House Selector''s Choice Vol. 4
-A las buenas y a las malas
-A Wee Bit O''Revolution
-D''Une Âme À L''Autre
-Pobre Pescador / Stranger - Single
-Tracks 3
-Horizonte
-To Rococo Rot
-Love For A Strange World
-Killermachine
-Reality
-Of Dreams Forgotten and Fables Untold
-No Picture Of The Hero
-Polyester
-Infinite Love Songs
-Extasy
-The Last Legend
-I Can See Clearly Now
-Stampede
-Actually
-Come And Get It
-The Bright Mississippi
-1977
-Scarlet Witching Black
-Ah bah ouais mais bon
-Louise Attaque
-20 Grandes Sucessos De Quarteto Em Cy & Mpb-4
-Le best of
-Les Choses En Face - Nouvelle version
-The Definitive Collection
-Round about silence
-Live - Workin'' on a Groovy Thing
-20 Años En Vivo
-Once Last_ Never Forgotten
-Metalbossa - The Restless Soul Mixes (feat. Sandra Nkake)
-Secando Lágrimas
-Billeder Af Verden
-Deodato 2
-Needles & Pin: The Best Of Smokie
-Bullets Aint Got No Name Vol.1
-Trance Mini Mix 015
-Modbilly
-Faith_ Hope & Lullabies - Peaceful Music For Quiet Moments
-The Return / Fading Memories / Eventuality / Life Goes On
-De Ley
-The Post-War Era
-Eating Us
-Sin-Decade
-Indian Warrior (remastered)
-Yours Sincerely
-Sentimento
-Aquarela Do Brasil
-Andrea Bocelli - Sacred Arias
-Swan Songs
-Lisztomania
-Chess Blues
-Ain''t Got No Home:  The Best Of Clarence Frogman Henry
-Our Theory
-They Know What Ghost Know
-One World
-Tatt Av Vinden
-Thinking Back_ Looking Forward
-Number4
-Top Of The Pops - Seventies
-Réchauffe L''hiver
-Waking Up In Vegas
-Imagination Movers: Juice Box Heroes
-Traveller South
-Thirteen Tales Of Love And Revenge
-Treachery
-Chapter 2: Gettin'' The Spirit
-Live Era ''87-''93
-Live At The Fillmore
-Escalation of Hostility
-Gok
-Black Heart
-Black Label
-Aero
-Precious Time
-Texas Troubadour CD3
-Amen Corner Selected Hits Vol. 1
-Slim Smith Selected Hits
-If I Know You
-Celia Cruz Y Sonora Matancera Selected Hits Vol. 4
-The Tune Robbers play the best of Simply Red
-Fat Baggage
-Rust
-And the Flying Boombox
-Infréquentable
-Voces A Mi Alrededor
-Gasolin'' The Album Collection
-Dignity - The Best Of
-Hearty & Hellish
-Dodens Evangelium
-The Quintessence : New York-Los Angeles 1939-1945
-Moribund transgoria
-Les autres
-Crockers & Killers
-To Moj Czas
-Evenfall
-Mano_ Parque_ Paseo
-Otoño En Agosto
-Enemmän kuin koko tuotanto
-Home of the Free & Mind at Ease (remixed by DJ Screw)
-Go Home
-L.s.t.
-Bassics: The Best Of The Ray Brown Trio (1977-2000)
-Arena / Chronicles
-Close To Paradise
-20 Trance Hits_ Vol. 10
-Welcome to Vas Llegas
-Black Liberation Dub
-Hostage EP
-Ikasten
-Im Wald der Träume
-Lost In Transmission
-DD''s Fun-Collection
-Dadhi Mushkil Ban Gai
-The Legende of Jeb Minor
-Ladies Of Soul
-Strange Things Happen
-Microphone Music
-Do It Yourself
-Love Sensation ''06
-Exaudi Vocem Meam I
-The Linear Scaffold
-Abstract Man
-Phantasia
-That''s What I Call A Ball
-Ritter_ Wirtsleut_ Preiss''n und i
-Cheb Nasro
-New Address
-Kingdom Of The Blind
-Assassin Out of Custody
-Motown 7 Singles No. 4
-Summerhead
-Woodstock Nation
-Retrospect
-Woody Herman Live At Newport 1966 / Hollywood Bowl 1986
-Bird in the Hand
-Pyrokinesis
-The Magic Door
-Happy Birthday Marie-Rose & Mes plus belles chansons
-Broadway Melodies
-Waffe
-Instant Reality
-10/100
-Jaula de Grillos
-Lorena
-Playlist: The Very Best Of The Lovin'' Spoonful
-Henry Street Music Vol. 12
-Live_ Vol. 2
-A Portrait Of George Lewis From Burgundy Street To Berlin
-Kenny Dorham Quintet
-Unnameable
-The Chess Box
-The Colour And The Shape (Special Edition)
-Goodbye To Romance
-Starting Now
-Project One
-Best Of DJ Isaac
-Patience EP
-Message To Man
-Best of (Deluxe Version)
-Live
-I Like It Like That: More From The Fania Vaults
-The Pain E.p.
-Voices Of Americana: Delbert McClinton
-Nostalgia 77 Sessions Featuring Keith &amp; Julie Tippett
-Las cartas sobre la mesa
-Simple Truth
-Eddie Calvert - Orchestra
-Provision
-LOU CHRISTIE LIVE FROM THE BOTTOM LINE
-So What?
-Hot Robot
-Grey Gardens
-Fire
-Gathering
-PianoMelt
-Between The Glow And The Light
-Las Puertas Abiertas
-Cherrystone Park
-A Bump In The Night EP
-Cuckanandy
-Les Choeurs De L''Armée Rouge
-2004 International Barbershop Quartet Contest - First Round - Volume 4
-Kitsuné: 1000 Things
-Sea Sew
-Al-D Presents... Unconditional Luv - A Memorial To DJ Screw
-Flutterby
-Slow-Cooked Pig Meat
-Missed The Boat
-Glam
-Meat Puppets Live
-Reggae Hits Vol. 19
-Reggae Hits Vol. 35
-Houseplanet : Mi-Tech Compilation
-Brainstorm
-The Ozzman Cometh
-Grace Days
-60x60 Leyendas Del Pop-Rock
-Live at CBGB 1982
-Africa''s Chill Out
-Snowman - Mo Icey
-Questions
-1937/40 Broadcasts
-Live
-Vores Bedste
-Roses Kings Castles
-Hologram Funk LP
-El Estado De Las Cosas
-Burn My Candle: The Complete Early Years 1956-58 (Part 1)
-1943-45 Broadcasts
-Isabelle Aubret Chante Brel
-Hoy Quiero Soñar
-Voodoo
-Never Ending Torture
-The Black Circus
-Forever Will Be Gone
-Through the Gate We Go
-Salutes The Stars Of The London Palladium
-Vendetta
-Life_ Love & Gossip
-Never Going Back
-Crime In the City
-I Feel Alive
-Jam On Revenge
-Aizkolari
-Live Au Divan Orange
-El Mayimbe Greatest Hits
-Directions
-The Lesson
-The German Horse
-Strength In Numbers
-Wednesday Night Heroes
-Love is the Look
-The Pasture_ the Oil
-25 Years
-Al Lirvat Wabap
-The Human Body EP
-Superdiscount 2 10 Vol. 1
-Reprogram
-Torch
-Soul Groovin - Speedometer Live
-I Will Survive: The 20th Anniversary Collection
-Incoming E.p
-Patchwork (Disc 2 - The Camellia Remixes)
-Some Quiet Place
-ONCE AND FOR ALL
-Weekend Science Experiment: The Binary Theorem
-Rustic
-New People Make Us Nervous
-In A Welcome Field
-Mr. Mafioso
-Pocustone
-Abbracadamn!!!
-Erik Tronic
-This Is Jazz #12
-BobBaldwin.com
-Electrolessons 1
-The Lifeboat
-Juanita Hall Sings The Blues
-Solo Two/Happy Together
-Pick ''Em/Super Strings
-Aztec/Do Not Shake
-Cream Future Trance
-The Very Best Of The Lovetones
-Akasha
-Wonderful Instrumentals Vol. 1
-Fractured
-Goes Underground
-A Rockin'' Decade
-Version Galore
-La Tranquilidad Después De La Paliza
-Chained
-Benny Spellman Selected Favorites
-The Bollock Brothers'' Count Dracula Where''s Your Trousers
-The Wes Montgomery Trio
-Vildhallon
-There and Back
-Montreux ''77
-The Voice
-xtoyourmilkyhair
-Greatest Hits
-Skullage
-No Point In Wasting Tears
-Que Seas Muy Feliz
-Awake?
-Good People In Times of Evil
-Joe Henderson In Japan
-Absence
-Living Proof
-Mr. Big Stuff
-Vicissitudes
-Pop Beloved
-Selling Celery to Get a Salary:  Remixes_ Demos & B-Sides
-Vengeance War ''Till Death
-Las Mejores Gaitas Vol.3
-Troublemakers
-Toshack Highway
-The Last
-Music Heard Far Off
-Bonnie & Clyde
-When I Grow Up
-Di Real Rock
-Here I Go Again
-Electrical Boy
-The Speed By Which We Fall
-Headspin
-What Is Real and What Is Not
-Remix: Volume One
-Negative Capability...Check it Out!
-The Reign of Terror
-Free Shit! Live in Chicago (2 Final Shows)
-Wiccked
-Bone To Pick
-Vortex of Vacancy
-Penance Soiree
-Club Ocean Vol. 7
-Sex En La Playa
-Dúo Dinámico_ Sus 20 Grandes Éxitos
-Destroy all monsters
-Joe Gibbs Presents ''Inner City Roots'' (Ina Rockers Style)
-Grandes Éxitos De Pepe Pinto
-Jumpstyle Hardstyle Vol 2
-Tom Tom Club - Deluxe Edition
-Singin'' And Swingin''
-The Very Best Of
-Essential Organ Masters
-Crazy Arms
-Cameo Parkway - The Best Of The Tymes (Original Hit Recordings)
-The Lenny Bruce Originals_ Volume 1
-The Last From Lennie''s
-Lord Of The Rings
-Madness In Abyss
-Looking in the eye of the world
-Nervous Breakdown
-The Oxidising Angel
-Demon Kiss
-Shelter
-Hate Never Dies Vol. 2
-Hate Never Dies Vol. 3
-Grand Design (Re-Designed)
-Revenge
-Totalitär
-Machineries of Joy Vol. 4
-Schlafende Energie
-Cão
-Laut
-Frames
-Pearls
-Slip Of The Tongue (20th Anniversary Expanded Edition)
-Dangerous
-Taste The Music
-Let''s Talk About Love
-For Those Who Think Young
-Love And Glitter_ Hot Days And Muzik
-Time Will Tell
-The Spinning Top
-The Katie Melua Collection
-Pictures
-1.0.8
-Perspectives Of
-Killer Eyes
-Raise The Youth
-Oceana_ I Will Return
-Ghosts Of Leaves
-Fear Of A Digital Planet
-Skinhead Times 1982-1998
-Lautturi
-Keep Me Comin'' (With Bonus Tracks)
-The Beginning
-Most Sampled
-Love For The Last Time
-Cajun Country
-Wicked Disco & Soul Breaks
-Lunatics & Poets
-Zen Connection
-Groove Yard
-Kin
-Satu
-ASP
-Noodle-Arm Whimsy
-Quiet Glow
-Utopian Theory
-Red Bennies
-Postcards From Hell
-All The Stuff We Do
-Project Mayhem
-Shiver
-Gitane
-Ape Uprising!
-Shake Your Pelvis
-Three Against War
-Maggot Fetus... Teeth Like Thorns
-Rock The World
-Total Reggae: From Jamaica With love
-Daybreak Mourning
-Love_ Death_ & Customer Service
-Say No More
-Sunny Side Up
-Better Days
-Online Exclusive: Demos & Rarities
-Our Split EP
-With Every Breath
-Hey Rocker
-Aclamare Tu Gracia
-Holiday From You
-Good Wood
-Vol. 1 Comp
-Blind Windows
-Rare And Unreleased Tracks
-Straight Up With A Twist
-Jet Set
-Rasta Legacy Vol I
-A Woman Like Me
-Cencerro Blanco
-Smitty''s Blues
-Kathleen Madigan
-Male Stvari
-Slaves To Rock N Roll
-Mind Over Matter
-The Dells Selected Favorites Volume 1
-Caught in The Act
-Nostradamus
-V2
-Preacher
-Summer Ever
-Sagala
-It Must Be Love
-The Birth
-True To Myself
-Warren Smith Selected Hits Vol. 2
-Beta 14 Ok
-Four Fifty One
-Unenthusiastic Ebony Brown Soul
-Malagueña
-The Only Tourist In Town
-Shapeshifter Volume 4
-Heart It Races Remixes
-Big Shot
-Facts Of Life / I Don''t Know What The World Is Coming To
-Safe As Houses
-and Nothing is #1
-Street Smarts
-A Little Revolution
-Universo Inverso
-Mickey: The Very Best of Toni Basil
-Anthology Of Releases: 2001 - 2003
-Soft Focus
-Conquistador
-Beneath The Antlers
-My Love
-Tommy McCook Selected Hits
-Jesus Is A Rock
-Memoirs Of An Afterlife
-0201
-Racing the Tide
-Who Came First
-2nd
-Down Down Down
-In The Guru Lounge
-Saxon Selected Hits Vol. 2
-Remedy
-All the best Cowboys have chinese eyes (Re-Release)
-The Million Dollar Quartet Selected Hits Vol. 2
-White Night EP Vol. 1
-Enciéndelo
-Cuttin'' Cream & Smackers EP
-Circostanze
-moon_phase
-Disguises
-The Five Stairsteps and Cubie Selected Favorites
-Out Of Our Mouths
-Say Goodbye To The Camera
-Chapter II: Aftermath
-Just Let Me Talk To Her
-Foot Of The Mountain
-Oxygen Refreshed (Instrumentals)
-Funkafied
-Capsules
-You''ll Be The One
-Abbey Is Blue
-Cold City
-Vodka Lemon (Bande Originale Du Film)
-Music of Renaissance For Classical Guitar
-Buy It Sell It
-Liberté
-Black and Brown
-Delusions of Safety
-I
-Sinners Stick Together
-The Legacy Continues...
-Music From the Motion Picture - Good People Bad Things
-Moment to Moment
-Believe the Thieves
-If You Love Me
-100 Degrees - The Techno Experience Vol.2
-The ''59 Sound
-Cold Flame / Big Love
-Kasvukipuja
-Roozhaye Taraneh Va Andooh - Persian Music
-Cult Of Static
-Made Home
-Polar
-Dutch Hex
-The Love Chronicles
-No One Will Thank You When You Are Dead...
-God Made Dirt
-Traveller
-Y''all Ready Now?
-On Avery Island
-Diario
-Phi
-Flute
-Blue Waltz
-Tonight And Forever
-Georgiavania
-EZ  - Essential Garage Collection
-Up From Below
-High voltage resistance
-Easter Everywhere
-808 Bit
-Means to an End
-Carnival Of Sins/Live
-Primeras Páginas
-Los Mejores
-Elements of persuasion
-The Iron Man (Re-Release)
-On
-Pies Descalzos
-Satisfied
-HABITACION DOBLE
-Akrasia
-The Highway QC''s Selected Hits Vol. 1
-Uncovered Heart
-Fuselace
-The Confusion of A.J. Schicksal 1927-1973 (Vinyl Version)
-Salsa Superstar CD2
-The Champs'' Limbo Rock
-Sacred Treasures V - From A Russian Cathedral
-The Bubble Puppy Selected Favorites
-Pearly Gates Selected Hits
-Swirl
-Pat Kelly Selected Hits
-Chaotica
-A Collection of Chinese Music Masterpieces: Erhu
-The Rutland Isles
-Shrimp Boats
-Nu Flow
-Eternal Passion
-Mama Used To Say
-To Dad From Motown
-Na Vida Real
-Distance
-Jack of all trades
-Toujours Ghetto Collector
-Camping sauvage
-In Love
-Airport Symphony
-Shadows of the Lovers
-It''s A Lonely World
-Uncivilization/Special Edition
-Don''t Get Comfortable
-Life on life''s terms
-1
-Solenoid EP
-Country Gospel
-Stasis E.P
-So Be It
-Golden Hitz Of Calypso And Soca Vol.1
-One
-Border States
-Scatterlings
-The Cove
-Downfall Of The Working Man
-The Blue Bloods
-Meanwhile
-Keep the Fire Burning (Stones Platinum Diner)
-Brave New World (7inch Edit)
-Radar Love (Radio Edit)
-Houseman (7inch Mix)
-Congo Square
-The Ecstatic
-Here With Me
-In Our Bedroom After The War
-Drawing Down the Moon
-Doctor''s Orders
-Best Kept Secret
-Electric Rodeo
-I''m Really Smokin''
-Songs For The Working Man
-Seven Year War
-I Gotcha
-And Come the Sirens
-Work For All
-Dora The Explorer Party Favorites
-Spotlight Karaoke Vol. 2 - Best of Schlager 2007
-Wah Wah
-My Blues
-The War Back Home
-Live Moment
-C&C Music Factory vs. RMD Dance: Everybody Dance Now! (Sweat- The Remixes)
-Respirare
-Stop the Tape! Stop the Tape!
-Heartbreak Make Me A Dancer
-Ao Vivo no Coliseu dos Recreios
-Sharabee Vol 3
-Live In Ukraine
-Funny In The Head - The Best Of The Barron Knights
-Resolution
-Either Or
-Decade - Box Set
-Fur
-Volver A Nacer
-Shadows Of The Past
-Strong Currents
-Destination Life
-South Side Stories vol.3
-The One That Got Away
-Fool Me Good
-Realistic
-Let''s Just Call You Quits
-Now And Then - Folk Songs For The 21st Century
-You Know Me
-Mosaic
-Main Street
-Two Guns_ Twin Arrows
-Buckle Up
-When Rappers Attack
-Piano Playhouse
-New Recovery
-First Congregational Church Concert
-Healing Waters
-Beyond The Valley Of The Proles
-Songs of Prey
-Territory=Universe
-Five Knuckle Philosophy
-Makina Klassix
-Voz De Referencia
-Cheyenne Nation
-Land Of Hope And Crosby
-Refractory
-The Best Of Xavier Cugat And His Orchestra
-Everybody''s Talkin'' ''Bout Miss Thing!
-Lilas EP
-Draft Radio Volume 1
-More Or Less Is More
-Togo
-Back To The Delta
-Just The Facts
-Real Life
-Vol. II
-Simply Glad
-If I Could Do It All Again
-More Than a Song
-Between Earth & Sky: The Pulse of Celtic Music
-Dark Skies
-Reunion
-As You''re Vanishing In Silence
-Songs From Lynchland Vol. 1
-Function 8_ We''re All Wearing Capes
-Waking Up Is Hard To Do!
-E.U. and Friends...School Daze revisited
-THE FREQUENCY
-Wildfires
-All For Business
-Hollywood Town Hall
-Jill Paquette
-Starrbooty: Original Motion Picture Soundtrack
-Miltape Vol.1
-The Looking Glass
-Mars/Venus
-Columbia: Live at Missouri University 4/25/93
-Twilight On Sometimes Island
-Asi Como Me Ven
-Maxi mariage - 51 titres
-Remote
-Rock En Español - Lo Mejor De Fobia
-Hypnotic Poison
-Balansamba 2005
-Babblesick
-Überjam
-Full Circle
-Arkansas
-A Mi la Calle
-Garde-Moi La Derniere Danse Vol 8
-Fielding
-Octopants
-Tomorrow Never Happened
-Two Ton Tuesday Live!
-Don''t Be Cruel / Bobby
-It''s Harassment
-The Art of Navigating by the Stars
-One Step Closer
-Hutspot
-Silence
-Worlds Apart Revisited
-Paradise Lost
-Marathon
-Ten black years - Best of
-All Inclusive
-Playgrounds
-The New Wind and the Second Wave
-Molecular Heinosity
-Emotionally Disqualified
-For The Love Of Strange Medicine
-The Best of Country Joe McDonald
-Katharine McPhee
-Negroklaro
-In the Interim
-Soldiers of Love
-Sex & Misery
-Out For Blood
-Texasongs
-Free Cocaine
-Memphis Slim U.S.A.
-Giraffes and Jackals
-The Blues Never Die
-Restore EP
-Weirdo
-Forever Young - New Mixes 2009
-Party Rock
-Pleasure
-The very best...Live - Montreal Jazz Festival 25th Anniversary Series
-The Notorious Cherry Bombs
-Et Si C''Etait Moi
-The Incredible Kai Winding Trombones
-The Highschool Reunion
-Prokofiev - Scythian Suite_ Stravinsky - The Rite of Spring
-One Louder
-The Shiggar Fraggar Show! Vol. 3
-Equilibrium
-Harry / Silent Mother Nature
-Mind Is Not Brain
-Danger: White Men Dancing
-Where We Belong (rafa''s Epic Journey)
-Live Inferno
-On The Run: Live At The Velvet Lounge
-Strictly Platinum
-Stone Love - Champion Sound_ Vol. 1
-High Country Blues
-Sextessense: A Tribute To John Stevens and the SME
-Michael Bublé Meets Madison Square Garden
-Neil Young Archives Volume I [1963 - 1972]
-One Part Lullaby
-Leise
-String Wizards
-CJ Bomb Club Mix Best Of 1997-2008 Vol. 5
-The Boom Lucy
-Warrior Charge
-Guitar Adagios
-Certified
-Skywriter / Get It Together
-Frame
-Greatest Hits
-Northern
-Junglization
-Electro Ave
-SHINING STAR
-A Pair Of Hanks
-Rise
-Divine Design
-A Nation of Actors
-The Stolen Singles
-Shajarian Golden Songs - Persian Music
-Cheyenne Autumn
-Nightout
-A Place Called Grace (Premiere Performance Plus Track)
-WTF feat. Kid Sister & Paserock
-Research & Development
-From Past To Present
-Robot Love (Part 2)
-Kevlar
-Dissidia
-Le Mepris
-Battlestar
-Rough Diamonds
-Desolation Angels
-Les Grands Succès Du Cinema Hollywoodien
-Process Of A New Decline
-Les Maîtres De L''Accordéon
-Alkaline EP
-The Present Age
-Rio De Colores
-In Loving Memory
-First Come_ First Served (Instrumentals)
-Dogu Ruzgari (Wind of East)
-Chicago Jump
-Papillon
-Wonderful Educated Bear
-Turbinado
-The Countess
-The Flying Ballerina
-How Dark This Earth Will Shine
-In The Rectory Of The Bizarre Reverend
-Tiwahé
-Euphonic Sounds
-Along Came The Chosen
-Harry Potter And The Half-Blood Prince - Original Soundtrack
-Reflections: Steve Lacy Plays Thelonious Monk
-Fragmentary Evidence
-World Beaters
-Bossa Evergreen
-The Horrible Plans Of Flex Busterman
-Shizuo Vs. Shizor
-Chayanne
-Enter Now The World
-Fuck Step 98
-Live In Philadelphia
-Attitude PC8
-Unplugged
-Trapped In The Closet (Chapters 1-12) [Explicit]
-La Puta Y El Diablo
-Desolation Street
-Nightsongs And Lullabies
-Start from Skratch
-Craftsmen
-2.
-Chronic Dreams
-Hardware Chronicles Vol. 3
-Texas Unplugged_ Vol. 1
-Artboy Meets Artgirl
-Solos for the Horn Player  - The Mason Jones Book
-Cidar
-¡Amigo_ No Paso Na!
-De La Cabeza Con Bersuit Vergarabat
-In Formal Introduction
-The Airs of Wales
-New Memories
-The Barbecue Swingers Live
-Insomnia
-Hi-Tech Lowlife
-Median''s Relief
-Butterflies_ Zebras_ And Moonbeams
-RockN''Road All Night By Danni Carlos
-Emmerson Nogueira Ao Vivo
-Habia Una Vez
-Vinyl Replica:  Noche Y Día
-Os Replicantes
-É Por Amor
-Um Viol¦o Em Primeiro Plano
-Divididos Por La Felicidad
-Pequenas Anécdotas Sobre Las Instituciones
-Sí o Sí - Diario del Rock Argentino - Sui Generis
-Capital Inicial Multishow Ao Vivo
-Black Holes And Revelations
-Karaoke: The 60''s Hits - Singing to the Hits
-Murphy''s Law
-Streetcred2 Punchline
-The Singles
-Cocaine 2009 Mixes
-Fall
-Last Of The Angels
-Barfly
-Sneaky Flutes
-Cuts...
-Strictly East Coast
-Waiting To Happen/36
-Mis 30 Mejores Canciones
-La Sangre En El Cuerpo
-Tania Libertad Canta A Jose Alfredo Jimenez
-Aerosoul
-100 Kilómetros De Musica
-12 Vivos
-Serie De Coleccion 15 Autenticos
-Incontinopia
-A Gozar/Sonora Santanera
-Más Unidos Que Nunca
-Grandes Sucessos - Nilton Cesar
-Pato Fu
-A Melhor Banda De Todos Os Tempos Da Última Semana
-Mi Biografia
-Mi Vida Musical
-Tabuleiro Musical
-Desde El Batiscafo
-La Parranda es con Poncho & Emilianito
-Sagrado Corazón
-Broadway Blues
-Down Home Blues
-The Blues Ballad
-Vriend & Vijand
-The Nightfly
-Serotonality
-Don''t Cry Now
-Sorry Ma_ Forgot To Take Out The Trash!
-Ooh La La
-Compositions
-Chicken Skin Music
-(Hoist)
-In The Storm
-Heart_ Mind & Soul
-Broadway - Right Now!
-Per... Un Mondo Di Cristallo
-On A Mission
-I''ll Be There
-The End Is Not The End
-Moon
-Mind and Body
-1614
-Kingdom Of The Night
-Loco por Ti
-Personalidad
-Personalidad
-RCA 100 Años De Musica
-RCA 100 Años De Musica
-Los Ultimos Exitos De Rigo Tovar
-Ramon Ayala & Bronco
-Dying For A Heart
-La Gran Coleccion Del 60 Aniversario CBS - Gualberto Castro
-Las Numero 1 De La Sonora Santanera
-Don''t Kill the Messenger
-Live At The Rat
-Right Now!
-L.A. Explosion
-Svenska favoriter
-Buffalo Killers
-Ebele EP
-If Footmen Tire You...
-Car Wash
-Erasure Is Our Ally EP
-Lådan
-Dancecore
-Endless Summer Vol. 1
-Give Me Some Love (Part 1)
-Ultimate Trance Collection
-Rest In Sleaze
-La Historia De Magneto
-Masters Of Reality
-In My Life
-Piano Piano
-Birdy Nam Nam
-I Hate Us Even More
-Sonatas And Interludes For Prepared Piano
-Beach Music Anthology
-About You
-Xlr8r
-Journeys of a Dervish
-Pesca De Sones Jarochos
-John Cage - A Firenze
-I''ll Shut Up When You Fuck Off
-All Night Long
-...Beyond My Grey Wake
-The Shape Of Life
-Tomorrow Waits
-The Winding Path
-Rise Up
-Watlington Street EP
-Amok
-What I Mean To Say Is Goodbye
-68/98
-For That $crilla
-Clean Machine
-Carrot Rope
-Crooked Rain Crooked Rain (Deluxe Edition)
-Natural
-Completely Taken In
-Old Rottenhat
-Brighten the Corners (Nicene Creedence Ed.)
-Westing (By Musket and Sextant)
-British Tour ''76
-Pete Tong Presents Wonderland 2009
-The Official Hampster Dance Song
-Laissez Faire...
-Lucero
-Lovebites
-...and The Winnerys
-Söder Om Kärleken
-Meander
-When The Going Gets Dark
-Tennessee Before Daylight
-Do Not Ignore the Potential
-The Absent and The Distant
-Povel Ramel/De sista entusiasterna
-A New Old Fashioned Christmas
-En plats i solen
-III
-Tommy Körberg & Stefan Nilsson tolkar Jacques Brel
-Been It
-Forever
-Perfect World
-First Descent - The Story Of The Snowboarding Revolution (OST)
-Slither - Music From The Motion Picture
-The Heartbeat Orchestra
-Dirty Electro House 4
-Deadly Passions
-LITTLE MISS DANGEROUS
-NUGENT
-Raised On Whipped Cream
-IN THE PALACE OF THE KING
-Lo Esencial
-WELCOME TO HAITII CREOLE 101
-PISTOLA
-LIVE AT MONTREUX 2006
-Det snurrar i min skalle
-Canciones De Amor De Yuri
-LIVE AT KNEBWORTH 1980
-Necesito Dueña
-Here Today And Gone Tomorrow
-Puro Sierreño Bravo
-10 de Colección
-Stay Hungry [Deluxe 25th Anniversary Edition]
-My Turn
-More weird hits
-Reggae Reggae
-The Fight Of My Life
-World We Know
-Something Wrong
-Latin Travels 2
-Bellydance Overdrives
-Trance Hits Vol.2
-Power Trance Vol. 4
-The Poems of Elizabeth Bishop and Other Songs
-The Bright Lights & What I Should Have Learned
-The Herbaliser Band - Session 1 & 2
-Out of States Plates
-Non fumeur
-Fegefeuer
-Glömda Hjältars Ballad
-Show
-Defected Presents Classics In The House
-Happy Birthday Mum
-Trinity
-Let''s Be Us Again
-Surrender
-Momentum Shift
-Redesign - Realize Remixed
-Last Night Out
-Peculiar Friends
-Maelstrom
-Hi-Bias: Clubbin''
-A Tribute To John Hartford - Live From Mountain Stage
-Valdr Galga
-Tassoumakan
-If I Prove False
-Country''s Greatest No 1''s
-Where''er You Walk
-Thank God For Mental Illness
-Forbidden Fruit
-Mustang Sally / Three Time Loser [Digital 45]
-Ignorance
-Rated O
-So bin ich
-Rock En Español - Lo Mejor De Tijuana No!
-The Wrong Cage
-We''re Selfish And Lazy And Greedy
-The Ground
-Holy Shiite
-Ghost White
-Cromer
-Things Gonna Get Greater: The Watts Prophets 1969-1971
-L''apparenza
-Coming Up For Air
-Up North
-Airmail Special
-Central Avenue
-Bombay Dub Orchestra
-Viper Millennium Freestyle Dance Party Volume 1
-Music From A Painted Cave
-Trust In Jah
-Andalusian Nights
-The Band Kept Playing
-Meant To Be
-A Story In Sound
-Stick Game Songs Of The Paiute
-You Say Rock
-Ya...
-Howl
-Colors of My Heart
-Tornado Alley
-Lost & Rare
-Live
-Fuzzy Boombox v.2
-229 2299 Girls Against Shit
-Project Overground: The Scienz Experiment Instrumentals
-Right Here_ Right Now
-Intersteller Fugitives
-Nazz Vs Toddzila
-Afterburner
-Never Leave You
-Recordings Of Music For Film
-Something Real & Here_ Here and Here
-Deliberately Fragile (Bonus Disc)
-Subject...Aldo Nova
-MTV Unplugged
-Three Crosses
-E-LIFE
-Multiply
-Aeftershock
-Kiva
-Vulture Street
-Gillan''s Inn
-Return To Form
-Chill The Beach
-Airs On A Shoestring
-Spokes
-Invisible Show Case Vol.1 Part: Two
-Haha Sound
-The Theory of Evolution
-Intervision
-Trainer
-Play It ''Til Tomorrow
-Empire
-Drukqs
-Watamanu?
-II
-E Coli
-Bytes
-For Beginner Piano
-George Walker_ A Portrait
-One House Left Standing
-One Nine Eight Two
-Duele
-H
-Musical Erratum + In Conversation
-I Feel Like Steppin'' Out
-Tranchã
-Get Serious
-A Return To The Isle Of Men
-Manuel Carrasco
-Little Darla Has A Treat For You v.26
-Transmigration
-The 1950s Concerto Recordings
-Andy Pratt
-The Slaughter House Tapes
-Passages
-Armada Lounge_ Vol. 2
-Tortured Tunes - Live
-You''re No Good
-Battle For The Sun (Greek Digital Version)
-Take Off Your Colours
-Son By 4
-Sonic Diary - Mixed
-Afternoon Pornstar
-Lasso
-Full On Mask Hysteria
-Soundsystem
-Home
-Porque No Basta
-Music for Nature Documentaries
-Nine Heavens
-Afterglow
-Classic 220
-Lost & Lonely Blues Vol 2
-Debris (ltd. ed. bonus disc)
-Circle Dance Songs of the Paiute and Shoshone
-The Camels
-Blue Tofu
-I Love You
-Dahmer
-When the Funk Hits the Fan
-Ya Mama & Song For Shelter
-Willy Porter
-Donde Estas Corazon
-Hoochie Momma
-The People Mover
-Young_ Gifted_ And Black Country
-What My Blues Are All About
-Start A People
-By Any Means Necessary
-Midnight Howl
-Super Hits
-Canciones De La Costa Chica (Chilenas)
-Serie Platino
-The Lucky Few
-Who Put Sac on the Map ? 2
-Straight Edge Failure
-Honey Lingers
-The Distant And Mechanised Glow Of Eastern European Dance Parties
-Greatest Hits
-Collection
-Elevision Music
-Fede Rossoblu
-Spiritual R-Evolution
-Pain & Glory
-An Evening With Jerry Herman_ Lee Roy Reams and Karen Morrow
-Ho smesso di vivere
-Super L
-Getting To the Point Is Beside It
-A Arte E A Música Do Trio Odemira
-Promises_ Promises
-Above The Clouds EP
-The Purple Tape
-Strictly Rhythms Volume 2 mixed by Mr V
-Summertown
-Craving
-More Bad Habits
-Two Dollar Pistols with Tift Merritt
-I Need You
-The Pity List
-Who Do You Think You Are
-''E Vicule ''O Scuro
-...Y Los Relojes Se Pararon
-Little Spaces
-You Can''t Win
-Twist Party
-Revenge!
-Zeno Beach
-Noble Creatures
-Other People
-High Wire Live
-Electric Chair Song
-Three Live Times Ago
-Wassan Pharaoun
-Telegraph
-Dog Disco
-The Offering
-Mystery
-Reinitialized (limited bonus)
-Friendly Persuasion
-Buenaestrella
-Queen Majesty
-Abandon Music From The Motion Picture
-Play this game
-100 Ans De Bal Musette
-Love It All - Remixes EP
-The Harbor Sessions
-Hartreim Saga
-Wildflowers
-Somewhere I''ve Never Travelled
-No Man''s Fool
-Mary Star Of The Sea
-A Mi Shabba
-Rainie Yang - My Intuition
-Marian McPartland''s Piano Jazz Radio Broadcast
-Complete Compilation 3CD Golden Serise - Prudence Liew
-Midnight Prayer
-Right Now
-Strange Faith And Practice
-A Land For Renegades
-Humbug
-Soirée Mondaine
-No Longer At Ease
-My Mistakes Were Made For You
-Domino Remixes
-Samrah
-Superpallo
-Don''t mess with the country boys
-Beautiful Life
-Satellite Sessions
-Can''t Sell Dope Forever
-Speed of Sound- Music Withouth Words from Travels in the Sou
-Provisions
-Alligator Purse
-Kéçia
-Cantava
-20 Trance Classics
-The Remix Collection
-Planetary Folklore 2
-All Points North EP
-Twin Peaks EP - Peak Two
-Women As Lovers
-Random Violence
-Boo Hoo Boo Hoo
-The Quarter After
-City Fallen Leaves
-Ten White Stones
-Telescopic Eyes Glance the Future Sick
-7
-Five Pillars of Soul
-MP3
-9 Patriotic Battle Hymns for Children
-Mollie''s Mix
-Liliput (2xCD)
-Har Mar Superstar
-Artificial Fire
-New Plastic Ideas
-Snakebite
-Thrill
-The Best Of My Love
-The Man_ the King_ The Girl
-Harem of the Sundrum & the Witness Figg
-Parachute
-All This Everything
-Kaos
-Cab Calloway - Minnie The Moocher
-Live At The Planetarium
-Erskine Hawkins - Night After Night
-Les mauvais coups
-Fearless
-Dave Pearce Best of the Dance Years 1988 - 1992
-Chart Buster Vol. 3
-Coming Up Easy
-David Allan Coe Live..If That Ain''t Country
-Born To Be Alive
-The History of Northwest Rock_ Vol 2 - The Garage Years
-Homework
-Dear Friends and Gentle Hearts
-Too Late To Cry
-Canciones del Alma
-Best Of
-Broken Heart
-Hail To The Thief
-Redeye 2008 Holiday Sampler
-11 Episodios Sinfonicos
-Greatest Hits
-All Night Cinema
-Aftershock
-Kitsuné: Maximus - EP
-Hi-Baby
-Osee Yee
-Leon - Beijing Station
-Missing You (Mi Yeewnii)
-Supreme Beings Of Leisure
-The Avenues E.P.
-Mixed Emotional Features
-Let''s All Go to Bed
-The History of Northwest Rock_ Vol 1
-Up Rock Possibilitys
-Cousu Main
-A Purple Journey Into the Mod Machine
-Soulful House
-Something To Write Home About
-Tennessee
-The Silence
-80s Hits Live!
-Back Of My Mind
-Other Mathematics
-El Radio
-Goldenwest
-How Sweet It Is
-Moonlight Feels Right
-King Cobb Steelie
-People Get Funny ...
-Perfect As Cats: A Tribute to the Cure
-January
-Murder Junkies
-The Cycore Megamix
-Loud And Out Of Tune
-Offshore the World
-Boston Scene Report
-Little Red
-A Wright Christmas
-London Undersound
-Unforgettable Fifties
-Reasons
-Funeral Phantoms
-The 70th anniversary album
-Hell is Empty All the Devils are Here
-Euro dance
-The Rain
-Friendly Fires
-Stretch That Skull Cover and Smile
-Har Do Ashegh
-Tanga
-Hair
-Doll Domination 3.0
-At Home... Plus
-The Covers EP
-Manhood & Electronics
-The Rage Team Punkompilation
-Overview
-No Need for School Graduation
-Blind Tested EP
-Flame Spitter / V-Town
-Release
-Secrets
-Light & Dark
-Samba Incrementado
-Lone Star_ Todos Sus Exitos
-In Three Dimensions...Plus
-In Rare Form
-Slimewave - Goregrind Series
-Un''ora Con Loro
-Humble / Story Of My Life
-Trem Maluco e Outras Cantigas de Roda
-Multikillionaire: The Devil''s Contract
-I''ve Got the World On a String
-A State Of Trance 2009
-Panic In The Streets
-Música en Imágenes
-Un Prophète
-What A Wonderful World
-Xtension
-I Was There: Roger Kellaway Plays from the Bobby Darin Songbook
-High Wide & Handsome - The Charlie Poole Project
-Live In A Dive
-Karton veverek
-Capercaillie Live in Concert
-Greatest Hits Live!
-Neguits_ Angunies I Forats
-Shut Your Mouth
-Thizzmatic
-Sofa King Cool
-This Is Satire
-Music For Film & Theatre
-Hope Freaks
-I Look To You
-Differently
-The Lenny White Collection
-The New New Lost City Ramblers with Tracy Schwarz: Gone to the Country
-The Folkways Years_ 1959-1961
-Suburban Teenage Wasteland Blues
-Lead Belly''s Last Sessions
-Blasts from the Past
-And the tin pan bended and the story ended...
-New Orleans Street Singer
-Calypso in New York
-Intox
-Jellybean Blues_ Vol. 2
-Country Hits Vol. 4
-Again! Lord Melody Sings Calypso
-Rhythm ''n'' Blues - Fine Brown Sugar Vol. 2
-Tommy Dorsey & His Orchestra
-Liquidsand
-Peer Raben - the great composer of film music - Vol. 1
-Goin'' Mad Blues Vol. 5
-Hank Williams Vol. 3
-Decameron
-The Bowels Of Repugnance
-Carnival Of Chaos
-Recruited To Do Good Deeds For The Devil
-Nosferatu
-Born In America
-Gallery Of Suicide
-My God
-Flesh_Power_Dominion
-Into The Lungs Of Hell
-Hellucinate
-A New Dawn For The Dead
-Miasma
-Godspeed
-Aeolian
-A Long March: The First Recordings
-Inside The Machine
-Lupus Dei
-Kingdom Of Might
-Circus Bells
-Revolution 09
-Burning In Water_ Drowning In Flames
-Dusk
-American Ballads
-COMA
-The Richest Man In Babylon
-Buell Kazee Sings and Plays
-Panamericana
-American Moonshine and Prohibition Songs
-Detlef''s La Isla Bonita - Buena Vista Gala Vol. 1
-There''s a Brown Boy in the Ring and Other Children''s Calypso Songs
-Savin'' the Honky Tonk
-On Two Sides
-Digital Pride
-Zaik / Little Bitch
-Red Garland''s Piano
-Voice Of A Savior (Premiere Performance Plus Track)
-A Strange Arrangement
-The Legendary Town Hall Concert New York 1945
-Accept The Fact
-Best of Jumpstyle & Hardstyle 2008-2009
-Lounge Classics : Classic Chillout / Bargrooves
-Afterglow
-Anders
-Café Zen
-Concert in Dachau
-The Platters & Bonus Tracks
-The Best Of American Comedy
-The X-Files 4.0
-Ticklin'' The Ivories - Volume 2
-Panpipes Of Ireland
-Still Wreck''in
-Raise Hell
-Wartime Memories
-Ignore The Ignorant
-Mellow Down Easy
-Keep It To Yourself
-Jane Russell
-Not Nervous!
-Money Over Everyone
-Thriller
-Reggae Sunday Service Vol. 8
-Burnt Out Landscapes
-The Temple Of Trance
-10cc
-Singin'' To My Baby
-Solid Soul
-Love Drunk
-Just Like Everybody Part Two
-The Pilgrim Travellers Volume 1
-Chicago White Small Bands
-Sixties British Beat Double
-Fun Time Jazz boxset
-Sun Records The Early Years boxset
-Burn Bright_ Burn Fast
-Ella Fitzgerald Double
-Hawks Groove
-Je chanterai pour toi - I''ll sing for you (original soundtracks) (Musique originale du film de Jacq
-Clase Aparte
-Big Band Blues
-Arembelo
-Re: From a Deep Place
-Storm in the Garage
-Manic Frustration
-A Hawk And A Hacksaw
-Rise Up
-Live At The Crescendo
-Cool Blues
-Hot August Night NYC
-Romantic Songs Of The ''30s
-Fragments
-Bach: Organ Works Vol.2
-Songs From Home
-Vent d''automne_ Vol. 3
-The Golden Road  [1965-1973]
-Jennifer''s Body Music From The Original Motion Picture Soundtrack [Deluxe]
-The Everly Brothers Sing
-Can''t Stand The Rezillos: The [Almost] Complete Rezillos
-The BBC Sessions
-Taking Woodstock [Original Motion Picture Soundtrack]
-Ultimate
-Starfighter Pilot
-Do The Pop-Eye
-Viva Soul
-King Of Myself
-Songs
-Nine Lives
-Todo Cambio
-Raindrops Keep Falling On My Head & Other Favorites (Digitally Remastered)
-Blue Planet
-On The Sunny Banks & Other Favorites (Digitally Remastered)
-Tantric
-It''s So Easy & Other Favorites (Digitally Remastered)
-Life Beyond L.A.
-Reintegration Time
-The Warning
-Back Door Man & Other Favorites (Digitally Remastered)
-Never Has Been
-Ryan Dan
-Evolution
-How Did it Get to This
-Accicdental Goals
-Bottled Vintage xxx
-In the Key of Calloused Fingers
-Shout
-Live At the Temple Bar and More
-Harlem Jazz (Louis Armstrong In New York Volume 3 1925)
-Bad Times
-Churchin'' With Dottie
-Actuate Recordings -  Collected Works Vol.1
-To Je To
-Lion King
-Big People Music Volume 12
-Live at Jazz Standard Volume Two
-Chicago Jazz (New Orleans Rhythm Kings Volume 2 1923)
-Just Lounge Miami
-Key nell
-Soulkitchen What''s Cookin''! 2nd Serving
-Game One 2007 Remixes Part One
-Dreamer
-The Ladies In Blues Vol. 1
-Death on a Bitch
-30 Exitos Insuperables
-No Mires la Caratula
-Acapella Project Vol. 1
-Stuff Smith
-Make the World Go Round
-Make the World Go Round
-Christmas Hymns And Carols
-Essential Workout Mix: Non-Stop House Vol. 2
-In London_ In Love
-Daydreams
-Ibiza 1991 - 2009
-Ignorance
-Chicago Jazz
-Get Your Hopes Up
-Touareg
-Songs Of The South
-Mozart: Quatuors dédiés à Haydn & Les Dissonances
-Sing Boy Sing
-In A Mellow Mood
-Ultimate Happy Hardcore 3
-Pioneers Of Boogie Woogie: Volume 1
-Pianola Playtime
-Exit
-Furthermore: From the Studio_ From the Stage
-What Lies Beneath
-Psychic City
-On Tour
-Kamaal The Abstract
-Eclipse Acoustic
-The Fabulous B B King
-Keep It Goin'' Louder
-Live at the Folklore Center_ NYC - March 6_ 1967
-My Dusty Road
-Serious Friction
-Skambankt
-Dancing The Whole Way Home
-War On The Inside
-Föld kaland ilyesmi - Archívum
-Holdfenyexpress - Archívum [Copy]
-Zeus 2009
-Acapella Hymns
-Rambos Collection
-A Joplin Bouquet
-Safe From The Loosing Fight
-Norooz Umad - Persian New Year
-Nicer Dogs
-Splitter
-Milk Man
-Memoirs of an imperfect Angel
-Tesoros De Coleccion - Ranchero
-Rock And Roll Music
-Rhythm Of Peace
-Rockar På Svenska
-Deadlivers
-All Is Dream
-Island Diamonds
-BBQ Beets II Return of the Yams
-Seething With Thunders
-Inozemci (Foreigners)
-When Life Gives You Lemons_ You Paint That Shit Gold (Deluxe Edition)
-Dont Let Me Be Misunderstood (Granite & Sugarman Remixes)
-Bunny
-The Prezident
-The First Contact
-Trance Sessions (The Winter Edition)
-When The Shelter Came - EP
-The Soft Touch
-Be Here To Love Me (Soundtrack)
-Cuban Lullaby
-This Is House Vol.1
-The Swamp Angel
-Idee:Mensch
-Rap Music Is Life Music
-Magnolia Land
-All Keyed Up
-Just Another Day In Hell
-Rosalie
-Curse Your Branches
-America''s Wartime Sweethearts
-Veil Of Ignorance
-Haih or Amortecedor
-Wundenmann
-Bite Harder: The Music De Wolfe Studio Sampler_ Vol. 2
-Groove Approved
-Dans le Décor
-Songs of Liberation Vol. 3
-Hot To Trot
-Finjo a fazer de conta feito
-Etiketten är Musik
-Gå Härifrån
-Av norrøn ætt
-Desperately Yours
-Late Lament
-20 Exitos Originales
-Euro deluxe dance party
-Album
-Smoke & Mirrors
-Djupa Skogen
-A Master Of Ceremonies
-Hopkok
-Too Shy: The Best Of Kajagoogoo & Limahl
-45:33 Remixes
-Greatest Hits
-One Day Remains
-One World One Love
-Peace_ Love And Respect
-Ladies Of Bass
-Just Sumthin To Do
-Sugo
-Magnificent: The Complete Studio Duets
-Never Say Die!
-Tupac Robot Club Rock
-Digital Mystery Tour
-Shpongle Remixed
-Interstate
-El Mas Chingon
-Happy Birthday! Remixed Pt.3
-Us
-The Anthology
-Hyena Safari
-Satellites
-Splitting The Atom
-a/rhythmia
-Disiz the end
-Skinny Jeanz And A Mic
-Under Pressure #1
-Live From Home
-Yatra (Nomadic Souls)
-Cajun Fiddle_ Old and New: Instruction
-Poetry of Friedrich von Schiller: Read in German by Kinski
-National 7.5
-Church Songs: Sung and Played on the Piano by Little Brother Montgomery
-Happy Birthday_ Ruthy Baby
-Don''t Look Now
-Songs of Memphis Slim and Wee Willie Dixon
-Symphony
-Woody Guthrie''s Songs to Grow On
-Territory
-Pigeon John Sings The Blues!
-Chilled Jazz Moods
-Xplosion
-Cory Branan & Jon Snodgrass
-Massenet: Werther
-Party''s Over
-Pierrot chante pour les gamins_ les marmots...
-Shank''s Pony
-Radio Hits 2
-Jackie Says
-Block
-Samba De Futebol
-I''ll Be Brave This Christmas [Studio Series Performance Track]
-On The Road (And More)
-Do Not Follow the Leaders
-Cryin'' Hey
-Mandulino Napulitano
-Closer to Pluton EP
-Eisblume
-Fire In The Mountain
-Taxi For These Animal Men
-iMusic
-Alta Marea And Vaterland
-Triple Play: The Second Inning
-Unmap
-Sentir
-Reservations
-Get Even
-Instinct
-Die Stadt
-Far From The Shamrock Shore
-Living In A Box
-Essential Masters
-Soul Activated
-La Barrera Del Sonido
-The Best Of The Memphis Jug Band
-Lifestyle2 - Dance Grooves Vol 2
-Play Some Pool - Skip Some School - Act Real Cool: A Global Pop Tribute to Bruce Springsteen
-Signature
-A Story (Part 2 Bonus EP)
-Out Standing In Their Field
-The Best Of Cannon''s Jug Stompers
-Founder of the Delta Blues
-Many Happy Returns
-Music From And Inspired By The Motion Picture The Matrix
-The Cricket''s Orchestra
-Trance 30
-Downtown & Brooklyn Only
-Slim Westerns Vol I & II
-Cruise Control
-Sleepyhead
-Watoosh!
-Deep Forest
-E Musica - Summer Sessions - Volume 1
-The Barn Sessions
-Resurrection
-Give Up The Ghost
-Gun For A Tongue
-DJ Omega Classics Part 1
-Night Lights
-3
-Take A Look
-Sweet Wet Flower
-Partying Without Inhibition Or Dignity E.P.
-How Far Shallow Takes You
-Come On Now
-Dog Problems
-Little Things
-Redneck Blues
-When Will You be Mine?
-Savannah Drive
-The Very Best Of Smooth Jazz Guitar
-Guitar Man
-Come Out Of Your Mine
-Who Still Kill Sound?
-The Love Song Collection
-The Five Seasons
-My First Record
-Music of Dreams
-Unsilent Night
-The Best Of Joe & Antoinette McKenna
-Crazy Rhythm
-Ain''t She Sweet
-Sulla Mia Pelle
-Dr. Elmo''s Twisted Tunes
-Bookends/Sounds of Silence
-& The Rock?n?Roll Circuz
-Just Like it is
-Pissed Tae Th'' Gills
-English Roots Music
-Down In Black Bottom: Lowdown Barrelhouse Piano
-Get it Straight
-Fusion
-Deliveries after dark
-Daredevil
-For Your Pleasure
-Ain''t It The Truth
-Sunny Spells and Scattered Showers
-Perfect Night In London
-Identikit
-Hear Our Prayers O Lord
-Waters In Azure
-And Now The Rain Sounds Like Life Is Falling Down Through It
-Exorcise This Wasteland
-Millions Like Stars In My Hands
-Carried Beyond
-Christmas Fantasies
-The Kids Are All Square - This Is Hip | Girlsville
-The Cheeky Cheese
-Yes! 2-Disc Set
-The Main Attraction
-Dead Man''s Bones
-Káta Horni?
-Falstaff
-African Holocaust
-Mister Day
-Fin. Finito. Infinito
-Keys To Your Heart
-To Bird With Love: Live at the Blue Note
-Dogma
-Texas Hold''em
-Acquainted With The Night
-Grace
-Bop!
-Song of the Traveling Daughter
-Having
-Who''s Looking After Me? - EP
-Computer Camp Love
-Need New Body
-A State Of Aya
-Unstoppable
-Illegitimati
-Energy: Live at Tulagi & More [Original Recording Remastered]
-Naked 1
-How Sweet It Is
-Rompalation Allstars
-Seize The Day
-Living Music Collection
-604
-Changing Tha Game
-Waterson:Carthy
-Sitzpogo
-Radio for the deaf
-Merry Christmas
-Sangria
-Jay Stay Paid
-Nature Baby
-I Got That Cake Mix!
-Born Legendary
-Hardships!
-Auralux Reggae Showcase
-The Jazz Butcher''s Free Lunch
-Silver Sweepstakes
-Guerrilla Skies EP
-The Engine Of Commerce
-Blackouts
-Shining Bright : The Songs of Lal & Mike Waterson
-Poppaloopa
-United In Regret
-2004 Teenbeat Sampler
-And Their Name Was Treason
-Lullaby Renditions of The Ramones
-Obsession
-American Dreamsicle
-Black Diamond Express To Hell
-Infinitesimal Flash
-The Earls Of Duke
-Herbert von Karajan (Early Recordings Volume 1 1938 - 1939)
-At Your Convenience
-Bass Planet Paranoia
-Arcadia The Remixes Album
-Hitch Hikin'' Music (Clean Version)
-Last Of My Kind
-You''re Not The Answer
-Dirt Farmer
-The Houston Kid
-Heart Of The City
-Animal Magic
-Lowblow
-Diabolical Streak
-Paper Cut Eye
-Live_ Love_ Let Go
-Extraordinary Ways
-No Soap (In A Dirty War)
-Marrakesh
-Tijuana Sessions Vol. 3
-The Man Machine (2009 Digital Remaster)
-Zodiac Zoo
-Ramones [Expanded]
-Through The Eyes Of Ahab
-Christmas Is
-Il Pirata
-Piano Solos
-Baladas Do Asfalto e Outros Blue Ao Vivo
-Uebayashi: Concerto_ Sonate_ Suite & Au delá du Temps
-Sucka Free Classics
-Found Songs
-Hjärtats Melodi
-Aspera Hiems Symfonia - Constellation - My Angel
-Luxusvernichtung
-The Most Romantic Classical Collection
-On the Viking Station
-How Can it Be Told
-Noites de gala_ samba na rua - ao vivo
-Ibiza Chilled Classics : Classic Balearic Lounge (Deluxe Digital Version)
-Apparence Jugee
-The Riot City Years 1982-1984
-Quick Frozen Small Yellow Cracker
-22 Wilma Lee Cooper Hits - Keep On The Sunny Side
-Easy Listening Greats - Vol. 2
-Karaoke: The Rockin'' 70''s - Singing to the Hits
-HeadStomp
-The Oslo Agreement
-Pasion Y Deseo (Sus Grandes Exitos De La Copla Y De La Balada Romantica)
-Totally Oppressed
-The Katies
-Blue
-Charge Of The 7th Cavalry
-Fat Out Of Hell
-Hank Snow - 16 Golden Greats
-Welcome to Dunvegas
-Spirit Of Rebellion
-Huntington Beach
-Supermodels
-Out Of The Gutter
-A Captured Moment In Time
-Punk Junkies
-Ultimate Southern Soul
-The Best Of Infa Riot
-Songs For A Nanny State
-Sempre a Cantar
-Broken Bottles
-See How We Are [Expanded]
-Folktopia Vol 1
-The Birnam Witch Project
-Bookmarks
-Turn Out The Lights
-Emergence
-Stukas Over Disneyland
-Apollo
-Moving On
-Not Enough Shouting
-The Barracudas
-Dubplate Drama 2 - The Mixtape
-Blankets!
-South Of The Border
-SRO
-Everybody Knows The Monkey
-Presidential
-Cabaret At The Roundhouse_ Live 1977
-Schlager & Stars - Folge 2
-The Best Of (1)
-A Little Way Different
-Sognami
-Passeport
-The Mercury Blues Story (1945 - 1955) - West Coast Blues_ Vol. 2
-Haven''t Slept All Year
-La Baguette et la Plume - Sir Walter Scott
-Bedroom Madness
-Independent Pleasure Club
-U.S. Tour ''72
-Next Time You See Me
-1972
-Snow Patrol Late Night Tales
-On the Beach
-Dig My Mood
-Original Hits - Pub Jukebox
-Original Hits - Country
-2000 Mil_ 400 Nätter
-Luke Vibert''s Nuggets
-Underground Alternatives
-American Legends_ VOL.6
-The Complete Studio Albums
-15 Exitos de Siempre Vol. 3
-Lakeside Sessions Vol 1 EP
-American Legend_ Volume 2
-Ovunque Proteggi
-Christmas Gumbo
-Pink Panther Party
-Minskaya EP
-Tha Ginja Bread Man Compilation Vol. 1 & 2
-In Memorium  - From The Archives (Digitally Remastered)
-Goodnight My Love - From The Archives (Digitally Remastered)
-The History of Rhythm and Blues 1925 - 1942
-Unity
-Brothers of the Southland
-Skyscraper
-Bump City
-American Legend_ Volume 3
-Requiem
-You Yeah Smokin'' Hot
-Halim
-20 Exitos
-Tango
-Woman In Love
-Mr. Booty Do Right
-Andy Warhol
-A Tribute
-Adios
-Tijuana Bible
-Reign Ghost
-Sad-o-matic
-Holidays & Hits
-Merry Christmas From Wayne Newton
-Unendlich Mehr
-One Nation Under Awed
-Intenta respirar
-Camera Talk
-Spotlight On
-Tell Me
-The Suits Vs The Tilted Chairs
-industrial romance
-Septemberland
-Life is Music
-Cluain Tarb
-Can''t Maintain
-Too Broke To Go Solo
-Unborn Again
-Stay Heated
-Before Nightfall
-Set It Off - Music From The New Line Cinema Motion Picture
-On Your Side
-The Rubberband Man / Now That We''re Together [Digital 45]
-Borderline/A Beautiful Life - BONUS REMIX EP
-Alone Together: Essential Late Night Jazz
-You Can Make Sound
-Shining Hour
-Smooth Jazz Brown Sugar
-Ten Man Mop Or Mr. Resevoir Butler Rides Again
-Endless Highway: The Music of The Band
-The Complete Bang Sessions
-In The Sign of the Raven
-Spotlight On Debbie Reynolds
-The UA Singles 1977-1982
-The Wheels Of The World_ Vol. 2
-Dawn Of Shockabilly (2008 Re-Masters)
-Shockabilly Coliseum (2008 Re-Masters)
-Shockabilly Heaven
-Tar Beach
-The Classic R&B Collection
-Los Grandes Éxitos de&
-80''s Pop Rock Jams
-Capitaines
-10 Cent Billionaire
-South Of Graceland
-Wrecked
-Like The Season
-Party
-From My Tradition: The Best Of Joe Heaney
-The Mighty King Of Love
-A Splendid Tray
-Guitar Landscapes
-Traditional Music Of Ireland
-Continent
-Singing In The Bathtub
-The Edge Of Silence
-Tommy Makem and Liam Clancy
-When I Was A Boy
-Know Now
-The Music Inside
-The High Part Of The Road
-Tempted And Tried
-Django Reinhardt
-2 Many Shots of Jägermeister - Taken from Superstar
-Hard Drive
-Best Of EP
-Live 2008 I-Gods Of Metal
-Love Is Not Sex
-Love Is Not Pop
-Breaking Daylight
-Dazsoo
-Alles Waar Ik Nooit Aan Begon
-15 Jahre - Michael Klostermann
-20 Jahre - 20 Erfolge
-One Step Beyond
-Hey Let''s Twist! The Best Of Joey Dee & The Starliters
-Wrecking Ball
-The Music Scene
-Live From Axis Mundi
-She Came Along
-Adelphia
-Tiny Tina & Little John
-Brit Beat of the 60''s: Shake ''n'' Shimmy
-pop muzik 30th anniversary remixes
-A State Of Trance Classics_ Volume 4
-Latin Vibes EP Collection (Club Edition)
-Early Days
-The Annual 2010
-Faithful To Believe
-Perceptions Of Pacha
-The Hits
-Halloween II - 30th Anniversary Expanded Original Motion Picture Soundtrack
-Water And A Flame
-Qui Suis-Je ?
-It''s Not Killing Me
-Dedicated
-Alive As Fuck
-Forbidden Planet Explored / Sci-Fi Sound Effects
-The Idan Raichel Project
-From Beyond
-Go-Go and Gumbo_ Satchmo ''N Soul
-Golden Songs No. 8 - Persian Music
-The Weekend Has Landed
-I Hear Music
-We''re The Good Guys
-Broadcast And The Focus Group Investigate Witch Cults Of The Radio Age
-The Performance
-Warp20 (Unheard)
-Stwff
-Angels Men & Monkeys
-Beginner''s Guide To France
-A Little More Time - The Very Best OF Chairmen Of The Board
-Echoes From The Future - Album Sampler 3
-Walking A Full Moon Dog
-Regarding Purgatories
-C'' Est L'' Amour (The Best Of French Music Vol. 1)
-Tribute
-The Rose
-Mistletoe & Wine
-Uptown Girls
-People Get Ready
-Command & Conquer: Red Alert 2
-Carlito
-Crazy Love
-Eye Of A Hurricane
-Dance To The Hits Of The Beatles
-Love Holding Love
-Bone of My Bones
-Away We Go Original Motion Picture Soundtrack
-Bodies And Souls
-Need For Speed: Prostreet
-Mandy Barnett
-From Where???
-SimAnimals
-The Haçienda - Acid House Classics
-Poland - 20 Great Polkas
-Under The Radar
-Fits And Starts
-Pip Paine [Pay The £5000 You Owe]
-Barcelona [Remixes]
-Holly-West Crisis
-The First Sessions
-The Great Misdirect
-Destrophy
-The Wild Party
-Calle ilusion
-Black flamenco
-The Men Who Stare At Goats (Original Soundtrack)
-Ultimate Mozart
-Ultimate Baroque
-Allegra
-Masterpieces: 1991-2002
-Falling Sickness / Dysentery Split
-I''m So Hopeless_ You''re So Hopeless
-From Wishes To Eternity
-The Land of Spirit and Light
-Sukker
-Trouble Woman
-Knuckles Whiten
-Annan vuodet 1997-2008
-The Seven Gates Of Hell: The Singles 1980-85
-...och utan en massa skit
-Hold Me Back
-Face à Soi-même
-Irish Favourites
-Pleurer Avec Le Sourire
-Emotional Ninja
-Privilege Entails Responsibility
-Original
-Semmi szédíto magasság
-Hallelujah (Premiere Performance Plus Track)
-Get Salted Volume 2 Mixed By Miguel Migs
-Fantastic Mr. Fox (Original Soundtrack)
-Alive In Paris
-A Lesson To Be Learned
-Jukebox
-The Slaughter House & Cellblock Tapes
-Tidsmaskin
-Shouting ''Bout The Blues
-Strata
-Alien Sex Fiend Halloween
-Desperate Measures
-Twangy Peaks
-Trancemaster 6008 (Special Version)
-Live At El Sol
-Open Water
-24 Exitos - 18 Grandes Artistas - Romanticos
-An-ten-nae Presents Acid Crunk Vol. 2
-Gone Part 1
-Dystopia
-Dils Dils Dils
-1-2-3-4
-New World Orphans
-Toma la Traca
-Move!
-North of Bakersfield
-We Are One Remixes
-Passages et Obsessions EP
-Slow Rewind
-Detention
-Mr. Pityinger... Az Eredeti Genszter
-Betyárvizit
-Decenija
-Beyond 2012
-LOAF Presents: Domestic POP
-get even
-Soundz Vol. 2 - Loosely Blended By The Soundz
-Call the MedicWe''re Begging Please
-This Is Hell
-Pop Culture Assassins  Remastered
-Adios Amigo: A Tribute to Arthur Alexander
-Deja Entendu
-A Twisted Christmas: Live
-BBC In Concert: Live at The Phoenix Festival (1994)
-Smoke
-Ladies & Gentlemen We Are Floating In Space
-Det bästa från Idol 2009
-X 1 Fin - Juntos Por El Sahara
-Blood Visions
-¡Estoy ke Muerdo!
-Lookin'' For A Change
-If We''ve Ever Needed You
-Wake Up
-The Platinum Collection
-CD Multibandas
-The Rock''n Roll Symphony
-Schrei!
-Muovi antaa periksi
-Arpi
-No More
-Music You Heard On the Sopranos
-Echo
-No Place Like Home
-Red_ Green & Gold
-Riddim Driven: Rub-A-Dub
-A Place Called Happiness
-Tyhjyys
-Remixed - Volume 1
-Working Men
-Underneath Rotting
-Public Domain: The Prequel
-Everything
-Resurrection
-Volume 10 - Rasor Beyond
-The Vocal Album
-Calm Down
-Tchaikovsky: Sleeping Beauty
-It''s Christmas
-FOREVER AND A DAY
-O melhor de
-Voices
-Between The Bars EP
-Denial ( Bonus Version)
-3 minutos antes de a maré encher
-Aika ei venaa ketään
-Chronicles Of A Real World
-Tweaked
-THE CORE
-One Small Step For A Man
-Spike
-Raw Digits
-D-FUNK  Funk_ Disco & Boogie Grooves From Germany 1972-2002
-Cope Remixed
-Buddha Groove
-Remix Our World - SuDance Vol. 1
-16  Canciones de oro
-So Fine
-Somebody Tell Me
-Confessions of a Las Vegas Loser
-Notfalls Werde Ich Für Immer Warten
-Zion Way
-Dekadens
-No More War
-License To Thrill
-Machismo
-Ma Motivation
-Bedrock 11 Compiled & Mixed John Digweed
-Burn The Whole Place Down
-Al posto del fuoco
-Once
-This Is The Yin And The Yang
-Island life
-Stuntrock (Original Soundtrack)
-Unlimited
-The Very Best Of Brenda Lee Vol.2
-Sky High
-The Crossing / Flashpoint
-Perfect Day
-The Definitive Collection
-Forward Music
-After
-Dreams That Money Can''t Buy
-Classic Voices 2010
-Anthem
-Back Up_ Coming Through Remixed
-Sisters
-The Best of Luk
-17 Again
-Sur l''autre rive
-Cocina Salvaje
-House on the Beach 3 - 30 winter chillout tunes
-Tio Singlar 2002-2007
-The Remixes
-The Big Guitars (Digitally Remastered)
-Sabroso Como El Guarapo (Digitally Remastered)
-Hotel Utah
-In A Different Light
-The Hank Snow Memorial Album - 24 Golden Memories
-Equestrienne
-The Dealers
-The Animals: All-Time Greatest Hits
-KPM 1000 Series: Flamboyant Themes (Volume 3)
-Billig Lykke (Re-Mastret)
-I Full Symfoni (Med Kringkastingsorkesteret)
-Black Earth
-Hard To Be A Rock''N Roller..
-Quantos Possunt Ad Satanitatem Trahunt
-Angelus Exuro Pro Eternus
-Burma
-Hilsen Halvdan
-Personal Heroin
-OHRWÜRMER Deutscher Disco Fox
-Hymns to the Fallen V
-Where''d You Get That Vibe?
-Welcome To Thizz World_ V. 2.1
-North London Cutz EP
-Nothing To Lose
-Steve Hill
-Livraison  ...par en-arrière
-Neurodamage
-The World Engaged
-Expedition
-Some Of These Were Hooj volume 4
-Later Summer Fields
-Computer Games the Unreleased Files Expansion Pack 0_3
-Harvest Festival
-Anthem For The Underdog
-Introducing
-All Or Nothing
-Greatest Instrumentals of the Rock Era - 50 Hit Songs
-Sexie
-I Love The 50''s - 1955
-100 Funny Favorites
-An Introduction To Chico Hamilton Vol 2
-Sunday Morning
-Fed Through The Teeth Machine
-I Remember
-An Introduction To Buddy Rich Vol 3
-Whale Meat Again!
-An Introduction To Connie Francis Vol 2
-Left
-Journey Into Day
-Christmas Album
-Pesnya pro tebya i menya
-Easily Misunderstood
-Corps à corps
-Leb schnö und stirb longsom
-R & B And Soul Roots Vol. 02
-12 Bar Blues
-Sunshine
-Willa Was Here
-Secret Story
-Faith Hope Love
-Horrorscope
-Morgarot
-Zesta Pota
-Eyes Of Eternity
-Truckload Sale
-A Christmas Carol OST
-Nothing To Undo - Chapter Six
-Life Continuum
-Take It As It Comes
-Rawww EP
-Face First
-Aprés Ski Nonstop Party Mix
-DJ Zumbi - Big Stone
-Little Eve
-Music For Christmas Lovers
-Greatest Hits (Wreckchopped & Screwed)
-Ghosts
-No Way Down
-Try To Remember Everything
-Backline Volume 56
-Stamina Daddy
-Stalag 17-18 And 19
-Serie 20 Exitos
-Greatest Hits_ Volume Two
-Mallu Magalhães
-Con Un Mismo Corazon
-Lane
-Greatest Hits
-White Lion
-Tesoros De Coleccion - Los Tres Ases
-20 Greatest Hits
-Jesse''s Best
-Tesoros De Coleccion - Los Rurales De Gilberto Parra
-Where We Land
-Amazing Sound Effects of Fire & Emergency
-Full Attention
-Here''s One I Made Earlier!
-Folklore
-Unsettled Scores
-Down With Gravity
-Almost Complete
-Le King pour toujours/25 ans déja
-Secrets
-Suburban Empire
-Stereotypes
-Clatterbeats Two
-Norwegian Songs Vol I
-Reason Why EP
-I''m Getting Lost In My Brain
-Szambo i Perfumeria
-Omnimotion the Remix EP
-Remotely Controlled
-Canciones Rancheras A La Manera De Los Panchos
-Best Rock Anthems.....Ever!
-Moon Landing
-Un Leon Demente
-Rebel Tracks
-Amino Acid Flashback
-Beating A Dead Horse To Death Again
-The Best Of Dorsey Burnette - The Era Years
-Just The Country Hits Of David Houston
-An Absence of Empathy
-Love Madness
-Massive
-Back To The Beginning - Usher
-Play Time Is Over
-Block Obama II
-Leviathans Creations
-In Your Ear
-Harmonicas
-Brand New Love Affair
-BBC In Concert (14th January 1981_ Recorded at Paris Theatre)
-Secrets Of Saturns
-Life Goes On
-Ghosts In The AI
-Secrets (Remix Package)
-Merry Christmas With Bing Crosby & The Andrews Sisters
-The Hits Live
-UNCA FIBRE
-Hung - up
-Live At The Fillmore East
-Cemetery Road - Dead Electroniks
-15 Jahre
-The last revolving door
-Back To Work - The Official TP mixtape vol.1
-Grey Goose
-Arglistige Täuschung
-The Glamour Of Darkness
-Country Club Anthems - The Massive Hits Collection
-Me Na Me Kae
-Welcome To Sillycone Valley
-Birch - Gangsta Rock Riddim
-Celtic Healing ~ Harp for the Inner Soul
-One Night In Madrid
-Obeshtania(Promises)
-Inner-Cept
-May Recordings - Best of 2009 Part 1 (Part 1)
-Drunk With Passion
-Brain holidays - Stereo roots
-Belfast Food - Live in Tvornica
-Better
-Coconut Rock Deluxe Edition
-More Of Other Worlds_ Other Sounds
-Greatest Hits
-A Day In The Life
-Contact?
-Mujer Sin Tiempo
-The Best Of Percy Sledge
-Globetrotter
-Support Your Local Groover
-One Eighty
-A Fine Stormy Weather
-Narcissus Goes to the Moon
-Breed To Death
-The Beginning Of It All
-The Best of Tommy Overstreet
-STRAVINSKY: Jeu de cartes / Orpheus / Histoire du soldat
-The Constant Weight Of Zero
-Rondo Veneziano
-Stick To The Plan
-Conduction Remixes
-Kitsuné: Cryptic
-Kitsuné Tabloid compiled & mixed by
-Boris Vian - The greatest hits
-DRUGIC ENKRAT
-Fini d''planer
-The Best Of The Rest Of The Fireballs'' Vocals
-Accordéon diatonique
-Port 4 - Exhale
-The Saga
-Christmas Gospel Classics
-Louis Armstrong: Portrait Of The Artist As A Young Man 1923-1934
-Future Sound Of Cambridge 2
-Billion Dollar Gravy
-Syncopated City
-Stormy Weather - Original Film Soundtrack
-Weezer (Rarities Edition)
-It Must Really Suck To Be Four Year Strong Right Now
-Ritmo En La Sangre
-The Howling
-Monkey Hanging EP
-Some Other Day
-Take Good are of My Baby
-Ireland - 20 Favourite Drinking Songs
-Flashback EP
-Allegory & Metaphor 2.0
-Sentimental Journey - 20 Big Band Greats
-Just Out Of Reach
-No Bad Habits
-The Leslie West Band
-Change of Space
-Lure The Fox
-Recuerdos y tequila
-Permanent Record: The Very Best Of The Violent Femmes
-The Early Years
-No Gravity EP
-En Passant
-Recorded as Jerry Landis
-For Some Time Past
-Hotel Sot
-Solitude
-Blue Monday
-Bossa for a Coup
-Sacrament
-Out Of Myself
-A Sceptic''s Universe
-WANT
-Cyrus
-...And A Time To Dance
-Quiet Storm
-Antología de la Música Andina Colombiana
-The EP''s: Red Letter Day & Woodson
-Four Minute Mile
-The Great Eartha Kitt
-Evanescence
-Ketchup Suicide
-Portrait of Billie Holiday
-Solitary Confinement
-Right To Rumble!
-Fall Of The Despised
-28 Party Dancers from Montreal''s Finest
-Loko  - The Perfect Groove
-Personal Trainer
-Nightmares
-Easter
-Entirely Complete Spectacular Nothing
-The IVth Crusade
-Masters Of Misery
-Swansong
-Gateways To Anihilation
-The Smell Of Rain
-Heretic
-In Disgust We Trust
-Hazardous Mutation
-P.I.F. - Pictures In Frames
-Order And Punishment
-L''affaire Taktika
-Blues Bar Stew
-Rye Whiskey
-Hors-Saisons
-En Beau Country
-Echos hypnotiques (From the Vaults of Albarika Store 1969-1979_ Vol. 2)
-Le coeur et la raison
-Country Lovers_ Vol. 1
-Klabüster Klabuster
-The World''s Greatest Marches
-On Seventh Change Of Comprehension
-On And On
-Jubilee Concert
-Laughter
-Jade Presents The Venom LP
-Nasty
-Shorter_ Faster_ Louder
-Check Point Charlie
-Silk Flowers - As Above So Below
-Mexican Trip
-Top 40 Bellydance - Classic Belly Dance Bar Grooves plus continuous DJ Mix
-Blue Moon
-Violent Love
-Il Tempo Necessario
-Librerías 3
-Enslaved Condemned
-Deathless
-Ringing In The Dawn
-Visitor
-Twelve Ways to Warm Up Your Days
-Take One for the Team
-The Same Ol'' Diddley Dee
-Pleasure Doze
-Campus Earth
-Special Edition
-Glory & Shame
-Sometimes I''m Happy
-Silence Is Golden
-Always On My Mind (Live)
-Oh Happy Day
-On & On
-The Best of Luciano Pavarotti
-Ike Turner Vol.1
-Outta Here
-Dj Tracks Minimal Techno_ Vol. 5 (WMC Miami 2009 Edition)
-Never Fade Away
-Lotus
-¡ Basta !
-Le commun des bordels
-And the living is easy!  Incl. remixes by DJ Sayem & The Dynamics
-Essential Delta Blues
-Ya basta!!!!!
-Cinematic Lounge Volume 2
-Pussycat
-Country Was
-Stand By Your Man
-Gospel Legacy - Walter Hawkins
-The Cause & Effect
-Mariem Hassan con Leyoad
-Brasil
-Gusto y Sabor
-Crash Bang Wallop / Rising Of Rhinos
-Acústico MTV - Engenheiros Do Hawaii
-Hard Hat Zone
-The Carnival Bizarre
-Blessed Are The Sick
-Happy?
-Für Euch_ die ihr liebt
-Darkness Prevails
-Out Of Time
-Let Me Be
-Ibiza Trance Anthems 2008 (World Version)
-Suite Beat Boy
-Wounded And Time Lost
-Big ideas
-Tür zu!
-Tiger
-Kitsuné: Claymore - Single
-Straight Dancing
-The Cross & The Crucible
-Notes From The Past
-Silence Of Another Kind
-100 Mantovani Classical Christmas
-Okinawa Sunset
-One Man Against The World
-Field of crows
-You forgot it in people
-Les plus beaux thèmes pour la flute et le hautbois
-Get Fucked Up
-Final Conversation Of Kings
-Actual Fantasy Revisited
-There''s Know Place Like Home
-Xmas Sampler 2009
-Hits EP
-H2H
-Decade Of The Nail-spiked Bat
-Definitive Americana
-Canada Supreme
-Hot Cha Cha Cha
-Big Band Explosion
-Sax Of A Kind
-Bounce Nation 2 - Mixed by Sound Selektaz
-Celestrial Dreams
-Soldier of Love
-The Heartfelt
-Rock To The Beat
-Inked Up N Banged Out
-Empire & Love
-peace_ love & harmony
-La Musica Dei Populi
-Kurohata
-Le plus grandes chansons
-Instrumentals
-jj nº 2
-Chez Leprest_ vol. 2 (Ils chantent Allain Leprest)
-Nice Boys Finish Last
-Cream Future Electro
-Live Bootleg Series Volume 6
-Move Into Soul
-OM2...This Is Oyster Music ''Club Mixes''
-Urban Requiems (Extended)
-Children of Paradise 2K9
-When In Rome - Music From And Inspired By The Original Motion Picture Soundtrack
-I Know
-Tears
-Creating Abundance
-MELODIJE IRSKE I KVARNERA
-Velikite Komitsi Peyat
-The Earthrumental EP
-Sophie Rimheden
-Ottoman
-Limited Edition (7 Cuts)
-Unraveling
-Hood Politics
-Alcohol Fueled Brutality
-Remains of the Gods
-Natural Composite
-Frank (Rarities Edition)
-Hag songs
-End Times
-Döden Föder
-Any Minute Now
-Animal
-Get It Down (ft. Whiskey Pete)
-B-Sides And Rarities 1994-2005
-What Part Of Get Thee Gone Don''t You Understand?
-Desperate Little Town
-Group Improvisation& That''s Music!
-&And They Shall Take Up Serpents
-Relax
-The Early Grave
-Travel Without Leaving The Bed
-The Outlaw Blues Band
-Spirits and Worm
-Sorcerers
-Is Here
-Oriel Joans
-Making Moves
-Lo mejor de Síntesis
-Watah-Sha
-She Ain''t Me
-Mute: Audio Documents
-Vive la Revolution
-Starsigns
-Deceive the World to Rule the Planet
-Drum Lesson Vol. 1
-Live at the Granada
-The 2K10 Remakes
-Come Back To Me
-Free Fall / Salsa Moves You (Franck Roger Remix)
-Jim Stärk
-Fixing the Charts_ Volume 1
-Goodnight_ Dear
-Only Time Will Tell
-It''s Been A Long Day
-Could This Be Real (Remixes)
-Interesting Times
-Galadriel
-Riddim Driven - Party Time
-Riddim Driven - Mexican
-Patto
-The Equinox
-Destiny
-Fear Of A Black Tangent
-South Haven / International Language
-The Armada DJ Extended Versions Collection 2010_ Vol. 1
-Riddim Driven - Bingie Trod
-Acústico MTV
-Alfred Brendel: The Farewell Concerts
-Truth Crushed To Earth Shall Rise Again [Explicit Version]
-A Arte De Moraes Moreira
-Homemade Drugs
-Maintenant
-A Arca De Noé
-Morning Star
-A Night In Cassis (W/The Vertavo String Quartet
-Love Stories
-Grace
-Irish Clubland 2 - The Essential Hits Collection
-Country Clubland - The Dance Anthems
-Alas de Cristal
-Funeral For A Feeling
-A Match & Some Gasoline
-Masì cho
-In Search Of Stoney Jackson
-Living In A Dream
-Vobiscum Satanas
-Lounge Du Soleil Vol.8
-Alle Gjør Det
-The Courage Of Others
-Seven Deadly Sins
-Chixdiggit Ii
-Flair For Darjeeling
-An Evening Of Yes Music Plus
-The Chocolate King
-Fy Fan
-Child of the Storm
-In Tokyo
-Reynaldo Armas y Los Mejores Copleros
-Recordando a los Melódicos_ Vol. 2
-Sabu Yerkoy
-El Bebop Kid & Friends
-Shallow Life (Deluxe Edition)
-000 / Slippin
-Die Sekte (X-Mas Edition)
-Friendly Selection Vol.1
-Prima Norsk 2
-For Sleepyheads Only
-Burned Alive By Time
-Fragments Of An Untold Story Born By Shunning The Opportunity
-On Fire
-Some of Us May Never See the World
-Do I Have to Tell You Why I Love You
-Don Corleon Presents - Far Away Riddim
-Kaihomieli Valpas
-Recorded by Martin Meinschäfer
-Dreamscapes Revisited 3
-My Room Is a Mess
-Low Road
-Ghetto Bootleg
-Amnesty
-[Who?] Keeps Changing Your Mind [2010 Mixes]
-Las 2 Grandes Orquestas de Venezuela
-Assorted Music
-Imagi:Nations Part 2 - Day
-Heroes of the Imagination
-Classical Love Collection - 40 Romantic Classical Masterpieces
-Geri Reig Und Normalette Surprise
-Soniq Circus
-Nobody But You
-A Special Wish (Holiday Classics By Christian Superstars)
-Gitano Cromático
-Hunger of a Thin Man
-Antología del Cante Flamenco  CD 2
-Time passing 02
-Divergent
-You Said
-Another Saturday Night
-Thinking Of You
-Ends In Light
-Everything_ I Bet You
-Cherry Blossom / Beautifull Mind
-Home Grown 5: Totally Live
-Dino Merlin - Burek
-Essence Of Soul
-Chinkuzi Riddim Riddin #2
-Bebi Dol-Live
-Girls Night Out - Disco & Soul Party
-Out On the Floor - Breathtaking Northern Soul Classics
-The Good_ The Bad & The Blazing
-Super Cracker EP
-Slangsta Paradise
-The Skull
-Wurzeln & Flügel
-Special Series 24
-Strapped (The Very Best Of The Remixes)
-Build A Horse
-NDW 2005
-Aggro Ansage Nr. 3 X
-The Latin Sounds of Edmundo Ros
-Deutsche Probleme
-Evolution In One Take: For Grindfreaks Only!  Vol. 2
-Live In Tokyo
-Voices
-Ireland''s Harvest
-Complete Recordings
-Noaidi - A Twisted Lovestory
-Quelli come noi
-You And Me
-Paradise_ Found
-Sundowning
-Venom & Tears
-Primitive Calculators and Friends
-Confidence and Consequence
-The Complete Truth
-Forever Crossing The Line
-High Contrast Presents Marcel Woods - Album Sampler
-Songs For Choice (Compilation)
-The Future
-Winter Wonderland
-Cloud Nr. 9 / Acceleration
-Boca & Coca EP
-Ram Jam Party
-It''s On Everything
-Dubbabuddah
-2007 International Barbershop Quartet Contest - First Round - Volume 2
-Crossover
-The Dream
-Magic Numbers
-Stand Strong Stand Proud
-All Pretty People Live In Airports
-Gor Det Ändå
-I Said
-A Touch of Jazz
-Gostoso É Sambar
-Casual
-Witch Season
-Rette Mich Später
-Glow
-City Limits Volume 1
-Life is for Living
-One
-Nobody''s Coming To Save You
-Rich In Paradise - Remix
-In Your Face
-Paisviatge
-Feels Nas Straight From Bim Vol.2
-Barnas Jul [3 Cd]
-All Questions Answered
-After Two But Before Five
-Norwegian Mood
-Abduction
-Gegenüber
-Direkt Aus Dem Knast (Du Spast)
-Table Manners
-Ear 2 the Streets Vol. 2
-Das Beste Vom Besten
-Fholo EP
-Doramu Kompyuta
-Kingpintin''
-Texas 2 Da World Vol. 1
-Your Grandpa Is Dancing EP
-Layer One
-Friendly Persuasion
-This Earthly Spell (Expanded Edition)
-Whateverland
-In The Light We See
-A Band And Their Music
-15 Exitos
-Midnight Tornado
-Twisted
-Alter Ego
-Geirr Tveitt: Suite No.1; Harp Concerto; Nykken
-The Catel EP
-Happy Happy Happy
-The Hot Stuff
-When The Kite String Pops
-Napoli amore mio
-Kimidanzeigen
-Glenn Miller from A to Z_ vol.4
-Ama Zone
-Amnesia
-Ten Songs And Hey Hey
-Save Our Souls - S.O.S.
-The Sound Of Music
-Tricks Of Time
-320ML
-Already Happened
-Filles en délires_ Vol. 1 (Sonneries)
-É a Maior!
-The Manhattan Love Suicides - Deluxe Edition - Longer & Louder
-Jason Aldean
-Rock ''n'' Roll Drive In - 50 Original Recordings
-Incorrect Thoughts
-Duke Ellington Volume 2 - From The Archives (Digitally Remastered)
-His Christmas Album (Digitally Remastered)
-The Constant [Deluxe Edition]
-Angelina & Other Favorites (Digitally Remastered)
-Chocolate Cherry - Single
-The Greatest Rock ''n'' Roll Collection - Volume 1
-We Will Overcome
-Classic Soulful House
-The Best Of
-12 Song Program
-Country Love
-Bilder Fressen Strom
-Saborear
-Dansebandfestivalen I Seljord 2006
-Embrace The Death
-I Know You Want Me
-The Best Of Bucks Fizz
-Matters Of The Dark
-Lift Up the Needle
-Story - Greatest Kills
-Odin Owns Ye All
-The Archaic Course
-Without A Sound
-Five Deadly Venoms
-Declaration Of A Headhunter
-Thane To The Throne
-And Then You´ll Beg
-Wasting Time (Eternal Summer)
-Deadlands
-Synergy
-Cain
-Death After Life
-Act Of Faith
-The Best Club in the World EP
-Sweet Mental
-Buried Alive
-We Must Obey
-King Of The Golden West
-Mister Cowboy
-Java Jive
-Rock ''n'' Roll Drive In - 75 Original Recordings
-En concert au Splendid
-Power
-DAVIS_ C.: Alice in Wonderland [Ballet] (Prague City Philharmonic_ Davis)
-12 * 25
-Seize The Day
-Jazz And Flowers
-Bongolito''s Hideaway
-Chill House Planet_ Vol. 4
-Hoop + Wire
-Nearer My God To Thee (Digitally Remastered)
-Music In The Morgan Manner (Digitally Remastered)
-Toolbox Part 1
-In My Blood
-11-22
-Tributo a Marcos Chacon
-When You Were Shouting At The Devil... We Were In League With Satan
-A Dead Heavy Day
-Latina the Best Compilation_ Vol. 1
-Magnetofon
-Bound By Fire (re-issue)
-Vagabundo Ao Vivo
-High Tide
-Born Again
-Dubnamite
-Penny Pills
-50 Love Songs
-The Great Stone War
-The Somnambulist
-New Blood
-The Modern Deep Left Quartet
-The Aladdin Records Story
-Think Like A Mountain
-Daten-Übertragungs-Küsschen Remixes
-Julekvad
-Inn For Landing
-Kippschwinger
-FK10
-Like A Rocket
-B.L.U.E.S.
-Alessandro Tognetti Select
-Nadine
-Angelfish
-Adios
-Coconut
-Feels Like I''m In Love
-Total Recall Vol. 4
-Strictly The Best Vol. 32
-Riddim Driven: 12 Gauge
-It''s Not The End Of The World
-Fueled By Hate
-The Concealers
-The Forgotten Tales (Remastered)
-Monster Tunes Winter Collection 01
-The Brutalist Bricks
-Sacred Area
-Clint to Kubrik - Soundtrack to a Century 2
-New York City 1930 - 1939 Vol. 1
-A Lady Loves
-Forgery
-Totally Clubbed Up
-Loupita
-Local Band Does O.K.
-Browen
-Wonder Wheel
-Dreams in America
-Funkatron
-The Complete A & B Sides 1961 - 1968
-Long ''Bout Midnight
-Lo Esencial de la Maldita Vecindad y los Hijos del Quinto Patio
-40+ [2cd]
-Sus Mas Grandes Exitos (En Vivo)
-10 Versions
-Songs Along The Way
-Flamingo Remix EP
-Tesoros de Colección - Los Hooligans
-Die Geschichte der bekanntesten Attentate
-Best of 40''s and 50''s_ Vol. 53
-Johanna Zeul
-Twelvepack
-Outbursts
-God of War: Blood & Metal
-Jason Derulo
-Elect The Dead Symphony
-Bloc Bizniz
-Suburbia Remixes
-Show Stoppers
-Hot And Fire
-Infinity - R3MIXED
-Bert & John
-Tip Of The Tongue State
-Addicted To Black
-Look For a Star
-The Great Perry Como_ Vol. 1 (Remastered)
-Western Themes
-Live - Ao vivo
-Faya
-Plains_ Plateaus And Mountains
-Science Fiction
-Big Echo
-BM
-Visions
-The Venom It Drips
-Für die Ewigkeit
-The Crystal Sleep
-Are We Still In The Game?
-Dave Digs Disney
-Miami Tunes 2010
-Trust Your Soul
-Devious Dan Ep
-Sven Väth In the Mix - the Sound of the Ninth Season
-Sven Väth In the Mix - the Sound of the Tenth Season
-While We''re Becoming
-Salsa Cubana Vol.8
-Greatest Joints
-In Order
-Johnny Dankworth / Let''s Slip Away - Film And TV 1960 - 1973
-6x4
-Little Windows
-Last of England
-Live Recordings_ TV-Clips & Roadmovie (Audio Version)
-OuTLeT
-Viva Rock Vegas
-Let''s Rock
-Helio Sun
-High Glow
-Sun In Your Eyes / Advanced Reaction EP
-Knowledge and Ignorance
-The Swing Of Things
-Tunnel Trance Force Vol. 51 Download Edition (20 Maxximum Overdrive Hardclub Traxx Plus DJ Dean''s M
-2008 - Live
-Cool & Easy
-Sound of Berlin 6 - The Finest Club Sounds Selection of House_ Electro_ Minimal and Techno
-Tag für Sieger
-Jamaican E.T.
-Black Sheep EP
-Simple Isn''T Easy
-Collector''s Gold Series
-Lil'' Suzy - The Greatest Hits
-Factory Showroom
-A Nu Day
-The Instigator
-Confiá
-The World Of Boots Randolph
-Just The Hits 2009
-Exhibition Century
-Interpreting the Masters Volume 1: A Tribute to Daryl Hall and John Oates
-Make Time For Love
-Zebra Live
-Cowboy Christmas
-You
-Seconds Away From Salvation
-Survival Story
-Greatest Hits
-Old Fashioned Love Songs
-Goin'' Back To New Orleans
-New Life
-Law And Order
-Trumslagarpojken
-Ett slag
-Night Walk
-Light in the Dark
-Right Here_ Right Now
-The Whole Scenario
-Hyper Sound
-Fairy Tales
-No Shields
-From Beyond The Grave
-Rock Crown
-Floppy Drive
-Soul & Inspiration
-Back To Basics
-Face To Face
-Visit Me
-Untitled
-Mirage A Trois
-Field Day
-Fantastic Planet
-Little Acts Of Treason
-Sexsational
-60''s Girl Groups
-Hypnotize The Moon
-Chronicle Kings
-Home Of The Brave
-From In The Shadows
-The Right Kind Of Life
-Bing Crosby Gets Romantic
-Secrets glacés
-Autocarro 45
-I wanna grow old with You
-Easton Corbin
-Handmade Essence
-My - Rock!
-Who Did It To Michelle Waters?
-Dreamatic - TNR007
-Marc Romboy pres. Musica Electronica Vol. 4
-Fabulös
-A Real Live Dolly
-Il Mercante Di Stelle
-Velocifero (Remixed and Rare)
-32 Karat Juice II
-Cold And Bitter Tears
-Greatest Hits
-Sigh
-Bonzai Worx - DJ Sessions 22 - mixed by Max Angel
-Stardust Vol 2
-Great British Rock ''n'' Roll - Just About As Good As It Gets!_ Vol. 4
-Great Rockabilly - Just About As Good As It Gets!_ Vol. 4
-Shall I Play For You?
-Love Songs
-Utopia
-Mardraum
-Snowbound
-No dejes de bailar
-Bardot
-Busoni: Piano Concerto; Turandot Suite Etc
-Tide Is High
-Delroy
-Charles Aznavour Volume 2
-Euge Groove
-The Difficult First Album
-Serial
-IN2LATIN
-Fallen Angel
-120 Romantic Classical Masterpieces
-El Cantante del Siglo /  Boleros
-Thou Art In Heaven
-Rebota
-Antología. . . Toña la Negra
-Tesoros Mexicanos
-La Garra Suena con Todo
-Calendar Girl
-The Story Of Your Life
-Heat Fetish
-Murder 4 Hire
-GOD''S GRACE
-Are You Scared To Get Happy?
-Artificial Respiratory
-Conversations
-Absinthe
-Hardcore Will Never Die!
-Fade
-Best of
-Christmas In Vegas - Snowman And Snowflake
-The Major and the Minor
-The Most Beloved Songs of Shaike Paikov
-The Mood I''m in
-And His Gummiband
-Classic Years of The Merry Macs
-M20
-My Propeller
-Just About as Good as It Gets!
-Total Dance 2008 Vol. 2
-2012 EP
-Haven''t You Heard
-Alien 4
-88 Keys & Counting
-Five men swinging
-Just an American Boy
-Mauricio Kagel: Les Idees Fixes
-The Piano Virtuoso: Sergio Tiempo plays Chopin_ Bach_ Mozart and Ginastera
-Bombard Your Soul
-Scapple from the Apple (The Early Years)
-Go_ Went_ Gone
-As You Desire Me  (The Very Best Of_ Vol. 1)
-Hello Walls (The Faron Young Story_ Vol. 2)
-Profile Lost (Jeff Bennett Remixes)
-Klouds
-On Fire!
-Tweet Tweet
-Kyana
-Mechanic Side Of Nature
-Lärm
-Jag tyckte jag var glad
-The End of an Error
-Tarkat Tajje / Let''s Go!
-Triangle Of Love / Allunaggio
-Hand Made
-Westside Memories
-Die Fremde
-Armada On Mercury
-Back To Basics
-The New Pathetic
-Absolute Power
-From Isolation
-Aurona Arona
-Sonando Ya
-Álbum de la Revolución
-Modern Time Remixed Pt. 1
-I Get Off
-World In Love Ep
-Greatest Zits 1990-2003 + Bonus Surf CD
-Auto Tune - Single
-Have A Little Faith In People
-The Code
-Duces ''N Trayz: The Old Fashioned Way (Clean)
-Tribal America
-mental [per]mutation
-Best of Aqualoop (Vol. 2)
-Roberta
-J & Friends Sing & Chant for Amma
-Highly Aggressive_ Mixtape Vol. 2
-Stuff LikeThat EP
-They Come For Us
-So Low
-If You Leave It Alone
-Yeah So
-Cant Stop Us Now
-The Platinum Collection
-AZ Mezzanine Digital Volume 4
-99 Songs of Revolution
-Music From The Revelator Collection
-Vne nominatsiy
-George Duke
-Our Day Will Come
-GBGvsSTHLM
-Princess
-Let It Roll
-Live In San Francisco
-Di Notte
-Que el viento sople a tu favor
-Ape-ology Presents Super Ape Vs Return Of The Super Ape
-Born Dead
-Beyond The Sunset
-Paris Nights/ New York Mornings
-Bass Check VII
-Conversation Peace
-Call it what you Want
-Trance Raider - Tomb 4
-The Ultimate Collection
-Ta Kyriakatika
-Ta laika tis plateias Omonoias
-Heroes de los 80. Decima victima
-COSMIC TROUBADOUR
-THE UNIVERSE WILL PROVIDE
-Strictly The Best Vol. 9
-THAT WAS THEN_ THIS IS NOW
-III
-Talking Monkeys In Space
-Sticky & Sweet Tour
-Déjà Vu
-Siren
-A Leopard & Other Stories
-The Monitor
-Live at the Greek Theatre
-Well Done Europe
-Living The Dream
-The Green Album
-Passion: Awakening (Special Edition)
-Uomini D''onore
-Get Shot
-Bass Shakers Volume 1
-These Foolish Things
-Remembering The Future
-Live By Request
-Echoes Down The Hall
-Fresh
-Symbol Of Submission
-Assorted Chaos And Broken MacHinery
-Transparent For You All
-Deepentertained - The Compilation
-Ringrada
-Chopin Nocturnes
-Naughty Child
-Room For The Three Of Us
-The Blood Pressure Sessions
-Dernière bande (compile)
-Cold Shower
-Batalla De Corridos
-Beats vol.1: Amor
-Ready For The Fight - Part 2
-La Musique L''Amour
-Playa Shit
-Vintage Pop Nº 45 - EPs Collectors Guadalajara
-An Untamed Sense of Control
-Complete Originals Recordings
-Cante Grande De Mujer
-Truth
-The Ultimate Collection
-Everybody Seems To Be Obscure
-Love Love Love
-Back to Galaxy - by Astral Projection
-Awaken
-Guten Tach!
-Fémzene
-Aloha from Dallas
-Fragile Forest
-Play Pool
-Selexion 3
-Du Mal A Sconfier
-Golden 20ies
-Polymer''s Revolution
-Back To Boom
-Uprising 50ies
-Tribalground vol.2
-Dibiza
-Iberican Sound 2005 Remixes
-BBC In Concert (23rd March 1985)
-Cicero ep
-Original Hits - Jazz
-Soundtrack
-Crisis and Hope: Theirs and Ours
-Original Hits - Rap & Soul
-To Bestial Gods
-Original Hits - 80s Pop
-Dependence 2010
-Jazz Cafe - The Essential Jazz Singers
-On Broadway
-Sing Your Blues Away
-Total Reggae: Island Vibes
-In Concert: Merchants Of Cool
-Miranda directo!
-Bassline - The Very Best In House_ UK Garage & Drum & Bass
-Blessed Be Our Ever After
-El Exigente
-The Harvey Averne Dozen
-Tribute To Arsenio Rodriguez
-Tiqui_ Tiqui
-Palabras Del Capitán Cobarde
-Five Years Of Dirtybird
-Trio Tour
-R
-Favourite Arias_ Neopolitan Songs & Encores 1925-1955
-Divas of the Silver Screen
-Her Nibs_ Miss Gibbs!
-Wingspan
-A Deeper Faith II
-Prayer 101
-The Singer
-Un Secreto Terrible
-En Familia
-El Resto De Mi Vida
-The Last Holy Writer
-Rougeole
-49 Arlington Gardens
-La Nueva Yma Sumac (Lo Que Nos Dejó La Revolución)
-Born and Bread a Thug (Futuristic Space Age Version)
-La rage du ghetto 2
-The Budapest String Quartet
-4 the Tribe Excitment
-A Hiigher Place
-Wide Open Road: The Best Of The Triffids
-Can''t Live_ Can''t Breathe
-Little Things Mean a Lot
-Americano
-Virtues
-Solo
-Pacific Air Race
-Big Tunes - Back 2 The 80s
-Fever
-Always Rumble!
-Master Seven
-Loverz Road by Don Vitalo
-Heart Destruction
-Summer Days (Featuring Tinka)
-Manners
-Tewbk
-Jonah Jones At The Embers
-Mit Musik geht alles besser - Ein Lied sagt mehr als 1.000 Worte Vol. 4
-Foul Taste Of Freedom
-18 And Ova
-Les réalisateurs: Les plus belles musiques de films de Jean-Pierre Mocky
-Las Venus Resort Palace Hotel
-Total Love
-Popcorn
-Dub_ Weed & Fyah
-The Truth Unveils
-Os soños que volven
-Hurt me
-T.W.O.
-Nino Nardini_ Vol. 1
-T A X I
-Boleros De Amor
-Zume De Tierra
-Balls (+ Bonus Tracks)
-Zoo Is Sad_ People Are Cruel
-The Rise & Fall Of BMX Bandits
-Sonic Booms 1
-Lost My Way
-Terra Ferma / Show Me Your White Bits
-Benny Carter Vol. 1
-Liberi di fare
-Ana E Jorge
-Forgotten Freedom
-Imagine
-Absolute Trance Vol. 1
-Without You
-Indiana Road
-Balin
-Berlin Minimal Underground Vol. 4
-Light Years
-Soy Una Tostadora
-Solo''s_ Duo''s & Trio''s
-Music From Robert Creep & Other Instrumentals
-4 Adaptations of Rossz Csillag Alatt Született
-The Best of Connie Francis
-Pure Ana: Version 1.5
-The Ultimate Collection
-The Warehouse Remixes
-Dime Pieces
-Three''s A Crowd / Blind Eye
-Shapes 10:01
-Very Best Of The Blues
-BKO
-...and they have escaped the weight of darkness
-Oid
-I Can Feel
-Sonic Smash
-Better Late Than Never
-Date With The Devil
-The Wilde Flowers
-Rootsman (Digital Version)
-Vintage Sugar Minott_ U Brown and Sammy Dread
-Gold Guns Girls
-Ston Erota Den Yparchei Nikitis
-Rock para las Masas& (Cárnicas)
-The Best Of Grandmaster Flash & Sugar Hill
-Everything You''ve Been Looking For
-Liquid Confidence (Nothing To Lose)
-The Def Jam Yearz
-Conquest
-Fly to me now
-Rae of Sun
-Jazz For A Mellow Morning
-White Sand
-Heaven Is Whenever
-What We Want_ What We Get
-The Quick Hits
-Buddha-Lounge 7
-Solar Beam
-Live at Brushwood Lounge
-Do It Again
-Keep This Fire Burning ft. Amanda Wilson
-Mentalism by Bodhisattva 1320
-Trance
-What Is Love (Electro House Music)
-Año Zero
-Wonderfull Night
-Mott The Hoople Live - Thirtieth Anniversary Edition
-Washing Up
-Champion Sound
-Take Us Alive
-Spring Break Miami 2010
-Elektron[s] (V2 Remix)
-The Full Album
-Interior Design
-Punisher (Remixes)
-I Got Your Country Right Here
-Polkabilly Rebels
-Rote Lippen Soll Man Küssen (Das Beste Auf Deutsch)
-Here is to you (The ballad of Sacco and Vanzetti) -
-Hôtel Costes by Stéphane Pompougnac
-Hôtel Costes 7 by Stéphane Pompougnac
-Global DJ Broadcast Top 15 - May 2010
-Dipset Mania_ Vol. 7
-Dead End
-Progressive Movement Vol.2
-Arrive
-Tiger Bay
-Greatest Hits Volume 3: Deluxe Edition
-Blues Express
-Sauve Qui Peut
-EXCITED
-Music Mission 1
-Dear John OST
-Tonight
-Easy Listening Christmas Bliss
-Christmas Music Banjo
-Brabant
-Anytime Day Or Night
-All Cracked Up - The Demos And Rarities
-All The Hits Of The Tymes Plus More
-Recoil: Selected
-Live Performances
-All Night Long
-Breathe
-Romantic EP
-Party Heard Around The World
-Weekend Warrior
-I''m Not Featuring You
-The Greatest Hits from 40''s and 50''s_ Vol. 52
-Nectar EP
-Illegal Substance
-Well Dressed For The Art Show
-On Drive
-Those Were The Days: 100 Musical Wartime Memories
-Total 60s
-Our Mam In Havana 31. Cuban Music
-The Complete UK Upsetter Singles Collection - Volume 3
-Bittersweet
-The Original Bootleg Series From The Manticore Vaults: Volume Four
-Endymion: Sound Census
-R U Not Entertained
-Sing and Play Joy Division
-The Barbara Mandrell Collection
-Jersey Shore  Addicted to Drums Mix
-Grandes Exitos
-Ganz schön turbülent
-Rehearsal 4 Reality
-18 Kilates
-Total Hits Vol. 1
-Tango
-Paintings Of The Soul
-77
-A Camarón
-Mi mejor Navidad
-Gloria! Vivaldi''s Angels
-When I Grow Up_ I Wanna F*ck Like A Girl
-The Highway Is a Circle
-Latin
-El Paso - 25 Songs Of The West
-Crank it up EP
-Checkmate Reggae Squeeze Vol.2
-Which Side Are You On
-Vertically Challenged (Clean Ver)
-ROACH: Now / Traveler
-Broomientje
-Huellas
-True
-Ciclos
-The Sweet According to Sweden
-Zeig mir wo du bist ep
-Rolös
-Standing Steady
-L''odio del mondo rese l''uomo schiavo dell''amore
-Need You Now
-Escape From Babylon
-Kokoro no Hoshi
-Nocturno
-Infinite Arms
-Lucky Clover
-Stinga 1
-Lo Mejor De Sinatra
-The Best Of The Ejected
-Powder Monkey
-Next Stop ... Soweto Vol. 2: Soultown. R&B_ Funk & Psych Sounds from the Townships 1969-1976
-Live at Gruene Hall
-He Tenido Un Sueño (Extended Version)
-Rebirth
-Reflexion Bajo Un Flexo
-La Misiva (Edicion Especial)
-Distant Memories
-Otherview
-Escapade
-Orange Sky
-My Heart Goes Up
-The Japanese Compilation
-Thoughtspan
-Dirty Moons
-Total Woman
-This is .... Gordon
-Und Ewig Ruft Die Liebe
-Ladies Night
-Essential Drum & Bass Vol 2
-Brown Is Beautiful
-Dancing in the dark
-Drums Monsters
-Coleccion Estelar de Sabor Salsera
-Struggla / Born Inna System Remixes
-The Gatlin Brothers (Gospel Gold)
-Identity
-Farrah
-Deep Elm Sampler No. 3 - Sound Spirit Fury Fire
-The End of Irony
-Silver Summit
-Du Rififi à la Télé_ Vol. 4: Bandes originales de polars télévisés
-Zentone (Zenzile Meets High Tone)
-One Love
-Psionic Realms
-Infernal Angel
-$100 Fine
-Kiss Your Heart Goodbye
-Despegue
-The New Jim Jones
-Tha Dogg Pound Gangsta LP
-Strictly Bob Sinclar
-Heaps of Nothing
-Ultraviolet
-Brazil Calyps''o Samba (Ile Axè - Brésil)
-90 93
-Plunder_ Beg_ and Curse
-When The Broken Hearted Love Again
-Souls On Fire
-Unorthodox
-Jubileum II
-Is Hot !
-A Gershwin Songbook
-Take Five
-A Doodlin'' Song
-Oriental Christmas
-Punch Drunk
-Tru Thoughts Funk
-Circulos Concéntricos
-Sin Tiempo
-Cloud Cuckooland
-UK Rapscallion
-Huvafen Fushi Maldives Volume 2
-Dizzy 60''s
-Hot Piano
-Sámán
-Greatest Hits
-This One''s For The Ladies
-Easy Listening: Big Bands
-LIVE AT THE BLUES WAREHOUSE
-45 R.P.M.
-Throw Your Spades Up
-The Sound of Dubstep
-Raydiation
-Dreamweaver
-Los Cadetes De Linares De Benjamín Guerrero Jr. - Grandes Éxitos
-Aren''t Women Wonderful
-Waveform Transmission Vol. 1
-Life in the Face of Death
-Ballad of the Round Ball
-For Your Consideration
-Prey on You
-I Want To Be Happy Cha Cha''s
-100 Proof (The Hangover) - The Instrumentals
-Moving On
-Mixing On
-Album Minus Band
-Everything At Once
-Lucky 13
-A New Era Of Corruption
-Groovalicious
-The Joe Brown Story: The Piccadilly/Pye Anthology
-Coma Of Souls
-Lost In The City Of Sounds
-Come On_ Lets Go: The Best Of Tommy Steele
-Elettrodomestico
-Modapop
-Cracked Love & Other Drugs
-Ko and The Knockouts
-Karate Slut EP
-The Siren EP
-Lux
-Spelen met je leven
-Naked On The Inside
-Sus Grandes Creaciones
-Hard 2 Swallow
-Serie 20 Exitos
-American Fantasy
-Bloody Brilliant
-Children Go Where I Send You
-Panic Buton
-Goodbye Cool World
-Intolerance
-Share
-At Echo Lake
-Face à la Musique
-Grenzeloos
-Another Day
-George Baker Selection
-30 Jaar Zwervend Bestaan
-Look at me now
-The Nightingale 5
-Sings Studio One Hits
-Magical Jet Light
-Tales from the Crypt
-NU12.041
-Cha Cha Cha - Volume 3
-Kansas City
+SELECT * FROM albums a WHERE a.name = 'Nellyville';
+SELECT * FROM albums a WHERE a.name = 'Open Heart Zoo';
+SELECT * FROM albums a WHERE a.name = 'Only Forever';
+SELECT * FROM albums a WHERE a.name = 'Beautiful Day';
+SELECT * FROM albums a WHERE a.name = 'Angels With Dirty Faces';
+SELECT * FROM albums a WHERE a.name = 'Tropical Gangsters';
+SELECT * FROM albums a WHERE a.name = 'Ba Ba Ti Ki Di Do';
+SELECT * FROM albums a WHERE a.name = 'In Search Of...';
+SELECT * FROM albums a WHERE a.name = 'Trouble (B-Side)';
+SELECT * FROM albums a WHERE a.name = 'Live Magic';
+SELECT * FROM albums a WHERE a.name = 'The Best Of 1980 - 1990 / B Sides';
+SELECT * FROM albums a WHERE a.name = 'Come Away With Me';
+SELECT * FROM albums a WHERE a.name = 'Bag Of Hits';
+SELECT * FROM albums a WHERE a.name = 'The Beach Boys Classics...Selected By Brian Wilson';
+SELECT * FROM albums a WHERE a.name = 'Your Love Means Everything';
+SELECT * FROM albums a WHERE a.name = 'Diamond Dogs (30th Anniversary Edition)';
+SELECT * FROM albums a WHERE a.name = 'Thank You';
+SELECT * FROM albums a WHERE a.name = 'Everybody Hertz';
+SELECT * FROM albums a WHERE a.name = 'BRA';
+SELECT * FROM albums a WHERE a.name = 'Shapeshifter';
+SELECT * FROM albums a WHERE a.name = 'Among My Swan';
+SELECT * FROM albums a WHERE a.name = 'Retrospectacle - The Best Of Thomas Dolby';
+SELECT * FROM albums a WHERE a.name = 'The Madcap Laughs';
+SELECT * FROM albums a WHERE a.name = 'Ad Nauseam';
+SELECT * FROM albums a WHERE a.name = 'Today''s Specials';
+SELECT * FROM albums a WHERE a.name = 'Best Of Carteline';
+SELECT * FROM albums a WHERE a.name = 'She Hangs Brightly';
+SELECT * FROM albums a WHERE a.name = 'Live At The Moonlight Club';
+SELECT * FROM albums a WHERE a.name = 'Mornington Crescent';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Runrig - Long Distance';
+SELECT * FROM albums a WHERE a.name = 'Supergrass';
+SELECT * FROM albums a WHERE a.name = 'Sunflower/Surf''s Up';
+SELECT * FROM albums a WHERE a.name = 'Actually';
+SELECT * FROM albums a WHERE a.name = 'Very';
+SELECT * FROM albums a WHERE a.name = 'The Optimist';
+SELECT * FROM albums a WHERE a.name = 'Size Matters';
+SELECT * FROM albums a WHERE a.name = 'The New Danger';
+SELECT * FROM albums a WHERE a.name = 'Bat Out Of Hell Live with The Melbourne Symphony Orchestra';
+SELECT * FROM albums a WHERE a.name = 'The Royal Society';
+SELECT * FROM albums a WHERE a.name = 'Lest We Forget (The Best Of)';
+SELECT * FROM albums a WHERE a.name = 'A.B. Quintanilla III Presents Joe Lopez';
+SELECT * FROM albums a WHERE a.name = 'Lady';
+SELECT * FROM albums a WHERE a.name = '15 De Coleccion';
+SELECT * FROM albums a WHERE a.name = 'Trailer';
+SELECT * FROM albums a WHERE a.name = 'The Queen Is Dead';
+SELECT * FROM albums a WHERE a.name = 'A Slice Of Heaven';
+SELECT * FROM albums a WHERE a.name = 'Popped In Souled Out';
+SELECT * FROM albums a WHERE a.name = 'Love Is All / I Need Your Love';
+SELECT * FROM albums a WHERE a.name = 'Fefe Dobson';
+SELECT * FROM albums a WHERE a.name = 'False Smiles';
+SELECT * FROM albums a WHERE a.name = 'The Ultimate Collection: The Commodores';
+SELECT * FROM albums a WHERE a.name = 'Jeffrey Osborne';
+SELECT * FROM albums a WHERE a.name = 'Rapt. Dept.';
+SELECT * FROM albums a WHERE a.name = 'Cherie';
+SELECT * FROM albums a WHERE a.name = 'Reach 454';
+SELECT * FROM albums a WHERE a.name = 'Moonlight Survived';
+SELECT * FROM albums a WHERE a.name = 'Little Things';
+SELECT * FROM albums a WHERE a.name = 'Wild West Show';
+SELECT * FROM albums a WHERE a.name = 'Distracted';
+SELECT * FROM albums a WHERE a.name = 'Travelogue';
+SELECT * FROM albums a WHERE a.name = 'Nicole C. Mullen';
+SELECT * FROM albums a WHERE a.name = 'The Breaking of the Dawn';
+SELECT * FROM albums a WHERE a.name = 'Jardin Azul: Las Canciones Favoritas';
+SELECT * FROM albums a WHERE a.name = 'Get Up On It';
+SELECT * FROM albums a WHERE a.name = 'Van Halen II';
+SELECT * FROM albums a WHERE a.name = 'My Christmas EP!';
+SELECT * FROM albums a WHERE a.name = 'Happy Town';
+SELECT * FROM albums a WHERE a.name = 'KC & The Sunshine Band: 25th Anniversary Collection';
+SELECT * FROM albums a WHERE a.name = 'Beg_ Scream & Shout!: Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Packed!';
+SELECT * FROM albums a WHERE a.name = 'The Isle Of View';
+SELECT * FROM albums a WHERE a.name = 'Leaving New York';
+SELECT * FROM albums a WHERE a.name = 'Crush With Eyeliner';
+SELECT * FROM albums a WHERE a.name = 'Come Poop With Me';
+SELECT * FROM albums a WHERE a.name = 'Shhh...Don''t Tell';
+SELECT * FROM albums a WHERE a.name = 'O';
+SELECT * FROM albums a WHERE a.name = 'Come And Get It';
+SELECT * FROM albums a WHERE a.name = 'Best Of';
+SELECT * FROM albums a WHERE a.name = 'Evolucion';
+SELECT * FROM albums a WHERE a.name = 'Motown II';
+SELECT * FROM albums a WHERE a.name = 'Only Yazoo - The Best Of';
+SELECT * FROM albums a WHERE a.name = 'The Motown Anthology';
+SELECT * FROM albums a WHERE a.name = 'Flesh Of My Flesh_ Blood Of My Blood';
+SELECT * FROM albums a WHERE a.name = 'The Great Depression';
+SELECT * FROM albums a WHERE a.name = 'God''s Favorite';
+SELECT * FROM albums a WHERE a.name = 'Bigger & Deffer';
+SELECT * FROM albums a WHERE a.name = 'Introducing Michael Fredo';
+SELECT * FROM albums a WHERE a.name = 'Feelings';
+SELECT * FROM albums a WHERE a.name = 'Soul Journey';
+SELECT * FROM albums a WHERE a.name = 'Version 2.0';
+SELECT * FROM albums a WHERE a.name = 'Hysterical Mama';
+SELECT * FROM albums a WHERE a.name = 'Elegia';
+SELECT * FROM albums a WHERE a.name = 'Diana Karazon';
+SELECT * FROM albums a WHERE a.name = 'Ideal';
+SELECT * FROM albums a WHERE a.name = 'Orup 2';
+SELECT * FROM albums a WHERE a.name = 'Agua De Luna';
+SELECT * FROM albums a WHERE a.name = '88 Elmira St.';
+SELECT * FROM albums a WHERE a.name = 'Ronroco';
+SELECT * FROM albums a WHERE a.name = 'Underneath The Surface';
+SELECT * FROM albums a WHERE a.name = 'Renee Olstead';
+SELECT * FROM albums a WHERE a.name = 'Laura Pausini';
+SELECT * FROM albums a WHERE a.name = 'The Real Me';
+SELECT * FROM albums a WHERE a.name = 'Deutschland_ Deine Hymnen';
+SELECT * FROM albums a WHERE a.name = 'Blues Hit Me';
+SELECT * FROM albums a WHERE a.name = 'I Know Electrikboy';
+SELECT * FROM albums a WHERE a.name = 'A golpes de Rock''n''Roll';
+SELECT * FROM albums a WHERE a.name = 'CoolTur';
+SELECT * FROM albums a WHERE a.name = 'Meeting At The Building';
+SELECT * FROM albums a WHERE a.name = 'Denk Jeden Tag';
+SELECT * FROM albums a WHERE a.name = 'Live';
+SELECT * FROM albums a WHERE a.name = 'Something''s Going On (And On)';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Cruel Town';
+SELECT * FROM albums a WHERE a.name = 'Mr. Las Vegas';
+SELECT * FROM albums a WHERE a.name = 'Happiness Is Fiction';
+SELECT * FROM albums a WHERE a.name = 'Toxic Voodoo';
+SELECT * FROM albums a WHERE a.name = 'In Cold Blood';
+SELECT * FROM albums a WHERE a.name = 'Disturbing Tha Peace Presents Bobby Valentino';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of Brother Beyond';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of Herman''s Hermits';
+SELECT * FROM albums a WHERE a.name = 'Modern Day Drifter';
+SELECT * FROM albums a WHERE a.name = 'The Heartlight Set';
+SELECT * FROM albums a WHERE a.name = 'All Mapped Out';
+SELECT * FROM albums a WHERE a.name = 'In At The Deep End';
+SELECT * FROM albums a WHERE a.name = '1 x Equilibrium';
+SELECT * FROM albums a WHERE a.name = 'Verve Remixed 3';
+SELECT * FROM albums a WHERE a.name = 'Burn The Black Suit';
+SELECT * FROM albums a WHERE a.name = 'Jump';
+SELECT * FROM albums a WHERE a.name = 'L''indispensabile';
+SELECT * FROM albums a WHERE a.name = 'Koncert';
+SELECT * FROM albums a WHERE a.name = 'Mambo Sinuendo';
+SELECT * FROM albums a WHERE a.name = 'Mirror Ball';
+SELECT * FROM albums a WHERE a.name = 'The Heart Has Its Reasons';
+SELECT * FROM albums a WHERE a.name = 'All Or Nothing';
+SELECT * FROM albums a WHERE a.name = 'Sweet Surrender';
+SELECT * FROM albums a WHERE a.name = 'BOF Michel Vaillant';
+SELECT * FROM albums a WHERE a.name = 'Forget Me Nots & Other Hits';
+SELECT * FROM albums a WHERE a.name = 'Adventure';
+SELECT * FROM albums a WHERE a.name = 'Tic & Tac';
+SELECT * FROM albums a WHERE a.name = 'Bedroom Classics_ Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of Montrose';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits: Naughty''s Nicest';
+SELECT * FROM albums a WHERE a.name = 'Frammenti Di...Massimo Ranieri';
+SELECT * FROM albums a WHERE a.name = 'Searching For A Land';
+SELECT * FROM albums a WHERE a.name = 'Scolopendra';
+SELECT * FROM albums a WHERE a.name = 'Live';
+SELECT * FROM albums a WHERE a.name = 'The Best Of The Fourmost';
+SELECT * FROM albums a WHERE a.name = 'Perverse';
+SELECT * FROM albums a WHERE a.name = 'A''s B''s & EP''s';
+SELECT * FROM albums a WHERE a.name = 'Parabelo';
+SELECT * FROM albums a WHERE a.name = 'A Little Deeper';
+SELECT * FROM albums a WHERE a.name = 'Ghosts';
+SELECT * FROM albums a WHERE a.name = 'George Is On';
+SELECT * FROM albums a WHERE a.name = 'The Truth';
+SELECT * FROM albums a WHERE a.name = 'Magpie';
+SELECT * FROM albums a WHERE a.name = 'Sheryl Crow And Friends Live From Central Park';
+SELECT * FROM albums a WHERE a.name = 'The Marshall Mathers LP';
+SELECT * FROM albums a WHERE a.name = '2001';
+SELECT * FROM albums a WHERE a.name = 'The Eminem Show';
+SELECT * FROM albums a WHERE a.name = 'All-Time Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Evolution';
+SELECT * FROM albums a WHERE a.name = 'Elephant Shoe';
+SELECT * FROM albums a WHERE a.name = 'Classic Black Uhuru - The Universal Masters Collection';
+SELECT * FROM albums a WHERE a.name = 'Confrontation';
+SELECT * FROM albums a WHERE a.name = 'Love Always';
+SELECT * FROM albums a WHERE a.name = 'Little Johnny From The Hospital';
+SELECT * FROM albums a WHERE a.name = 'Something Worth Leaving Behind';
+SELECT * FROM albums a WHERE a.name = 'Perseverance';
+SELECT * FROM albums a WHERE a.name = 'Legal Drug Money';
+SELECT * FROM albums a WHERE a.name = 'Da Derrty Versions: The Re-invention';
+SELECT * FROM albums a WHERE a.name = 'Elements: The Island Anthology';
+SELECT * FROM albums a WHERE a.name = 'Dru Hill';
+SELECT * FROM albums a WHERE a.name = 'Soul Of A Woman';
+SELECT * FROM albums a WHERE a.name = 'Feel So Young';
+SELECT * FROM albums a WHERE a.name = 'Elegy';
+SELECT * FROM albums a WHERE a.name = 'Good Vibes';
+SELECT * FROM albums a WHERE a.name = 'Songs For Traffic Jams';
+SELECT * FROM albums a WHERE a.name = 'Runnin'' Wild';
+SELECT * FROM albums a WHERE a.name = 'Grease';
+SELECT * FROM albums a WHERE a.name = 'THE BEAT OF BRAZIL';
+SELECT * FROM albums a WHERE a.name = 'Girls_ Girls_ Girls';
+SELECT * FROM albums a WHERE a.name = 'The Tourniquet';
+SELECT * FROM albums a WHERE a.name = 'Rastafari Centennial: Live In Paris - Elysee Montmartre';
+SELECT * FROM albums a WHERE a.name = 'Great Divide';
+SELECT * FROM albums a WHERE a.name = 'All About Chemistry';
+SELECT * FROM albums a WHERE a.name = 'Planet Helpless';
+SELECT * FROM albums a WHERE a.name = 'Poses';
+SELECT * FROM albums a WHERE a.name = 'North';
+SELECT * FROM albums a WHERE a.name = 'The Last Tour On Earth';
+SELECT * FROM albums a WHERE a.name = 'God Says No';
+SELECT * FROM albums a WHERE a.name = 'Elva';
+SELECT * FROM albums a WHERE a.name = 'Get Rich Or Die Tryin''';
+SELECT * FROM albums a WHERE a.name = 'An Electric Storm';
+SELECT * FROM albums a WHERE a.name = 'Heaven Is In Your Mind - An Introduction To...';
+SELECT * FROM albums a WHERE a.name = 'The Grand Tour';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Mr. Fantasy';
+SELECT * FROM albums a WHERE a.name = 'Handsworth Revolution / State Of Emergency / Rastafari Centennial';
+SELECT * FROM albums a WHERE a.name = 'A Little Deeper';
+SELECT * FROM albums a WHERE a.name = '20 Beat Classics';
+SELECT * FROM albums a WHERE a.name = 'Hai Hai';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Taste';
+SELECT * FROM albums a WHERE a.name = 'A Bestiary Of';
+SELECT * FROM albums a WHERE a.name = 'New Forms';
+SELECT * FROM albums a WHERE a.name = 'Gold';
+SELECT * FROM albums a WHERE a.name = 'Gold';
+SELECT * FROM albums a WHERE a.name = 'Gold';
+SELECT * FROM albums a WHERE a.name = 'Varekai';
+SELECT * FROM albums a WHERE a.name = 'A Brief History Of The 20th Century';
+SELECT * FROM albums a WHERE a.name = 'Shakespeare Alabama';
+SELECT * FROM albums a WHERE a.name = 'World Record';
+SELECT * FROM albums a WHERE a.name = 'Super Lungs';
+SELECT * FROM albums a WHERE a.name = 'Forever';
+SELECT * FROM albums a WHERE a.name = 'Legsikeresebb dalai Best of I.';
+SELECT * FROM albums a WHERE a.name = 'Neon Nights';
+SELECT * FROM albums a WHERE a.name = 'Live At The Bloomsbury Theatre_ London';
+SELECT * FROM albums a WHERE a.name = 'Talk About It';
+SELECT * FROM albums a WHERE a.name = 'Lifelike';
+SELECT * FROM albums a WHERE a.name = 'Gli altri siamo noi';
+SELECT * FROM albums a WHERE a.name = 'Giulia';
+SELECT * FROM albums a WHERE a.name = 'Desde Que No Nos Vemos';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits - Das Beste';
+SELECT * FROM albums a WHERE a.name = 'Que pides tu?';
+SELECT * FROM albums a WHERE a.name = 'Welcome';
+SELECT * FROM albums a WHERE a.name = 'Sin Documentos';
+SELECT * FROM albums a WHERE a.name = 'It''s All About The Stragglers';
+SELECT * FROM albums a WHERE a.name = 'That One Way';
+SELECT * FROM albums a WHERE a.name = 'Feeling';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Altan - The Songs';
+SELECT * FROM albums a WHERE a.name = 'Gladiator - Music From The Motion Picture';
+SELECT * FROM albums a WHERE a.name = 'Electro-Shock Blues Show';
+SELECT * FROM albums a WHERE a.name = 'The Artist Selects';
+SELECT * FROM albums a WHERE a.name = 'Maria Rita';
+SELECT * FROM albums a WHERE a.name = 'Saturnz Return';
+SELECT * FROM albums a WHERE a.name = 'Home';
+SELECT * FROM albums a WHERE a.name = 'Royal Albert Hall London May 2-3-5-6 2005';
+SELECT * FROM albums a WHERE a.name = 'Super Extra Gravity';
+SELECT * FROM albums a WHERE a.name = 'Narada Jazz The Singles';
+SELECT * FROM albums a WHERE a.name = 'Big River';
+SELECT * FROM albums a WHERE a.name = 'Catching Tales';
+SELECT * FROM albums a WHERE a.name = 'Best Of Silkk The Shocker';
+SELECT * FROM albums a WHERE a.name = 'Live - The Definitive Edition';
+SELECT * FROM albums a WHERE a.name = 'Justamustache';
+SELECT * FROM albums a WHERE a.name = 'Sunny Side Garden';
+SELECT * FROM albums a WHERE a.name = 'Of This Blood';
+SELECT * FROM albums a WHERE a.name = 'Denim On Ice';
+SELECT * FROM albums a WHERE a.name = 'Wonders Never Cease';
+SELECT * FROM albums a WHERE a.name = 'I Believe';
+SELECT * FROM albums a WHERE a.name = 'Romantic Rights';
+SELECT * FROM albums a WHERE a.name = 'Biology';
+SELECT * FROM albums a WHERE a.name = 'Flo''Ology';
+SELECT * FROM albums a WHERE a.name = 'Run It Red';
+SELECT * FROM albums a WHERE a.name = 'Get Rich Or Die Tryin''- The Original Motion Picture Soundtrack';
+SELECT * FROM albums a WHERE a.name = 'Only Love Can Conquer 1976-1979';
+SELECT * FROM albums a WHERE a.name = 'Hummel : Piano Trios Vol.1';
+SELECT * FROM albums a WHERE a.name = 'Watermark';
+SELECT * FROM albums a WHERE a.name = 'The Red Moon E.P.';
+SELECT * FROM albums a WHERE a.name = 'Anthology';
+SELECT * FROM albums a WHERE a.name = 'Want';
+SELECT * FROM albums a WHERE a.name = 'Medium Energy';
+SELECT * FROM albums a WHERE a.name = 'The Frenzy Of Renown';
+SELECT * FROM albums a WHERE a.name = 'UMOJA/20th Century Debwise';
+SELECT * FROM albums a WHERE a.name = 'Romeo Unchained';
+SELECT * FROM albums a WHERE a.name = 'Welcome to Loserville';
+SELECT * FROM albums a WHERE a.name = 'Natty Universal Dread 1973-1979';
+SELECT * FROM albums a WHERE a.name = 'Plastic Ono Band';
+SELECT * FROM albums a WHERE a.name = 'The Breakthrough';
+SELECT * FROM albums a WHERE a.name = 'Between Force And Fate';
+SELECT * FROM albums a WHERE a.name = 'Elevate';
+SELECT * FROM albums a WHERE a.name = 'Ralph Tresvant';
+SELECT * FROM albums a WHERE a.name = 'Anthology';
+SELECT * FROM albums a WHERE a.name = 'Blazing Arrow';
+SELECT * FROM albums a WHERE a.name = 'Ecstasy';
+SELECT * FROM albums a WHERE a.name = 'Sumo Surprise';
+SELECT * FROM albums a WHERE a.name = 'The M-Pire Shrikez Back (Explicit)';
+SELECT * FROM albums a WHERE a.name = 'Hey Hey';
+SELECT * FROM albums a WHERE a.name = 'Killer Lords';
+SELECT * FROM albums a WHERE a.name = 'Horace Silver And The Jazz Messengers';
+SELECT * FROM albums a WHERE a.name = 'Vixen';
+SELECT * FROM albums a WHERE a.name = 'Otro Dia Mas Sin Verte';
+SELECT * FROM albums a WHERE a.name = 'Broadcast';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Me';
+SELECT * FROM albums a WHERE a.name = 'Present Arms In Dub';
+SELECT * FROM albums a WHERE a.name = 'Runaway Horses';
+SELECT * FROM albums a WHERE a.name = '456';
+SELECT * FROM albums a WHERE a.name = 'Brilliant Trees';
+SELECT * FROM albums a WHERE a.name = 'Defector';
+SELECT * FROM albums a WHERE a.name = 'Le Voyageur';
+SELECT * FROM albums a WHERE a.name = 'Sign Of The Hammer';
+SELECT * FROM albums a WHERE a.name = 'Sid Sings';
+SELECT * FROM albums a WHERE a.name = 'Hot Potatoes: The Best Of Devo';
+SELECT * FROM albums a WHERE a.name = 'Legalize It';
+SELECT * FROM albums a WHERE a.name = 'The Real Chuckeeboo';
+SELECT * FROM albums a WHERE a.name = 'Cupid And Psyche ''85';
+SELECT * FROM albums a WHERE a.name = 'Fruit At The Bottom';
+SELECT * FROM albums a WHERE a.name = 'Majurugenta';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Racey';
+SELECT * FROM albums a WHERE a.name = 'Damn The Torpedoes / Southern Accents / Hard Promises';
+SELECT * FROM albums a WHERE a.name = 'The Essential Collection';
+SELECT * FROM albums a WHERE a.name = '20th Century Masters: The Millennium Collection: Best Of Semisonic';
+SELECT * FROM albums a WHERE a.name = 'The Hit Singles Collection';
+SELECT * FROM albums a WHERE a.name = 'Protection - The Remixes';
+SELECT * FROM albums a WHERE a.name = 'Wrath Of The Math';
+SELECT * FROM albums a WHERE a.name = 'Rispetto';
+SELECT * FROM albums a WHERE a.name = 'Mademoiselle Chante';
+SELECT * FROM albums a WHERE a.name = 'En Concert';
+SELECT * FROM albums a WHERE a.name = 'Futurama';
+SELECT * FROM albums a WHERE a.name = 'Never Too Far';
+SELECT * FROM albums a WHERE a.name = 'Boogie People';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits...And More';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Bud Powell';
+SELECT * FROM albums a WHERE a.name = 'Liquidizer';
+SELECT * FROM albums a WHERE a.name = 'Walk Don''t Run - The Best Of The Ventures';
+SELECT * FROM albums a WHERE a.name = 'The Wild One - The Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of The Royal Marines';
+SELECT * FROM albums a WHERE a.name = 'Sailor';
+SELECT * FROM albums a WHERE a.name = 'American Originals';
+SELECT * FROM albums a WHERE a.name = 'Hear My Song';
+SELECT * FROM albums a WHERE a.name = 'Jazz Funk';
+SELECT * FROM albums a WHERE a.name = 'Unplugged';
+SELECT * FROM albums a WHERE a.name = 'Wormwood';
+SELECT * FROM albums a WHERE a.name = 'White Feathers';
+SELECT * FROM albums a WHERE a.name = 'Dansez Maintenant';
+SELECT * FROM albums a WHERE a.name = 'Blue Breakbeats';
+SELECT * FROM albums a WHERE a.name = '25 Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Edyta Gorniak';
+SELECT * FROM albums a WHERE a.name = 'The Capitol Years';
+SELECT * FROM albums a WHERE a.name = 'The Essential Bobby Vee';
+SELECT * FROM albums a WHERE a.name = 'Avenidas';
+SELECT * FROM albums a WHERE a.name = 'Too Much Coffee Man';
+SELECT * FROM albums a WHERE a.name = 'Freddie And The Dreamers';
+SELECT * FROM albums a WHERE a.name = 'Kill Your Television';
+SELECT * FROM albums a WHERE a.name = 'Missing... Presumed Having A Good Time';
+SELECT * FROM albums a WHERE a.name = 'Le Temps Des Gitans & Kuduz';
+SELECT * FROM albums a WHERE a.name = 'Tom Lehrer In Concert';
+SELECT * FROM albums a WHERE a.name = 'Les Poetes:Baudelaire (Vol.3)';
+SELECT * FROM albums a WHERE a.name = 'Yes I Am';
+SELECT * FROM albums a WHERE a.name = 'Hood Rich';
+SELECT * FROM albums a WHERE a.name = 'Let''s Get It On';
+SELECT * FROM albums a WHERE a.name = 'Three Days';
+SELECT * FROM albums a WHERE a.name = 'Instant Vintage';
+SELECT * FROM albums a WHERE a.name = 'Live Up  & Close';
+SELECT * FROM albums a WHERE a.name = 'Live!';
+SELECT * FROM albums a WHERE a.name = 'Black The Sun';
+SELECT * FROM albums a WHERE a.name = 'Kenya';
+SELECT * FROM albums a WHERE a.name = 'Live At The Lighthouse';
+SELECT * FROM albums a WHERE a.name = 'Ghetto Heisman';
+SELECT * FROM albums a WHERE a.name = 'Cradle 2 The Grave';
+SELECT * FROM albums a WHERE a.name = 'A Night At Red Rocks With The Colorado Symphony Orchestra';
+SELECT * FROM albums a WHERE a.name = 'More Fire Crew CV';
+SELECT * FROM albums a WHERE a.name = 'Exit';
+SELECT * FROM albums a WHERE a.name = 'Sabe A Limi-T';
+SELECT * FROM albums a WHERE a.name = 'Alive!';
+SELECT * FROM albums a WHERE a.name = 'Lift Every Voice';
+SELECT * FROM albums a WHERE a.name = 'The Essential UFO';
+SELECT * FROM albums a WHERE a.name = 'Black Coffey';
+SELECT * FROM albums a WHERE a.name = 'Becstasy';
+SELECT * FROM albums a WHERE a.name = 'New Tattoo';
+SELECT * FROM albums a WHERE a.name = 'Out Demons Out - The Best Of';
+SELECT * FROM albums a WHERE a.name = 'The Best Of The Blue Note Years';
+SELECT * FROM albums a WHERE a.name = 'The Peter Sarstedt Collection';
+SELECT * FROM albums a WHERE a.name = 'Emilie Simon';
+SELECT * FROM albums a WHERE a.name = 'Melange';
+SELECT * FROM albums a WHERE a.name = 'Jihad (EP)';
+SELECT * FROM albums a WHERE a.name = 'About The Blues/London By Night';
+SELECT * FROM albums a WHERE a.name = 'The Ultimate Peter And Gordon';
+SELECT * FROM albums a WHERE a.name = 'Farover';
+SELECT * FROM albums a WHERE a.name = 'Antologia - Su Historia Y Sus Exitos';
+SELECT * FROM albums a WHERE a.name = 'Warm & Soulful';
+SELECT * FROM albums a WHERE a.name = 'Lethal Injection (World) (Explicit) (Remastered)';
+SELECT * FROM albums a WHERE a.name = 'Perfect Timing';
+SELECT * FROM albums a WHERE a.name = 'The Collection';
+SELECT * FROM albums a WHERE a.name = 'From Me To U';
+SELECT * FROM albums a WHERE a.name = 'Belinda';
+SELECT * FROM albums a WHERE a.name = 'Love Songs A La Rosa/On The Sunny Side';
+SELECT * FROM albums a WHERE a.name = 'High On The Happy Side';
+SELECT * FROM albums a WHERE a.name = 'Listen';
+SELECT * FROM albums a WHERE a.name = 'Another Ticket';
+SELECT * FROM albums a WHERE a.name = 'Bad Reputation';
+SELECT * FROM albums a WHERE a.name = 'Boy Child: 67-70';
+SELECT * FROM albums a WHERE a.name = 'Mobile Home';
+SELECT * FROM albums a WHERE a.name = 'Collection';
+SELECT * FROM albums a WHERE a.name = 'Punk Singles Collection';
+SELECT * FROM albums a WHERE a.name = 'An Introduction To Phil Ochs';
+SELECT * FROM albums a WHERE a.name = 'Country Ladies';
+SELECT * FROM albums a WHERE a.name = 'Jazz Legends - Songs Of Cole Porter/Rodgers & Hart/Gershwin';
+SELECT * FROM albums a WHERE a.name = 'Architecture And Morality';
+SELECT * FROM albums a WHERE a.name = 'Vertigone';
+SELECT * FROM albums a WHERE a.name = 'Pansoul';
+SELECT * FROM albums a WHERE a.name = 'Essential';
+SELECT * FROM albums a WHERE a.name = 'Soul Of The Bible';
+SELECT * FROM albums a WHERE a.name = 'Federation The Album';
+SELECT * FROM albums a WHERE a.name = 'Waking Up With The House On Fire';
+SELECT * FROM albums a WHERE a.name = 'Howyoudoin?';
+SELECT * FROM albums a WHERE a.name = 'The F-Ups';
+SELECT * FROM albums a WHERE a.name = 'RENDEZ-VOUS';
+SELECT * FROM albums a WHERE a.name = 'The Oliver Twist Manifesto';
+SELECT * FROM albums a WHERE a.name = 'Victoria Beckham';
+SELECT * FROM albums a WHERE a.name = 'Roses';
+SELECT * FROM albums a WHERE a.name = 'Everything''s Gonna Be Alright';
+SELECT * FROM albums a WHERE a.name = 'Standards';
+SELECT * FROM albums a WHERE a.name = 'Life Is A Carnival';
+SELECT * FROM albums a WHERE a.name = 'The Plan';
+SELECT * FROM albums a WHERE a.name = 'Desire Walks On (Int''l Only)';
+SELECT * FROM albums a WHERE a.name = 'Hard To Earn';
+SELECT * FROM albums a WHERE a.name = 'KooKoo';
+SELECT * FROM albums a WHERE a.name = 'Born To Quit';
+SELECT * FROM albums a WHERE a.name = 'Flashback';
+SELECT * FROM albums a WHERE a.name = 'Blues With A Feeling';
+SELECT * FROM albums a WHERE a.name = 'Tonight You Are The Special One';
+SELECT * FROM albums a WHERE a.name = 'Jammy Smears';
+SELECT * FROM albums a WHERE a.name = 'Greatest Funkin'' Hits';
+SELECT * FROM albums a WHERE a.name = 'King Of The Blues';
+SELECT * FROM albums a WHERE a.name = 'Ultra-Lounge / Bachelor Pad Royale  Volume Four';
+SELECT * FROM albums a WHERE a.name = 'Frampton Comes Alive II';
+SELECT * FROM albums a WHERE a.name = 'Fit But You Know It';
+SELECT * FROM albums a WHERE a.name = 'The Palo Alto Sessions 1981-1985';
+SELECT * FROM albums a WHERE a.name = 'I Could Be The One';
+SELECT * FROM albums a WHERE a.name = 'Girlfriend';
+SELECT * FROM albums a WHERE a.name = 'Falling Forward';
+SELECT * FROM albums a WHERE a.name = 'Around The Next Dream';
+SELECT * FROM albums a WHERE a.name = 'Born Dead';
+SELECT * FROM albums a WHERE a.name = 'Beggar On A Beach Of Gold';
+SELECT * FROM albums a WHERE a.name = 'Tomorrow Will Be Too Long';
+SELECT * FROM albums a WHERE a.name = 'Saida';
+SELECT * FROM albums a WHERE a.name = 'More Than This - The Best Of Bryan Ferry And Roxy Music';
+SELECT * FROM albums a WHERE a.name = 'Nocturnal';
+SELECT * FROM albums a WHERE a.name = 'Sax At The Movies';
+SELECT * FROM albums a WHERE a.name = 'Valotte';
+SELECT * FROM albums a WHERE a.name = 'Book Of Spells';
+SELECT * FROM albums a WHERE a.name = 'Greta Y Los Garbo';
+SELECT * FROM albums a WHERE a.name = 'Aire/Invisible';
+SELECT * FROM albums a WHERE a.name = 'Rasassination (The End) (Explicit)';
+SELECT * FROM albums a WHERE a.name = 'Dead Bees On A Cake';
+SELECT * FROM albums a WHERE a.name = 'Un Poquito Quema''o';
+SELECT * FROM albums a WHERE a.name = '...A Place On Earth - The Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Lucy Pearl';
+SELECT * FROM albums a WHERE a.name = 'Navidad';
+SELECT * FROM albums a WHERE a.name = 'Slave To Love - The Best Of The Ballads';
+SELECT * FROM albums a WHERE a.name = 'Magazine... (Where The Power Is)';
+SELECT * FROM albums a WHERE a.name = 'Northern Star';
+SELECT * FROM albums a WHERE a.name = 'Rush Hour';
+SELECT * FROM albums a WHERE a.name = 'Center Of My Universe';
+SELECT * FROM albums a WHERE a.name = 'Keepin'' It Cool';
+SELECT * FROM albums a WHERE a.name = 'Aussen Top Hits_ Innen Geschmack';
+SELECT * FROM albums a WHERE a.name = 'Concierto En Vivo I - Concierto En Vivo II';
+SELECT * FROM albums a WHERE a.name = 'Who Dares...wins';
+SELECT * FROM albums a WHERE a.name = 'Wicked Little High';
+SELECT * FROM albums a WHERE a.name = 'Canciones 96-06';
+SELECT * FROM albums a WHERE a.name = 'Try Not To Cry: The Singles Collection';
+SELECT * FROM albums a WHERE a.name = 'Not One Bit Ashamed';
+SELECT * FROM albums a WHERE a.name = 'Old School To New School';
+SELECT * FROM albums a WHERE a.name = 'On An Island';
+SELECT * FROM albums a WHERE a.name = 'Blissed Out';
+SELECT * FROM albums a WHERE a.name = 'For The Love Of Indie Rock';
+SELECT * FROM albums a WHERE a.name = 'Kick';
+SELECT * FROM albums a WHERE a.name = 'Joan As Police Woman';
+SELECT * FROM albums a WHERE a.name = 'Theme From Chalets';
+SELECT * FROM albums a WHERE a.name = 'Harmonies For The Haunted';
+SELECT * FROM albums a WHERE a.name = 'Songs We Sing';
+SELECT * FROM albums a WHERE a.name = 'Whole Lotta History';
+SELECT * FROM albums a WHERE a.name = 'Peach Blossom Fan';
+SELECT * FROM albums a WHERE a.name = 'My Utmost For His Highest - The Covenant';
+SELECT * FROM albums a WHERE a.name = 'Gold';
+SELECT * FROM albums a WHERE a.name = 'In The Hands Of Love';
+SELECT * FROM albums a WHERE a.name = 'One Hot Minute';
+SELECT * FROM albums a WHERE a.name = 'Show Your Bones';
+SELECT * FROM albums a WHERE a.name = 'Band-Girls-Money';
+SELECT * FROM albums a WHERE a.name = 'Motorcycle Diaries with additional Music';
+SELECT * FROM albums a WHERE a.name = 'Impulsive! Revolutionary Jazz Reworked';
+SELECT * FROM albums a WHERE a.name = 'Gold';
+SELECT * FROM albums a WHERE a.name = 'The Beautiful South - Gold';
+SELECT * FROM albums a WHERE a.name = 'Man To Man';
+SELECT * FROM albums a WHERE a.name = 'Something For The Weekend';
+SELECT * FROM albums a WHERE a.name = 'Bang Bang You''re Dead';
+SELECT * FROM albums a WHERE a.name = 'Pirate Radio [w/Bonus Tracks & Interactive Booklet] [Digital Version]';
+SELECT * FROM albums a WHERE a.name = 'El Balneario';
+SELECT * FROM albums a WHERE a.name = 'Roberta Flack Featuring Donny Hathaway';
+SELECT * FROM albums a WHERE a.name = 'Love Is Gonna Call';
+SELECT * FROM albums a WHERE a.name = 'Olhos Meus';
+SELECT * FROM albums a WHERE a.name = 'Rriot';
+SELECT * FROM albums a WHERE a.name = 'The Best Of The Tams';
+SELECT * FROM albums a WHERE a.name = 'I Am Woman (Digital Only)';
+SELECT * FROM albums a WHERE a.name = 'Sin Sin Sin';
+SELECT * FROM albums a WHERE a.name = 'Ollaan Elaimia';
+SELECT * FROM albums a WHERE a.name = 'Vallen En Opstaan 2';
+SELECT * FROM albums a WHERE a.name = 'The Weight Of This';
+SELECT * FROM albums a WHERE a.name = 'Never Mind Me';
+SELECT * FROM albums a WHERE a.name = 'Walker';
+SELECT * FROM albums a WHERE a.name = 'Ojala Estuvieras Aquí';
+SELECT * FROM albums a WHERE a.name = 'Good Night_ And Good Luck';
+SELECT * FROM albums a WHERE a.name = 'We Don''t Need To Whisper';
+SELECT * FROM albums a WHERE a.name = 'Fundamental';
+SELECT * FROM albums a WHERE a.name = 'Miriam Yeung X Chet Lam Music Is Live';
+SELECT * FROM albums a WHERE a.name = 'Anouk Is Alive';
+SELECT * FROM albums a WHERE a.name = 'Take Two';
+SELECT * FROM albums a WHERE a.name = 'E Botumare';
+SELECT * FROM albums a WHERE a.name = 'Kopfüber';
+SELECT * FROM albums a WHERE a.name = 'Flow Motion';
+SELECT * FROM albums a WHERE a.name = 'Arrastando Maravilhas';
+SELECT * FROM albums a WHERE a.name = 'Yerba Buena';
+SELECT * FROM albums a WHERE a.name = 'Moderna Tider';
+SELECT * FROM albums a WHERE a.name = 'My Own (Explicit)';
+SELECT * FROM albums a WHERE a.name = 'Solo';
+SELECT * FROM albums a WHERE a.name = 'Silent Treatment';
+SELECT * FROM albums a WHERE a.name = '11:11';
+SELECT * FROM albums a WHERE a.name = 'A Little Ain''t Enough';
+SELECT * FROM albums a WHERE a.name = 'School Punks';
+SELECT * FROM albums a WHERE a.name = 'Got Any Gum?';
+SELECT * FROM albums a WHERE a.name = 'Beethoven : Middle String Quartets Nos 7 - 11';
+SELECT * FROM albums a WHERE a.name = 'Ven Conmigo - Selena 20 Years Of Music';
+SELECT * FROM albums a WHERE a.name = 'Sparks Present Motown Made To Measure';
+SELECT * FROM albums a WHERE a.name = 'Ingravitto';
+SELECT * FROM albums a WHERE a.name = 'Life After That';
+SELECT * FROM albums a WHERE a.name = 'Guerreira';
+SELECT * FROM albums a WHERE a.name = 'Music Is A Hungry Ghost';
+SELECT * FROM albums a WHERE a.name = 'Diamond in the Fish';
+SELECT * FROM albums a WHERE a.name = 'The Original Singles Collection - The A- & B-Sides';
+SELECT * FROM albums a WHERE a.name = 'Cuerpo y alma';
+SELECT * FROM albums a WHERE a.name = 'Stay Afraid';
+SELECT * FROM albums a WHERE a.name = 'Vessel States';
+SELECT * FROM albums a WHERE a.name = 'Heart And Unicorns';
+SELECT * FROM albums a WHERE a.name = 'Drain';
+SELECT * FROM albums a WHERE a.name = 'Brain Damage';
+SELECT * FROM albums a WHERE a.name = 'I Apli Methodos Ton Trion';
+SELECT * FROM albums a WHERE a.name = 'Sleepytown';
+SELECT * FROM albums a WHERE a.name = 'Barcelona Nights: The Best Of Ottmar Liebert Volume One';
+SELECT * FROM albums a WHERE a.name = 'Beauty Stab';
+SELECT * FROM albums a WHERE a.name = 'So Close';
+SELECT * FROM albums a WHERE a.name = 'Voyage';
+SELECT * FROM albums a WHERE a.name = 'Seven';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of The Four Pennies';
+SELECT * FROM albums a WHERE a.name = 'Decade';
+SELECT * FROM albums a WHERE a.name = 'Tighten Up';
+SELECT * FROM albums a WHERE a.name = 'I Remember Chuck Willis';
+SELECT * FROM albums a WHERE a.name = 'Pittsburgh';
+SELECT * FROM albums a WHERE a.name = 'Mr Johnson_ your room is on fire';
+SELECT * FROM albums a WHERE a.name = 'Vivir no es solo respirar';
+SELECT * FROM albums a WHERE a.name = 'Definitive Collection';
+SELECT * FROM albums a WHERE a.name = 'Why You Wanna';
+SELECT * FROM albums a WHERE a.name = 'Morph The Cat';
+SELECT * FROM albums a WHERE a.name = 'Talk to Her';
+SELECT * FROM albums a WHERE a.name = 'Down By The Jetty';
+SELECT * FROM albums a WHERE a.name = 'Adoniran Barbosa';
+SELECT * FROM albums a WHERE a.name = 'Every Man For Himself';
+SELECT * FROM albums a WHERE a.name = 'Liberation';
+SELECT * FROM albums a WHERE a.name = 'O Bom- (Os Originais)';
+SELECT * FROM albums a WHERE a.name = 'Semillas Del Corazon';
+SELECT * FROM albums a WHERE a.name = 'Light Poles And Pine Trees';
+SELECT * FROM albums a WHERE a.name = 'Contigo';
+SELECT * FROM albums a WHERE a.name = 'Alright_ Still';
+SELECT * FROM albums a WHERE a.name = 'Sensitivity';
+SELECT * FROM albums a WHERE a.name = 'Riding Out The Storm';
+SELECT * FROM albums a WHERE a.name = 'Blue Sunshine - Deluxe Edition';
+SELECT * FROM albums a WHERE a.name = 'Guten Morgen Spinner';
+SELECT * FROM albums a WHERE a.name = 'Born Under';
+SELECT * FROM albums a WHERE a.name = 'D Is For Dumptruck';
+SELECT * FROM albums a WHERE a.name = 'Big Sexy Land';
+SELECT * FROM albums a WHERE a.name = 'The Complete Atlantic Sessions';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits - Postcards From East Oceanside';
+SELECT * FROM albums a WHERE a.name = 'Live';
+SELECT * FROM albums a WHERE a.name = 'Standing On Ceremony';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of Marc Cohn [Digital Version]';
+SELECT * FROM albums a WHERE a.name = 'Salsa Dura';
+SELECT * FROM albums a WHERE a.name = 'Thrills';
+SELECT * FROM albums a WHERE a.name = 'Every Kind Of Light';
+SELECT * FROM albums a WHERE a.name = 'The Smooth Sounds Of Josh Rouse';
+SELECT * FROM albums a WHERE a.name = 'Stars';
+SELECT * FROM albums a WHERE a.name = 'Norma Waterson';
+SELECT * FROM albums a WHERE a.name = 'Music For Films III';
+SELECT * FROM albums a WHERE a.name = 'Sings Ballads And Blues';
+SELECT * FROM albums a WHERE a.name = 'Le cose da difendere';
+SELECT * FROM albums a WHERE a.name = 'Take Your Shoes Off';
+SELECT * FROM albums a WHERE a.name = 'Timbre';
+SELECT * FROM albums a WHERE a.name = 'Big Lizard In My Back Yard';
+SELECT * FROM albums a WHERE a.name = 'Best Of The Wipers And Greg Sage';
+SELECT * FROM albums a WHERE a.name = 'Death Rides A Pale Cow';
+SELECT * FROM albums a WHERE a.name = 'Rodney Crowell';
+SELECT * FROM albums a WHERE a.name = 'Briefcase Full Of Blues';
+SELECT * FROM albums a WHERE a.name = 'Out Of Limits!';
+SELECT * FROM albums a WHERE a.name = 'Supremacy';
+SELECT * FROM albums a WHERE a.name = '11 Tracks Of Whack';
+SELECT * FROM albums a WHERE a.name = 'Heartbreak In Stereo';
+SELECT * FROM albums a WHERE a.name = 'Comiendo Fuego';
+SELECT * FROM albums a WHERE a.name = 'Civil Sin';
+SELECT * FROM albums a WHERE a.name = 'Master Of Puppets';
+SELECT * FROM albums a WHERE a.name = 'Testimony: Vol. 1 Life & Relationship';
+SELECT * FROM albums a WHERE a.name = 'Chopin Piano Sonatas 1 & 2';
+SELECT * FROM albums a WHERE a.name = 'The Sound of Revenge';
+SELECT * FROM albums a WHERE a.name = 'Fred Åkerström Sjunger Bellman Till Carl Michael';
+SELECT * FROM albums a WHERE a.name = 'Bad Cash Quartet';
+SELECT * FROM albums a WHERE a.name = 'Messiaen : Edition';
+SELECT * FROM albums a WHERE a.name = 'Grandes Exitos';
+SELECT * FROM albums a WHERE a.name = 'Soul Legends - Marvin Gaye';
+SELECT * FROM albums a WHERE a.name = 'Dia De Concerto';
+SELECT * FROM albums a WHERE a.name = 'LeToya';
+SELECT * FROM albums a WHERE a.name = 'L.E.F.';
+SELECT * FROM albums a WHERE a.name = 'River';
+SELECT * FROM albums a WHERE a.name = 'The Meters';
+SELECT * FROM albums a WHERE a.name = 'Disco Inferno';
+SELECT * FROM albums a WHERE a.name = 'Bach_ JS : Violin Sonatas Nos 1 - 6 [Complete]';
+SELECT * FROM albums a WHERE a.name = 'You Give Me Something';
+SELECT * FROM albums a WHERE a.name = 'Wonderful World';
+SELECT * FROM albums a WHERE a.name = 'Enamorado';
+SELECT * FROM albums a WHERE a.name = 'Bad Boy';
+SELECT * FROM albums a WHERE a.name = 'Everglow_ The';
+SELECT * FROM albums a WHERE a.name = 'Kidology';
+SELECT * FROM albums a WHERE a.name = 'Serious Hits... Live!';
+SELECT * FROM albums a WHERE a.name = 'As Cruel As School Children';
+SELECT * FROM albums a WHERE a.name = 'Blush Music';
+SELECT * FROM albums a WHERE a.name = 'The Soul Of Ike & Tina Turner/Dynamite';
+SELECT * FROM albums a WHERE a.name = 'Rolling Stone Original';
+SELECT * FROM albums a WHERE a.name = 'Mozart : Chamber Music';
+SELECT * FROM albums a WHERE a.name = 'La Cantina';
+SELECT * FROM albums a WHERE a.name = 'The Wizzard! Greatest Hits And More - The EMI Years';
+SELECT * FROM albums a WHERE a.name = 'The Outsider';
+SELECT * FROM albums a WHERE a.name = 'Loto FireS';
+SELECT * FROM albums a WHERE a.name = 'The Best Of William Bell';
+SELECT * FROM albums a WHERE a.name = 'I Don''t Feel Like Dancin''';
+SELECT * FROM albums a WHERE a.name = 'Score: 20th Anniversary World Tour Live with the Octavarium Orchestra';
+SELECT * FROM albums a WHERE a.name = 'This Is Where You Belong';
+SELECT * FROM albums a WHERE a.name = 'Step Outside Yourself';
+SELECT * FROM albums a WHERE a.name = 'Honegger : Symphonies Nos 1 - 5_ Pacific 231 & Rugby';
+SELECT * FROM albums a WHERE a.name = 'Greatest Songs Ever: Middle East';
+SELECT * FROM albums a WHERE a.name = 'Nova Bis-O Terço';
+SELECT * FROM albums a WHERE a.name = 'Encore!';
+SELECT * FROM albums a WHERE a.name = 'Screaming Fields Of Sonic Love';
+SELECT * FROM albums a WHERE a.name = 'Every Time I Breathe';
+SELECT * FROM albums a WHERE a.name = 'Hybrid Theory';
+SELECT * FROM albums a WHERE a.name = 'Someone Else''s Problem';
+SELECT * FROM albums a WHERE a.name = 'Gary Moore - The Platinum Collection';
+SELECT * FROM albums a WHERE a.name = 'I Could Live in Hope';
+SELECT * FROM albums a WHERE a.name = 'owL (Low Remix)';
+SELECT * FROM albums a WHERE a.name = 'A Work In Progress';
+SELECT * FROM albums a WHERE a.name = 'Nosso Amor Rebelde';
+SELECT * FROM albums a WHERE a.name = 'Sweet Talkin'' Girls: The Best Of The Chiffons';
+SELECT * FROM albums a WHERE a.name = 'Leonard Cohen: I''m Your Man';
+SELECT * FROM albums a WHERE a.name = 'Forever Diamondz - Collector''s Edition';
+SELECT * FROM albums a WHERE a.name = '20 Y.O.';
+SELECT * FROM albums a WHERE a.name = 'Lännen-Jukka';
+SELECT * FROM albums a WHERE a.name = 'Nova Bis-Clara Nunes';
+SELECT * FROM albums a WHERE a.name = 'Nova Bis-Clementina de Jesus';
+SELECT * FROM albums a WHERE a.name = 'Mr. Brown';
+SELECT * FROM albums a WHERE a.name = 'Teachings From The Electronic Brain';
+SELECT * FROM albums a WHERE a.name = 'Mongo ''70';
+SELECT * FROM albums a WHERE a.name = 'Offshore';
+SELECT * FROM albums a WHERE a.name = 'Claridade & Canto Das Três Raças';
+SELECT * FROM albums a WHERE a.name = 'Don''t Wait';
+SELECT * FROM albums a WHERE a.name = 'The Complete John Peel Sessions';
+SELECT * FROM albums a WHERE a.name = 'Six White Russians And A Pink Pussycat';
+SELECT * FROM albums a WHERE a.name = 'Accident & Emergency';
+SELECT * FROM albums a WHERE a.name = 'Take A Chance';
+SELECT * FROM albums a WHERE a.name = 'Pasado_ Presente Y Futuro';
+SELECT * FROM albums a WHERE a.name = 'The Best Of UB40 Volume I';
+SELECT * FROM albums a WHERE a.name = 'Fashion Parade';
+SELECT * FROM albums a WHERE a.name = 'Boys And Girls In America';
+SELECT * FROM albums a WHERE a.name = 'Chronicle: 20 Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Ardiente';
+SELECT * FROM albums a WHERE a.name = 'Harpers Bizarre 4';
+SELECT * FROM albums a WHERE a.name = 'Verities & Balderdash';
+SELECT * FROM albums a WHERE a.name = 'Green Mind [Digital Version] [with Bonus Tracks]';
+SELECT * FROM albums a WHERE a.name = 'El Mirage';
+SELECT * FROM albums a WHERE a.name = 'In Due';
+SELECT * FROM albums a WHERE a.name = 'Suuren meren suolaa';
+SELECT * FROM albums a WHERE a.name = 'Eastmountainsouth';
+SELECT * FROM albums a WHERE a.name = 'The Places You Have Come To Fear The Most';
+SELECT * FROM albums a WHERE a.name = 'The Gospel Of The Blues';
+SELECT * FROM albums a WHERE a.name = 'The Excello Singles Anthology';
+SELECT * FROM albums a WHERE a.name = 'Focus';
+SELECT * FROM albums a WHERE a.name = 'The Art Of How To Fall';
+SELECT * FROM albums a WHERE a.name = 'Plus Vivant';
+SELECT * FROM albums a WHERE a.name = 'Magick';
+SELECT * FROM albums a WHERE a.name = 'Love Like Winter';
+SELECT * FROM albums a WHERE a.name = 'Up From The Ashes';
+SELECT * FROM albums a WHERE a.name = 'Love Among The Ruins';
+SELECT * FROM albums a WHERE a.name = 'Shoki Shoki';
+SELECT * FROM albums a WHERE a.name = 'Rhino Hi-Five: The B-52''s';
+SELECT * FROM albums a WHERE a.name = 'Rhino Hi-Five: Spinners';
+SELECT * FROM albums a WHERE a.name = 'Surf Drums';
+SELECT * FROM albums a WHERE a.name = 'Till';
+SELECT * FROM albums a WHERE a.name = 'The One Up Downstairs Ep';
+SELECT * FROM albums a WHERE a.name = 'Su e giù da un palco';
+SELECT * FROM albums a WHERE a.name = 'Strictly The Best 36';
+SELECT * FROM albums a WHERE a.name = 'Soulstar';
+SELECT * FROM albums a WHERE a.name = 'Let Them Eat Pussy';
+SELECT * FROM albums a WHERE a.name = 'Love Is Vain';
+SELECT * FROM albums a WHERE a.name = 'Relish';
+SELECT * FROM albums a WHERE a.name = '2001';
+SELECT * FROM albums a WHERE a.name = 'Days Of The New II';
+SELECT * FROM albums a WHERE a.name = 'Blue Midnight';
+SELECT * FROM albums a WHERE a.name = 'Le Poisson Rouge';
+SELECT * FROM albums a WHERE a.name = 'Out Of Business';
+SELECT * FROM albums a WHERE a.name = 'What You Could Have Won';
+SELECT * FROM albums a WHERE a.name = 'Politics Election EP';
+SELECT * FROM albums a WHERE a.name = 'Vehicles & Animals';
+SELECT * FROM albums a WHERE a.name = 'Righteous Love';
+SELECT * FROM albums a WHERE a.name = 'New Miserable Experience';
+SELECT * FROM albums a WHERE a.name = 'A Thousand Miles';
+SELECT * FROM albums a WHERE a.name = 'Get Some';
+SELECT * FROM albums a WHERE a.name = 'This World Is Not My Home';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits: The A&M Years ''87- ''94';
+SELECT * FROM albums a WHERE a.name = 'Awake';
+SELECT * FROM albums a WHERE a.name = 'My Love Is Like...Wo';
+SELECT * FROM albums a WHERE a.name = 'Free As A Bird';
+SELECT * FROM albums a WHERE a.name = 'Mis Dos Amores';
+SELECT * FROM albums a WHERE a.name = 'Nova Bis-José Augusto';
+SELECT * FROM albums a WHERE a.name = '¡GRRRR!';
+SELECT * FROM albums a WHERE a.name = 'The Teleparis EP';
+SELECT * FROM albums a WHERE a.name = 'Dreams - The Ultimate Corrs Collection';
+SELECT * FROM albums a WHERE a.name = 'Rhino Hi-Five: Force M.D.''s';
+SELECT * FROM albums a WHERE a.name = 'Raffaella';
+SELECT * FROM albums a WHERE a.name = 'Aguantando el tiron';
+SELECT * FROM albums a WHERE a.name = 'Keine Zeit';
+SELECT * FROM albums a WHERE a.name = 'Rock Normale';
+SELECT * FROM albums a WHERE a.name = 'Stay With The Hollies/In The Hollies Style';
+SELECT * FROM albums a WHERE a.name = 'Rock Now_ Roll Later';
+SELECT * FROM albums a WHERE a.name = 'LaFee (Bravo Edition)';
+SELECT * FROM albums a WHERE a.name = 'Te Sigo Amando';
+SELECT * FROM albums a WHERE a.name = 'Welcome To The Cruel World';
+SELECT * FROM albums a WHERE a.name = 'Playing With My Heart';
+SELECT * FROM albums a WHERE a.name = 'Everyday I Wear A Greasy Black Feather On My Hat';
+SELECT * FROM albums a WHERE a.name = 'Bon Voyage';
+SELECT * FROM albums a WHERE a.name = 'Shine';
+SELECT * FROM albums a WHERE a.name = 'Return Of Dragon';
+SELECT * FROM albums a WHERE a.name = 'Small Group Swing';
+SELECT * FROM albums a WHERE a.name = 'Louder Than Words';
+SELECT * FROM albums a WHERE a.name = '12 Nouvelles De Brassens (Simple)';
+SELECT * FROM albums a WHERE a.name = 'Moving Pictures';
+SELECT * FROM albums a WHERE a.name = 'Perfectly Good Guitar';
+SELECT * FROM albums a WHERE a.name = 'Voice: The Best Of Beverley Knight';
+SELECT * FROM albums a WHERE a.name = 'Count Your Blessings';
+SELECT * FROM albums a WHERE a.name = 'The Lost Interview Tapes Featuring Jim Morrison - Volume Two: The Circus Magazine Interview';
+SELECT * FROM albums a WHERE a.name = 'Nine Lives [Digital Version]';
+SELECT * FROM albums a WHERE a.name = 'Return To The Acid Planet';
+SELECT * FROM albums a WHERE a.name = 'Sweet Potato Pie';
+SELECT * FROM albums a WHERE a.name = 'Overture';
+SELECT * FROM albums a WHERE a.name = 'Across The Airwaves';
+SELECT * FROM albums a WHERE a.name = 'Live From The Middle East';
+SELECT * FROM albums a WHERE a.name = 'Zap Mama';
+SELECT * FROM albums a WHERE a.name = 'Moray Eels Eat The Holy Modal Rounders';
+SELECT * FROM albums a WHERE a.name = 'Witchcraft';
+SELECT * FROM albums a WHERE a.name = 'Aurora Borealis';
+SELECT * FROM albums a WHERE a.name = 'Tierra De Nadie';
+SELECT * FROM albums a WHERE a.name = 'Statement';
+SELECT * FROM albums a WHERE a.name = 'Hollywood Vampires';
+SELECT * FROM albums a WHERE a.name = 'Unknown Language';
+SELECT * FROM albums a WHERE a.name = 'Alles Gute vor uns';
+SELECT * FROM albums a WHERE a.name = 'Edición Aniversario';
+SELECT * FROM albums a WHERE a.name = 'Deadly Wiz Da Disco';
+SELECT * FROM albums a WHERE a.name = 'Punk Rock High Roller';
+SELECT * FROM albums a WHERE a.name = 'Everyone Down Here';
+SELECT * FROM albums a WHERE a.name = 'His Last Walk';
+SELECT * FROM albums a WHERE a.name = 'Fonseca';
+SELECT * FROM albums a WHERE a.name = 'Best Of Whitesnake';
+SELECT * FROM albums a WHERE a.name = 'Dove Sei Tu';
+SELECT * FROM albums a WHERE a.name = 'Raoul';
+SELECT * FROM albums a WHERE a.name = 'The Piano: Music From The Motion Picture';
+SELECT * FROM albums a WHERE a.name = 'Roofers';
+SELECT * FROM albums a WHERE a.name = 'Classic Masters';
+SELECT * FROM albums a WHERE a.name = 'Fight The Tide';
+SELECT * FROM albums a WHERE a.name = 'There Is Joy In The Lord';
+SELECT * FROM albums a WHERE a.name = 'No Sir_ Nihilism Is Not Practical';
+SELECT * FROM albums a WHERE a.name = 'We Three Kings';
+SELECT * FROM albums a WHERE a.name = 'Big House';
+SELECT * FROM albums a WHERE a.name = 'Are You With Me?';
+SELECT * FROM albums a WHERE a.name = '20th Century Masters: The Millennium Collection: Best of Bel Biv DeVoe';
+SELECT * FROM albums a WHERE a.name = 'The Gregg Allman Tour';
+SELECT * FROM albums a WHERE a.name = 'Musical Massage';
+SELECT * FROM albums a WHERE a.name = 'Mayerling';
+SELECT * FROM albums a WHERE a.name = 'House on Hill';
+SELECT * FROM albums a WHERE a.name = 'Eye Of The Beholder';
+SELECT * FROM albums a WHERE a.name = 'Straight To Inglan''s Head - An Introduction To';
+SELECT * FROM albums a WHERE a.name = 'Chocolate Moment';
+SELECT * FROM albums a WHERE a.name = 'Two Brothers';
+SELECT * FROM albums a WHERE a.name = 'The North Pole By Submarine';
+SELECT * FROM albums a WHERE a.name = 'The Rise & Fall Of The Third Stream';
+SELECT * FROM albums a WHERE a.name = 'U';
+SELECT * FROM albums a WHERE a.name = 'Da Qui';
+SELECT * FROM albums a WHERE a.name = 'Testa_ Dì Cuore';
+SELECT * FROM albums a WHERE a.name = 'All Night Long';
+SELECT * FROM albums a WHERE a.name = 'Lucky Day [Live]';
+SELECT * FROM albums a WHERE a.name = 'Lost And Found';
+SELECT * FROM albums a WHERE a.name = 'No Frills';
+SELECT * FROM albums a WHERE a.name = 'Satin Chickens';
+SELECT * FROM albums a WHERE a.name = 'Alpha Dog';
+SELECT * FROM albums a WHERE a.name = 'The Best Of N.W.A: The Strength Of Street Knowledge';
+SELECT * FROM albums a WHERE a.name = 'Bis';
+SELECT * FROM albums a WHERE a.name = 'Para Sempre';
+SELECT * FROM albums a WHERE a.name = 'First Class Ticket To Telos';
+SELECT * FROM albums a WHERE a.name = 'Where Shall You Take Me?';
+SELECT * FROM albums a WHERE a.name = 'On My Way To Absence';
+SELECT * FROM albums a WHERE a.name = 'A Sea As A Shore';
+SELECT * FROM albums a WHERE a.name = 'Life And Love In Sparrow''s Meadow';
+SELECT * FROM albums a WHERE a.name = 'Handel : Operatic Arias';
+SELECT * FROM albums a WHERE a.name = 'Don''t Try This At Home';
+SELECT * FROM albums a WHERE a.name = 'A Monastic Trio';
+SELECT * FROM albums a WHERE a.name = 'Rio';
+SELECT * FROM albums a WHERE a.name = 'Light Years';
+SELECT * FROM albums a WHERE a.name = 'Meus Caros Amigos';
+SELECT * FROM albums a WHERE a.name = 'I Got That Work';
+SELECT * FROM albums a WHERE a.name = 'Steal Away';
+SELECT * FROM albums a WHERE a.name = 'Live At Bradley''s';
+SELECT * FROM albums a WHERE a.name = 'Save Our Children';
+SELECT * FROM albums a WHERE a.name = 'Willow Weep For Me';
+SELECT * FROM albums a WHERE a.name = 'Rhythm Of Life';
+SELECT * FROM albums a WHERE a.name = 'Little Bit Of Somethin';
+SELECT * FROM albums a WHERE a.name = 'Star';
+SELECT * FROM albums a WHERE a.name = 'Dave Grusin Presents GRP All-Star Big Band Live!';
+SELECT * FROM albums a WHERE a.name = 'Attitude Adjustment';
+SELECT * FROM albums a WHERE a.name = 'Brownie';
+SELECT * FROM albums a WHERE a.name = 'Other Places';
+SELECT * FROM albums a WHERE a.name = 'Glimmer';
+SELECT * FROM albums a WHERE a.name = 'Happy?';
+SELECT * FROM albums a WHERE a.name = 'Joao Voz E Violato';
+SELECT * FROM albums a WHERE a.name = 'Freefall';
+SELECT * FROM albums a WHERE a.name = 'Third Wish';
+SELECT * FROM albums a WHERE a.name = 'Skysurfer';
+SELECT * FROM albums a WHERE a.name = 'Panic Prevention';
+SELECT * FROM albums a WHERE a.name = '36 Grad';
+SELECT * FROM albums a WHERE a.name = 'MiniPak';
+SELECT * FROM albums a WHERE a.name = 'Humanoid Erotica';
+SELECT * FROM albums a WHERE a.name = 'Pocket Symphony';
+SELECT * FROM albums a WHERE a.name = 'Prisoner';
+SELECT * FROM albums a WHERE a.name = 'Live Studio Session';
+SELECT * FROM albums a WHERE a.name = 'Washumkhukhu';
+SELECT * FROM albums a WHERE a.name = 'No Tellin'' Lies';
+SELECT * FROM albums a WHERE a.name = 'Kollaps';
+SELECT * FROM albums a WHERE a.name = 'Another Illusion';
+SELECT * FROM albums a WHERE a.name = 'The Third Hand';
+SELECT * FROM albums a WHERE a.name = 'He He';
+SELECT * FROM albums a WHERE a.name = 'Organ';
+SELECT * FROM albums a WHERE a.name = 'Hij Leeft';
+SELECT * FROM albums a WHERE a.name = 'Berchem Trap - Digipack';
+SELECT * FROM albums a WHERE a.name = 'Casablanca + Beats Of Love';
+SELECT * FROM albums a WHERE a.name = 'The Many Faces Of The Detergents';
+SELECT * FROM albums a WHERE a.name = 'Electric Angel';
+SELECT * FROM albums a WHERE a.name = 'Rhino Hi-Five: Jay Ferguson';
+SELECT * FROM albums a WHERE a.name = 'Rhino Hi-Five: Debbie Gibson';
+SELECT * FROM albums a WHERE a.name = 'Rhino Hi-Five: Michael Franks';
+SELECT * FROM albums a WHERE a.name = 'Definitive Pop: Bobby Darin';
+SELECT * FROM albums a WHERE a.name = 'Your Ghost Is A Gift';
+SELECT * FROM albums a WHERE a.name = 'She''s A Queen:  A Collection Of Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Rackaz';
+SELECT * FROM albums a WHERE a.name = 'The Looks';
+SELECT * FROM albums a WHERE a.name = 'Nhu Golden Era';
+SELECT * FROM albums a WHERE a.name = 'Do It';
+SELECT * FROM albums a WHERE a.name = 'Living On Video';
+SELECT * FROM albums a WHERE a.name = 'Satellite';
+SELECT * FROM albums a WHERE a.name = 'Break My Stride';
+SELECT * FROM albums a WHERE a.name = 'Summer Elements';
+SELECT * FROM albums a WHERE a.name = 'Fresh Moods';
+SELECT * FROM albums a WHERE a.name = 'Hard Weird Movie Cats';
+SELECT * FROM albums a WHERE a.name = 'Tears Don''t Lie 2002';
+SELECT * FROM albums a WHERE a.name = 'Shockwave )))';
+SELECT * FROM albums a WHERE a.name = 'Into The Ocean';
+SELECT * FROM albums a WHERE a.name = 'Neonlights E.P.';
+SELECT * FROM albums a WHERE a.name = 'Popcorn';
+SELECT * FROM albums a WHERE a.name = 'Volksworld';
+SELECT * FROM albums a WHERE a.name = 'Tristan & Isolde';
+SELECT * FROM albums a WHERE a.name = 'Inertia';
+SELECT * FROM albums a WHERE a.name = 'Sax At Midnight';
+SELECT * FROM albums a WHERE a.name = 'Queens Of Africa';
+SELECT * FROM albums a WHERE a.name = 'The Warner Brothers Collection';
+SELECT * FROM albums a WHERE a.name = 'Reprise Please Baby: The Warner Bros. Years  [Digital Version]';
+SELECT * FROM albums a WHERE a.name = 'I''ve Got You';
+SELECT * FROM albums a WHERE a.name = 'Born To Do It';
+SELECT * FROM albums a WHERE a.name = 'Vertical Tones & Horizontal Noise Part 5';
+SELECT * FROM albums a WHERE a.name = 'Willie Bobo''s Finest Hour';
+SELECT * FROM albums a WHERE a.name = 'The Simpsons Sing The Blues';
+SELECT * FROM albums a WHERE a.name = 'Smoove Moves - The Sound Of Lounge Records';
+SELECT * FROM albums a WHERE a.name = 'Gimme A Bassline!';
+SELECT * FROM albums a WHERE a.name = 'Gourmet De Funk (Limited Edition)';
+SELECT * FROM albums a WHERE a.name = 'Viktor Krauss II';
+SELECT * FROM albums a WHERE a.name = 'A Journey From A To B';
+SELECT * FROM albums a WHERE a.name = 'The Box';
+SELECT * FROM albums a WHERE a.name = 'Hecho en Cuba';
+SELECT * FROM albums a WHERE a.name = 'Timid Tiger & Miss Murray';
+SELECT * FROM albums a WHERE a.name = '3rd Perspective';
+SELECT * FROM albums a WHERE a.name = 'Orfeu Da Conceição';
+SELECT * FROM albums a WHERE a.name = 'Archaeology';
+SELECT * FROM albums a WHERE a.name = 'At The London Palladium';
+SELECT * FROM albums a WHERE a.name = 'Jools Holland''s Big Band Rhythm & Blues';
+SELECT * FROM albums a WHERE a.name = 'The World Can Wait';
+SELECT * FROM albums a WHERE a.name = 'LaBelle';
+SELECT * FROM albums a WHERE a.name = 'The Besnard Lakes Are The Dark Horse';
+SELECT * FROM albums a WHERE a.name = 'Seleksi Terulung Jamal Abdillah Vol 2';
+SELECT * FROM albums a WHERE a.name = 'White Lies';
+SELECT * FROM albums a WHERE a.name = 'A Tale Of Two Cities';
+SELECT * FROM albums a WHERE a.name = 'Little Red Riding Hood';
+SELECT * FROM albums a WHERE a.name = 'Vamos! Vol.9: Merengue and Salsa';
+SELECT * FROM albums a WHERE a.name = 'Brotherhood of Brass';
+SELECT * FROM albums a WHERE a.name = 'La Lu La Roo';
+SELECT * FROM albums a WHERE a.name = 'Woman Is The Fuehrer Of The World';
+SELECT * FROM albums a WHERE a.name = 'Popmodel';
+SELECT * FROM albums a WHERE a.name = 'The Noise of Trouble:Live in Tokyo';
+SELECT * FROM albums a WHERE a.name = 'Highlife';
+SELECT * FROM albums a WHERE a.name = 'Tell Me';
+SELECT * FROM albums a WHERE a.name = 'Los Valientes del Mundo Nuevo';
+SELECT * FROM albums a WHERE a.name = 'Who Wrote The Book Of Love? [Digital Version]';
+SELECT * FROM albums a WHERE a.name = 'We''d Like To Teach The World To Sing';
+SELECT * FROM albums a WHERE a.name = 'In The Mood For Something Rude';
+SELECT * FROM albums a WHERE a.name = 'Zig Zag Walk';
+SELECT * FROM albums a WHERE a.name = 'Waiting On Egypt / The Bible Belt';
+SELECT * FROM albums a WHERE a.name = 'Banaroo''s World';
+SELECT * FROM albums a WHERE a.name = 'Galerie Tolerance';
+SELECT * FROM albums a WHERE a.name = 'Balkan Beat Box';
+SELECT * FROM albums a WHERE a.name = 'Seelentaucher';
+SELECT * FROM albums a WHERE a.name = 'Hank Wilson''s Back!';
+SELECT * FROM albums a WHERE a.name = 'That''s Life';
+SELECT * FROM albums a WHERE a.name = 'Soulful Spirit/Mrs. Broflovski';
+SELECT * FROM albums a WHERE a.name = 'Lejos';
+SELECT * FROM albums a WHERE a.name = 'The Completist''s Library';
+SELECT * FROM albums a WHERE a.name = 'What Is the Point?';
+SELECT * FROM albums a WHERE a.name = 'Robots Après Tout';
+SELECT * FROM albums a WHERE a.name = 'Crossover';
+SELECT * FROM albums a WHERE a.name = 'Ghetto Dictionary: The Mystery';
+SELECT * FROM albums a WHERE a.name = 'Fernsehwunschkonzert mit';
+SELECT * FROM albums a WHERE a.name = 'Hubert Sumlin';
+SELECT * FROM albums a WHERE a.name = 'DoubtFool';
+SELECT * FROM albums a WHERE a.name = 'Best Of No Respect Records';
+SELECT * FROM albums a WHERE a.name = 'On The West Side';
+SELECT * FROM albums a WHERE a.name = 'Scratchin'' On My Screen';
+SELECT * FROM albums a WHERE a.name = 'Low To The Ground';
+SELECT * FROM albums a WHERE a.name = 'My Left Foot';
+SELECT * FROM albums a WHERE a.name = 'Miller''s Crossing';
+SELECT * FROM albums a WHERE a.name = 'Aliens - The Deluxe Edition';
+SELECT * FROM albums a WHERE a.name = 'Evolution';
+SELECT * FROM albums a WHERE a.name = 'The Magnificent Seven';
+SELECT * FROM albums a WHERE a.name = 'I_ Robot';
+SELECT * FROM albums a WHERE a.name = 'Million Dollar Baby';
+SELECT * FROM albums a WHERE a.name = 'Mission: Impossible III';
+SELECT * FROM albums a WHERE a.name = 'Stargate The Deluxe Edition';
+SELECT * FROM albums a WHERE a.name = 'The Fast and the Furious: Tokyo Drift';
+SELECT * FROM albums a WHERE a.name = 'Hold On / Hello';
+SELECT * FROM albums a WHERE a.name = 'Add Your Light To Mine_ Baby';
+SELECT * FROM albums a WHERE a.name = 'Love Is Dead';
+SELECT * FROM albums a WHERE a.name = 'S Nachts Kouder Dan Buiten';
+SELECT * FROM albums a WHERE a.name = 'A To B Life';
+SELECT * FROM albums a WHERE a.name = 'Get Real';
+SELECT * FROM albums a WHERE a.name = 'A Small Noise';
+SELECT * FROM albums a WHERE a.name = 'Petrafied! (Very Best Of Petra';
+SELECT * FROM albums a WHERE a.name = 'De Mens';
+SELECT * FROM albums a WHERE a.name = 'Miracle';
+SELECT * FROM albums a WHERE a.name = 'The Legend Of Chin';
+SELECT * FROM albums a WHERE a.name = 'Son I Loved You At Your Darkest';
+SELECT * FROM albums a WHERE a.name = 'Christmas Time Is Here';
+SELECT * FROM albums a WHERE a.name = 'HIGH PRAISE';
+SELECT * FROM albums a WHERE a.name = 'Caribbean Party - Official 2007 Cricket World Cup';
+SELECT * FROM albums a WHERE a.name = 'Man Next Door';
+SELECT * FROM albums a WHERE a.name = 'Hallo Mik';
+SELECT * FROM albums a WHERE a.name = 'Gypsy Living';
+SELECT * FROM albums a WHERE a.name = 'Schützt die Verliebten';
+SELECT * FROM albums a WHERE a.name = '1970: The Complete Fun House Sessions';
+SELECT * FROM albums a WHERE a.name = 'Hold Your Breath';
+SELECT * FROM albums a WHERE a.name = 'It''s Spooky';
+SELECT * FROM albums a WHERE a.name = 'Revival Generation: Let Your Glory Fall';
+SELECT * FROM albums a WHERE a.name = 'Second Hand Clothing';
+SELECT * FROM albums a WHERE a.name = 'Mermaid Avenue';
+SELECT * FROM albums a WHERE a.name = 'Far Beyond Driven';
+SELECT * FROM albums a WHERE a.name = 'BalkanBeats Volume 2';
+SELECT * FROM albums a WHERE a.name = 'Living with other people';
+SELECT * FROM albums a WHERE a.name = 'Different Degrees Of Empty';
+SELECT * FROM albums a WHERE a.name = 'Bakerman';
+SELECT * FROM albums a WHERE a.name = 'Musik für taube Ohren';
+SELECT * FROM albums a WHERE a.name = 'Secret Words & Little Treasures';
+SELECT * FROM albums a WHERE a.name = 'A Life In Music';
+SELECT * FROM albums a WHERE a.name = 'Waking Giants';
+SELECT * FROM albums a WHERE a.name = 'Come An'' Get It';
+SELECT * FROM albums a WHERE a.name = 'Tu Te Trompes';
+SELECT * FROM albums a WHERE a.name = 'Ich rocke';
+SELECT * FROM albums a WHERE a.name = 'Beauty Queen';
+SELECT * FROM albums a WHERE a.name = 'Fireships';
+SELECT * FROM albums a WHERE a.name = 'The Man';
+SELECT * FROM albums a WHERE a.name = 'A Prayer For Every Hour';
+SELECT * FROM albums a WHERE a.name = 'Our Earthly Pleasures';
+SELECT * FROM albums a WHERE a.name = 'Mojo Priest';
+SELECT * FROM albums a WHERE a.name = 'But I Could Be Wrong';
+SELECT * FROM albums a WHERE a.name = 'Pino Daniele: The Best Of Platinum';
+SELECT * FROM albums a WHERE a.name = 'Psychedelic Man';
+SELECT * FROM albums a WHERE a.name = 'Blanco Fácil.';
+SELECT * FROM albums a WHERE a.name = 'O Compositor E O Cantor';
+SELECT * FROM albums a WHERE a.name = 'Si tu me miras Edicion 2006';
+SELECT * FROM albums a WHERE a.name = 'Con el alma entre las manos';
+SELECT * FROM albums a WHERE a.name = 'Here And There';
+SELECT * FROM albums a WHERE a.name = 'Sound Catcher';
+SELECT * FROM albums a WHERE a.name = 'Rocket Man';
+SELECT * FROM albums a WHERE a.name = 'Be Your Own Pet';
+SELECT * FROM albums a WHERE a.name = 'The 12 Inch Mixes';
+SELECT * FROM albums a WHERE a.name = 'Guerolito';
+SELECT * FROM albums a WHERE a.name = 'Premonición';
+SELECT * FROM albums a WHERE a.name = 'Separation Road';
+SELECT * FROM albums a WHERE a.name = 'High Life';
+SELECT * FROM albums a WHERE a.name = 'Autrement';
+SELECT * FROM albums a WHERE a.name = 'Kamikaze';
+SELECT * FROM albums a WHERE a.name = 'Mega-Mix ''98';
+SELECT * FROM albums a WHERE a.name = 'Talkin'' About';
+SELECT * FROM albums a WHERE a.name = 'The Remixes';
+SELECT * FROM albums a WHERE a.name = 'Eliminator';
+SELECT * FROM albums a WHERE a.name = 'Vieraalla maalla';
+SELECT * FROM albums a WHERE a.name = 'Candleland & Mysterio [Extended Editions]';
+SELECT * FROM albums a WHERE a.name = 'Rekognize: Loob @ Labas';
+SELECT * FROM albums a WHERE a.name = 'Stax/Volt - The Complete Singles 1959-1968 - Volume 9';
+SELECT * FROM albums a WHERE a.name = 'Watching Angels Mend';
+SELECT * FROM albums a WHERE a.name = 'Stax/Volt - The Complete Singles 1959-1968 - Volume 2';
+SELECT * FROM albums a WHERE a.name = 'io_ Ennio Morricone';
+SELECT * FROM albums a WHERE a.name = 'Nothing Changes Under The Sun';
+SELECT * FROM albums a WHERE a.name = 'The Best Of First Choice';
+SELECT * FROM albums a WHERE a.name = 'zero4';
+SELECT * FROM albums a WHERE a.name = 'Take This Ride You Will Never Know';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Perez Prado';
+SELECT * FROM albums a WHERE a.name = 'Philly Golden Classics';
+SELECT * FROM albums a WHERE a.name = 'Soldier Of Fortune';
+SELECT * FROM albums a WHERE a.name = 'Gardi';
+SELECT * FROM albums a WHERE a.name = 'Don''t Panic';
+SELECT * FROM albums a WHERE a.name = 'Where Did Our Love Go: 40th Anniversary Edition';
+SELECT * FROM albums a WHERE a.name = 'OTR Benefit for the National Multiple Sclerosis Society';
+SELECT * FROM albums a WHERE a.name = 'A Un Idolo';
+SELECT * FROM albums a WHERE a.name = 'Disgraceful';
+SELECT * FROM albums a WHERE a.name = 'Doubt';
+SELECT * FROM albums a WHERE a.name = 'Quality Street';
+SELECT * FROM albums a WHERE a.name = 'Mikrokosmos';
+SELECT * FROM albums a WHERE a.name = 'Kaunis ihminen';
+SELECT * FROM albums a WHERE a.name = 'Arm Of The Starfish';
+SELECT * FROM albums a WHERE a.name = 'The 5th Annual End Of The World Tour';
+SELECT * FROM albums a WHERE a.name = 'Blind Behaviour';
+SELECT * FROM albums a WHERE a.name = 'Strictly The Best Vol.3';
+SELECT * FROM albums a WHERE a.name = 'Year Zero';
+SELECT * FROM albums a WHERE a.name = 'The Unreleased Album';
+SELECT * FROM albums a WHERE a.name = 'Geronimo''s Cadillac';
+SELECT * FROM albums a WHERE a.name = 'Joyful Jukebox Music / Boogie';
+SELECT * FROM albums a WHERE a.name = 'In Japan!';
+SELECT * FROM albums a WHERE a.name = 'Mi';
+SELECT * FROM albums a WHERE a.name = 'Astronomy For Dogs';
+SELECT * FROM albums a WHERE a.name = 'Grandes éxitos';
+SELECT * FROM albums a WHERE a.name = 'Svart Blogg (Deluxe Edition)';
+SELECT * FROM albums a WHERE a.name = 'Amtlich! - Remaster';
+SELECT * FROM albums a WHERE a.name = 'Rewind Remix - Club Version';
+SELECT * FROM albums a WHERE a.name = 'Worldbeat';
+SELECT * FROM albums a WHERE a.name = 'Worldbeat Brazil';
+SELECT * FROM albums a WHERE a.name = 'Worldbeat Africa';
+SELECT * FROM albums a WHERE a.name = 'CD Sigle 2';
+SELECT * FROM albums a WHERE a.name = 'Mestijaia';
+SELECT * FROM albums a WHERE a.name = 'The Red Tape';
+SELECT * FROM albums a WHERE a.name = 'Clown';
+SELECT * FROM albums a WHERE a.name = 'Dirty Shame';
+SELECT * FROM albums a WHERE a.name = 'Never Had It So Good';
+SELECT * FROM albums a WHERE a.name = 'The Best Of The Solo Recordings 1990-1997';
+SELECT * FROM albums a WHERE a.name = 'Everything';
+SELECT * FROM albums a WHERE a.name = 'Jazz For The Road (Jazz Club)';
+SELECT * FROM albums a WHERE a.name = 'Game On';
+SELECT * FROM albums a WHERE a.name = 'Colour It In';
+SELECT * FROM albums a WHERE a.name = 'Palo Santo (Expanded Edition)';
+SELECT * FROM albums a WHERE a.name = 'Zet Um Op Baby';
+SELECT * FROM albums a WHERE a.name = 'The Black-Out';
+SELECT * FROM albums a WHERE a.name = 'Watch For Today';
+SELECT * FROM albums a WHERE a.name = 'Donut Comes Alive';
+SELECT * FROM albums a WHERE a.name = 'Ms. Fine Brown Frame';
+SELECT * FROM albums a WHERE a.name = 'Call Of The Wild';
+SELECT * FROM albums a WHERE a.name = 'Gary Nichols';
+SELECT * FROM albums a WHERE a.name = 'The Sweethearts Of The Blues 1';
+SELECT * FROM albums a WHERE a.name = 'Live I & II';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Dr. Know';
+SELECT * FROM albums a WHERE a.name = 'Workin''';
+SELECT * FROM albums a WHERE a.name = 'Haunted Hill';
+SELECT * FROM albums a WHERE a.name = 'The Hospitals';
+SELECT * FROM albums a WHERE a.name = 'Mal Cantaitalia';
+SELECT * FROM albums a WHERE a.name = 'Ports of the Heart';
+SELECT * FROM albums a WHERE a.name = 'Alice Magnified';
+SELECT * FROM albums a WHERE a.name = 'Panic Prevention';
+SELECT * FROM albums a WHERE a.name = 'Entre Paris et versailles: Musiqe de Chambre Française du XVIII Siècle';
+SELECT * FROM albums a WHERE a.name = 'Reduction';
+SELECT * FROM albums a WHERE a.name = 'Can''t Get Enough';
+SELECT * FROM albums a WHERE a.name = 'Pieni ihminen';
+SELECT * FROM albums a WHERE a.name = 'See My Trains Passin'' Vol 2';
+SELECT * FROM albums a WHERE a.name = 'Goodbye Bafana';
+SELECT * FROM albums a WHERE a.name = 'A Mind Of Its Own';
+SELECT * FROM albums a WHERE a.name = 'Techno Playtime';
+SELECT * FROM albums a WHERE a.name = 'One More Song';
+SELECT * FROM albums a WHERE a.name = 'The Late_ Late Show';
+SELECT * FROM albums a WHERE a.name = 'Requiem';
+SELECT * FROM albums a WHERE a.name = 'Pterodactyl';
+SELECT * FROM albums a WHERE a.name = 'The Prize Winner of Defiance_ Ohio: Original Score from the Motion Picture';
+SELECT * FROM albums a WHERE a.name = 'Crashing Into Consciousness';
+SELECT * FROM albums a WHERE a.name = 'Wolfe';
+SELECT * FROM albums a WHERE a.name = 'Lure';
+SELECT * FROM albums a WHERE a.name = 'Reflections';
+SELECT * FROM albums a WHERE a.name = 'The Angkor Sessions';
+SELECT * FROM albums a WHERE a.name = 'Just A Little Song';
+SELECT * FROM albums a WHERE a.name = 'Crazy? Yes! Dumb? No!';
+SELECT * FROM albums a WHERE a.name = 'Heavenly Toast On the Paradise Road';
+SELECT * FROM albums a WHERE a.name = 'Jen Chapin Live at the Bitter End';
+SELECT * FROM albums a WHERE a.name = 'This Is The Moment';
+SELECT * FROM albums a WHERE a.name = 'Lowflow';
+SELECT * FROM albums a WHERE a.name = 'Merit';
+SELECT * FROM albums a WHERE a.name = 'The Four Walls';
+SELECT * FROM albums a WHERE a.name = 'Higher Ways';
+SELECT * FROM albums a WHERE a.name = 'Quiet Storm: The Ballads';
+SELECT * FROM albums a WHERE a.name = 'Dawn of New Age';
+SELECT * FROM albums a WHERE a.name = 'Indalo';
+SELECT * FROM albums a WHERE a.name = 'Control';
+SELECT * FROM albums a WHERE a.name = 'I Won''t Be Crying';
+SELECT * FROM albums a WHERE a.name = 'The Secret Sickliness';
+SELECT * FROM albums a WHERE a.name = 'N Crugu Bradului';
+SELECT * FROM albums a WHERE a.name = 'Pleasure And pain';
+SELECT * FROM albums a WHERE a.name = 'The Essential Collection';
+SELECT * FROM albums a WHERE a.name = 'I''m Not Sorry';
+SELECT * FROM albums a WHERE a.name = 'Every Dog Has His Day';
+SELECT * FROM albums a WHERE a.name = 'Parasiempre';
+SELECT * FROM albums a WHERE a.name = 'Deep';
+SELECT * FROM albums a WHERE a.name = 'Precious Time';
+SELECT * FROM albums a WHERE a.name = 'Magnitude [The Sire Years]';
+SELECT * FROM albums a WHERE a.name = 'Arena';
+SELECT * FROM albums a WHERE a.name = 'For You Only';
+SELECT * FROM albums a WHERE a.name = 'Bendita Mujer';
+SELECT * FROM albums a WHERE a.name = '15 Exitos Corridos Famosos - Antonio Aguilar';
+SELECT * FROM albums a WHERE a.name = 'Racing Hearts';
+SELECT * FROM albums a WHERE a.name = '15 Exitos Vol. 2 - Chayito Valdez Con Mariachi';
+SELECT * FROM albums a WHERE a.name = 'Whatever';
+SELECT * FROM albums a WHERE a.name = 'Pa'' Puras Verguenzas';
+SELECT * FROM albums a WHERE a.name = 'Acoustic Landscape';
+SELECT * FROM albums a WHERE a.name = 'One Down';
+SELECT * FROM albums a WHERE a.name = 'Bhorus and the Cridge';
+SELECT * FROM albums a WHERE a.name = 'A Vida Que Eu Escolhi';
+SELECT * FROM albums a WHERE a.name = 'Sólo Clasicos';
+SELECT * FROM albums a WHERE a.name = 'Sólo Clasicos';
+SELECT * FROM albums a WHERE a.name = 'Omar Geles - 10 Años De Historia';
+SELECT * FROM albums a WHERE a.name = 'The Present Lover';
+SELECT * FROM albums a WHERE a.name = 'Mayday';
+SELECT * FROM albums a WHERE a.name = 'A Ver Que Pasa!';
+SELECT * FROM albums a WHERE a.name = 'The Soft White Ghetto';
+SELECT * FROM albums a WHERE a.name = 'Por Amor Al Arte';
+SELECT * FROM albums a WHERE a.name = 'Barbie Reloaded - das Ziel ist im Weg';
+SELECT * FROM albums a WHERE a.name = 'Firmament';
+SELECT * FROM albums a WHERE a.name = 'Flextone / Signal Up Ahead';
+SELECT * FROM albums a WHERE a.name = 'Firmament III';
+SELECT * FROM albums a WHERE a.name = 'The Sound Of B21';
+SELECT * FROM albums a WHERE a.name = 'Tera Roop';
+SELECT * FROM albums a WHERE a.name = 'Miles Davis';
+SELECT * FROM albums a WHERE a.name = 'Calendario De Amor';
+SELECT * FROM albums a WHERE a.name = 'El Piporro - Mi Historia';
+SELECT * FROM albums a WHERE a.name = 'Hated On Mostly';
+SELECT * FROM albums a WHERE a.name = 'Tales Don''t Tell Themselves';
+SELECT * FROM albums a WHERE a.name = 'Shrek The Third';
+SELECT * FROM albums a WHERE a.name = 'For Those Who Know';
+SELECT * FROM albums a WHERE a.name = 'Good Thoughts';
+SELECT * FROM albums a WHERE a.name = 'Up All Night';
+SELECT * FROM albums a WHERE a.name = 'Just Kidding';
+SELECT * FROM albums a WHERE a.name = 'The Key';
+SELECT * FROM albums a WHERE a.name = 'Greatest Science Fiction Hits Vol. IV';
+SELECT * FROM albums a WHERE a.name = 'Raw & Alive';
+SELECT * FROM albums a WHERE a.name = 'Wire Daisies';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of Bobby Goldsboro';
+SELECT * FROM albums a WHERE a.name = 'Love Or Physical';
+SELECT * FROM albums a WHERE a.name = 'Dead Without You';
+SELECT * FROM albums a WHERE a.name = 'Resistance';
+SELECT * FROM albums a WHERE a.name = 'Captain Lockheed And The Starfighters';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Are their spirits here?';
+SELECT * FROM albums a WHERE a.name = 'Blind Boys of Alabama';
+SELECT * FROM albums a WHERE a.name = 'Ronnie Milsap Sings His Best Hits For Capitol Records';
+SELECT * FROM albums a WHERE a.name = 'Anything Near Water';
+SELECT * FROM albums a WHERE a.name = 'Orphan''s Tragedy';
+SELECT * FROM albums a WHERE a.name = 'Freeway Madness';
+SELECT * FROM albums a WHERE a.name = 'War On Everybody';
+SELECT * FROM albums a WHERE a.name = 'It Could Ruin Your Day';
+SELECT * FROM albums a WHERE a.name = 'Quick_ Fast_ In A Hurry';
+SELECT * FROM albums a WHERE a.name = 'Some Stupid With A Flare Gun';
+SELECT * FROM albums a WHERE a.name = 'The Very Best of Jimmy Reed';
+SELECT * FROM albums a WHERE a.name = 'Four Walls';
+SELECT * FROM albums a WHERE a.name = 'Build To Rock';
+SELECT * FROM albums a WHERE a.name = 'Architectural Effects';
+SELECT * FROM albums a WHERE a.name = 'Gwen McCrae Sings TK';
+SELECT * FROM albums a WHERE a.name = 'August';
+SELECT * FROM albums a WHERE a.name = 'Decoder';
+SELECT * FROM albums a WHERE a.name = 'Agua da Vida';
+SELECT * FROM albums a WHERE a.name = 'Wrapped Up In A Five Pound Note';
+SELECT * FROM albums a WHERE a.name = 'Anthology:  ''83 - ''89';
+SELECT * FROM albums a WHERE a.name = 'Porelamordedios';
+SELECT * FROM albums a WHERE a.name = 'Recital';
+SELECT * FROM albums a WHERE a.name = 'Universitat';
+SELECT * FROM albums a WHERE a.name = 'A Penny For Your Thoughts';
+SELECT * FROM albums a WHERE a.name = 'Talking Drum';
+SELECT * FROM albums a WHERE a.name = 'Louisiana Hot Sauce';
+SELECT * FROM albums a WHERE a.name = 'Happy Again';
+SELECT * FROM albums a WHERE a.name = 'Tej Leo(?)_ Rx/Pharmacists';
+SELECT * FROM albums a WHERE a.name = 'Seguimos Cantando';
+SELECT * FROM albums a WHERE a.name = 'Sittin Here Wonderin';
+SELECT * FROM albums a WHERE a.name = 'F*ck You All';
+SELECT * FROM albums a WHERE a.name = 'African Gnaoua Blues';
+SELECT * FROM albums a WHERE a.name = 'Cecil''s Boogie';
+SELECT * FROM albums a WHERE a.name = 'La Gente Arriba';
+SELECT * FROM albums a WHERE a.name = 'Texedores de Suaños';
+SELECT * FROM albums a WHERE a.name = 'Terra';
+SELECT * FROM albums a WHERE a.name = 'La Flama';
+SELECT * FROM albums a WHERE a.name = 'Pars Vite Et Reviens Tard';
+SELECT * FROM albums a WHERE a.name = 'The 21 Century Tour';
+SELECT * FROM albums a WHERE a.name = 'Copa Pavón Y Llave De Oro Del Cante Vol. II';
+SELECT * FROM albums a WHERE a.name = 'Amor Sem Limite';
+SELECT * FROM albums a WHERE a.name = 'Cabulero';
+SELECT * FROM albums a WHERE a.name = 'Call of the Mystic';
+SELECT * FROM albums a WHERE a.name = 'American Hunger';
+SELECT * FROM albums a WHERE a.name = 'Complete Recordings_ CD E';
+SELECT * FROM albums a WHERE a.name = 'Sonny Terry & Brownie McGhee_ Vol. E (1938-1941)';
+SELECT * FROM albums a WHERE a.name = 'New York 1938-1939_ Vol. C';
+SELECT * FROM albums a WHERE a.name = 'Buio Omega';
+SELECT * FROM albums a WHERE a.name = 'Songs of the Mystics';
+SELECT * FROM albums a WHERE a.name = 'Live Around The World 1991 - 1996';
+SELECT * FROM albums a WHERE a.name = 'Tour de Flock - Live At The Point';
+SELECT * FROM albums a WHERE a.name = 'New Epidemic';
+SELECT * FROM albums a WHERE a.name = 'Iris';
+SELECT * FROM albums a WHERE a.name = '15 Exitos 15 - Joan Sebastian';
+SELECT * FROM albums a WHERE a.name = 'Lucha Villa';
+SELECT * FROM albums a WHERE a.name = 'Jazz For Weddings (Jazz Club)';
+SELECT * FROM albums a WHERE a.name = 'The Love Lost EP';
+SELECT * FROM albums a WHERE a.name = 'Leather Jackets';
+SELECT * FROM albums a WHERE a.name = 'Chansons pour qui?';
+SELECT * FROM albums a WHERE a.name = 'Punk Debutante';
+SELECT * FROM albums a WHERE a.name = 'Hit Maker!';
+SELECT * FROM albums a WHERE a.name = 'Respect';
+SELECT * FROM albums a WHERE a.name = 'Sliding Reins';
+SELECT * FROM albums a WHERE a.name = 'The Chill Out Album';
+SELECT * FROM albums a WHERE a.name = 'The Hits Of Edwin Starr';
+SELECT * FROM albums a WHERE a.name = 'Endless Dream';
+SELECT * FROM albums a WHERE a.name = 'Good News - An Introduction To 10CC';
+SELECT * FROM albums a WHERE a.name = 'Priceless';
+SELECT * FROM albums a WHERE a.name = 'Happy Music: The Best Of The Blackbyrds';
+SELECT * FROM albums a WHERE a.name = 'Old Lions (in the world of snarling sheep)';
+SELECT * FROM albums a WHERE a.name = 'With No Human Intervention';
+SELECT * FROM albums a WHERE a.name = 'Do You Know? (The Ping Pong Song)';
+SELECT * FROM albums a WHERE a.name = 'Mischa Maisky - Cellissimo';
+SELECT * FROM albums a WHERE a.name = 'Who Do Ya Love';
+SELECT * FROM albums a WHERE a.name = 'Hemispheres';
+SELECT * FROM albums a WHERE a.name = 'Homongously Yours';
+SELECT * FROM albums a WHERE a.name = 'SolAce';
+SELECT * FROM albums a WHERE a.name = 'W.A. Mozart Flute Quartets';
+SELECT * FROM albums a WHERE a.name = 'A Stiff Little Breeze';
+SELECT * FROM albums a WHERE a.name = 'Plou Plom (Musiqueta Que Enamora)';
+SELECT * FROM albums a WHERE a.name = 'Electric Guitar';
+SELECT * FROM albums a WHERE a.name = 'Shreveport''s Throwdest';
+SELECT * FROM albums a WHERE a.name = 'Tulenkantaja';
+SELECT * FROM albums a WHERE a.name = 'The Necropimp';
+SELECT * FROM albums a WHERE a.name = 'Lo Mejor De Vilma Palma';
+SELECT * FROM albums a WHERE a.name = 'A Few Things To Hear Before We All Blow Up';
+SELECT * FROM albums a WHERE a.name = 'Ground Zero';
+SELECT * FROM albums a WHERE a.name = 'Everything You Heard Is True';
+SELECT * FROM albums a WHERE a.name = 'Live Underslunky';
+SELECT * FROM albums a WHERE a.name = 'Warm';
+SELECT * FROM albums a WHERE a.name = 'Red For Fire - An Icelandic Odyssey Part I';
+SELECT * FROM albums a WHERE a.name = '13';
+SELECT * FROM albums a WHERE a.name = 'The Fuse Is Lit';
+SELECT * FROM albums a WHERE a.name = 'Caramelo';
+SELECT * FROM albums a WHERE a.name = 'Ragged Edges';
+SELECT * FROM albums a WHERE a.name = 'Where Were You...';
+SELECT * FROM albums a WHERE a.name = 'Tommy Johnson 1928 - 1929';
+SELECT * FROM albums a WHERE a.name = 'Blind Lemon Jefferson Vol. 4 1929';
+SELECT * FROM albums a WHERE a.name = 'Blind Boy Fuller Vol. 6 1940';
+SELECT * FROM albums a WHERE a.name = 'Messages';
+SELECT * FROM albums a WHERE a.name = 'Kokomo Arnold Vol. 3 (1936 - 1937)';
+SELECT * FROM albums a WHERE a.name = 'Kokomo Arnold Vol. 4 (1933 - 1934)';
+SELECT * FROM albums a WHERE a.name = 'Sapni Di Kanj Vargi';
+SELECT * FROM albums a WHERE a.name = 'Papa Charlie Jackson Vol. 2 (1926 - 1928)';
+SELECT * FROM albums a WHERE a.name = 'Splashing';
+SELECT * FROM albums a WHERE a.name = 'Thank You For Supporting Country Rock''N''Roll';
+SELECT * FROM albums a WHERE a.name = 'Field Conditions';
+SELECT * FROM albums a WHERE a.name = 'Anthology';
+SELECT * FROM albums a WHERE a.name = 'Thrust';
+SELECT * FROM albums a WHERE a.name = 'Weep No More';
+SELECT * FROM albums a WHERE a.name = 'Elemental Evil';
+SELECT * FROM albums a WHERE a.name = 'Maximum Coldplay';
+SELECT * FROM albums a WHERE a.name = 'Tender City';
+SELECT * FROM albums a WHERE a.name = 'Self-Titled';
+SELECT * FROM albums a WHERE a.name = 'The Reunion II';
+SELECT * FROM albums a WHERE a.name = 'Terra Incognito';
+SELECT * FROM albums a WHERE a.name = 'Pride of Lions';
+SELECT * FROM albums a WHERE a.name = 'Dust Off And Dance';
+SELECT * FROM albums a WHERE a.name = 'Fade';
+SELECT * FROM albums a WHERE a.name = 'Blanc Faces';
+SELECT * FROM albums a WHERE a.name = 'Return Of The Devious Styles';
+SELECT * FROM albums a WHERE a.name = 'Frances Nero The Hits';
+SELECT * FROM albums a WHERE a.name = 'Mettete Dei Fiori Nei Vostri Cannoni';
+SELECT * FROM albums a WHERE a.name = '30 Mejores';
+SELECT * FROM albums a WHERE a.name = 'Jersey Boys Original Broadway Cast Recording';
+SELECT * FROM albums a WHERE a.name = 'Mapmaker';
+SELECT * FROM albums a WHERE a.name = 'Nada Es Igual';
+SELECT * FROM albums a WHERE a.name = 'Massive R & B - Spring 2007';
+SELECT * FROM albums a WHERE a.name = 'Nederlands Grootste Nachtmerrie';
+SELECT * FROM albums a WHERE a.name = 'Enamorado (Fan Edition)';
+SELECT * FROM albums a WHERE a.name = 'Punkrockacademy-fightsong';
+SELECT * FROM albums a WHERE a.name = 'Suburban Light';
+SELECT * FROM albums a WHERE a.name = 'Argyle Heir';
+SELECT * FROM albums a WHERE a.name = 'Life Won''t Wait';
+SELECT * FROM albums a WHERE a.name = 'Out Of Bounds';
+SELECT * FROM albums a WHERE a.name = 'Modern Day City Symphony';
+SELECT * FROM albums a WHERE a.name = 'The Struggle Continues';
+SELECT * FROM albums a WHERE a.name = 'Skeleton Jar';
+SELECT * FROM albums a WHERE a.name = 'Springtime Can Kill You';
+SELECT * FROM albums a WHERE a.name = 'The Aggrolites';
+SELECT * FROM albums a WHERE a.name = 'Rogues Gallery, Pirate Ballads_ Sea Songs & Chanteys';
+SELECT * FROM albums a WHERE a.name = 'The Guitar Man';
+SELECT * FROM albums a WHERE a.name = 'Sun Shower';
+SELECT * FROM albums a WHERE a.name = 'Temptation [Musicload Only]';
+SELECT * FROM albums a WHERE a.name = 'Hi Lili Hi Lo';
+SELECT * FROM albums a WHERE a.name = 'The Spotnicks';
+SELECT * FROM albums a WHERE a.name = 'Rameau : Les Indes galantes';
+SELECT * FROM albums a WHERE a.name = 'Sanna Nielsen - Min önskejul 2001';
+SELECT * FROM albums a WHERE a.name = 'Schumann : Kinderszenen_ Waldszenen & Bunte Blätter';
+SELECT * FROM albums a WHERE a.name = 'Big Every Time';
+SELECT * FROM albums a WHERE a.name = 'Roussel : Symphonies Nos 1 - 4';
+SELECT * FROM albums a WHERE a.name = 'Schönberg : Pelleas und Melisande_ Variations_ Violin Concerto & Piano Concerto';
+SELECT * FROM albums a WHERE a.name = 'Best Of Luna';
+SELECT * FROM albums a WHERE a.name = 'Now Thats Disgusting Music';
+SELECT * FROM albums a WHERE a.name = 'Valentino';
+SELECT * FROM albums a WHERE a.name = 'Welcome To The Pleasuredome';
+SELECT * FROM albums a WHERE a.name = 'Titanic Days';
+SELECT * FROM albums a WHERE a.name = 'Compass Point';
+SELECT * FROM albums a WHERE a.name = 'Shades Of Rhythm Singles  - Volume 2';
+SELECT * FROM albums a WHERE a.name = 'The Stiff Years';
+SELECT * FROM albums a WHERE a.name = 'ZTT Singles Volume 2';
+SELECT * FROM albums a WHERE a.name = 'Lamb Favorites';
+SELECT * FROM albums a WHERE a.name = 'Family Tree';
+SELECT * FROM albums a WHERE a.name = 'Family Tree';
+SELECT * FROM albums a WHERE a.name = 'El Cartel: The Big Boss';
+SELECT * FROM albums a WHERE a.name = 'The Grass Is Always Greener';
+SELECT * FROM albums a WHERE a.name = 'Cocktail Disco';
+SELECT * FROM albums a WHERE a.name = 'Hymn';
+SELECT * FROM albums a WHERE a.name = 'Você E Eu';
+SELECT * FROM albums a WHERE a.name = 'One_ Two_ Three';
+SELECT * FROM albums a WHERE a.name = 'Innocence';
+SELECT * FROM albums a WHERE a.name = 'Attention!';
+SELECT * FROM albums a WHERE a.name = 'SHOGUN';
+SELECT * FROM albums a WHERE a.name = 'Hymn';
+SELECT * FROM albums a WHERE a.name = 'Wouldn''t It Be Good';
+SELECT * FROM albums a WHERE a.name = 'The Prodigal Son';
+SELECT * FROM albums a WHERE a.name = 'My Definition... RMX';
+SELECT * FROM albums a WHERE a.name = 'Rebel Extravaganza';
+SELECT * FROM albums a WHERE a.name = 'Renegade';
+SELECT * FROM albums a WHERE a.name = 'Live in L.A. Death & Raw';
+SELECT * FROM albums a WHERE a.name = 'Finally Made Me Happy';
+SELECT * FROM albums a WHERE a.name = 'So ist das nun mal';
+SELECT * FROM albums a WHERE a.name = 'Shadows & Dust';
+SELECT * FROM albums a WHERE a.name = 'Death Cult Armageddon';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Spinners';
+SELECT * FROM albums a WHERE a.name = 'Randy Meisner';
+SELECT * FROM albums a WHERE a.name = 'Grand Slam';
+SELECT * FROM albums a WHERE a.name = 'Rhino Hi-Five: The James Gang';
+SELECT * FROM albums a WHERE a.name = 'Mature Fantasy';
+SELECT * FROM albums a WHERE a.name = 'Walking In Memphis/Can Delight';
+SELECT * FROM albums a WHERE a.name = 'Jack Is Back / Don''t Stop';
+SELECT * FROM albums a WHERE a.name = 'Hellfire Club';
+SELECT * FROM albums a WHERE a.name = 'Dance Lesson No. 2';
+SELECT * FROM albums a WHERE a.name = 'Tejano All-Stars: Masterpieces by La Fiebre';
+SELECT * FROM albums a WHERE a.name = 'Sag Mir Wo Die Party Ist!';
+SELECT * FROM albums a WHERE a.name = 'Super Lungs';
+SELECT * FROM albums a WHERE a.name = 'Robot Man';
+SELECT * FROM albums a WHERE a.name = 'Critical Beatdown';
+SELECT * FROM albums a WHERE a.name = 'Slipknot';
+SELECT * FROM albums a WHERE a.name = 'Don''t Stay Out Late/ Lord Creator Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Sessions@AOL';
+SELECT * FROM albums a WHERE a.name = 'Away We Go!';
+SELECT * FROM albums a WHERE a.name = 'Live In New York';
+SELECT * FROM albums a WHERE a.name = 'Pensa';
+SELECT * FROM albums a WHERE a.name = 'Generazione X';
+SELECT * FROM albums a WHERE a.name = 'Noll';
+SELECT * FROM albums a WHERE a.name = 'New And Improved';
+SELECT * FROM albums a WHERE a.name = 'The Paul Butterfield Blues Band Live';
+SELECT * FROM albums a WHERE a.name = 'Überfall';
+SELECT * FROM albums a WHERE a.name = 'Poesía Básica';
+SELECT * FROM albums a WHERE a.name = 'Volume 8';
+SELECT * FROM albums a WHERE a.name = 'Musique inspirée du film Scorpion';
+SELECT * FROM albums a WHERE a.name = 'Lost';
+SELECT * FROM albums a WHERE a.name = 'RE-LICKED: The Best of & Remixes';
+SELECT * FROM albums a WHERE a.name = 'Beyond The Valley Of The Murderdolls';
+SELECT * FROM albums a WHERE a.name = 'Love Life';
+SELECT * FROM albums a WHERE a.name = 'Based On A True Story';
+SELECT * FROM albums a WHERE a.name = 'Inspirational Vibes';
+SELECT * FROM albums a WHERE a.name = 'Octagon_ Octagon_ Octagon';
+SELECT * FROM albums a WHERE a.name = 'Just Roll Tape - April 26th 1968';
+SELECT * FROM albums a WHERE a.name = 'The BBC Sessions';
+SELECT * FROM albums a WHERE a.name = 'Best Of';
+SELECT * FROM albums a WHERE a.name = 'The Tranzmitors';
+SELECT * FROM albums a WHERE a.name = 'Sen';
+SELECT * FROM albums a WHERE a.name = 'Storybook';
+SELECT * FROM albums a WHERE a.name = 'The Essential Capitol Collection';
+SELECT * FROM albums a WHERE a.name = 'Family Collection 1987-2007';
+SELECT * FROM albums a WHERE a.name = 'Variations Sur Le Meme T''Aime';
+SELECT * FROM albums a WHERE a.name = 'Eat Or Get Ate';
+SELECT * FROM albums a WHERE a.name = 'Reunieconcert 2007';
+SELECT * FROM albums a WHERE a.name = 'Easy Money';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of The Dramatics';
+SELECT * FROM albums a WHERE a.name = 'Girados';
+SELECT * FROM albums a WHERE a.name = 'lo mejor de  Luar na Lubre';
+SELECT * FROM albums a WHERE a.name = 'NapsterLive Session';
+SELECT * FROM albums a WHERE a.name = 'Dreamhouse';
+SELECT * FROM albums a WHERE a.name = 'Lightworker';
+SELECT * FROM albums a WHERE a.name = 'Myths_ Legends And Other Amazing Adventures';
+SELECT * FROM albums a WHERE a.name = 'Anything Worth Saying';
+SELECT * FROM albums a WHERE a.name = 'Hotel Lives';
+SELECT * FROM albums a WHERE a.name = 'A Revelation For Despair';
+SELECT * FROM albums a WHERE a.name = 'Hands Across the Void';
+SELECT * FROM albums a WHERE a.name = 'Erol Alkan 12 Mixes';
+SELECT * FROM albums a WHERE a.name = 'Relax With Mekon';
+SELECT * FROM albums a WHERE a.name = 'Magician''s Hat';
+SELECT * FROM albums a WHERE a.name = 'Attic Thoughts';
+SELECT * FROM albums a WHERE a.name = 'Legend Of The Sun Virgin (World)';
+SELECT * FROM albums a WHERE a.name = '2 Become 1';
+SELECT * FROM albums a WHERE a.name = 'Mechanical Forces Of Love';
+SELECT * FROM albums a WHERE a.name = 'The Last Kind Words';
+SELECT * FROM albums a WHERE a.name = 'Ventill/Poki';
+SELECT * FROM albums a WHERE a.name = 'Athiest Lovesongs ToGod';
+SELECT * FROM albums a WHERE a.name = 'Alone in the Bright Lights of a Shattered Life';
+SELECT * FROM albums a WHERE a.name = 'Rockstar Mentality';
+SELECT * FROM albums a WHERE a.name = 'Live Free Or Die Hard';
+SELECT * FROM albums a WHERE a.name = 'Dandruff';
+SELECT * FROM albums a WHERE a.name = '5 Years Get Physical';
+SELECT * FROM albums a WHERE a.name = 'The Ultimate Collection';
+SELECT * FROM albums a WHERE a.name = 'Live At The BBC Vol 2';
+SELECT * FROM albums a WHERE a.name = 'KFC';
+SELECT * FROM albums a WHERE a.name = 'Volume';
+SELECT * FROM albums a WHERE a.name = 'Odysseus 7';
+SELECT * FROM albums a WHERE a.name = 'Genius + Love = Yo La Tengo';
+SELECT * FROM albums a WHERE a.name = 'Ghetto Youth';
+SELECT * FROM albums a WHERE a.name = 'Sojourner';
+SELECT * FROM albums a WHERE a.name = 'James Brown''s Funky People Part 2';
+SELECT * FROM albums a WHERE a.name = 'Manfred Mann - Down The Road Apiece (Their EMI Recordings 1963-1966)';
+SELECT * FROM albums a WHERE a.name = 'Presenting Isaac Hayes';
+SELECT * FROM albums a WHERE a.name = 'Songs Of The Brazos Valley';
+SELECT * FROM albums a WHERE a.name = 'Burn Out At The Hydrogen Bar';
+SELECT * FROM albums a WHERE a.name = 'Bunsen Burner';
+SELECT * FROM albums a WHERE a.name = 'Intuition';
+SELECT * FROM albums a WHERE a.name = 'Harry Potter And The Order Of The Phoenix Original Motion Picture Soundtrack';
+SELECT * FROM albums a WHERE a.name = 'Unglamorous';
+SELECT * FROM albums a WHERE a.name = 'Western Electric';
+SELECT * FROM albums a WHERE a.name = 'Hot Flashes / Crazy All The Time';
+SELECT * FROM albums a WHERE a.name = 'Nothing New For Trash Like You';
+SELECT * FROM albums a WHERE a.name = '1408';
+SELECT * FROM albums a WHERE a.name = 'Mo'' Mega';
+SELECT * FROM albums a WHERE a.name = 'ME BEING ME';
+SELECT * FROM albums a WHERE a.name = 'Killa Season';
+SELECT * FROM albums a WHERE a.name = 'Eardrum';
+SELECT * FROM albums a WHERE a.name = 'Little Black Numbers';
+SELECT * FROM albums a WHERE a.name = '...Always Leave The Ground.';
+SELECT * FROM albums a WHERE a.name = 'The Classic Collection';
+SELECT * FROM albums a WHERE a.name = 'Peaches';
+SELECT * FROM albums a WHERE a.name = 'Journey To The Windward Islands';
+SELECT * FROM albums a WHERE a.name = 'Night And Day';
+SELECT * FROM albums a WHERE a.name = 'Zero Zero EP';
+SELECT * FROM albums a WHERE a.name = 'Fruity EP';
+SELECT * FROM albums a WHERE a.name = 'Rush Hour 3';
+SELECT * FROM albums a WHERE a.name = 'Beautiful Someday';
+SELECT * FROM albums a WHERE a.name = 'Ready_ Set_ Go!';
+SELECT * FROM albums a WHERE a.name = 'Versatile Heart';
+SELECT * FROM albums a WHERE a.name = 'Rock Star';
+SELECT * FROM albums a WHERE a.name = 'Bambusbeats';
+SELECT * FROM albums a WHERE a.name = 'Electric Wildness';
+SELECT * FROM albums a WHERE a.name = 'Shoot ''Em Up';
+SELECT * FROM albums a WHERE a.name = 'Über die Jahre';
+SELECT * FROM albums a WHERE a.name = 'Reggae Hit L.A.';
+SELECT * FROM albums a WHERE a.name = 'Drop Down To Earth';
+SELECT * FROM albums a WHERE a.name = 'Howie Beck';
+SELECT * FROM albums a WHERE a.name = 'Hard Trance EP11';
+SELECT * FROM albums a WHERE a.name = 'So Pale Is The Light';
+SELECT * FROM albums a WHERE a.name = 'A Tribute To The Pussycat Dolls';
+SELECT * FROM albums a WHERE a.name = 'Fantastic Star';
+SELECT * FROM albums a WHERE a.name = 'The Adventures Of A Dub Sampler: Dub Me Crazy Part 7';
+SELECT * FROM albums a WHERE a.name = 'Vapour Trails';
+SELECT * FROM albums a WHERE a.name = 'Like Something 4 Porno !';
+SELECT * FROM albums a WHERE a.name = 'Let''s Spend Some Love';
+SELECT * FROM albums a WHERE a.name = '1964';
+SELECT * FROM albums a WHERE a.name = 'Cyberpunx';
+SELECT * FROM albums a WHERE a.name = 'Ph Theme';
+SELECT * FROM albums a WHERE a.name = 'Ut Zwarte Aap';
+SELECT * FROM albums a WHERE a.name = 'Stylin'' Up';
+SELECT * FROM albums a WHERE a.name = 'Looking For Butter Boy';
+SELECT * FROM albums a WHERE a.name = 'Come My Way';
+SELECT * FROM albums a WHERE a.name = '1st Album And Future Shock Ep';
+SELECT * FROM albums a WHERE a.name = 'Submarine Bells';
+SELECT * FROM albums a WHERE a.name = 'Weeville';
+SELECT * FROM albums a WHERE a.name = 'Spill The Beans';
+SELECT * FROM albums a WHERE a.name = 'Unknown Country';
+SELECT * FROM albums a WHERE a.name = 'Positively George Street';
+SELECT * FROM albums a WHERE a.name = 'Kaleidoscope World';
+SELECT * FROM albums a WHERE a.name = 'Vanusa';
+SELECT * FROM albums a WHERE a.name = 'In Absentia';
+SELECT * FROM albums a WHERE a.name = '20 Suosikkia / 70-luku / Iskelmä 2 / Apinamies';
+SELECT * FROM albums a WHERE a.name = 'Song For Jasmine';
+SELECT * FROM albums a WHERE a.name = 'At First Sight  Includes Bo Nus Disc With Bsides  Live Tracks';
+SELECT * FROM albums a WHERE a.name = 'Come With Me Revisited... La Suite';
+SELECT * FROM albums a WHERE a.name = 'This Love';
+SELECT * FROM albums a WHERE a.name = 'Ystävälle';
+SELECT * FROM albums a WHERE a.name = 'Nobiltà di strada';
+SELECT * FROM albums a WHERE a.name = 'Rhino Hi-Five: Bryan White';
+SELECT * FROM albums a WHERE a.name = '20 Suosikkia  / Laulajan testamentti';
+SELECT * FROM albums a WHERE a.name = '20 suosikkia / Yyterin twist';
+SELECT * FROM albums a WHERE a.name = 'Tributo';
+SELECT * FROM albums a WHERE a.name = '20 Suosikkia / Pure mua';
+SELECT * FROM albums a WHERE a.name = 'Reggaeton Ignition_ Vol. 4';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Pantera: Far Beyond The Great Southern Cowboy''s Vulgar Hits';
+SELECT * FROM albums a WHERE a.name = 'Intuition / Sunrise';
+SELECT * FROM albums a WHERE a.name = 'Underground Hip Hop Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Sämpler Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Social Distortion';
+SELECT * FROM albums a WHERE a.name = 'Out Of The Dark (20 Years Nuclear Blast)';
+SELECT * FROM albums a WHERE a.name = 'Access Peace (Loveparade 2002)';
+SELECT * FROM albums a WHERE a.name = 'Love Parade 1998  One World One Future';
+SELECT * FROM albums a WHERE a.name = 'DOCUMENT';
+SELECT * FROM albums a WHERE a.name = 'skin on fire';
+SELECT * FROM albums a WHERE a.name = 'Crows Fly Black';
+SELECT * FROM albums a WHERE a.name = 'System Shock (The Lost Album 1999)';
+SELECT * FROM albums a WHERE a.name = 'Compact Disco Volume One - Ladomat 2000';
+SELECT * FROM albums a WHERE a.name = 'STORM';
+SELECT * FROM albums a WHERE a.name = 'II';
+SELECT * FROM albums a WHERE a.name = 'Motown #1''s Vol. 2 ( International version )';
+SELECT * FROM albums a WHERE a.name = 'Mercury';
+SELECT * FROM albums a WHERE a.name = 'Catedra Del Cante_ Vol. 49: Pepe Pinto';
+SELECT * FROM albums a WHERE a.name = 'Tito Schipa: Greatest Hits - Italian_ Spanish & Neapolitan Songs';
+SELECT * FROM albums a WHERE a.name = 'F.O.A.D';
+SELECT * FROM albums a WHERE a.name = 'Been caught buttering';
+SELECT * FROM albums a WHERE a.name = 'The Great Fall';
+SELECT * FROM albums a WHERE a.name = 'Blues For Yesterday';
+SELECT * FROM albums a WHERE a.name = 'Let''s Just Be';
+SELECT * FROM albums a WHERE a.name = 'Rise Above';
+SELECT * FROM albums a WHERE a.name = 'Tangaria Quartet';
+SELECT * FROM albums a WHERE a.name = 'Cover Your Tracks';
+SELECT * FROM albums a WHERE a.name = '18 CANDLES: THE EARLY YEARS';
+SELECT * FROM albums a WHERE a.name = 'Beauty And The Breakdown';
+SELECT * FROM albums a WHERE a.name = 'What Demons Do To Saints';
+SELECT * FROM albums a WHERE a.name = 'Goodbye To The Gallows';
+SELECT * FROM albums a WHERE a.name = 'A Better View Of The Rising Moon';
+SELECT * FROM albums a WHERE a.name = 'try';
+SELECT * FROM albums a WHERE a.name = 'The Simpsons - Testify - A Whole Lot More Original Music From The Television Series';
+SELECT * FROM albums a WHERE a.name = 'Kun Suomi Putos Puusta';
+SELECT * FROM albums a WHERE a.name = 'Straight From The Heart';
+SELECT * FROM albums a WHERE a.name = 'And Who Shall Go To The Ball ? And What Shall Go To The Ball ?';
+SELECT * FROM albums a WHERE a.name = 'Transylvania 90210';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Gun Shy_ Trigger Happy';
+SELECT * FROM albums a WHERE a.name = 'Johnnie B. Bad';
+SELECT * FROM albums a WHERE a.name = '25th Day Of December With Bobby Darin';
+SELECT * FROM albums a WHERE a.name = 'The Unsinkable Molly Brown - O.S.T.';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Bill Cosby';
+SELECT * FROM albums a WHERE a.name = 'Live Forever';
+SELECT * FROM albums a WHERE a.name = 'Radio Radio TV Sleep';
+SELECT * FROM albums a WHERE a.name = 'Alma de fuego';
+SELECT * FROM albums a WHERE a.name = 'Strikes';
+SELECT * FROM albums a WHERE a.name = 'Music From The Motion Picture Lock_ Stock And Two Smoking Barrels';
+SELECT * FROM albums a WHERE a.name = 'Live: Sittin'' In Again At The Santa Barbara Bowl [Premium Version w/Bonus Tracks]';
+SELECT * FROM albums a WHERE a.name = '2X4';
+SELECT * FROM albums a WHERE a.name = 'Happy Hour';
+SELECT * FROM albums a WHERE a.name = 'Il mondo insieme a te';
+SELECT * FROM albums a WHERE a.name = 'Le Canzoni Intelligenti';
+SELECT * FROM albums a WHERE a.name = 'Eclipse';
+SELECT * FROM albums a WHERE a.name = 'Oi Oi oi';
+SELECT * FROM albums a WHERE a.name = 'Killing Me';
+SELECT * FROM albums a WHERE a.name = 'I''m On A High';
+SELECT * FROM albums a WHERE a.name = 'Time Together';
+SELECT * FROM albums a WHERE a.name = 'Southern Gospel Treasury Series';
+SELECT * FROM albums a WHERE a.name = 'Spread The Word';
+SELECT * FROM albums a WHERE a.name = 'Here''s To You';
+SELECT * FROM albums a WHERE a.name = 'Bobby Darin Sings Ray Charles';
+SELECT * FROM albums a WHERE a.name = 'Camille Jones';
+SELECT * FROM albums a WHERE a.name = 'NERVOUS TOP TEN PRIDE CLASSICS';
+SELECT * FROM albums a WHERE a.name = 'Girl In The Moon';
+SELECT * FROM albums a WHERE a.name = 'If You Need Me';
+SELECT * FROM albums a WHERE a.name = 'The Art Of The Trio Vol. 5: Progression';
+SELECT * FROM albums a WHERE a.name = 'Trio';
+SELECT * FROM albums a WHERE a.name = 'Llevame Contigo';
+SELECT * FROM albums a WHERE a.name = 'Nanoalbum';
+SELECT * FROM albums a WHERE a.name = 'High';
+SELECT * FROM albums a WHERE a.name = '20 Suosikkia / Tulipunaruusut';
+SELECT * FROM albums a WHERE a.name = '20 Suosikkia  / Siks'' oon mä suruinen';
+SELECT * FROM albums a WHERE a.name = 'In The Belly Of A Shark';
+SELECT * FROM albums a WHERE a.name = 'Grow Up and Blow Away';
+SELECT * FROM albums a WHERE a.name = 'Infernal...But There''s Still A Full Moon Shining Over Jalalabad';
+SELECT * FROM albums a WHERE a.name = 'Lo mejor de Enrique Urquijo y Los Problemas';
+SELECT * FROM albums a WHERE a.name = 'Somos Otra Cosa';
+SELECT * FROM albums a WHERE a.name = 'Sweet Nothing';
+SELECT * FROM albums a WHERE a.name = '12 Grandes exitos Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Watching black';
+SELECT * FROM albums a WHERE a.name = 'NYC Underground DJ Mix';
+SELECT * FROM albums a WHERE a.name = 'My Kind Of Music';
+SELECT * FROM albums a WHERE a.name = 'Forever';
+SELECT * FROM albums a WHERE a.name = 'Revolution';
+SELECT * FROM albums a WHERE a.name = 'White Trash Christmas';
+SELECT * FROM albums a WHERE a.name = 'Long Night Out';
+SELECT * FROM albums a WHERE a.name = 'Live It Up';
+SELECT * FROM albums a WHERE a.name = 'Classic Wave';
+SELECT * FROM albums a WHERE a.name = 'Forever Changing: The Golden Age Of Elektra Records 1963-1973';
+SELECT * FROM albums a WHERE a.name = 'The Mad Twenties';
+SELECT * FROM albums a WHERE a.name = 'Sings The Old & The New';
+SELECT * FROM albums a WHERE a.name = 'A Funky Thide Of Sings';
+SELECT * FROM albums a WHERE a.name = 'Definitionen Af En Stodder';
+SELECT * FROM albums a WHERE a.name = 'NapsterLive';
+SELECT * FROM albums a WHERE a.name = 'Two Eyes';
+SELECT * FROM albums a WHERE a.name = 'Josh Rising';
+SELECT * FROM albums a WHERE a.name = 'M.I.A.: The Complete Germs';
+SELECT * FROM albums a WHERE a.name = 'Back Of My Mind';
+SELECT * FROM albums a WHERE a.name = 'Doo Wop Classics_ Vol. 4';
+SELECT * FROM albums a WHERE a.name = 'Freakshow pt.2';
+SELECT * FROM albums a WHERE a.name = 'Je Ne T''aime Plus';
+SELECT * FROM albums a WHERE a.name = 'Silence [feat. Sarah Vieth]';
+SELECT * FROM albums a WHERE a.name = 'FULL MOON';
+SELECT * FROM albums a WHERE a.name = 'Something / Fantasy Mega';
+SELECT * FROM albums a WHERE a.name = 'Now I See';
+SELECT * FROM albums a WHERE a.name = 'Vida loca';
+SELECT * FROM albums a WHERE a.name = 'Sore';
+SELECT * FROM albums a WHERE a.name = 'Party on my own';
+SELECT * FROM albums a WHERE a.name = 'Storm';
+SELECT * FROM albums a WHERE a.name = 'No Podemos Volar';
+SELECT * FROM albums a WHERE a.name = 'Come Pioveva';
+SELECT * FROM albums a WHERE a.name = 'Made Me Hard';
+SELECT * FROM albums a WHERE a.name = 'En Vivo Mucho Mejor';
+SELECT * FROM albums a WHERE a.name = 'Los singles y primeras grabaciones';
+SELECT * FROM albums a WHERE a.name = 'Best Of DWA';
+SELECT * FROM albums a WHERE a.name = 'In Your Face';
+SELECT * FROM albums a WHERE a.name = 'Hellalive';
+SELECT * FROM albums a WHERE a.name = 'Slow_ Deep and Hard';
+SELECT * FROM albums a WHERE a.name = 'Full Circle';
+SELECT * FROM albums a WHERE a.name = 'Rhino Hi-Five: Joe Sample';
+SELECT * FROM albums a WHERE a.name = '12 Grandes exitos Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Fantastic Damage';
+SELECT * FROM albums a WHERE a.name = 'Killing Some Dead Time';
+SELECT * FROM albums a WHERE a.name = 'Bertzeloona';
+SELECT * FROM albums a WHERE a.name = 'Due Season';
+SELECT * FROM albums a WHERE a.name = 'Calling All Stations';
+SELECT * FROM albums a WHERE a.name = 'Bravo';
+SELECT * FROM albums a WHERE a.name = 'Hi-Jacked';
+SELECT * FROM albums a WHERE a.name = 'Self';
+SELECT * FROM albums a WHERE a.name = 'Tatü-Tata';
+SELECT * FROM albums a WHERE a.name = '1973';
+SELECT * FROM albums a WHERE a.name = 'Welcome To The Zoo';
+SELECT * FROM albums a WHERE a.name = 'One Wintry Night';
+SELECT * FROM albums a WHERE a.name = 'Hatefiles';
+SELECT * FROM albums a WHERE a.name = 'Retaliation';
+SELECT * FROM albums a WHERE a.name = 'DAH INSTRUMENTALZ';
+SELECT * FROM albums a WHERE a.name = 'River Runs Red';
+SELECT * FROM albums a WHERE a.name = 'The All Star Sessions';
+SELECT * FROM albums a WHERE a.name = 'Dark Ages';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Annihilator';
+SELECT * FROM albums a WHERE a.name = 'I Still Have A Pony';
+SELECT * FROM albums a WHERE a.name = 'Reclamation';
+SELECT * FROM albums a WHERE a.name = 'Live';
+SELECT * FROM albums a WHERE a.name = 'Together';
+SELECT * FROM albums a WHERE a.name = 'Walking The Dog';
+SELECT * FROM albums a WHERE a.name = 'Cat Trick';
+SELECT * FROM albums a WHERE a.name = '4 Rosas Y Que Dios Reparta Suerte';
+SELECT * FROM albums a WHERE a.name = 'The Right To Bare Arms';
+SELECT * FROM albums a WHERE a.name = 'In Camera';
+SELECT * FROM albums a WHERE a.name = 'Invitation [Live]';
+SELECT * FROM albums a WHERE a.name = 'Eleventh Dream Day';
+SELECT * FROM albums a WHERE a.name = 'Laihoilla hartioilla';
+SELECT * FROM albums a WHERE a.name = 'Vision of Disorder';
+SELECT * FROM albums a WHERE a.name = 'En Public Au Théâtre De La Ville';
+SELECT * FROM albums a WHERE a.name = 'We''ll Never Turn Back';
+SELECT * FROM albums a WHERE a.name = 'Riddim Driven: All Out';
+SELECT * FROM albums a WHERE a.name = 'Tokyo Rose';
+SELECT * FROM albums a WHERE a.name = 'Stax-Volt: The Complete Singles 1959-1968';
+SELECT * FROM albums a WHERE a.name = 'Brujerizmo';
+SELECT * FROM albums a WHERE a.name = 'The Soundtrack';
+SELECT * FROM albums a WHERE a.name = 'The Goofy Movie Original Sound Track';
+SELECT * FROM albums a WHERE a.name = 'Girls & Weather';
+SELECT * FROM albums a WHERE a.name = 'Alles Is Liefde';
+SELECT * FROM albums a WHERE a.name = 'The Fury Of Our Maker''s Hand';
+SELECT * FROM albums a WHERE a.name = 'Mathilde Santing';
+SELECT * FROM albums a WHERE a.name = 'Nah No Mercy - The Warlord Scrolls';
+SELECT * FROM albums a WHERE a.name = 'Live In Buffalo July 4th_ 2004';
+SELECT * FROM albums a WHERE a.name = 'Louis Andriessen: Rosa - The Death Of A Composer';
+SELECT * FROM albums a WHERE a.name = 'Dreamer';
+SELECT * FROM albums a WHERE a.name = 'Blue Afternoon';
+SELECT * FROM albums a WHERE a.name = 'Eye To Eye';
+SELECT * FROM albums a WHERE a.name = 'SCHEISSE';
+SELECT * FROM albums a WHERE a.name = 'Samling';
+SELECT * FROM albums a WHERE a.name = 'Marmellata#25';
+SELECT * FROM albums a WHERE a.name = 'Emancipate Myself';
+SELECT * FROM albums a WHERE a.name = 'Genoux A Terre';
+SELECT * FROM albums a WHERE a.name = 'Selfcontrol';
+SELECT * FROM albums a WHERE a.name = 'A Girl''s Best Friend';
+SELECT * FROM albums a WHERE a.name = 'Telektroponk!';
+SELECT * FROM albums a WHERE a.name = '12 Grandes exitos Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Hay poco Rock''n''Roll';
+SELECT * FROM albums a WHERE a.name = 'Seven Songs for Jim';
+SELECT * FROM albums a WHERE a.name = 'Rockin'' This House: Chicago Blues Piano 1946-1953_ CD D';
+SELECT * FROM albums a WHERE a.name = 'Where Is Your Love Mankind';
+SELECT * FROM albums a WHERE a.name = 'Teorema Ed Altri Successi';
+SELECT * FROM albums a WHERE a.name = 'Cinema';
+SELECT * FROM albums a WHERE a.name = 'The Wolves Go Hunt Their Prey';
+SELECT * FROM albums a WHERE a.name = 'Somebody Else';
+SELECT * FROM albums a WHERE a.name = 'Jana Gana Mana';
+SELECT * FROM albums a WHERE a.name = 'Englabörn';
+SELECT * FROM albums a WHERE a.name = 'Self-Titled Split';
+SELECT * FROM albums a WHERE a.name = 'Cuerda Para Rato';
+SELECT * FROM albums a WHERE a.name = '10 Años Repartiendo Salsa';
+SELECT * FROM albums a WHERE a.name = 'Lightning Strikes';
+SELECT * FROM albums a WHERE a.name = 'The Big Three';
+SELECT * FROM albums a WHERE a.name = 'Want Me (Like Water)';
+SELECT * FROM albums a WHERE a.name = 'In And Out Of Fog And Lights';
+SELECT * FROM albums a WHERE a.name = 'Sous le regard d''un soleil noir';
+SELECT * FROM albums a WHERE a.name = 'The Search Is Over';
+SELECT * FROM albums a WHERE a.name = 'In All Of My Life';
+SELECT * FROM albums a WHERE a.name = 'Hurricane';
+SELECT * FROM albums a WHERE a.name = 'Young Man''s Blues: The Best Of The JSP Sessions 1989-90';
+SELECT * FROM albums a WHERE a.name = 'Maximum Kate Bush: The Unauthorised Biography';
+SELECT * FROM albums a WHERE a.name = 'Worried Blues (CD A)';
+SELECT * FROM albums a WHERE a.name = 'Nailwork';
+SELECT * FROM albums a WHERE a.name = 'The Awakening';
+SELECT * FROM albums a WHERE a.name = 'Post Momentary/Scrolls';
+SELECT * FROM albums a WHERE a.name = 'The Temple Of Knowledge';
+SELECT * FROM albums a WHERE a.name = 'Choose Life';
+SELECT * FROM albums a WHERE a.name = 'Catch 22';
+SELECT * FROM albums a WHERE a.name = 'One Crimson Night';
+SELECT * FROM albums a WHERE a.name = 'New Orleans Guitar_ CD C';
+SELECT * FROM albums a WHERE a.name = 'Termination Bliss';
+SELECT * FROM albums a WHERE a.name = 'Marvin At The Movies';
+SELECT * FROM albums a WHERE a.name = 'Jörn Schlönvoigt';
+SELECT * FROM albums a WHERE a.name = 'No Good_ No Time_ No Pride';
+SELECT * FROM albums a WHERE a.name = 'Final Attraction';
+SELECT * FROM albums a WHERE a.name = 'Running Free';
+SELECT * FROM albums a WHERE a.name = 'Pulverturm 2.0';
+SELECT * FROM albums a WHERE a.name = 'Marc Romboy Presents Musica Electronica';
+SELECT * FROM albums a WHERE a.name = 'Banghra (All Mixes)';
+SELECT * FROM albums a WHERE a.name = 'Homecoming Hymns';
+SELECT * FROM albums a WHERE a.name = 'Jus'' Jake And A Few Close Friends';
+SELECT * FROM albums a WHERE a.name = 'This Is The Sound Of An Eclectic Guitar - A Collection of Other People''s Songs';
+SELECT * FROM albums a WHERE a.name = 'Meet The Robinsons Original Soundtrack (French Version)';
+SELECT * FROM albums a WHERE a.name = '1';
+SELECT * FROM albums a WHERE a.name = 'The Brave One';
+SELECT * FROM albums a WHERE a.name = 'Rise Up!';
+SELECT * FROM albums a WHERE a.name = 'Soho Live At Ronnie Scotts (Disc 1)';
+SELECT * FROM albums a WHERE a.name = 'CRISTIAN MARCHI EP';
+SELECT * FROM albums a WHERE a.name = 'The Silver Arm';
+SELECT * FROM albums a WHERE a.name = 'Under The Boards';
+SELECT * FROM albums a WHERE a.name = 'Ma Vision';
+SELECT * FROM albums a WHERE a.name = 'Forgotten Paths (The Early Days)';
+SELECT * FROM albums a WHERE a.name = 'Solar Powered EP';
+SELECT * FROM albums a WHERE a.name = 'Thunk';
+SELECT * FROM albums a WHERE a.name = 'Ascension';
+SELECT * FROM albums a WHERE a.name = 'DR DRE 2005';
+SELECT * FROM albums a WHERE a.name = 'Live In Japan';
+SELECT * FROM albums a WHERE a.name = 'Expanding Senses';
+SELECT * FROM albums a WHERE a.name = 'Follow The Reaper';
+SELECT * FROM albums a WHERE a.name = 'Inside';
+SELECT * FROM albums a WHERE a.name = 'Nothing';
+SELECT * FROM albums a WHERE a.name = '20 Melodies pour rever_ Volume 1';
+SELECT * FROM albums a WHERE a.name = 'Lights On';
+SELECT * FROM albums a WHERE a.name = 'Best Off';
+SELECT * FROM albums a WHERE a.name = 'Higher Grounds';
+SELECT * FROM albums a WHERE a.name = 'Harmony House Verse 2';
+SELECT * FROM albums a WHERE a.name = 'Nostalgia';
+SELECT * FROM albums a WHERE a.name = 'Step By Step';
+SELECT * FROM albums a WHERE a.name = 'Funky Jazz Party';
+SELECT * FROM albums a WHERE a.name = 'Bobby_ Noel & Cole';
+SELECT * FROM albums a WHERE a.name = 'Long Hard Look';
+SELECT * FROM albums a WHERE a.name = 'Anything Is Possible';
+SELECT * FROM albums a WHERE a.name = 'Konstpaus';
+SELECT * FROM albums a WHERE a.name = 'Yet Dreaming';
+SELECT * FROM albums a WHERE a.name = 'Oh_ Didn''t He Ramble';
+SELECT * FROM albums a WHERE a.name = 'Nawet';
+SELECT * FROM albums a WHERE a.name = 'Ugyanaz Vagyok';
+SELECT * FROM albums a WHERE a.name = 'Pernao Poli Kala';
+SELECT * FROM albums a WHERE a.name = 'Bis Zum Erbrechen Schreien';
+SELECT * FROM albums a WHERE a.name = 'Hindemith: Kammermusik Vol.2';
+SELECT * FROM albums a WHERE a.name = 'Respighi: Orchestral Works';
+SELECT * FROM albums a WHERE a.name = 'The Quiet';
+SELECT * FROM albums a WHERE a.name = 'The Pledge';
+SELECT * FROM albums a WHERE a.name = 'FEELS GOOD TO BE FORGIVEN';
+SELECT * FROM albums a WHERE a.name = 'Kinetic Faith';
+SELECT * FROM albums a WHERE a.name = 'Value Pac';
+SELECT * FROM albums a WHERE a.name = 'Havalina Rail Co.';
+SELECT * FROM albums a WHERE a.name = 'Dziewczyna Szamana';
+SELECT * FROM albums a WHERE a.name = 'Mozart: Eine Kleine Nachtmusik etc.';
+SELECT * FROM albums a WHERE a.name = '//:Tres.Jeans';
+SELECT * FROM albums a WHERE a.name = 'Secada';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Mink Deville';
+SELECT * FROM albums a WHERE a.name = 'You''re My Everything';
+SELECT * FROM albums a WHERE a.name = 'Tartson Orokke';
+SELECT * FROM albums a WHERE a.name = 'Da Hoola';
+SELECT * FROM albums a WHERE a.name = 'El Camino (Remix)';
+SELECT * FROM albums a WHERE a.name = 'Force of Nature';
+SELECT * FROM albums a WHERE a.name = 'Black Shines Through The Black EP';
+SELECT * FROM albums a WHERE a.name = 'Sentidos Opuestos';
+SELECT * FROM albums a WHERE a.name = 'Confí De Fuá';
+SELECT * FROM albums a WHERE a.name = 'Ayudame A Mirar';
+SELECT * FROM albums a WHERE a.name = 'From Me To You (Love Songs of Lennon & McCartney)';
+SELECT * FROM albums a WHERE a.name = 'Simple Gifts (Songs of Inspiration)';
+SELECT * FROM albums a WHERE a.name = 'Memorias Cronicas E Declaracoes De Amor Textos_ Provas e Desmentidos';
+SELECT * FROM albums a WHERE a.name = 'Mozart String Quartets';
+SELECT * FROM albums a WHERE a.name = 'Delta Hardware';
+SELECT * FROM albums a WHERE a.name = 'Ruem Hart';
+SELECT * FROM albums a WHERE a.name = 'Krause Alarm - Das Beste Party Album Der Welt';
+SELECT * FROM albums a WHERE a.name = 'Rex Allen: The Last of the Great Singing Cowboys';
+SELECT * FROM albums a WHERE a.name = 'Mozart: Opera Overtures';
+SELECT * FROM albums a WHERE a.name = 'Aina Nälkä';
+SELECT * FROM albums a WHERE a.name = 'Strategies Against Architecture III';
+SELECT * FROM albums a WHERE a.name = 'Freek Funk';
+SELECT * FROM albums a WHERE a.name = 'Taking Tiger Mountain (By Strategy)';
+SELECT * FROM albums a WHERE a.name = 'Sir Thomas Beecham: Great Conductors of the 20th Century';
+SELECT * FROM albums a WHERE a.name = 'After God''s Own Heart';
+SELECT * FROM albums a WHERE a.name = 'Onder De Duinen';
+SELECT * FROM albums a WHERE a.name = 'Just Like The First Time';
+SELECT * FROM albums a WHERE a.name = 'Set The Mood';
+SELECT * FROM albums a WHERE a.name = 'Hit Parade: The Greatest Hits';
+SELECT * FROM albums a WHERE a.name = '23 Millennium Classics';
+SELECT * FROM albums a WHERE a.name = 'X';
+SELECT * FROM albums a WHERE a.name = 'Deeper';
+SELECT * FROM albums a WHERE a.name = 'IV';
+SELECT * FROM albums a WHERE a.name = 'High School Rock';
+SELECT * FROM albums a WHERE a.name = 'Tales Of Silversleeve';
+SELECT * FROM albums a WHERE a.name = 'Yi Ge Ren De Gan Jue';
+SELECT * FROM albums a WHERE a.name = 'Brahms/Mendelssohn - Concertos';
+SELECT * FROM albums a WHERE a.name = 'Julie Andrews Selects Her Favourite Disney Songs';
+SELECT * FROM albums a WHERE a.name = 'Cherubini & Wolf-Ferrari:Overtures';
+SELECT * FROM albums a WHERE a.name = 'La Belle Helene';
+SELECT * FROM albums a WHERE a.name = 'Under Neon Light';
+SELECT * FROM albums a WHERE a.name = 'Caravane';
+SELECT * FROM albums a WHERE a.name = 'Crazy Love';
+SELECT * FROM albums a WHERE a.name = 'Måla Mitt Minne';
+SELECT * FROM albums a WHERE a.name = 'Works For Piano Vol.1';
+SELECT * FROM albums a WHERE a.name = 'Treehouse';
+SELECT * FROM albums a WHERE a.name = 'Nolita';
+SELECT * FROM albums a WHERE a.name = 'Intoxicated Man';
+SELECT * FROM albums a WHERE a.name = 'Racist People';
+SELECT * FROM albums a WHERE a.name = 'Buoni O Cattivi';
+SELECT * FROM albums a WHERE a.name = 'Wrodzony Instynkt';
+SELECT * FROM albums a WHERE a.name = 'El endemico embustero y el incauto pertinaz';
+SELECT * FROM albums a WHERE a.name = 'Caravan Of Light';
+SELECT * FROM albums a WHERE a.name = 'Collection: B. Carlisle';
+SELECT * FROM albums a WHERE a.name = 'La Varsta De 3 Ani (At Three Years Old)';
+SELECT * FROM albums a WHERE a.name = 'Impredecible';
+SELECT * FROM albums a WHERE a.name = 'El Canto De Un Rebelde Para Un';
+SELECT * FROM albums a WHERE a.name = 'Retratos';
+SELECT * FROM albums a WHERE a.name = 'Criaturas Da Noite';
+SELECT * FROM albums a WHERE a.name = 'Devils';
+SELECT * FROM albums a WHERE a.name = 'Cookies 11 Fire Concert Live';
+SELECT * FROM albums a WHERE a.name = 'Stay';
+SELECT * FROM albums a WHERE a.name = 'L''Eternité De L''Instant';
+SELECT * FROM albums a WHERE a.name = 'Wawamix';
+SELECT * FROM albums a WHERE a.name = 'Radioaktywny';
+SELECT * FROM albums a WHERE a.name = 'A New Sound - A New Star';
+SELECT * FROM albums a WHERE a.name = 'Babies Go Sting';
+SELECT * FROM albums a WHERE a.name = 'Companeros De Viaje';
+SELECT * FROM albums a WHERE a.name = 'The Magic Of';
+SELECT * FROM albums a WHERE a.name = 'Ferry Cross The Mersey (Mono And Stereo Version)';
+SELECT * FROM albums a WHERE a.name = 'Before The Rain';
+SELECT * FROM albums a WHERE a.name = 'Collection Disques Pathé';
+SELECT * FROM albums a WHERE a.name = 'Nous Les Amoureux';
+SELECT * FROM albums a WHERE a.name = 'Su Cante';
+SELECT * FROM albums a WHERE a.name = 'Bach St Matthew Passion (abridged)';
+SELECT * FROM albums a WHERE a.name = 'Four Corners';
+SELECT * FROM albums a WHERE a.name = 'Ultimate Experience_ The';
+SELECT * FROM albums a WHERE a.name = 'Un Mundo Separado Por El Mismo Dios';
+SELECT * FROM albums a WHERE a.name = 'Donna';
+SELECT * FROM albums a WHERE a.name = 'Cantes Antiguos Del Flamenco';
+SELECT * FROM albums a WHERE a.name = 'Matono';
+SELECT * FROM albums a WHERE a.name = 'Now And Then';
+SELECT * FROM albums a WHERE a.name = 'Puoli Viisi Aamulla';
+SELECT * FROM albums a WHERE a.name = 'Now That It''s Over';
+SELECT * FROM albums a WHERE a.name = 'Serenades';
+SELECT * FROM albums a WHERE a.name = 'Dvorak: Symphony No 9 / American Suite';
+SELECT * FROM albums a WHERE a.name = 'Jin Zhuang Ge Lan Ming Dian';
+SELECT * FROM albums a WHERE a.name = 'Root Hog Or Die';
+SELECT * FROM albums a WHERE a.name = 'Na Maar Jalma Ve';
+SELECT * FROM albums a WHERE a.name = 'the bird and the bee';
+SELECT * FROM albums a WHERE a.name = 'When I Am God';
+SELECT * FROM albums a WHERE a.name = 'Best of Kuldeep Manak Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'I Do Believe';
+SELECT * FROM albums a WHERE a.name = 'Bass Paradis';
+SELECT * FROM albums a WHERE a.name = 'Queen Rock Montreal';
+SELECT * FROM albums a WHERE a.name = 'A Distant History: Rarities 1997 - 2007';
+SELECT * FROM albums a WHERE a.name = 'Carmen';
+SELECT * FROM albums a WHERE a.name = 'Wen Ku Chih Hsin:i Ke Jen Te Tien Huang Ti Lao';
+SELECT * FROM albums a WHERE a.name = 'America';
+SELECT * FROM albums a WHERE a.name = 'As I Moved On';
+SELECT * FROM albums a WHERE a.name = 'Rolando Villazon: French Opera Arias';
+SELECT * FROM albums a WHERE a.name = 'Solar Plexus';
+SELECT * FROM albums a WHERE a.name = 'Te Conquistare';
+SELECT * FROM albums a WHERE a.name = 'Rogelio Martinez Con Tambora';
+SELECT * FROM albums a WHERE a.name = 'Jose Julian';
+SELECT * FROM albums a WHERE a.name = 'Los Chunguitos';
+SELECT * FROM albums a WHERE a.name = 'Memories Of Christmas';
+SELECT * FROM albums a WHERE a.name = 'Ilta Illan Jalkeen';
+SELECT * FROM albums a WHERE a.name = 'Perro Malagradecido';
+SELECT * FROM albums a WHERE a.name = 'Sanctuary';
+SELECT * FROM albums a WHERE a.name = 'Lifeline';
+SELECT * FROM albums a WHERE a.name = 'Dear Shunza';
+SELECT * FROM albums a WHERE a.name = 'Totta 5, Turnén';
+SELECT * FROM albums a WHERE a.name = 'Bobby';
+SELECT * FROM albums a WHERE a.name = 'Afinidades';
+SELECT * FROM albums a WHERE a.name = 'Mazz Fuerte Que Nunca';
+SELECT * FROM albums a WHERE a.name = 'Siempre Pensando En Ti';
+SELECT * FROM albums a WHERE a.name = 'El Sentimiento Garrapatero Que Nos Traen Las Flores';
+SELECT * FROM albums a WHERE a.name = 'Deja Vu';
+SELECT * FROM albums a WHERE a.name = 'Everything Was Beautiful And Nothing Hurt';
+SELECT * FROM albums a WHERE a.name = '1000 Vivos';
+SELECT * FROM albums a WHERE a.name = 'Terrorist Threats';
+SELECT * FROM albums a WHERE a.name = 'Era Renifera';
+SELECT * FROM albums a WHERE a.name = 'Raizes Do Samba';
+SELECT * FROM albums a WHERE a.name = 'Niezwykle Miejsca';
+SELECT * FROM albums a WHERE a.name = 'Wild_ Cool & Swingin''';
+SELECT * FROM albums a WHERE a.name = 'Dr. Spikee';
+SELECT * FROM albums a WHERE a.name = 'Coleccion Aniversario';
+SELECT * FROM albums a WHERE a.name = 'En Vivo...Desde Monterrey_ México';
+SELECT * FROM albums a WHERE a.name = 'Viento A Favor';
+SELECT * FROM albums a WHERE a.name = 'Sensual Embrace Volume 2: More Soul Ballads';
+SELECT * FROM albums a WHERE a.name = 'Corazones Antarticos';
+SELECT * FROM albums a WHERE a.name = 'Wehikul Czasu Vol.2';
+SELECT * FROM albums a WHERE a.name = 'Time Was - Time Is';
+SELECT * FROM albums a WHERE a.name = 'Welcome To Blue Island';
+SELECT * FROM albums a WHERE a.name = 'Aftermath';
+SELECT * FROM albums a WHERE a.name = 'Francis'' Lonely Nights';
+SELECT * FROM albums a WHERE a.name = 'Figureheads On The ForeFront Of Pop Culture';
+SELECT * FROM albums a WHERE a.name = 'Building A Better Me';
+SELECT * FROM albums a WHERE a.name = 'The Narrow Scope of Things';
+SELECT * FROM albums a WHERE a.name = 'Plastic Surgery';
+SELECT * FROM albums a WHERE a.name = 'The Ball Point Composer';
+SELECT * FROM albums a WHERE a.name = 'Satan''s Little Helpers';
+SELECT * FROM albums a WHERE a.name = 'Deliberation';
+SELECT * FROM albums a WHERE a.name = 'Dating';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of Reginald Dixon';
+SELECT * FROM albums a WHERE a.name = 'The Best Of The Flying Pickets';
+SELECT * FROM albums a WHERE a.name = 'Hidden Pathways';
+SELECT * FROM albums a WHERE a.name = 'The Cool School/Do Re Mi';
+SELECT * FROM albums a WHERE a.name = 'O Yeah';
+SELECT * FROM albums a WHERE a.name = 'Kugatsu no Sora';
+SELECT * FROM albums a WHERE a.name = 'Even Stil';
+SELECT * FROM albums a WHERE a.name = 'Mensajes Y Locuras';
+SELECT * FROM albums a WHERE a.name = 'Hyvaa Yota Bangkok';
+SELECT * FROM albums a WHERE a.name = 'Monteverdi - Salva Regine, Motets for 1-3 voices';
+SELECT * FROM albums a WHERE a.name = 'A''s_ B''s And Rarities';
+SELECT * FROM albums a WHERE a.name = 'The Ownerz';
+SELECT * FROM albums a WHERE a.name = 'Caught In The Act';
+SELECT * FROM albums a WHERE a.name = 'Come Softly To Me: The Very Best Of The Fleetwoods';
+SELECT * FROM albums a WHERE a.name = 'Skyline Firedance - The Orchestral Works and The Solo Works: 2 compact discs';
+SELECT * FROM albums a WHERE a.name = 'Straight Outta Compton';
+SELECT * FROM albums a WHERE a.name = 'Rock For Light';
+SELECT * FROM albums a WHERE a.name = 'Seismic';
+SELECT * FROM albums a WHERE a.name = 'Helium';
+SELECT * FROM albums a WHERE a.name = 'Handel -  Rodelinda';
+SELECT * FROM albums a WHERE a.name = 'Mozart : Violin Concerto No.3/Adagio & Fugue/Symphony No.41';
+SELECT * FROM albums a WHERE a.name = 'Martha Argerich presents...Sergio Tiempo';
+SELECT * FROM albums a WHERE a.name = 'Almost Ambient Collection Volume One';
+SELECT * FROM albums a WHERE a.name = 'Chip In';
+SELECT * FROM albums a WHERE a.name = 'The Power And The Myth';
+SELECT * FROM albums a WHERE a.name = 'Abraço Português';
+SELECT * FROM albums a WHERE a.name = 'Now & Live CD 1: Now';
+SELECT * FROM albums a WHERE a.name = 'Tour';
+SELECT * FROM albums a WHERE a.name = 'On Broadway';
+SELECT * FROM albums a WHERE a.name = 'The Forties Vol. 2: 1947-1949';
+SELECT * FROM albums a WHERE a.name = 'The Best';
+SELECT * FROM albums a WHERE a.name = 'The Panama Limited';
+SELECT * FROM albums a WHERE a.name = 'Good Rockin'' Tonight - Live In San Francisco';
+SELECT * FROM albums a WHERE a.name = 'Ma Goutelha Oualou';
+SELECT * FROM albums a WHERE a.name = 'Celebration';
+SELECT * FROM albums a WHERE a.name = 'Qu''Est-Ce Que Je Fai La?';
+SELECT * FROM albums a WHERE a.name = 'Ashaer Quloub';
+SELECT * FROM albums a WHERE a.name = 'Mare Di Memorie';
+SELECT * FROM albums a WHERE a.name = 'Never Look Back Here Again';
+SELECT * FROM albums a WHERE a.name = 'Spanish Guitar Virtuoso - Volume 1';
+SELECT * FROM albums a WHERE a.name = 'Those Simple Things /Daydream';
+SELECT * FROM albums a WHERE a.name = 'Dancehall Mood';
+SELECT * FROM albums a WHERE a.name = 'The 89ers Boy';
+SELECT * FROM albums a WHERE a.name = 'Top Of The World';
+SELECT * FROM albums a WHERE a.name = 'Ten Pieces To Save The World';
+SELECT * FROM albums a WHERE a.name = 'Foste Embora';
+SELECT * FROM albums a WHERE a.name = 'David Tao';
+SELECT * FROM albums a WHERE a.name = 'Realive Tour 2002 -Odoranya Son Son- in Tokyo';
+SELECT * FROM albums a WHERE a.name = 'Summer Love';
+SELECT * FROM albums a WHERE a.name = 'Drömmarna';
+SELECT * FROM albums a WHERE a.name = 'Bolero! Be Happy Live';
+SELECT * FROM albums a WHERE a.name = 'Dazkarieh';
+SELECT * FROM albums a WHERE a.name = 'Red Harvest';
+SELECT * FROM albums a WHERE a.name = 'Loose Lips b/w Start to Dreaming';
+SELECT * FROM albums a WHERE a.name = 'Everything Good';
+SELECT * FROM albums a WHERE a.name = 'Jimmy Carter: Man from Plains';
+SELECT * FROM albums a WHERE a.name = 'In Your Blood';
+SELECT * FROM albums a WHERE a.name = 'Truth';
+SELECT * FROM albums a WHERE a.name = 'The 911 Report - The Ultimate Conspiracy';
+SELECT * FROM albums a WHERE a.name = 'Break Glass&';
+SELECT * FROM albums a WHERE a.name = 'All Fates Have Changed';
+SELECT * FROM albums a WHERE a.name = 'Hip-hop For $ale';
+SELECT * FROM albums a WHERE a.name = 'c True Hollywood Stories';
+SELECT * FROM albums a WHERE a.name = 'A New Dope';
+SELECT * FROM albums a WHERE a.name = 'Mimame Bandoneón';
+SELECT * FROM albums a WHERE a.name = 'Symphony of Voices';
+SELECT * FROM albums a WHERE a.name = 'Mezi Nima';
+SELECT * FROM albums a WHERE a.name = 'Bad Story_ Happy Ending';
+SELECT * FROM albums a WHERE a.name = 'Mustang Sally';
+SELECT * FROM albums a WHERE a.name = 'Ladioo';
+SELECT * FROM albums a WHERE a.name = 'Yeniden Hayata';
+SELECT * FROM albums a WHERE a.name = 'The Return Of Jack Splash';
+SELECT * FROM albums a WHERE a.name = 'LazyTown';
+SELECT * FROM albums a WHERE a.name = 'I''m Gonna Lasso Santa Claus';
+SELECT * FROM albums a WHERE a.name = 'Simply Chopin Volume 4';
+SELECT * FROM albums a WHERE a.name = 'American Gangster';
+SELECT * FROM albums a WHERE a.name = 'No Illicit Dancing';
+SELECT * FROM albums a WHERE a.name = 'Neighbourhood';
+SELECT * FROM albums a WHERE a.name = 'Copasetik and Cool';
+SELECT * FROM albums a WHERE a.name = 'Deeply Dippy';
+SELECT * FROM albums a WHERE a.name = 'I''m Too Sexy 2007';
+SELECT * FROM albums a WHERE a.name = 'Revolución';
+SELECT * FROM albums a WHERE a.name = 'Bilduma Bat';
+SELECT * FROM albums a WHERE a.name = 'Next Stop Armageddon';
+SELECT * FROM albums a WHERE a.name = 'É Assim...';
+SELECT * FROM albums a WHERE a.name = 'Extraordinary Popular Delusions and the Madness of Crowds';
+SELECT * FROM albums a WHERE a.name = 'Frenzy';
+SELECT * FROM albums a WHERE a.name = 'Ataxia''s Alright Tonight';
+SELECT * FROM albums a WHERE a.name = '&Que viva el vallenato!';
+SELECT * FROM albums a WHERE a.name = 'The Release Party';
+SELECT * FROM albums a WHERE a.name = 'São Paulo - 1554 / Hoje';
+SELECT * FROM albums a WHERE a.name = 'O Violeiro Mais Sertanejo Do Brasil';
+SELECT * FROM albums a WHERE a.name = 'Start All Over Again - Taken From Superstar Recordings';
+SELECT * FROM albums a WHERE a.name = 'Left and Leaving';
+SELECT * FROM albums a WHERE a.name = 'Lions For Lambs';
+SELECT * FROM albums a WHERE a.name = 'Krunk / That''s It';
+SELECT * FROM albums a WHERE a.name = 'The Glam Years';
+SELECT * FROM albums a WHERE a.name = 'Parallax Panorama';
+SELECT * FROM albums a WHERE a.name = 'Mharch Mhadness';
+SELECT * FROM albums a WHERE a.name = 'Haven''t Stopped';
+SELECT * FROM albums a WHERE a.name = 'Half Dozen';
+SELECT * FROM albums a WHERE a.name = 'Let''s Stay Friends';
+SELECT * FROM albums a WHERE a.name = 'Morning Star: Soul Of The Beast';
+SELECT * FROM albums a WHERE a.name = 'The African';
+SELECT * FROM albums a WHERE a.name = 'This Is Mine';
+SELECT * FROM albums a WHERE a.name = 'Pop Rock & Vice Versa';
+SELECT * FROM albums a WHERE a.name = 'Easy Tiger';
+SELECT * FROM albums a WHERE a.name = 'Glorias Del Tango: Aníbal Troilo Vol.2';
+SELECT * FROM albums a WHERE a.name = 'Monster Maker';
+SELECT * FROM albums a WHERE a.name = 'Humppasirkus';
+SELECT * FROM albums a WHERE a.name = 'Validated';
+SELECT * FROM albums a WHERE a.name = 'Black Sounds Of Freedom';
+SELECT * FROM albums a WHERE a.name = 'Steppin'' Out';
+SELECT * FROM albums a WHERE a.name = 'Coda';
+SELECT * FROM albums a WHERE a.name = 'Varjoissa Vapaan Maailman 10v. Juhlapainos';
+SELECT * FROM albums a WHERE a.name = 'Yö enkelten - kauneimmat joululaulut';
+SELECT * FROM albums a WHERE a.name = 'Christmas All Year Long';
+SELECT * FROM albums a WHERE a.name = 'Laura Häkkisen Silmät';
+SELECT * FROM albums a WHERE a.name = 'Intimately Yours';
+SELECT * FROM albums a WHERE a.name = 'Tinta Y Papel';
+SELECT * FROM albums a WHERE a.name = 'Unspoken Emotions';
+SELECT * FROM albums a WHERE a.name = 'Everything Is Temporary';
+SELECT * FROM albums a WHERE a.name = 'Old Dogs_ New Tricks';
+SELECT * FROM albums a WHERE a.name = 'Mannequin Depressive';
+SELECT * FROM albums a WHERE a.name = 'Fanning The Flames Of Fire';
+SELECT * FROM albums a WHERE a.name = 'Lust Lust Lust';
+SELECT * FROM albums a WHERE a.name = 'Plagues & Snakes';
+SELECT * FROM albums a WHERE a.name = 'Figureheads';
+SELECT * FROM albums a WHERE a.name = 'Conversations with Dudley';
+SELECT * FROM albums a WHERE a.name = 'Home Is Where The Heartache Is';
+SELECT * FROM albums a WHERE a.name = 'Songs Of Life';
+SELECT * FROM albums a WHERE a.name = 'Slice of LIFE';
+SELECT * FROM albums a WHERE a.name = 'Cooking With&';
+SELECT * FROM albums a WHERE a.name = 'Y34RZ3r0r3mix3d';
+SELECT * FROM albums a WHERE a.name = 'Ces Petits Riens';
+SELECT * FROM albums a WHERE a.name = 'Saqueando A Cidade';
+SELECT * FROM albums a WHERE a.name = 'Om Du Lyssnar Noga';
+SELECT * FROM albums a WHERE a.name = 'Big Bill Broonzy Vol. 9 1939';
+SELECT * FROM albums a WHERE a.name = 'Jazz Gillum Vol. 2 1938-1941';
+SELECT * FROM albums a WHERE a.name = 'Casey Bill Weldon Vol. 1 1935-1936';
+SELECT * FROM albums a WHERE a.name = 'Frankie ''Half-Pint'' Jaxon Vol. 2 1926-19309-1937';
+SELECT * FROM albums a WHERE a.name = 'Creator Of The Memphis Blues';
+SELECT * FROM albums a WHERE a.name = 'Lil Johnson Vol. 2 1936-1937';
+SELECT * FROM albums a WHERE a.name = 'Birmingham Jubilee Singers Vol. 1 (1926-1927)';
+SELECT * FROM albums a WHERE a.name = 'Lucille Hegamin Vol. 3 (1923-1932)';
+SELECT * FROM albums a WHERE a.name = 'Suture';
+SELECT * FROM albums a WHERE a.name = 'Life is Easy';
+SELECT * FROM albums a WHERE a.name = 'Brooklyn Bank';
+SELECT * FROM albums a WHERE a.name = 'Blonde Exodus';
+SELECT * FROM albums a WHERE a.name = 'Wishing Well';
+SELECT * FROM albums a WHERE a.name = 'Solo [3]';
+SELECT * FROM albums a WHERE a.name = 'Web';
+SELECT * FROM albums a WHERE a.name = 'When The Blues Hit You';
+SELECT * FROM albums a WHERE a.name = 'Rexx Erected';
+SELECT * FROM albums a WHERE a.name = 'Kajuvej';
+SELECT * FROM albums a WHERE a.name = 'How High The Moon';
+SELECT * FROM albums a WHERE a.name = 'Remember&';
+SELECT * FROM albums a WHERE a.name = 'Stay Tuned';
+SELECT * FROM albums a WHERE a.name = 'UltraTerrestre';
+SELECT * FROM albums a WHERE a.name = 'Songbones';
+SELECT * FROM albums a WHERE a.name = 'Beautiful Day';
+SELECT * FROM albums a WHERE a.name = 'THAT''S RIGHT / DON''T TREAD ON ME';
+SELECT * FROM albums a WHERE a.name = 'Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set';
+SELECT * FROM albums a WHERE a.name = 'The Devil Makes Three';
+SELECT * FROM albums a WHERE a.name = 'Staring At The Rude Bois';
+SELECT * FROM albums a WHERE a.name = 'Metal God Essentials Volume 1';
+SELECT * FROM albums a WHERE a.name = 'Electropop Remix EP';
+SELECT * FROM albums a WHERE a.name = 'Jako Sántideví';
+SELECT * FROM albums a WHERE a.name = 'King Of Western Swing_ Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Meu Oficio É Cantar';
+SELECT * FROM albums a WHERE a.name = 'DJ Play My Blues';
+SELECT * FROM albums a WHERE a.name = 'The Early Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Here I Am';
+SELECT * FROM albums a WHERE a.name = '10000 Km';
+SELECT * FROM albums a WHERE a.name = 'Hagan Correr La Voz';
+SELECT * FROM albums a WHERE a.name = 'Harbour';
+SELECT * FROM albums a WHERE a.name = 'Solos';
+SELECT * FROM albums a WHERE a.name = 'Fragment Two (The First Picture)';
+SELECT * FROM albums a WHERE a.name = 'Destinos';
+SELECT * FROM albums a WHERE a.name = 'Det Snurrar I Min Skalle';
+SELECT * FROM albums a WHERE a.name = 'Pra Te Abrigar';
+SELECT * FROM albums a WHERE a.name = 'Viva Mexico';
+SELECT * FROM albums a WHERE a.name = 'Close Cover';
+SELECT * FROM albums a WHERE a.name = 'Dreaming Out Loud';
+SELECT * FROM albums a WHERE a.name = 'Acoustic - The Best Of Souad Massi';
+SELECT * FROM albums a WHERE a.name = 'Skins';
+SELECT * FROM albums a WHERE a.name = 'The Bird Of Music';
+SELECT * FROM albums a WHERE a.name = 'Fuse Box Live & In The Can / King of Fools';
+SELECT * FROM albums a WHERE a.name = 'Day Too Soon';
+SELECT * FROM albums a WHERE a.name = 'Anthem';
+SELECT * FROM albums a WHERE a.name = 'Desert Poems';
+SELECT * FROM albums a WHERE a.name = 'Nafas';
+SELECT * FROM albums a WHERE a.name = 'Giramundo';
+SELECT * FROM albums a WHERE a.name = 'Something is Wrong';
+SELECT * FROM albums a WHERE a.name = 'The Angel And The Dark River';
+SELECT * FROM albums a WHERE a.name = 'As The Flowers Withers';
+SELECT * FROM albums a WHERE a.name = 'Officium';
+SELECT * FROM albums a WHERE a.name = 'Live At The Olympia';
+SELECT * FROM albums a WHERE a.name = 'Werner Pirchner: EU';
+SELECT * FROM albums a WHERE a.name = 'I Hate To Sing';
+SELECT * FROM albums a WHERE a.name = 'Rufus Does Judy At Carnegie Hall';
+SELECT * FROM albums a WHERE a.name = 'Trinity';
+SELECT * FROM albums a WHERE a.name = 'Asile''s World';
+SELECT * FROM albums a WHERE a.name = 'Pearl Days';
+SELECT * FROM albums a WHERE a.name = 'The Way';
+SELECT * FROM albums a WHERE a.name = 'Ein Geschenk';
+SELECT * FROM albums a WHERE a.name = 'Ou Bien Le Débarquement Désastreux';
+SELECT * FROM albums a WHERE a.name = 'Gjallar';
+SELECT * FROM albums a WHERE a.name = 'Metal For Life';
+SELECT * FROM albums a WHERE a.name = 'Shap';
+SELECT * FROM albums a WHERE a.name = 'New Religion';
+SELECT * FROM albums a WHERE a.name = 'The Further Adventures Of Little Voice';
+SELECT * FROM albums a WHERE a.name = 'Farida Khanum: Meri Pasand Vol 1';
+SELECT * FROM albums a WHERE a.name = 'Guitars In Orbit';
+SELECT * FROM albums a WHERE a.name = 'Rumba Blanca';
+SELECT * FROM albums a WHERE a.name = 'Asi Bailaba Cuba Vol.1.2';
+SELECT * FROM albums a WHERE a.name = 'Of The Past';
+SELECT * FROM albums a WHERE a.name = 'Thirty Three & 1/3';
+SELECT * FROM albums a WHERE a.name = 'Sente A Pegada';
+SELECT * FROM albums a WHERE a.name = 'Forróneirando';
+SELECT * FROM albums a WHERE a.name = 'Sand on Seven';
+SELECT * FROM albums a WHERE a.name = 'Encyclopedia of the Insane';
+SELECT * FROM albums a WHERE a.name = 'Gauderiando';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Petula Clark';
+SELECT * FROM albums a WHERE a.name = 'Is You';
+SELECT * FROM albums a WHERE a.name = 'Frédéric Chopin: Walzer';
+SELECT * FROM albums a WHERE a.name = 'Stax-Volt Chartbusters Vol.6';
+SELECT * FROM albums a WHERE a.name = 'Alone- The Home Recordings Of Rivers Cuomo';
+SELECT * FROM albums a WHERE a.name = 'Terraplane';
+SELECT * FROM albums a WHERE a.name = 'Stuck Together With God''s Glue';
+SELECT * FROM albums a WHERE a.name = 'Zman Sukar (Sugar Tme)';
+SELECT * FROM albums a WHERE a.name = 'Lazooz (Move)';
+SELECT * FROM albums a WHERE a.name = 'Homer Mekomi (Local Material)';
+SELECT * FROM albums a WHERE a.name = 'N Stille Runaway';
+SELECT * FROM albums a WHERE a.name = 'Samba Raro';
+SELECT * FROM albums a WHERE a.name = 'Roots - The Best of Show of Hands (Digital-Only Bonus Version)';
+SELECT * FROM albums a WHERE a.name = 'What''s It All About?';
+SELECT * FROM albums a WHERE a.name = 'If He''s Protecting Our Nation_ Then Who Will Protect Big Oil_ Our Children';
+SELECT * FROM albums a WHERE a.name = 'Hey! Piano Man: Selected Boogie Woogie Sides Remastered - CD B';
+SELECT * FROM albums a WHERE a.name = 'Harpslinger';
+SELECT * FROM albums a WHERE a.name = 'The Shoop Shoop Song';
+SELECT * FROM albums a WHERE a.name = 'All Night Long';
+SELECT * FROM albums a WHERE a.name = 'Recuerdos De Provincia';
+SELECT * FROM albums a WHERE a.name = 'Maga (negro)';
+SELECT * FROM albums a WHERE a.name = 'Somnium Obmutum';
+SELECT * FROM albums a WHERE a.name = 'Flash Paper Queen - The 4-Track Demos';
+SELECT * FROM albums a WHERE a.name = 'La venganza de la abuela';
+SELECT * FROM albums a WHERE a.name = 'Berri Txarrak';
+SELECT * FROM albums a WHERE a.name = 'En la kalle';
+SELECT * FROM albums a WHERE a.name = 'Green Thoughts';
+SELECT * FROM albums a WHERE a.name = 'The Best of Westside Connection';
+SELECT * FROM albums a WHERE a.name = 'Lovehate';
+SELECT * FROM albums a WHERE a.name = 'Solo Hits Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Set You Free';
+SELECT * FROM albums a WHERE a.name = 'Riddim Driven: Buy Out';
+SELECT * FROM albums a WHERE a.name = 'Platinum Soca Vol 3';
+SELECT * FROM albums a WHERE a.name = 'Riddim Driven: Flava';
+SELECT * FROM albums a WHERE a.name = 'Riddim Driven: Career';
+SELECT * FROM albums a WHERE a.name = 'Riddim Driven: Cookie Monster & Allo Allo';
+SELECT * FROM albums a WHERE a.name = 'Riddim Driven: Sunlight';
+SELECT * FROM albums a WHERE a.name = 'Sleng Teng Resurrection';
+SELECT * FROM albums a WHERE a.name = 'Riddim Driven: Grindin';
+SELECT * FROM albums a WHERE a.name = 'In The Jungle_ Babe';
+SELECT * FROM albums a WHERE a.name = 'My Love Is Pink';
+SELECT * FROM albums a WHERE a.name = 'Transmetropolitan';
+SELECT * FROM albums a WHERE a.name = 'Wolves';
+SELECT * FROM albums a WHERE a.name = 'Scorpion Tales';
+SELECT * FROM albums a WHERE a.name = 'If Jah';
+SELECT * FROM albums a WHERE a.name = 'Riddim Driven: Golden Bathtub';
+SELECT * FROM albums a WHERE a.name = 'Party Alliance';
+SELECT * FROM albums a WHERE a.name = '1985 Sleng Teng Extravaganza';
+SELECT * FROM albums a WHERE a.name = 'Like A Sadhu EP';
+SELECT * FROM albums a WHERE a.name = 'Live 100';
+SELECT * FROM albums a WHERE a.name = 'Many Moods Of Moses';
+SELECT * FROM albums a WHERE a.name = 'Los Peces';
+SELECT * FROM albums a WHERE a.name = 'Se habla español';
+SELECT * FROM albums a WHERE a.name = 'Jamparalele';
+SELECT * FROM albums a WHERE a.name = 'Christmas Like This';
+SELECT * FROM albums a WHERE a.name = 'Tour 2007';
+SELECT * FROM albums a WHERE a.name = 'Instrumental-Hits in Gold';
+SELECT * FROM albums a WHERE a.name = 'Zion Gates';
+SELECT * FROM albums a WHERE a.name = 'Triple Spin Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Black And White In A Grey World';
+SELECT * FROM albums a WHERE a.name = 'Mendika';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Rolf Harris';
+SELECT * FROM albums a WHERE a.name = 'Opium Haze';
+SELECT * FROM albums a WHERE a.name = 'Up In It';
+SELECT * FROM albums a WHERE a.name = 'Frigid Stars';
+SELECT * FROM albums a WHERE a.name = 'Dayglo';
+SELECT * FROM albums a WHERE a.name = 'The Question Is No';
+SELECT * FROM albums a WHERE a.name = 'Rambo - First Blood';
+SELECT * FROM albums a WHERE a.name = 'The Smoke Of Hell';
+SELECT * FROM albums a WHERE a.name = 'Simpatico';
+SELECT * FROM albums a WHERE a.name = 'Weißes Album';
+SELECT * FROM albums a WHERE a.name = 'One Love - The Best of Ursula Rucker';
+SELECT * FROM albums a WHERE a.name = 'Calling From a Country Phone';
+SELECT * FROM albums a WHERE a.name = 'After the Snow';
+SELECT * FROM albums a WHERE a.name = 'Red House Painters I';
+SELECT * FROM albums a WHERE a.name = 'Elvis Sex-Change';
+SELECT * FROM albums a WHERE a.name = 'Erotic Terrorism';
+SELECT * FROM albums a WHERE a.name = '41';
+SELECT * FROM albums a WHERE a.name = 'Immigrant';
+SELECT * FROM albums a WHERE a.name = 'Hate';
+SELECT * FROM albums a WHERE a.name = 'Something Dangerous';
+SELECT * FROM albums a WHERE a.name = 'Nino Rojo';
+SELECT * FROM albums a WHERE a.name = 'Arular';
+SELECT * FROM albums a WHERE a.name = 'Ewan';
+SELECT * FROM albums a WHERE a.name = 'Mclusky do Dallas';
+SELECT * FROM albums a WHERE a.name = 'My Pain And Sadness is More Sad And Painful Than Yours';
+SELECT * FROM albums a WHERE a.name = 'Seasons';
+SELECT * FROM albums a WHERE a.name = 'The Bucket List';
+SELECT * FROM albums a WHERE a.name = 'The Golden Foretaste of Heaven';
+SELECT * FROM albums a WHERE a.name = 'He''s In The Jailhouse Now';
+SELECT * FROM albums a WHERE a.name = 'So Fine';
+SELECT * FROM albums a WHERE a.name = 'A Higher Calling';
+SELECT * FROM albums a WHERE a.name = 'The Search/Land Speed';
+SELECT * FROM albums a WHERE a.name = 'TNT';
+SELECT * FROM albums a WHERE a.name = 'Flyleaf';
+SELECT * FROM albums a WHERE a.name = 'Just A Little Lovin''';
+SELECT * FROM albums a WHERE a.name = 'I Feel Fo Ya';
+SELECT * FROM albums a WHERE a.name = 'Live: Official Bootleg (Vol. 1)';
+SELECT * FROM albums a WHERE a.name = 'Other Valentines';
+SELECT * FROM albums a WHERE a.name = 'The Pigeon Is The Most Popular Bird';
+SELECT * FROM albums a WHERE a.name = 'Idea [Expanded]';
+SELECT * FROM albums a WHERE a.name = 'Songbird';
+SELECT * FROM albums a WHERE a.name = 'Nuclear Blast Showdown 2007';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Johnny Dankworth';
+SELECT * FROM albums a WHERE a.name = 'The Ups and Downs: A Very Beautiful Collection';
+SELECT * FROM albums a WHERE a.name = 'Alex Loves...';
+SELECT * FROM albums a WHERE a.name = 'Sony Connect Set';
+SELECT * FROM albums a WHERE a.name = 'INKARU';
+SELECT * FROM albums a WHERE a.name = 'Night On Earth';
+SELECT * FROM albums a WHERE a.name = 'The Perpetual Motion';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of';
+SELECT * FROM albums a WHERE a.name = 'LP ESB';
+SELECT * FROM albums a WHERE a.name = 'Ricetta Antirughe';
+SELECT * FROM albums a WHERE a.name = 'U & Me';
+SELECT * FROM albums a WHERE a.name = 'REvolution Live!';
+SELECT * FROM albums a WHERE a.name = 'Leona Williams & Edna Winston (1922-1927)';
+SELECT * FROM albums a WHERE a.name = 'East Coast Invasion - Audiobook';
+SELECT * FROM albums a WHERE a.name = 'Oberon';
+SELECT * FROM albums a WHERE a.name = 'In My Life';
+SELECT * FROM albums a WHERE a.name = 'Sweet Sweet Frenzy';
+SELECT * FROM albums a WHERE a.name = 'Americana - Disk 1';
+SELECT * FROM albums a WHERE a.name = '$ Word is Bond $';
+SELECT * FROM albums a WHERE a.name = 'Swamp Blues';
+SELECT * FROM albums a WHERE a.name = 'On The Sunday Of Life';
+SELECT * FROM albums a WHERE a.name = 'A Perfect Way To Say Goodbuy';
+SELECT * FROM albums a WHERE a.name = 'Battery Milk';
+SELECT * FROM albums a WHERE a.name = 'Cotton Pickin'' Blues';
+SELECT * FROM albums a WHERE a.name = 'Poison Songs - Show Me Your Hits';
+SELECT * FROM albums a WHERE a.name = 'Don''t Sleep';
+SELECT * FROM albums a WHERE a.name = 'Sinthetic';
+SELECT * FROM albums a WHERE a.name = 'As I Am';
+SELECT * FROM albums a WHERE a.name = 'Something To Talk About';
+SELECT * FROM albums a WHERE a.name = 'Temptations';
+SELECT * FROM albums a WHERE a.name = 'Pain Disappears';
+SELECT * FROM albums a WHERE a.name = 'Absolutely The Best';
+SELECT * FROM albums a WHERE a.name = 'Lost And Found: 1960s Pop Volume 2';
+SELECT * FROM albums a WHERE a.name = 'Live';
+SELECT * FROM albums a WHERE a.name = 'The Story So Far';
+SELECT * FROM albums a WHERE a.name = 'Debut Rarities_ vol. 4';
+SELECT * FROM albums a WHERE a.name = 'BatBox';
+SELECT * FROM albums a WHERE a.name = 'The Greeting';
+SELECT * FROM albums a WHERE a.name = 'Fear Not';
+SELECT * FROM albums a WHERE a.name = 'Abhathu Anki';
+SELECT * FROM albums a WHERE a.name = 'Archer Prewitt Live at Schubas 08/14/2004';
+SELECT * FROM albums a WHERE a.name = 'Izzay Terafni';
+SELECT * FROM albums a WHERE a.name = 'Blue Mountain: Tonight It''s Now Or Never--Live At Schubas';
+SELECT * FROM albums a WHERE a.name = 'Boy Zone Live at Cat''s Cradle 12/12/2004';
+SELECT * FROM albums a WHERE a.name = 'Brave Combo Live at Cat''s Cradle 03/13/2005';
+SELECT * FROM albums a WHERE a.name = 'Bumpus Live at Schubas 06/18/2004';
+SELECT * FROM albums a WHERE a.name = 'Cracklin Moth Live at Schubas 07/01/2005';
+SELECT * FROM albums a WHERE a.name = 'Unnatural Causes';
+SELECT * FROM albums a WHERE a.name = 'Dash Rip Rock Live at Schubas 08/13/2005';
+SELECT * FROM albums a WHERE a.name = 'Black for Death - An Icelandic Odyssey part II';
+SELECT * FROM albums a WHERE a.name = 'Icon: Acoustic TV Broadcast';
+SELECT * FROM albums a WHERE a.name = 'Live In Atlanta';
+SELECT * FROM albums a WHERE a.name = 'Sweet Life';
+SELECT * FROM albums a WHERE a.name = 'Rainbow Tales';
+SELECT * FROM albums a WHERE a.name = 'You''ll Never Walk Alone (The EMI Years 1963-1966)';
+SELECT * FROM albums a WHERE a.name = 'Disco Not Disco Digital Edition';
+SELECT * FROM albums a WHERE a.name = 'Jetzt schämst Du Dich!';
+SELECT * FROM albums a WHERE a.name = 'Feeling Good';
+SELECT * FROM albums a WHERE a.name = 'Working Man''s Blues';
+SELECT * FROM albums a WHERE a.name = '15 Aniversario';
+SELECT * FROM albums a WHERE a.name = 'Ravi Shankar Digital Collection 4';
+SELECT * FROM albums a WHERE a.name = 'It Ain''t Me Babe';
+SELECT * FROM albums a WHERE a.name = 'Live At The Gods Festival 2002';
+SELECT * FROM albums a WHERE a.name = 'No Comply';
+SELECT * FROM albums a WHERE a.name = 'Blow Up';
+SELECT * FROM albums a WHERE a.name = 'Fireproof';
+SELECT * FROM albums a WHERE a.name = 'Beat Pyramid';
+SELECT * FROM albums a WHERE a.name = 'Chillout Ambient Christmas';
+SELECT * FROM albums a WHERE a.name = 'Honey - The Best of Bobby Goldsboro';
+SELECT * FROM albums a WHERE a.name = 'Capitol Collectors Series';
+SELECT * FROM albums a WHERE a.name = 'More Music For Films';
+SELECT * FROM albums a WHERE a.name = 'Texas Gold/Comin'' Right At Ya';
+SELECT * FROM albums a WHERE a.name = 'Once Around The World';
+SELECT * FROM albums a WHERE a.name = 'Traditional Sufi Qawwalis - Live in London_ Vol IV';
+SELECT * FROM albums a WHERE a.name = 'Canta O Samba De São Paulo';
+SELECT * FROM albums a WHERE a.name = 'Bob Crosby''s Bobcats';
+SELECT * FROM albums a WHERE a.name = 'Post-Mersh_ Vol. 3';
+SELECT * FROM albums a WHERE a.name = 'I Can See You';
+SELECT * FROM albums a WHERE a.name = 'Governor Jimmie Davis: Louisiana';
+SELECT * FROM albums a WHERE a.name = 'Hank Penny: Crazy Rhythm: The Standard Transcriptions';
+SELECT * FROM albums a WHERE a.name = 'Johhny Bond: Country and Western: The Standard Transcriptions';
+SELECT * FROM albums a WHERE a.name = 'Interstellar Space Revisited (The Music of John Coltrane)';
+SELECT * FROM albums a WHERE a.name = 'Clubber''s Guide to Breakbeat';
+SELECT * FROM albums a WHERE a.name = 'Burn The Incline';
+SELECT * FROM albums a WHERE a.name = '&Gay';
+SELECT * FROM albums a WHERE a.name = 'First LP Record: Collectors Edition';
+SELECT * FROM albums a WHERE a.name = 'Fly The Flag';
+SELECT * FROM albums a WHERE a.name = 'Drowning in Limbo';
+SELECT * FROM albums a WHERE a.name = 'Nipples';
+SELECT * FROM albums a WHERE a.name = 'Waves from Albert Ayler';
+SELECT * FROM albums a WHERE a.name = 'True 50''s love';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Polecats';
+SELECT * FROM albums a WHERE a.name = 'Take Over';
+SELECT * FROM albums a WHERE a.name = 'Sirens';
+SELECT * FROM albums a WHERE a.name = 'Performance';
+SELECT * FROM albums a WHERE a.name = 'Knockin Boots 2001& A Sex Odyssey';
+SELECT * FROM albums a WHERE a.name = 'D.I.G.I.T.A.L.';
+SELECT * FROM albums a WHERE a.name = 'Demonstration Tape (1997-2007)';
+SELECT * FROM albums a WHERE a.name = 'Idolator';
+SELECT * FROM albums a WHERE a.name = 'Irma Chill Out Cafè Volume Sei';
+SELECT * FROM albums a WHERE a.name = 'Unerschuetterliches Selbstvertrauen - Selbst-Management';
+SELECT * FROM albums a WHERE a.name = 'House Is Love - Club Sounds For A Better World';
+SELECT * FROM albums a WHERE a.name = 'Kiss Kiss Bang Bang';
+SELECT * FROM albums a WHERE a.name = 'Bring On The Night';
+SELECT * FROM albums a WHERE a.name = 'Iscariot The Ladder';
+SELECT * FROM albums a WHERE a.name = 'Guitar Christmas';
+SELECT * FROM albums a WHERE a.name = '3 At Last';
+SELECT * FROM albums a WHERE a.name = 'Lección De Vuelo_  Versión 3';
+SELECT * FROM albums a WHERE a.name = 'Tiny Dancer';
+SELECT * FROM albums a WHERE a.name = 'Red Lights';
+SELECT * FROM albums a WHERE a.name = 'State Of Flow';
+SELECT * FROM albums a WHERE a.name = 'Automatic';
+SELECT * FROM albums a WHERE a.name = 'The First Conspiracy';
+SELECT * FROM albums a WHERE a.name = 'End Of The Millennium';
+SELECT * FROM albums a WHERE a.name = '1 World - 0 Future';
+SELECT * FROM albums a WHERE a.name = 'Headcleaner';
+SELECT * FROM albums a WHERE a.name = 'Elegant Machinery';
+SELECT * FROM albums a WHERE a.name = 'Dif Dif';
+SELECT * FROM albums a WHERE a.name = 'The Aftermath';
+SELECT * FROM albums a WHERE a.name = 'Gee Whiz';
+SELECT * FROM albums a WHERE a.name = 'Art Rules';
+SELECT * FROM albums a WHERE a.name = 'Canciones De Amor - Rock';
+SELECT * FROM albums a WHERE a.name = '60''s Rock Instrumental Collection_ Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Real Man';
+SELECT * FROM albums a WHERE a.name = 'Billy Dean';
+SELECT * FROM albums a WHERE a.name = 'Audio Manifesto';
+SELECT * FROM albums a WHERE a.name = 'At The Five Spot_ Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'You''re My Road';
+SELECT * FROM albums a WHERE a.name = 'Smash';
+SELECT * FROM albums a WHERE a.name = 'Cosmic Spring';
+SELECT * FROM albums a WHERE a.name = 'Rancid';
+SELECT * FROM albums a WHERE a.name = 'I Am The Movie';
+SELECT * FROM albums a WHERE a.name = 'How Could Hell Be Any Worse?';
+SELECT * FROM albums a WHERE a.name = 'The Craft';
+SELECT * FROM albums a WHERE a.name = '59.59';
+SELECT * FROM albums a WHERE a.name = 'Lateral';
+SELECT * FROM albums a WHERE a.name = 'Ins offene Messer';
+SELECT * FROM albums a WHERE a.name = 'Life Underwater';
+SELECT * FROM albums a WHERE a.name = 'Definitions';
+SELECT * FROM albums a WHERE a.name = 'The point at which it falls apart';
+SELECT * FROM albums a WHERE a.name = 'Novi Svet';
+SELECT * FROM albums a WHERE a.name = 'that''s nice ep';
+SELECT * FROM albums a WHERE a.name = 'I Love My Sex - Single';
+SELECT * FROM albums a WHERE a.name = 'Shimmers';
+SELECT * FROM albums a WHERE a.name = 'Rocket in the sky - Single';
+SELECT * FROM albums a WHERE a.name = 'Come Up For Air';
+SELECT * FROM albums a WHERE a.name = 'If You Can''t Join ''Em& Beat ''Em';
+SELECT * FROM albums a WHERE a.name = 'Unforgettable';
+SELECT * FROM albums a WHERE a.name = 'The Evening Descends';
+SELECT * FROM albums a WHERE a.name = 'Right On Time';
+SELECT * FROM albums a WHERE a.name = 'The Butterfly Collection';
+SELECT * FROM albums a WHERE a.name = 'Four On The Floor';
+SELECT * FROM albums a WHERE a.name = 'East Los Presents';
+SELECT * FROM albums a WHERE a.name = 'So Long & Thanks For All The Shoes';
+SELECT * FROM albums a WHERE a.name = 'Insider';
+SELECT * FROM albums a WHERE a.name = 'Symbolic';
+SELECT * FROM albums a WHERE a.name = 'The World As We Know It';
+SELECT * FROM albums a WHERE a.name = 'Orange Glow';
+SELECT * FROM albums a WHERE a.name = 'Rockferry';
+SELECT * FROM albums a WHERE a.name = 'The Land Of Freedom';
+SELECT * FROM albums a WHERE a.name = 'Hit Drop Selection';
+SELECT * FROM albums a WHERE a.name = 'Cerca Del Mar';
+SELECT * FROM albums a WHERE a.name = 'Southern Fried & Tested Mixed By The Mighty Dub Katz and Cagedbaby';
+SELECT * FROM albums a WHERE a.name = 'Black Water';
+SELECT * FROM albums a WHERE a.name = 'Pacer';
+SELECT * FROM albums a WHERE a.name = 'Excerpts From A Love Circus';
+SELECT * FROM albums a WHERE a.name = 'New Awakening';
+SELECT * FROM albums a WHERE a.name = 'Fucking Consumer';
+SELECT * FROM albums a WHERE a.name = 'Future';
+SELECT * FROM albums a WHERE a.name = 'Hooray For Everything';
+SELECT * FROM albums a WHERE a.name = 'Showcase Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Showcase';
+SELECT * FROM albums a WHERE a.name = 'No Come Down';
+SELECT * FROM albums a WHERE a.name = 'Rikkaboshi + a';
+SELECT * FROM albums a WHERE a.name = 'Grammy Nominees 2008';
+SELECT * FROM albums a WHERE a.name = 'Discipline';
+SELECT * FROM albums a WHERE a.name = 'Liquid Cocaine';
+SELECT * FROM albums a WHERE a.name = 'Rise';
+SELECT * FROM albums a WHERE a.name = 'Lost & Found: Peter Frampton';
+SELECT * FROM albums a WHERE a.name = 'The Time';
+SELECT * FROM albums a WHERE a.name = 'Something Beautiful';
+SELECT * FROM albums a WHERE a.name = 'Funplex (Remix EP)';
+SELECT * FROM albums a WHERE a.name = 'Heathenreel';
+SELECT * FROM albums a WHERE a.name = 'The Sound Of Bassline';
+SELECT * FROM albums a WHERE a.name = 'Noisy Electro House Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Lurking Fear';
+SELECT * FROM albums a WHERE a.name = 'the badtime stories e.p.';
+SELECT * FROM albums a WHERE a.name = 'Ribosomal (The Remixes)';
+SELECT * FROM albums a WHERE a.name = 'Strangers In The Night - Raritäten & TOP Hits';
+SELECT * FROM albums a WHERE a.name = 'Don''t Give Up Remixes';
+SELECT * FROM albums a WHERE a.name = 'Sweeter Than Fever';
+SELECT * FROM albums a WHERE a.name = 'Chimera';
+SELECT * FROM albums a WHERE a.name = 'Coma Divine (Special Edition)';
+SELECT * FROM albums a WHERE a.name = 'kaotic brain beautiful noise';
+SELECT * FROM albums a WHERE a.name = 'You Don''t Know - Ninja Cuts';
+SELECT * FROM albums a WHERE a.name = 'Covers';
+SELECT * FROM albums a WHERE a.name = 'Wonderful World';
+SELECT * FROM albums a WHERE a.name = 'Ultimate Collection: Lullabies';
+SELECT * FROM albums a WHERE a.name = 'International Standards Remixes';
+SELECT * FROM albums a WHERE a.name = 'presents: No Elevador EP';
+SELECT * FROM albums a WHERE a.name = 'Gunjan';
+SELECT * FROM albums a WHERE a.name = 'David Mead Live at Schubas 06/10/2006';
+SELECT * FROM albums a WHERE a.name = 'Live And Still Kickin''';
+SELECT * FROM albums a WHERE a.name = 'The Mix';
+SELECT * FROM albums a WHERE a.name = 'Every Day Is Saturday';
+SELECT * FROM albums a WHERE a.name = 'Wolfgang Amadeus Mozart Serenades';
+SELECT * FROM albums a WHERE a.name = 'Off Da Hook';
+SELECT * FROM albums a WHERE a.name = 'Comedy & Romance';
+SELECT * FROM albums a WHERE a.name = 'King Of The Hillbillies_ Vol. I_ CD A';
+SELECT * FROM albums a WHERE a.name = 'Un Mundo De Sensaciones';
+SELECT * FROM albums a WHERE a.name = 'No Es Nada Facil';
+SELECT * FROM albums a WHERE a.name = 'My Radio - Single';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of Hazel Dean';
+SELECT * FROM albums a WHERE a.name = 'Rapture Reconstruction: Platinum Edition';
+SELECT * FROM albums a WHERE a.name = 'Memories Of You';
+SELECT * FROM albums a WHERE a.name = 'Favourite Sounds Of Petula Clark Volume 1';
+SELECT * FROM albums a WHERE a.name = '10 años de Mártires';
+SELECT * FROM albums a WHERE a.name = 'Las aceras estan llenas de piojos';
+SELECT * FROM albums a WHERE a.name = 'El Pan y la Sal';
+SELECT * FROM albums a WHERE a.name = 'At Carnegie Hall';
+SELECT * FROM albums a WHERE a.name = 'Sean-Nos Nua';
+SELECT * FROM albums a WHERE a.name = 'Utazás az ismeretlenbe 2';
+SELECT * FROM albums a WHERE a.name = 'Live In New Orleans';
+SELECT * FROM albums a WHERE a.name = 'Lars and the Real Girl';
+SELECT * FROM albums a WHERE a.name = 'Vivo_ 17 grandes exitos en directo';
+SELECT * FROM albums a WHERE a.name = 'São João Vivo';
+SELECT * FROM albums a WHERE a.name = 'Time-the Destroyer';
+SELECT * FROM albums a WHERE a.name = 'Archetype';
+SELECT * FROM albums a WHERE a.name = 'Died Laughing';
+SELECT * FROM albums a WHERE a.name = 'I Had Love';
+SELECT * FROM albums a WHERE a.name = 'Lo mejor de Manzanita';
+SELECT * FROM albums a WHERE a.name = 'Inner Conflicts';
+SELECT * FROM albums a WHERE a.name = 'Do You Wanna Ride?';
+SELECT * FROM albums a WHERE a.name = 'Places';
+SELECT * FROM albums a WHERE a.name = 'The Faithless';
+SELECT * FROM albums a WHERE a.name = 'Que grande es esto del amor';
+SELECT * FROM albums a WHERE a.name = 'Trini Lopez Now!';
+SELECT * FROM albums a WHERE a.name = 'So Far From Home';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of';
+SELECT * FROM albums a WHERE a.name = 'Peace Sign';
+SELECT * FROM albums a WHERE a.name = 'Chrome_ Smoke & BBQ: The ZZ Top Box';
+SELECT * FROM albums a WHERE a.name = '5:55';
+SELECT * FROM albums a WHERE a.name = 'Searching For The Hows And Whys';
+SELECT * FROM albums a WHERE a.name = 'A Mad And Faithful Telling';
+SELECT * FROM albums a WHERE a.name = 'Movement';
+SELECT * FROM albums a WHERE a.name = 'Trabajito de chinos';
+SELECT * FROM albums a WHERE a.name = 'Live Bootleg';
+SELECT * FROM albums a WHERE a.name = 'Ugly';
+SELECT * FROM albums a WHERE a.name = 'Never Be Taken Alive';
+SELECT * FROM albums a WHERE a.name = 'Be Original';
+SELECT * FROM albums a WHERE a.name = 'Freedom';
+SELECT * FROM albums a WHERE a.name = 'A Book Like This';
+SELECT * FROM albums a WHERE a.name = 'MY Trance Anthems - Future & Classic Trance';
+SELECT * FROM albums a WHERE a.name = 'Planetary / City Tales';
+SELECT * FROM albums a WHERE a.name = 'Wishmaster';
+SELECT * FROM albums a WHERE a.name = 'For Emma_ Forever Ago';
+SELECT * FROM albums a WHERE a.name = 'Fire And Water';
+SELECT * FROM albums a WHERE a.name = 'Attack & Release';
+SELECT * FROM albums a WHERE a.name = 'Antidotes';
+SELECT * FROM albums a WHERE a.name = 'Adama';
+SELECT * FROM albums a WHERE a.name = 'Absurda Cenicienta';
+SELECT * FROM albums a WHERE a.name = 'Colleen Et Les Boîtes À Musique';
+SELECT * FROM albums a WHERE a.name = 'Strangers Almanac [Deluxe Edition]';
+SELECT * FROM albums a WHERE a.name = 'Soul Speak';
+SELECT * FROM albums a WHERE a.name = 'Super Deluxe';
+SELECT * FROM albums a WHERE a.name = 'Cantus Buranus Live In Berlin';
+SELECT * FROM albums a WHERE a.name = 'That Is Why You''re Overweight';
+SELECT * FROM albums a WHERE a.name = 'Spheres';
+SELECT * FROM albums a WHERE a.name = 'Tormenta A Las Diez';
+SELECT * FROM albums a WHERE a.name = 'After Hours Volume Six';
+SELECT * FROM albums a WHERE a.name = 'Cheeses';
+SELECT * FROM albums a WHERE a.name = 'Musical Chairs';
+SELECT * FROM albums a WHERE a.name = 'Communication';
+SELECT * FROM albums a WHERE a.name = 'Accelerate';
+SELECT * FROM albums a WHERE a.name = 'Go Bang! Volume 1';
+SELECT * FROM albums a WHERE a.name = 'The Green Owl Comp: A Benefit For The Energy Action Coalition';
+SELECT * FROM albums a WHERE a.name = 'Moontraveler';
+SELECT * FROM albums a WHERE a.name = 'Cal y Arena';
+SELECT * FROM albums a WHERE a.name = 'Radikal';
+SELECT * FROM albums a WHERE a.name = 'Ángeles S.A.';
+SELECT * FROM albums a WHERE a.name = 'Rata Blanca En Vivo En Buenos Aires';
+SELECT * FROM albums a WHERE a.name = 'Live At The BBC';
+SELECT * FROM albums a WHERE a.name = 'Colour Collection';
+SELECT * FROM albums a WHERE a.name = 'Una Guitarra En Granada';
+SELECT * FROM albums a WHERE a.name = 'Night Games';
+SELECT * FROM albums a WHERE a.name = 'Alta Fidelidad';
+SELECT * FROM albums a WHERE a.name = 'De Gainsbourg A Gainsbarre';
+SELECT * FROM albums a WHERE a.name = 'Pure Fire! A Gilles Peterson Impulse Collection';
+SELECT * FROM albums a WHERE a.name = 'Tercera Parada';
+SELECT * FROM albums a WHERE a.name = 'Hellfire Club';
+SELECT * FROM albums a WHERE a.name = 'Alone In The Dark';
+SELECT * FROM albums a WHERE a.name = 'Solar Soul';
+SELECT * FROM albums a WHERE a.name = 'Everywhere At Once';
+SELECT * FROM albums a WHERE a.name = 'Boozoo Chavis';
+SELECT * FROM albums a WHERE a.name = 'Studio 330 Sessions';
+SELECT * FROM albums a WHERE a.name = 'Ihmisten edessä';
+SELECT * FROM albums a WHERE a.name = 'Por Quê Ultraje A Rigor?';
+SELECT * FROM albums a WHERE a.name = 'Glory Days';
+SELECT * FROM albums a WHERE a.name = 'Skin';
+SELECT * FROM albums a WHERE a.name = 'Ilta Savoyssa';
+SELECT * FROM albums a WHERE a.name = 'Survivor Concert';
+SELECT * FROM albums a WHERE a.name = 'Pot Boiler';
+SELECT * FROM albums a WHERE a.name = 'The Resterberg';
+SELECT * FROM albums a WHERE a.name = 'Morricone RMX';
+SELECT * FROM albums a WHERE a.name = 'Good Weird Feeling';
+SELECT * FROM albums a WHERE a.name = 'French Kiss';
+SELECT * FROM albums a WHERE a.name = 'Pogo (Remixes 2008 EP)';
+SELECT * FROM albums a WHERE a.name = 'I_ Lucifer';
+SELECT * FROM albums a WHERE a.name = 'Years on the road';
+SELECT * FROM albums a WHERE a.name = 'My Heart Rate Rapid';
+SELECT * FROM albums a WHERE a.name = 'Segundo';
+SELECT * FROM albums a WHERE a.name = '20 Suosikkia / Jätkän humppa';
+SELECT * FROM albums a WHERE a.name = 'Two Bad D.J.';
+SELECT * FROM albums a WHERE a.name = 'Buscando Un Amor';
+SELECT * FROM albums a WHERE a.name = 'Menos Jóvenes Más Clásicos';
+SELECT * FROM albums a WHERE a.name = 'Downright Upright';
+SELECT * FROM albums a WHERE a.name = 'Here Come The Tears';
+SELECT * FROM albums a WHERE a.name = 'Inventions for the New Season';
+SELECT * FROM albums a WHERE a.name = 'Star < Parallel';
+SELECT * FROM albums a WHERE a.name = 'Dead Can Dance (Remastered)';
+SELECT * FROM albums a WHERE a.name = 'Horton Hears A Who!';
+SELECT * FROM albums a WHERE a.name = 'Deep Elm: Forty-Fives';
+SELECT * FROM albums a WHERE a.name = 'The Life and Timez of the Mob Figaz';
+SELECT * FROM albums a WHERE a.name = 'Beloved One';
+SELECT * FROM albums a WHERE a.name = 'Apocalicious';
+SELECT * FROM albums a WHERE a.name = 'Esqueletos';
+SELECT * FROM albums a WHERE a.name = 'Liberty Toast';
+SELECT * FROM albums a WHERE a.name = 'The Last Temptation Of Reid';
+SELECT * FROM albums a WHERE a.name = 'Thizz Nation Volume 13';
+SELECT * FROM albums a WHERE a.name = 'The Fourth Plague: Flies';
+SELECT * FROM albums a WHERE a.name = 'Heaven (Digital Single)';
+SELECT * FROM albums a WHERE a.name = 'The Promise in Compromise';
+SELECT * FROM albums a WHERE a.name = 'Never Or Now';
+SELECT * FROM albums a WHERE a.name = 'Hentch-Forth.Five';
+SELECT * FROM albums a WHERE a.name = 'Split Decision';
+SELECT * FROM albums a WHERE a.name = 'Wenn Du aus dem Fenster siehst';
+SELECT * FROM albums a WHERE a.name = 'Funny Business : The Best of Uproar Comedy Volume 2';
+SELECT * FROM albums a WHERE a.name = 'Reach';
+SELECT * FROM albums a WHERE a.name = 'Live! At The Dance';
+SELECT * FROM albums a WHERE a.name = 'Sound of Light - Nordic Light Hotel';
+SELECT * FROM albums a WHERE a.name = '$35 And A Dream';
+SELECT * FROM albums a WHERE a.name = 'The Cult Of Ray';
+SELECT * FROM albums a WHERE a.name = 'England_ Half English';
+SELECT * FROM albums a WHERE a.name = 'Magician Among The Spirits And Some';
+SELECT * FROM albums a WHERE a.name = 'Elephant Eyelash';
+SELECT * FROM albums a WHERE a.name = 'DJ Goldfingers : Les Yeux dans la Banlieue';
+SELECT * FROM albums a WHERE a.name = 'Raw Electric 1979-1980';
+SELECT * FROM albums a WHERE a.name = '13 pezzi per svuotare la pista';
+SELECT * FROM albums a WHERE a.name = '7 Respiri';
+SELECT * FROM albums a WHERE a.name = 'Penny And Me';
+SELECT * FROM albums a WHERE a.name = 'The Night Before Christmas 2';
+SELECT * FROM albums a WHERE a.name = 'Dial M-A-C-E-O';
+SELECT * FROM albums a WHERE a.name = 'Heat Miser';
+SELECT * FROM albums a WHERE a.name = 'The Boy Bands Have Won';
+SELECT * FROM albums a WHERE a.name = 'The Dream Merchant 2';
+SELECT * FROM albums a WHERE a.name = 'Dance Party In The Balkans';
+SELECT * FROM albums a WHERE a.name = 'A Picture Of The Three Of Us At The Gate To The Garden Of Eden';
+SELECT * FROM albums a WHERE a.name = 'My Body - The Pistol';
+SELECT * FROM albums a WHERE a.name = 'At Cafe Des Copains';
+SELECT * FROM albums a WHERE a.name = 'There Should Be More Dancing';
+SELECT * FROM albums a WHERE a.name = 'Think About Life';
+SELECT * FROM albums a WHERE a.name = 'Blackthorn: Irish Love Songs - An Draighnen Donn: Amhrián Grá';
+SELECT * FROM albums a WHERE a.name = 'Jazz Grooves';
+SELECT * FROM albums a WHERE a.name = 'Giving Machines';
+SELECT * FROM albums a WHERE a.name = 'Stay Tru';
+SELECT * FROM albums a WHERE a.name = 'LIVE [at the Echo - December 21st_ 2007]';
+SELECT * FROM albums a WHERE a.name = '10 Bare Essentials';
+SELECT * FROM albums a WHERE a.name = 'October';
+SELECT * FROM albums a WHERE a.name = 'Take Me To The Continent';
+SELECT * FROM albums a WHERE a.name = 'Western Stars - The Bands That Built Bristol Vol. 1';
+SELECT * FROM albums a WHERE a.name = '2 Unlimited';
+SELECT * FROM albums a WHERE a.name = 'Unforgettable';
+SELECT * FROM albums a WHERE a.name = 'The Truth';
+SELECT * FROM albums a WHERE a.name = 'Stratégie De La Rupture';
+SELECT * FROM albums a WHERE a.name = 'Enjoy CCCP (2008 Remastered Edition)';
+SELECT * FROM albums a WHERE a.name = 'The Individuals Are Born';
+SELECT * FROM albums a WHERE a.name = 'Casa de Praia';
+SELECT * FROM albums a WHERE a.name = 'I Know Youre Married But Ive Got Feelings Too';
+SELECT * FROM albums a WHERE a.name = 'Allennig II';
+SELECT * FROM albums a WHERE a.name = 'Aware';
+SELECT * FROM albums a WHERE a.name = 'Mudcrutch';
+SELECT * FROM albums a WHERE a.name = 'Just Me';
+SELECT * FROM albums a WHERE a.name = 'Some Time Ago (A Collection Of Her Finest Moments)';
+SELECT * FROM albums a WHERE a.name = 'Tiny Vipers';
+SELECT * FROM albums a WHERE a.name = 'Conector';
+SELECT * FROM albums a WHERE a.name = 'The Lure of the Tropics';
+SELECT * FROM albums a WHERE a.name = 'Ethiopiques vol 4 (ethiojazz)';
+SELECT * FROM albums a WHERE a.name = 'On the Inside';
+SELECT * FROM albums a WHERE a.name = 'Miss Machine';
+SELECT * FROM albums a WHERE a.name = 'Onward To Golgotha';
+SELECT * FROM albums a WHERE a.name = 'Flat Tracker';
+SELECT * FROM albums a WHERE a.name = 'Stigmata High-Five';
+SELECT * FROM albums a WHERE a.name = 'This Is Rose Maddox';
+SELECT * FROM albums a WHERE a.name = 'Fresh Fruit For Rotting Vegetables (Digital Version)';
+SELECT * FROM albums a WHERE a.name = 'Hello_ Avalanche';
+SELECT * FROM albums a WHERE a.name = 'Holi''De''';
+SELECT * FROM albums a WHERE a.name = 'The Road Home';
+SELECT * FROM albums a WHERE a.name = 'And Did Those Feet';
+SELECT * FROM albums a WHERE a.name = 'Make ''em Like It';
+SELECT * FROM albums a WHERE a.name = 'Terrain vague';
+SELECT * FROM albums a WHERE a.name = 'The Bluff';
+SELECT * FROM albums a WHERE a.name = 'Reproductions';
+SELECT * FROM albums a WHERE a.name = 'Is This Real';
+SELECT * FROM albums a WHERE a.name = 'Me Equivoque';
+SELECT * FROM albums a WHERE a.name = 'Friendly Pressure';
+SELECT * FROM albums a WHERE a.name = 'Krulle Bol';
+SELECT * FROM albums a WHERE a.name = 'The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition';
+SELECT * FROM albums a WHERE a.name = 'Gather Up';
+SELECT * FROM albums a WHERE a.name = 'Wish Me Luck';
+SELECT * FROM albums a WHERE a.name = 'Racine 2';
+SELECT * FROM albums a WHERE a.name = 'The Lone E.P.';
+SELECT * FROM albums a WHERE a.name = 'Diamond In the Rough';
+SELECT * FROM albums a WHERE a.name = 'Ire Works';
+SELECT * FROM albums a WHERE a.name = 'Aren''t Ready for the Country';
+SELECT * FROM albums a WHERE a.name = 'The Missing Years';
+SELECT * FROM albums a WHERE a.name = 'Suspicion';
+SELECT * FROM albums a WHERE a.name = 'Rawkus 50 Presents Hunger Strike';
+SELECT * FROM albums a WHERE a.name = 'Rawkus 50 Presents theBREAX';
+SELECT * FROM albums a WHERE a.name = 'Rebekah Higgs';
+SELECT * FROM albums a WHERE a.name = 'Keeping Company With Dinah';
+SELECT * FROM albums a WHERE a.name = 'So In Love - Original Recordings 1947-52';
+SELECT * FROM albums a WHERE a.name = 'Crisis';
+SELECT * FROM albums a WHERE a.name = 'Landungsbrücken Raus EP';
+SELECT * FROM albums a WHERE a.name = 'A2G EP';
+SELECT * FROM albums a WHERE a.name = 'Suite Flamenca';
+SELECT * FROM albums a WHERE a.name = 'Porno ''75';
+SELECT * FROM albums a WHERE a.name = 'Staying on the Watch';
+SELECT * FROM albums a WHERE a.name = 'Panteón Rococó';
+SELECT * FROM albums a WHERE a.name = 'Un Okupa En Tu Corazon';
+SELECT * FROM albums a WHERE a.name = 'Phoney Phranchise';
+SELECT * FROM albums a WHERE a.name = 'Icons';
+SELECT * FROM albums a WHERE a.name = 'Bambino Vol 1';
+SELECT * FROM albums a WHERE a.name = 'Efecto Mariposa';
+SELECT * FROM albums a WHERE a.name = 'It''s All About Love';
+SELECT * FROM albums a WHERE a.name = 'Ghetto-ology + Dub';
+SELECT * FROM albums a WHERE a.name = 'Ayer Y Hoy';
+SELECT * FROM albums a WHERE a.name = 'Los Chichos Sus 22 Mejores Canciones';
+SELECT * FROM albums a WHERE a.name = 'Cuerpo A Cuerpo';
+SELECT * FROM albums a WHERE a.name = 'America America';
+SELECT * FROM albums a WHERE a.name = 'Pre-Emptive Strike';
+SELECT * FROM albums a WHERE a.name = 'The Fast and The Furious';
+SELECT * FROM albums a WHERE a.name = 'Brian Regan Live';
+SELECT * FROM albums a WHERE a.name = 'New Girl In Town';
+SELECT * FROM albums a WHERE a.name = 'In All the Wrong Places/ Give Thanks';
+SELECT * FROM albums a WHERE a.name = 'A Singsong and a Scrap';
+SELECT * FROM albums a WHERE a.name = 'Overnite Encore: Lyrics Born Live!';
+SELECT * FROM albums a WHERE a.name = 'Prospects';
+SELECT * FROM albums a WHERE a.name = 'The Mob Gets Explosive - Explosive Mode III';
+SELECT * FROM albums a WHERE a.name = 'I Heard They Suck Live!';
+SELECT * FROM albums a WHERE a.name = 'Live From Toronto: Songs In The Key Of Eh';
+SELECT * FROM albums a WHERE a.name = 'Quality Soft Core';
+SELECT * FROM albums a WHERE a.name = 'Cognicide';
+SELECT * FROM albums a WHERE a.name = 'Pucker Up!';
+SELECT * FROM albums a WHERE a.name = 'Hard Act To Follow';
+SELECT * FROM albums a WHERE a.name = 'Hold Me To It';
+SELECT * FROM albums a WHERE a.name = 'Working Man';
+SELECT * FROM albums a WHERE a.name = 'Exception To The Rule';
+SELECT * FROM albums a WHERE a.name = 'Picture This';
+SELECT * FROM albums a WHERE a.name = 'Soul Shaker';
+SELECT * FROM albums a WHERE a.name = 'Believe It!';
+SELECT * FROM albums a WHERE a.name = 'Cien Por Ciento';
+SELECT * FROM albums a WHERE a.name = 'Por El Mismo Camino';
+SELECT * FROM albums a WHERE a.name = 'En Vivo';
+SELECT * FROM albums a WHERE a.name = 'Mal O Bien';
+SELECT * FROM albums a WHERE a.name = 'Larry Levan''s Classic West End Records Remixes Made Famous At The Legendary Paradise Garage';
+SELECT * FROM albums a WHERE a.name = 'Black Holes And Revelations';
+SELECT * FROM albums a WHERE a.name = 'Bayou Bluegrass';
+SELECT * FROM albums a WHERE a.name = 'Reverie';
+SELECT * FROM albums a WHERE a.name = 'Néochrome 2';
+SELECT * FROM albums a WHERE a.name = 'Deep Elm Unreleased No. 4';
+SELECT * FROM albums a WHERE a.name = 'Atlanta Boys';
+SELECT * FROM albums a WHERE a.name = 'After The Last';
+SELECT * FROM albums a WHERE a.name = 'The Gospel Collection';
+SELECT * FROM albums a WHERE a.name = 'Sex';
+SELECT * FROM albums a WHERE a.name = 'The Man Who Couldn''t Say No';
+SELECT * FROM albums a WHERE a.name = 'Here Comes Cleo';
+SELECT * FROM albums a WHERE a.name = 'Just Like That - Remixes V2';
+SELECT * FROM albums a WHERE a.name = 'Kar Kar';
+SELECT * FROM albums a WHERE a.name = 'Medicine Fuck Dream';
+SELECT * FROM albums a WHERE a.name = 'Compadre''s Texas Outlaws';
+SELECT * FROM albums a WHERE a.name = 'Scenic Overlook';
+SELECT * FROM albums a WHERE a.name = 'Sea Lion';
+SELECT * FROM albums a WHERE a.name = 'I Got The Guns';
+SELECT * FROM albums a WHERE a.name = 'Champions Of Magic';
+SELECT * FROM albums a WHERE a.name = 'The World We Live In';
+SELECT * FROM albums a WHERE a.name = 'After The Day - The Radio Broadcasts 1974 -1976';
+SELECT * FROM albums a WHERE a.name = 'Are You Ready For The Big Show?';
+SELECT * FROM albums a WHERE a.name = 'When The Telephone Rings';
+SELECT * FROM albums a WHERE a.name = 'West On 40';
+SELECT * FROM albums a WHERE a.name = 'Was nicht passt_ wird passend gemacht.';
+SELECT * FROM albums a WHERE a.name = 'Imagine Me';
+SELECT * FROM albums a WHERE a.name = 'I Am Still';
+SELECT * FROM albums a WHERE a.name = 'The Middle Of Nowhere';
+SELECT * FROM albums a WHERE a.name = 'Aijuswanaseing';
+SELECT * FROM albums a WHERE a.name = 'Awake Live';
+SELECT * FROM albums a WHERE a.name = 'Inventor Of Evil';
+SELECT * FROM albums a WHERE a.name = 'The Lemonade Ocean';
+SELECT * FROM albums a WHERE a.name = 'Verschwende dich nicht';
+SELECT * FROM albums a WHERE a.name = 'Tale Of Two Cities';
+SELECT * FROM albums a WHERE a.name = 'Seitsemän Surman Siunausliitto';
+SELECT * FROM albums a WHERE a.name = 'Don''t Lose The Magic';
+SELECT * FROM albums a WHERE a.name = 'ESSENTIAL 08';
+SELECT * FROM albums a WHERE a.name = 'The Old Rugged Cross';
+SELECT * FROM albums a WHERE a.name = 'Up Your Chimney';
+SELECT * FROM albums a WHERE a.name = 'Sea of the Dying Dhow';
+SELECT * FROM albums a WHERE a.name = 'Right On Time';
+SELECT * FROM albums a WHERE a.name = 'Houston';
+SELECT * FROM albums a WHERE a.name = 'Hala Strana';
+SELECT * FROM albums a WHERE a.name = 'In the Blood';
+SELECT * FROM albums a WHERE a.name = 'Come Get Some';
+SELECT * FROM albums a WHERE a.name = 'Corsario Negro';
+SELECT * FROM albums a WHERE a.name = 'Relapse';
+SELECT * FROM albums a WHERE a.name = 'Picture This...';
+SELECT * FROM albums a WHERE a.name = 'Bastards & Rarities 1989-1994';
+SELECT * FROM albums a WHERE a.name = 'Hell And High Water';
+SELECT * FROM albums a WHERE a.name = 'The Rules of the Game';
+SELECT * FROM albums a WHERE a.name = 'Rawk n'' Roll';
+SELECT * FROM albums a WHERE a.name = 'Discos Fuentes Salsa All Stars- La Biblia De La Salsa Vol. 1 & 2';
+SELECT * FROM albums a WHERE a.name = 'Evocando A The Beatles';
+SELECT * FROM albums a WHERE a.name = 'Devil in the Drain (Expanded)';
+SELECT * FROM albums a WHERE a.name = 'Introducing&';
+SELECT * FROM albums a WHERE a.name = 'To Whom It May Concern';
+SELECT * FROM albums a WHERE a.name = 'Believe';
+SELECT * FROM albums a WHERE a.name = 'So Begins the Test of a Man';
+SELECT * FROM albums a WHERE a.name = 'Can''t Buy Time';
+SELECT * FROM albums a WHERE a.name = 'Help Yourself';
+SELECT * FROM albums a WHERE a.name = 'Irish Folk Songs And Airs';
+SELECT * FROM albums a WHERE a.name = 'Boleros In Trío';
+SELECT * FROM albums a WHERE a.name = 'Jimi Hendrix - His Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Never Surrender (Part Three)';
+SELECT * FROM albums a WHERE a.name = 'The Day I Turned To Glass';
+SELECT * FROM albums a WHERE a.name = 'Sam Mangwana Sings Dino Vangu';
+SELECT * FROM albums a WHERE a.name = 'Download';
+SELECT * FROM albums a WHERE a.name = 'Rumba Del Barrio';
+SELECT * FROM albums a WHERE a.name = 'La Tariacuri';
+SELECT * FROM albums a WHERE a.name = 'The Audio of Being';
+SELECT * FROM albums a WHERE a.name = 'Legacy';
+SELECT * FROM albums a WHERE a.name = 'Endless Pain';
+SELECT * FROM albums a WHERE a.name = 'The Transcription Performances 1946';
+SELECT * FROM albums a WHERE a.name = 'Beautiful Bend';
+SELECT * FROM albums a WHERE a.name = 'Viva El Mariachi Vol. 5';
+SELECT * FROM albums a WHERE a.name = 'Ultimate New Orleans';
+SELECT * FROM albums a WHERE a.name = 'Blessed Be This Nightmare';
+SELECT * FROM albums a WHERE a.name = 'Feel Like A Rocket';
+SELECT * FROM albums a WHERE a.name = 'Haran';
+SELECT * FROM albums a WHERE a.name = 'Stompin'' Around';
+SELECT * FROM albums a WHERE a.name = 'dB Jams Volume 3';
+SELECT * FROM albums a WHERE a.name = 'The Pat Patrick Band';
+SELECT * FROM albums a WHERE a.name = 'Now Hear This';
+SELECT * FROM albums a WHERE a.name = 'Finzi: Nocturne_ Severn Rhapsody_ Eclogue_ etc';
+SELECT * FROM albums a WHERE a.name = 'Last Train To Dover';
+SELECT * FROM albums a WHERE a.name = 'Freestyle Frenzy Vol. 6';
+SELECT * FROM albums a WHERE a.name = 'Freestyle''s Greatest Moments Vol. 2';
+SELECT * FROM albums a WHERE a.name = '30 Del Recuerdo';
+SELECT * FROM albums a WHERE a.name = 'The Master''s Bedroom Is Worth Spending a Night In';
+SELECT * FROM albums a WHERE a.name = 'From Tokyo To Naiagara';
+SELECT * FROM albums a WHERE a.name = 'Etiquette';
+SELECT * FROM albums a WHERE a.name = 'Sangue Puro';
+SELECT * FROM albums a WHERE a.name = 'Warchild';
+SELECT * FROM albums a WHERE a.name = 'Bargrooves Bar Anthems';
+SELECT * FROM albums a WHERE a.name = 'Energía Inagotable';
+SELECT * FROM albums a WHERE a.name = 'Inheritance';
+SELECT * FROM albums a WHERE a.name = 'La Chiqui Big Band';
+SELECT * FROM albums a WHERE a.name = 'Daddy O';
+SELECT * FROM albums a WHERE a.name = 'My Paper Made Men';
+SELECT * FROM albums a WHERE a.name = '4 Life';
+SELECT * FROM albums a WHERE a.name = 'Singles Box Set - HMV Parlophone Singles ''91-95''';
+SELECT * FROM albums a WHERE a.name = 'Wild & Wicked';
+SELECT * FROM albums a WHERE a.name = 'Valentine Kid''s Litter';
+SELECT * FROM albums a WHERE a.name = 'Curious?';
+SELECT * FROM albums a WHERE a.name = 'Daybreak';
+SELECT * FROM albums a WHERE a.name = 'Forever On The Edge';
+SELECT * FROM albums a WHERE a.name = 'Crosspross Bells';
+SELECT * FROM albums a WHERE a.name = 'Pokhititeli Knig / Book Thieves';
+SELECT * FROM albums a WHERE a.name = 'In This Place';
+SELECT * FROM albums a WHERE a.name = '1980-1981: I Wanna Kill My Mom!!!';
+SELECT * FROM albums a WHERE a.name = 'Live And Rockin';
+SELECT * FROM albums a WHERE a.name = 'Watch Your Money';
+SELECT * FROM albums a WHERE a.name = 'All Lingo''s Clamor';
+SELECT * FROM albums a WHERE a.name = 'Economy of Motion';
+SELECT * FROM albums a WHERE a.name = 'Only You_ O God: Simple Songs for Worship';
+SELECT * FROM albums a WHERE a.name = 'The Carbon Copy Building';
+SELECT * FROM albums a WHERE a.name = 'Canta Como: Selena';
+SELECT * FROM albums a WHERE a.name = 'Serious Matter Dub';
+SELECT * FROM albums a WHERE a.name = 'Greatest hits Live with Sly & Robbie';
+SELECT * FROM albums a WHERE a.name = 'Summer Nights';
+SELECT * FROM albums a WHERE a.name = 'Los Titanes - Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Sweet Wivelsfield';
+SELECT * FROM albums a WHERE a.name = 'Los Años De Oro - La Carta De Sus Éxitos';
+SELECT * FROM albums a WHERE a.name = 'Timeless Kiss ~ The Best Romantic Piano Music from Four Winds Kiss and Classic Romance Series';
+SELECT * FROM albums a WHERE a.name = 'Stars Of Hard Salsa';
+SELECT * FROM albums a WHERE a.name = 'Whoop That Trick Screwed and Chopped';
+SELECT * FROM albums a WHERE a.name = 'Horse Feathers / Animal Crackers';
+SELECT * FROM albums a WHERE a.name = '6:AM';
+SELECT * FROM albums a WHERE a.name = 'Invencibles';
+SELECT * FROM albums a WHERE a.name = 'Cold Enough To Snow';
+SELECT * FROM albums a WHERE a.name = 'Organic Grooves 4- Live in NYC';
+SELECT * FROM albums a WHERE a.name = 'Stillbirth';
+SELECT * FROM albums a WHERE a.name = 'Queda Algo';
+SELECT * FROM albums a WHERE a.name = 'Sly & Robbie Present The Punishers';
+SELECT * FROM albums a WHERE a.name = 'On Top';
+SELECT * FROM albums a WHERE a.name = 'Ear Hines - Teddy Wilson - Art Tatum_ The Magicians of the Swing Piano - The Originals Series';
+SELECT * FROM albums a WHERE a.name = 'Jah Chas Ska';
+SELECT * FROM albums a WHERE a.name = 'Purpurina 37';
+SELECT * FROM albums a WHERE a.name = 'LIVE [in Spaceland - June 13th_ 2007]';
+SELECT * FROM albums a WHERE a.name = 'Rad Jackson';
+SELECT * FROM albums a WHERE a.name = 'Vietnam';
+SELECT * FROM albums a WHERE a.name = 'Mutilated In Minutes';
+SELECT * FROM albums a WHERE a.name = 'Kings Are Coming - The Freestyles';
+SELECT * FROM albums a WHERE a.name = 'Destroy The New Rock';
+SELECT * FROM albums a WHERE a.name = 'Karaoke : The Best Of Hip-Hop Volume 6';
+SELECT * FROM albums a WHERE a.name = 'Por Siempre';
+SELECT * FROM albums a WHERE a.name = 'The Funeral March';
+SELECT * FROM albums a WHERE a.name = 'Jellybean Soul Presents: Feel the Spirit_ Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Mercury Blues';
+SELECT * FROM albums a WHERE a.name = 'Steinway to Heaven';
+SELECT * FROM albums a WHERE a.name = 'Snooky';
+SELECT * FROM albums a WHERE a.name = 'Ginmill Perfume - The Story So Far 1995-2000';
+SELECT * FROM albums a WHERE a.name = 'Smoke! Smoke! Smoke!';
+SELECT * FROM albums a WHERE a.name = 'Melancholia';
+SELECT * FROM albums a WHERE a.name = 'Classic Years Vol 2';
+SELECT * FROM albums a WHERE a.name = 'Raw Blues Vol. 3';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Clifton Chenier';
+SELECT * FROM albums a WHERE a.name = 'Opelousa Waltz';
+SELECT * FROM albums a WHERE a.name = 'Nashville Country Gals_ Volume 2';
+SELECT * FROM albums a WHERE a.name = 'Mellow Mood';
+SELECT * FROM albums a WHERE a.name = 'Powerful Music';
+SELECT * FROM albums a WHERE a.name = 'Tour 2007';
+SELECT * FROM albums a WHERE a.name = 'In the Eyes of God';
+SELECT * FROM albums a WHERE a.name = 'Canada Songs';
+SELECT * FROM albums a WHERE a.name = 'Pa'' Rato';
+SELECT * FROM albums a WHERE a.name = 'Rawkus 50 Presents Smilin'' On You';
+SELECT * FROM albums a WHERE a.name = 'Harpoon';
+SELECT * FROM albums a WHERE a.name = 'Blurred 1999-2004';
+SELECT * FROM albums a WHERE a.name = 'Country Boy Down In New Orleans';
+SELECT * FROM albums a WHERE a.name = 'Bored Teenagers Volume 3';
+SELECT * FROM albums a WHERE a.name = 'No-One to Blame';
+SELECT * FROM albums a WHERE a.name = 'Dear Summer';
+SELECT * FROM albums a WHERE a.name = 'When Angels Die - A Benefit Compilation';
+SELECT * FROM albums a WHERE a.name = 'Creature Comfort';
+SELECT * FROM albums a WHERE a.name = 'Dear Summer Volume Two';
+SELECT * FROM albums a WHERE a.name = 'The Kottonmouth Experience Vol. II';
+SELECT * FROM albums a WHERE a.name = 'War of Attrition';
+SELECT * FROM albums a WHERE a.name = 'Sieg Howdy!';
+SELECT * FROM albums a WHERE a.name = 'Deep Elm Unreleased No. 1';
+SELECT * FROM albums a WHERE a.name = 'Feeding The Wheel';
+SELECT * FROM albums a WHERE a.name = 'With Los Caminantes Flaco''s First';
+SELECT * FROM albums a WHERE a.name = 'The Negatives';
+SELECT * FROM albums a WHERE a.name = 'Karelian Isthmus';
+SELECT * FROM albums a WHERE a.name = 'Snakebite';
+SELECT * FROM albums a WHERE a.name = 'Kingspade';
+SELECT * FROM albums a WHERE a.name = 'Techincolour Mother';
+SELECT * FROM albums a WHERE a.name = 'Workers Playtime';
+SELECT * FROM albums a WHERE a.name = 'Como Antes';
+SELECT * FROM albums a WHERE a.name = 'Moments';
+SELECT * FROM albums a WHERE a.name = 'Swing';
+SELECT * FROM albums a WHERE a.name = 'Everybody Wants Some';
+SELECT * FROM albums a WHERE a.name = 'Estados Alterados';
+SELECT * FROM albums a WHERE a.name = 'Bring You To Your Knees - A Tribute to Guns ''n Roses';
+SELECT * FROM albums a WHERE a.name = 'Brewed In Texas Volume 2';
+SELECT * FROM albums a WHERE a.name = 'El Vivoron';
+SELECT * FROM albums a WHERE a.name = 'Sounds of the Animal Kingdom / Kill Trend Suicide';
+SELECT * FROM albums a WHERE a.name = 'Slidetime';
+SELECT * FROM albums a WHERE a.name = 'Raised On Rock';
+SELECT * FROM albums a WHERE a.name = 'Guadalupe Pineda';
+SELECT * FROM albums a WHERE a.name = 'Town By Town';
+SELECT * FROM albums a WHERE a.name = 'OST - All Hat';
+SELECT * FROM albums a WHERE a.name = 'With My Song';
+SELECT * FROM albums a WHERE a.name = 'Bernstein: Candide Suite_ Etc.';
+SELECT * FROM albums a WHERE a.name = 'Don''t Take My Kindness For A Weakness';
+SELECT * FROM albums a WHERE a.name = 'Don''t Want To Know You';
+SELECT * FROM albums a WHERE a.name = 'Vingt-Quatre Quarante';
+SELECT * FROM albums a WHERE a.name = 'Cultural Warrior';
+SELECT * FROM albums a WHERE a.name = 'We Sing.  We Dance.  We Steal Things.';
+SELECT * FROM albums a WHERE a.name = 'Whole Lotta Bluegrass: A Vocal Bluegrass Tribute To Led Zeppelin';
+SELECT * FROM albums a WHERE a.name = 'If You Only / Stay With Me';
+SELECT * FROM albums a WHERE a.name = 'The Definitive Gospel Collection';
+SELECT * FROM albums a WHERE a.name = 'How We Lost';
+SELECT * FROM albums a WHERE a.name = 'It''s Not Over';
+SELECT * FROM albums a WHERE a.name = 'Gnosis';
+SELECT * FROM albums a WHERE a.name = 'Sky Of Grace';
+SELECT * FROM albums a WHERE a.name = 'Lullaby Renditions of Metallica';
+SELECT * FROM albums a WHERE a.name = 'Bodyjar';
+SELECT * FROM albums a WHERE a.name = 'Who''s On The Lord''s Side Live';
+SELECT * FROM albums a WHERE a.name = 'Shake Them Ghosts';
+SELECT * FROM albums a WHERE a.name = 'Mentiroso mentiroso';
+SELECT * FROM albums a WHERE a.name = 'Strange Attractors';
+SELECT * FROM albums a WHERE a.name = 'Roots And Rumours - The Roots Of Elvis_ Volume Two';
+SELECT * FROM albums a WHERE a.name = 'Headthrash';
+SELECT * FROM albums a WHERE a.name = 'Shorland';
+SELECT * FROM albums a WHERE a.name = 'Black Nasa';
+SELECT * FROM albums a WHERE a.name = 'These Are the Days';
+SELECT * FROM albums a WHERE a.name = 'Chumps On Parade';
+SELECT * FROM albums a WHERE a.name = 'Double Happiness';
+SELECT * FROM albums a WHERE a.name = 'It''s A Calling';
+SELECT * FROM albums a WHERE a.name = 'Coquelicot Asleep In The Poppies: A Variety Of Whimsical Verse';
+SELECT * FROM albums a WHERE a.name = 'Fern Knight';
+SELECT * FROM albums a WHERE a.name = 'Little Junior Parker';
+SELECT * FROM albums a WHERE a.name = 'The Early Years EP';
+SELECT * FROM albums a WHERE a.name = 'Overnighter EP';
+SELECT * FROM albums a WHERE a.name = 'Dead Man In Reno';
+SELECT * FROM albums a WHERE a.name = 'Jazz Eps';
+SELECT * FROM albums a WHERE a.name = 'How to Survive In + In The Woods';
+SELECT * FROM albums a WHERE a.name = 'Come On Primates Show Your Teeth!';
+SELECT * FROM albums a WHERE a.name = 'Vintage Jazz Volume 14';
+SELECT * FROM albums a WHERE a.name = '1986-1992';
+SELECT * FROM albums a WHERE a.name = 'Bones';
+SELECT * FROM albums a WHERE a.name = 'That Sinking Feeling';
+SELECT * FROM albums a WHERE a.name = 'Cryin'' Heart Blues';
+SELECT * FROM albums a WHERE a.name = 'Entre Dos Generaciones';
+SELECT * FROM albums a WHERE a.name = 'Pirates Of The Mississippi';
+SELECT * FROM albums a WHERE a.name = 'Present the Paisley Reich';
+SELECT * FROM albums a WHERE a.name = 'Get The Knack';
+SELECT * FROM albums a WHERE a.name = 'Midnight Run';
+SELECT * FROM albums a WHERE a.name = '...All This And Hieronymus Bosch';
+SELECT * FROM albums a WHERE a.name = 'Rumberos de Corazon- 50 Aniversario';
+SELECT * FROM albums a WHERE a.name = 'Sufro Sufro Sufro';
+SELECT * FROM albums a WHERE a.name = 'If the Flames Don''t Kill Us We Will';
+SELECT * FROM albums a WHERE a.name = 'Extend';
+SELECT * FROM albums a WHERE a.name = 'Four Years In 30 Seconds: A Collection Of Music From Around The World';
+SELECT * FROM albums a WHERE a.name = 'Alligator Lips And Dirty Rice';
+SELECT * FROM albums a WHERE a.name = 'Southern Steele';
+SELECT * FROM albums a WHERE a.name = 'Camilleri: Four Greek Songs_ Trio No.2_ Shomyo_ etc.';
+SELECT * FROM albums a WHERE a.name = 'Songs On The Rocks';
+SELECT * FROM albums a WHERE a.name = 'The Mid South Snake Pit';
+SELECT * FROM albums a WHERE a.name = 'Graham Waterhouse: Portrait 2';
+SELECT * FROM albums a WHERE a.name = 'Philip Glass: The Orphée Suite for Piano';
+SELECT * FROM albums a WHERE a.name = '20th Anniversary Celebration Volume One';
+SELECT * FROM albums a WHERE a.name = 'I Am Not a Freemdoom';
+SELECT * FROM albums a WHERE a.name = 'Myra Lee';
+SELECT * FROM albums a WHERE a.name = 'Okul Orijinal Film Müzigi';
+SELECT * FROM albums a WHERE a.name = 'King Kong Kotton';
+SELECT * FROM albums a WHERE a.name = 'World end carnage';
+SELECT * FROM albums a WHERE a.name = 'That''s My Boy';
+SELECT * FROM albums a WHERE a.name = 'The Evolution Of Ghetto Rock';
+SELECT * FROM albums a WHERE a.name = 'Almost Famous';
+SELECT * FROM albums a WHERE a.name = 'Drawing circles';
+SELECT * FROM albums a WHERE a.name = 'Screw Tape in The Deck Part 3.  The Final Chapter';
+SELECT * FROM albums a WHERE a.name = 'Exitos Y Mas Exitos';
+SELECT * FROM albums a WHERE a.name = 'Paving The Highway With Tears';
+SELECT * FROM albums a WHERE a.name = 'Choice Quality Stuff...Anytime';
+SELECT * FROM albums a WHERE a.name = 'Hope That Lines Don''t Cross';
+SELECT * FROM albums a WHERE a.name = 'Easter Songs';
+SELECT * FROM albums a WHERE a.name = 'VSNARES 2370894';
+SELECT * FROM albums a WHERE a.name = 'City Kids';
+SELECT * FROM albums a WHERE a.name = 'Cell-Scape';
+SELECT * FROM albums a WHERE a.name = 'How I Left You';
+SELECT * FROM albums a WHERE a.name = 'Haus de Snaus';
+SELECT * FROM albums a WHERE a.name = 'Need Your Lovin';
+SELECT * FROM albums a WHERE a.name = 'Lisbon Concert';
+SELECT * FROM albums a WHERE a.name = 'Anicca';
+SELECT * FROM albums a WHERE a.name = 'A Reggae Tribute To The Police';
+SELECT * FROM albums a WHERE a.name = 'Turn Out the Lights';
+SELECT * FROM albums a WHERE a.name = 'Atomic Ritual';
+SELECT * FROM albums a WHERE a.name = 'Breathe On Me';
+SELECT * FROM albums a WHERE a.name = 'Another Days Blues';
+SELECT * FROM albums a WHERE a.name = '3rd Eye Vision';
+SELECT * FROM albums a WHERE a.name = 'Little Music';
+SELECT * FROM albums a WHERE a.name = 'Crown of Horn';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Guadalupe Pineda & Carlos Díaz Caito';
+SELECT * FROM albums a WHERE a.name = 'Endless Nights';
+SELECT * FROM albums a WHERE a.name = 'Underground Muzic Volume One';
+SELECT * FROM albums a WHERE a.name = 'Hillbilly Love';
+SELECT * FROM albums a WHERE a.name = 'Stycology';
+SELECT * FROM albums a WHERE a.name = '718: Official Mixtape';
+SELECT * FROM albums a WHERE a.name = 'Show Ya Grill';
+SELECT * FROM albums a WHERE a.name = 'A Fragile Hope';
+SELECT * FROM albums a WHERE a.name = 'Da Dro';
+SELECT * FROM albums a WHERE a.name = 'Cuestion De Amor';
+SELECT * FROM albums a WHERE a.name = 'Da Game Owe Me';
+SELECT * FROM albums a WHERE a.name = 'Hands On';
+SELECT * FROM albums a WHERE a.name = 'Hidden Talents';
+SELECT * FROM albums a WHERE a.name = '2_4_6_8...We''re The Kids You Love To Hate';
+SELECT * FROM albums a WHERE a.name = 'On The Air';
+SELECT * FROM albums a WHERE a.name = 'The Story Of My Life';
+SELECT * FROM albums a WHERE a.name = 'Already';
+SELECT * FROM albums a WHERE a.name = 'My Mother''s Voice';
+SELECT * FROM albums a WHERE a.name = 'Matt Skiba & Kevin Seconds Split CD';
+SELECT * FROM albums a WHERE a.name = 'Farm and Fun Time Favorites - Volume One';
+SELECT * FROM albums a WHERE a.name = 'Rollin'' & Tumblin''';
+SELECT * FROM albums a WHERE a.name = 'Dennis Brown In Dub';
+SELECT * FROM albums a WHERE a.name = 'Burton_ Leonhart_ Clarke_ Beck Play The Music Of Duke Ellington';
+SELECT * FROM albums a WHERE a.name = 'After School Special';
+SELECT * FROM albums a WHERE a.name = 'Children''s Music';
+SELECT * FROM albums a WHERE a.name = 'Firework Anatomy - A Twenty Band Compilation';
+SELECT * FROM albums a WHERE a.name = 'Eddie Gonzalez Performs Los Fantasmas del Caribe - El Reencuentro de Éxitos';
+SELECT * FROM albums a WHERE a.name = 'Taste the X';
+SELECT * FROM albums a WHERE a.name = 'Hits & Hymns Volume II';
+SELECT * FROM albums a WHERE a.name = 'Live at Austin City Limits Music Festival 2006: Asleep at the Wheel';
+SELECT * FROM albums a WHERE a.name = 'Life';
+SELECT * FROM albums a WHERE a.name = 'Maria Tebbo';
+SELECT * FROM albums a WHERE a.name = 'Live From Europe';
+SELECT * FROM albums a WHERE a.name = 'Cuban Dance Party';
+SELECT * FROM albums a WHERE a.name = 'Memorial Drive';
+SELECT * FROM albums a WHERE a.name = 'This is where the Fight Begins';
+SELECT * FROM albums a WHERE a.name = 'Shanti Project Collection 1';
+SELECT * FROM albums a WHERE a.name = '360 Degrees';
+SELECT * FROM albums a WHERE a.name = 'The Northumbrian Small Pipes';
+SELECT * FROM albums a WHERE a.name = 'Suicide Sessions / Anti-Social Personality Disorder: Live';
+SELECT * FROM albums a WHERE a.name = 'At His Best!';
+SELECT * FROM albums a WHERE a.name = 'Stiff Lovers Holymen Thieves';
+SELECT * FROM albums a WHERE a.name = 'Zonked';
+SELECT * FROM albums a WHERE a.name = 'Always Was_ Is_ and Always Shall Be';
+SELECT * FROM albums a WHERE a.name = 'Boom Times!';
+SELECT * FROM albums a WHERE a.name = 'What...is in Between?';
+SELECT * FROM albums a WHERE a.name = 'The Queen Of Guess';
+SELECT * FROM albums a WHERE a.name = 'Illuminations';
+SELECT * FROM albums a WHERE a.name = 'Metric Midnight';
+SELECT * FROM albums a WHERE a.name = 'Remedy';
+SELECT * FROM albums a WHERE a.name = 'What Was Music?';
+SELECT * FROM albums a WHERE a.name = 'Tcha Tcho';
+SELECT * FROM albums a WHERE a.name = 'Dark Waters';
+SELECT * FROM albums a WHERE a.name = 'Crush The Dream';
+SELECT * FROM albums a WHERE a.name = 'Watermelon Slim & The Workers';
+SELECT * FROM albums a WHERE a.name = 'Bad Boy From GA: Greatist Hits Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'The Curved Glass';
+SELECT * FROM albums a WHERE a.name = 'Be Thou My Vision';
+SELECT * FROM albums a WHERE a.name = 'Down South Produckshuns';
+SELECT * FROM albums a WHERE a.name = 'Diamond Jubilation';
+SELECT * FROM albums a WHERE a.name = 'Winning Hearts';
+SELECT * FROM albums a WHERE a.name = 'From Yorkshire to New York';
+SELECT * FROM albums a WHERE a.name = 'Aimer Le Mal';
+SELECT * FROM albums a WHERE a.name = 'Drive By En Caravane';
+SELECT * FROM albums a WHERE a.name = 'Make It So';
+SELECT * FROM albums a WHERE a.name = 'Welcome the Child';
+SELECT * FROM albums a WHERE a.name = 'Dirty Lover';
+SELECT * FROM albums a WHERE a.name = 'FANtastic Volume 2';
+SELECT * FROM albums a WHERE a.name = 'Cactuses Come In Flocks';
+SELECT * FROM albums a WHERE a.name = 'Zèlé';
+SELECT * FROM albums a WHERE a.name = 'The Essential George Gershwin Collection';
+SELECT * FROM albums a WHERE a.name = 'Live on Tour';
+SELECT * FROM albums a WHERE a.name = 'Thy Kingdom Come Undone +9';
+SELECT * FROM albums a WHERE a.name = 'Schoozzzmmii';
+SELECT * FROM albums a WHERE a.name = 'The Voice Within: The Speciality Singles 1950-55';
+SELECT * FROM albums a WHERE a.name = 'Charlottefield';
+SELECT * FROM albums a WHERE a.name = 'Fuego Y Tambor';
+SELECT * FROM albums a WHERE a.name = 'The Famous Moanin'' Mama';
+SELECT * FROM albums a WHERE a.name = 'Piron''s New Orleans Orchestra';
+SELECT * FROM albums a WHERE a.name = 'Pussycat';
+SELECT * FROM albums a WHERE a.name = 'Suicide - Live In Berlin';
+SELECT * FROM albums a WHERE a.name = 'Single File';
+SELECT * FROM albums a WHERE a.name = '17 Reasons';
+SELECT * FROM albums a WHERE a.name = 'Note Pad #38';
+SELECT * FROM albums a WHERE a.name = 'The Cutting Edge';
+SELECT * FROM albums a WHERE a.name = 'The Things Around Us Burn';
+SELECT * FROM albums a WHERE a.name = 'Anthology III: 1990-1996';
+SELECT * FROM albums a WHERE a.name = 'Collapse';
+SELECT * FROM albums a WHERE a.name = 'Cuba - Fully Charged';
+SELECT * FROM albums a WHERE a.name = 'Best Sellers';
+SELECT * FROM albums a WHERE a.name = 'English Folk Songs';
+SELECT * FROM albums a WHERE a.name = 'Medina';
+SELECT * FROM albums a WHERE a.name = 'Waiting for the Real Thing';
+SELECT * FROM albums a WHERE a.name = 'Automatic 7';
+SELECT * FROM albums a WHERE a.name = 'Millions of Dead Cops / More Dead Cops';
+SELECT * FROM albums a WHERE a.name = 'Consistency Theory';
+SELECT * FROM albums a WHERE a.name = 'Salsa En Matinee Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Exitos Tito Rojas - 10th Anniversario';
+SELECT * FROM albums a WHERE a.name = 'Oops I Did It Again';
+SELECT * FROM albums a WHERE a.name = 'Candy Apple';
+SELECT * FROM albums a WHERE a.name = 'Kombinator';
+SELECT * FROM albums a WHERE a.name = 'Los Dos Oros / Los Dos Reales - Feria Mexicana';
+SELECT * FROM albums a WHERE a.name = 'Best of Louisiana Music!';
+SELECT * FROM albums a WHERE a.name = 'Lullaby Renditions of The Rolling Stones';
+SELECT * FROM albums a WHERE a.name = 'So Here We Are';
+SELECT * FROM albums a WHERE a.name = 'Thoughts Of Bill Evans';
+SELECT * FROM albums a WHERE a.name = 'Voice of the People 18: To Catch a Fine Buck Was My Delight - Songs of Hunting and Poaching';
+SELECT * FROM albums a WHERE a.name = 'The Stars of the Buena Vista';
+SELECT * FROM albums a WHERE a.name = 'Suzie Le Blanc Portrait';
+SELECT * FROM albums a WHERE a.name = 'Space Between';
+SELECT * FROM albums a WHERE a.name = 'Hoddinott Piano Sonatas 1-5';
+SELECT * FROM albums a WHERE a.name = 'The Miracle of Sound in Motion';
+SELECT * FROM albums a WHERE a.name = 'North Amerikay';
+SELECT * FROM albums a WHERE a.name = 'Shostakovich: Cello Concerto No. 2 / Prokofiev: Symphony-Concerto';
+SELECT * FROM albums a WHERE a.name = 'Soul Arch';
+SELECT * FROM albums a WHERE a.name = 'Scriptures Of The Golden Eternity';
+SELECT * FROM albums a WHERE a.name = 'Between';
+SELECT * FROM albums a WHERE a.name = 'INUI.3';
+SELECT * FROM albums a WHERE a.name = 'Wigwammin''';
+SELECT * FROM albums a WHERE a.name = 'Mouthin'' Off... Live! France ''92';
+SELECT * FROM albums a WHERE a.name = 'I Like Dem Girlz / Just A Bit*h';
+SELECT * FROM albums a WHERE a.name = 'Chant From The Hermitage';
+SELECT * FROM albums a WHERE a.name = 'FANtastic Christmas';
+SELECT * FROM albums a WHERE a.name = 'Love Is The Devil';
+SELECT * FROM albums a WHERE a.name = 'Git Dat Money';
+SELECT * FROM albums a WHERE a.name = 'Long Beach 2 Fillmoe';
+SELECT * FROM albums a WHERE a.name = 'Relaxin'' With Tyrone';
+SELECT * FROM albums a WHERE a.name = 'You Are Here';
+SELECT * FROM albums a WHERE a.name = '28g w/o The Bag';
+SELECT * FROM albums a WHERE a.name = 'Win The Battle';
+SELECT * FROM albums a WHERE a.name = 'Full Circle';
+SELECT * FROM albums a WHERE a.name = 'Terrible Things Happen';
+SELECT * FROM albums a WHERE a.name = '27 Christmas Classics';
+SELECT * FROM albums a WHERE a.name = 'I Hear Voices';
+SELECT * FROM albums a WHERE a.name = 'Rebel Action';
+SELECT * FROM albums a WHERE a.name = 'Stinking Up The Night';
+SELECT * FROM albums a WHERE a.name = 'El Charanguero Mayor';
+SELECT * FROM albums a WHERE a.name = 'Disk@Jokey (Remixes)';
+SELECT * FROM albums a WHERE a.name = 'The Great Collapse';
+SELECT * FROM albums a WHERE a.name = 'In Battle&';
+SELECT * FROM albums a WHERE a.name = 'Vent';
+SELECT * FROM albums a WHERE a.name = 'Alone';
+SELECT * FROM albums a WHERE a.name = 'Ghetto Living';
+SELECT * FROM albums a WHERE a.name = 'Rebel Heart Vol. 8';
+SELECT * FROM albums a WHERE a.name = 'Necrology';
+SELECT * FROM albums a WHERE a.name = 'Stress related Live and learn';
+SELECT * FROM albums a WHERE a.name = 'Under Reprisal';
+SELECT * FROM albums a WHERE a.name = 'Into The Light - 20 Years NB';
+SELECT * FROM albums a WHERE a.name = 'Silent Reign/Colony/Shift';
+SELECT * FROM albums a WHERE a.name = 'L''esprit de Mai 68';
+SELECT * FROM albums a WHERE a.name = 'Détrompez Vous';
+SELECT * FROM albums a WHERE a.name = 'Larger than live';
+SELECT * FROM albums a WHERE a.name = 'Victor Démé';
+SELECT * FROM albums a WHERE a.name = 'Paris Rockin''';
+SELECT * FROM albums a WHERE a.name = 'Endura';
+SELECT * FROM albums a WHERE a.name = 'Luv Dancin''';
+SELECT * FROM albums a WHERE a.name = 'Many moods of love - vol.2';
+SELECT * FROM albums a WHERE a.name = 'Music For Tourists';
+SELECT * FROM albums a WHERE a.name = 'Beauty And The Beast';
+SELECT * FROM albums a WHERE a.name = 'Meteor show extended';
+SELECT * FROM albums a WHERE a.name = 'Salsa Legende - Best Of Ismaël Rivera';
+SELECT * FROM albums a WHERE a.name = 'Rock'' n'' Rave';
+SELECT * FROM albums a WHERE a.name = 'August';
+SELECT * FROM albums a WHERE a.name = 'An anthology of noise and electronic music vol_1';
+SELECT * FROM albums a WHERE a.name = 'An anthology of noise and electronic music vol.4';
+SELECT * FROM albums a WHERE a.name = 'For All Tid';
+SELECT * FROM albums a WHERE a.name = 'Logical End/ He Who Laughs..';
+SELECT * FROM albums a WHERE a.name = 'The End of Sanctuary';
+SELECT * FROM albums a WHERE a.name = 'Musique';
+SELECT * FROM albums a WHERE a.name = 'Icon: Solomon';
+SELECT * FROM albums a WHERE a.name = 'Live in Midgard';
+SELECT * FROM albums a WHERE a.name = 'Heart & Anger';
+SELECT * FROM albums a WHERE a.name = 'Workout Holiday';
+SELECT * FROM albums a WHERE a.name = 'Hollywood Hillbilly Hepcats';
+SELECT * FROM albums a WHERE a.name = 'Psalms For I';
+SELECT * FROM albums a WHERE a.name = 'El Rocker''s';
+SELECT * FROM albums a WHERE a.name = 'Aquarius Rock: The Hip Reggae World Of Herman Chin-Loy';
+SELECT * FROM albums a WHERE a.name = 'Dialog';
+SELECT * FROM albums a WHERE a.name = 'Now_ Diabolical';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Mountain Stage - Vol. 7';
+SELECT * FROM albums a WHERE a.name = 'Capitol Rare_ Volume 1';
+SELECT * FROM albums a WHERE a.name = 'The Sleeper';
+SELECT * FROM albums a WHERE a.name = 'God & Country';
+SELECT * FROM albums a WHERE a.name = 'No lo Hagas';
+SELECT * FROM albums a WHERE a.name = 'Music Music Music/Slip That Disc!';
+SELECT * FROM albums a WHERE a.name = 'Inherit';
+SELECT * FROM albums a WHERE a.name = 'A night of electric silence';
+SELECT * FROM albums a WHERE a.name = 'Buena Vista Social Club Presents Manuel Guajiro Mirabal';
+SELECT * FROM albums a WHERE a.name = 'A Night In San Francisco';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of Billy Idol: Idolize Yourself';
+SELECT * FROM albums a WHERE a.name = 'New Day';
+SELECT * FROM albums a WHERE a.name = 'Worse Than Pride';
+SELECT * FROM albums a WHERE a.name = 'Heroes & Friends';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Fourplay';
+SELECT * FROM albums a WHERE a.name = 'Shocking Shades Of Claw Boys Claw';
+SELECT * FROM albums a WHERE a.name = 'The Contender';
+SELECT * FROM albums a WHERE a.name = 'The Feeling';
+SELECT * FROM albums a WHERE a.name = 'Blueberry Boat';
+SELECT * FROM albums a WHERE a.name = 'Blue 70''s: Blue Note Got Soul';
+SELECT * FROM albums a WHERE a.name = 'Citizens Activ';
+SELECT * FROM albums a WHERE a.name = 'Mi Musica... Dos Tiempos';
+SELECT * FROM albums a WHERE a.name = 'Out (In Essence)';
+SELECT * FROM albums a WHERE a.name = 'Black Love';
+SELECT * FROM albums a WHERE a.name = 'Cage The Elephant';
+SELECT * FROM albums a WHERE a.name = 'Tres noches en el Victoria Eugenia';
+SELECT * FROM albums a WHERE a.name = 'At Mount Zoomer';
+SELECT * FROM albums a WHERE a.name = 'Word Of Mouth';
+SELECT * FROM albums a WHERE a.name = 'Unicorn Steak';
+SELECT * FROM albums a WHERE a.name = 'Do Whatever Turns You On';
+SELECT * FROM albums a WHERE a.name = 'Farewell Sorrow';
+SELECT * FROM albums a WHERE a.name = 'The Life Pursuit';
+SELECT * FROM albums a WHERE a.name = 'Give Blood';
+SELECT * FROM albums a WHERE a.name = 'Amman EP';
+SELECT * FROM albums a WHERE a.name = 'Oblivion';
+SELECT * FROM albums a WHERE a.name = 'Son Of Dragon';
+SELECT * FROM albums a WHERE a.name = 'DJ Gregory presents The Unreleased Sessions';
+SELECT * FROM albums a WHERE a.name = 'Booze_ Broads & Beelzebub';
+SELECT * FROM albums a WHERE a.name = 'Move On';
+SELECT * FROM albums a WHERE a.name = 'Complete Captured Live';
+SELECT * FROM albums a WHERE a.name = 'Monster';
+SELECT * FROM albums a WHERE a.name = 'Pasiones de Cabaret';
+SELECT * FROM albums a WHERE a.name = 'Menace Sur La Planète Rap';
+SELECT * FROM albums a WHERE a.name = 'Skin deep';
+SELECT * FROM albums a WHERE a.name = 'Don''t stop dub!';
+SELECT * FROM albums a WHERE a.name = 'Ashes to ashes - dub to dub';
+SELECT * FROM albums a WHERE a.name = 'Common One';
+SELECT * FROM albums a WHERE a.name = 'Blind Lemon Jefferson';
+SELECT * FROM albums a WHERE a.name = 'Cyber Ghetto';
+SELECT * FROM albums a WHERE a.name = 'Skydivin''';
+SELECT * FROM albums a WHERE a.name = 'CinemaSonics';
+SELECT * FROM albums a WHERE a.name = 'Always Now';
+SELECT * FROM albums a WHERE a.name = 'Cast From The Platform';
+SELECT * FROM albums a WHERE a.name = 'Kill the Dreamer''s Dream';
+SELECT * FROM albums a WHERE a.name = 'Zero Population Growth: Bliss Out V.15';
+SELECT * FROM albums a WHERE a.name = 'The Singles';
+SELECT * FROM albums a WHERE a.name = 'Swinging Christmas';
+SELECT * FROM albums a WHERE a.name = 'ComMerz (Vol 2)';
+SELECT * FROM albums a WHERE a.name = 'Freigang / Geile Tiere';
+SELECT * FROM albums a WHERE a.name = 'Open Your Eyes (The Child You Are)';
+SELECT * FROM albums a WHERE a.name = 'Anna Domino';
+SELECT * FROM albums a WHERE a.name = 'Aida - Nabucco - Othello - Die Macht des Schicksals';
+SELECT * FROM albums a WHERE a.name = 'Carmen Suite Nr.1 & 2 - Karneval der Tiere';
+SELECT * FROM albums a WHERE a.name = 'Publicidad';
+SELECT * FROM albums a WHERE a.name = 'Antikörper';
+SELECT * FROM albums a WHERE a.name = 'Serenity';
+SELECT * FROM albums a WHERE a.name = 'Alpha';
+SELECT * FROM albums a WHERE a.name = 'I';
+SELECT * FROM albums a WHERE a.name = 'Sounds So Good';
+SELECT * FROM albums a WHERE a.name = 'Death Before Dishonor';
+SELECT * FROM albums a WHERE a.name = 'Shine';
+SELECT * FROM albums a WHERE a.name = 'Apocalypso';
+SELECT * FROM albums a WHERE a.name = 'Pedrophilia';
+SELECT * FROM albums a WHERE a.name = 'bargrooves Summer Sessions';
+SELECT * FROM albums a WHERE a.name = 'Legacy';
+SELECT * FROM albums a WHERE a.name = 'Bitter Verses';
+SELECT * FROM albums a WHERE a.name = 'Bernstein:Serenade / Barber: Violin Concerto / Foss: Three American Pieces';
+SELECT * FROM albums a WHERE a.name = 'The Ceilidh Album';
+SELECT * FROM albums a WHERE a.name = 'Premier Mandat';
+SELECT * FROM albums a WHERE a.name = 'Matéria Prima (1997/2007)';
+SELECT * FROM albums a WHERE a.name = 'Welcome To The Orgy';
+SELECT * FROM albums a WHERE a.name = 'Bittersweet';
+SELECT * FROM albums a WHERE a.name = 'Hypnotize';
+SELECT * FROM albums a WHERE a.name = 'Grandes Exitos';
+SELECT * FROM albums a WHERE a.name = 'This Is An Outrage!';
+SELECT * FROM albums a WHERE a.name = 'Bull Talk';
+SELECT * FROM albums a WHERE a.name = 'Hail The King';
+SELECT * FROM albums a WHERE a.name = 'Tolko tebe';
+SELECT * FROM albums a WHERE a.name = 'Billie Holiday 1940-49';
+SELECT * FROM albums a WHERE a.name = 'Blues Masters Vol. 11';
+SELECT * FROM albums a WHERE a.name = 'Charkha';
+SELECT * FROM albums a WHERE a.name = 'Blue Danube';
+SELECT * FROM albums a WHERE a.name = 'Kao Nekad';
+SELECT * FROM albums a WHERE a.name = 'King Of The Hillbillies_ Vol. I_ CD D';
+SELECT * FROM albums a WHERE a.name = 'Rikers Island';
+SELECT * FROM albums a WHERE a.name = 'That Green Gentleman [Things Have Changed]';
+SELECT * FROM albums a WHERE a.name = 'She''s The Dutchess_ He''s The Duke';
+SELECT * FROM albums a WHERE a.name = 'Movement';
+SELECT * FROM albums a WHERE a.name = 'Ssssh';
+SELECT * FROM albums a WHERE a.name = 'Pieces Of The Sun';
+SELECT * FROM albums a WHERE a.name = 'Secrets';
+SELECT * FROM albums a WHERE a.name = 'The Agony Scene';
+SELECT * FROM albums a WHERE a.name = 'Essential Reggae';
+SELECT * FROM albums a WHERE a.name = 'The Bonfa Magic';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Shaggy';
+SELECT * FROM albums a WHERE a.name = 'The Best of Pato Banton';
+SELECT * FROM albums a WHERE a.name = 'Good Golly_ Miss Molly! (The EMI Years 1963 - 1969)';
+SELECT * FROM albums a WHERE a.name = 'Nick Warren - Paris (Global Underground GU030)';
+SELECT * FROM albums a WHERE a.name = 'Electric Calm V.3 (Global Underground)';
+SELECT * FROM albums a WHERE a.name = 'Pretty Girls Make Mothers';
+SELECT * FROM albums a WHERE a.name = 'All Under';
+SELECT * FROM albums a WHERE a.name = 'Reachin Out';
+SELECT * FROM albums a WHERE a.name = 'Sasha - Fundacion NYC';
+SELECT * FROM albums a WHERE a.name = 'Oh What A Lovely Tour - Babyshambles Live';
+SELECT * FROM albums a WHERE a.name = 'Like Cats & Dogs';
+SELECT * FROM albums a WHERE a.name = 'Home';
+SELECT * FROM albums a WHERE a.name = 'Dear God';
+SELECT * FROM albums a WHERE a.name = 'Cookie Jar [Feat. The-Dream]';
+SELECT * FROM albums a WHERE a.name = 'Deflated Chime_ Foals Slightly Flower Sibylline Responses';
+SELECT * FROM albums a WHERE a.name = 'She''s A Rejecter';
+SELECT * FROM albums a WHERE a.name = 'Nolita';
+SELECT * FROM albums a WHERE a.name = 'The Blue Idol';
+SELECT * FROM albums a WHERE a.name = 'Freddy''s Favorites: The Best of A Nightmare On Elm Street';
+SELECT * FROM albums a WHERE a.name = 'Pur';
+SELECT * FROM albums a WHERE a.name = 'Meet Dave';
+SELECT * FROM albums a WHERE a.name = 'Stephilosophy';
+SELECT * FROM albums a WHERE a.name = 'Nocturama';
+SELECT * FROM albums a WHERE a.name = 'Handel: Keyboard Suites Vol. II';
+SELECT * FROM albums a WHERE a.name = '14 Megala Tragoudia - Stelios Dionisiou';
+SELECT * FROM albums a WHERE a.name = 'Who Dat';
+SELECT * FROM albums a WHERE a.name = 'Live In Los Angeles';
+SELECT * FROM albums a WHERE a.name = 'Welcome To Goon Island';
+SELECT * FROM albums a WHERE a.name = '0+1=01';
+SELECT * FROM albums a WHERE a.name = 'Classic Movie Love Songs Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Obsessive';
+SELECT * FROM albums a WHERE a.name = 'The Scent of Light';
+SELECT * FROM albums a WHERE a.name = 'Viimeinen laulu kuolemasta';
+SELECT * FROM albums a WHERE a.name = 'The Silver Cord';
+SELECT * FROM albums a WHERE a.name = 'Rush Hour';
+SELECT * FROM albums a WHERE a.name = 'Broken Hymns_ Limbs and Skin';
+SELECT * FROM albums a WHERE a.name = 'Your Anchor';
+SELECT * FROM albums a WHERE a.name = 'Harold In The Land Of Jazz';
+SELECT * FROM albums a WHERE a.name = '175 Progress Drive';
+SELECT * FROM albums a WHERE a.name = '100 Pan Pipe Chillouts';
+SELECT * FROM albums a WHERE a.name = 'Freedom Bondage';
+SELECT * FROM albums a WHERE a.name = 'Kamikazeherz';
+SELECT * FROM albums a WHERE a.name = 'Studio One Rub A Dub';
+SELECT * FROM albums a WHERE a.name = '&Like A Bolt Of Lightning';
+SELECT * FROM albums a WHERE a.name = 'The Hit Collection';
+SELECT * FROM albums a WHERE a.name = 'Davy´s On The Road Again';
+SELECT * FROM albums a WHERE a.name = 'Bonebreak Boogie';
+SELECT * FROM albums a WHERE a.name = 'Best Of 1990 - 1993';
+SELECT * FROM albums a WHERE a.name = 'Without You';
+SELECT * FROM albums a WHERE a.name = 'Beyond The Valley';
+SELECT * FROM albums a WHERE a.name = 'Evolution: The Hits';
+SELECT * FROM albums a WHERE a.name = 'Mad_ Bad And Dangerous To Know';
+SELECT * FROM albums a WHERE a.name = 'Whatever You Say_ Say Nothing';
+SELECT * FROM albums a WHERE a.name = 'Sandinista!';
+SELECT * FROM albums a WHERE a.name = 'Highlights from Jeff Wayne''s Musical Version of The War of The Worlds';
+SELECT * FROM albums a WHERE a.name = 'Time To Grow';
+SELECT * FROM albums a WHERE a.name = 'Revenge';
+SELECT * FROM albums a WHERE a.name = 'Savage';
+SELECT * FROM albums a WHERE a.name = 'Dedication';
+SELECT * FROM albums a WHERE a.name = 'Walking In The Sun';
+SELECT * FROM albums a WHERE a.name = 'Hoodoo';
+SELECT * FROM albums a WHERE a.name = 'Dear Heather';
+SELECT * FROM albums a WHERE a.name = 'The Definitive Collection';
+SELECT * FROM albums a WHERE a.name = 'Rockabye Baby - Lullabies with Orchestra';
+SELECT * FROM albums a WHERE a.name = 'Stalo Sa Zive';
+SELECT * FROM albums a WHERE a.name = 'Boys Like Girls';
+SELECT * FROM albums a WHERE a.name = 'What A Heart Is Beating For';
+SELECT * FROM albums a WHERE a.name = 'Cannons';
+SELECT * FROM albums a WHERE a.name = 'Rise To The Occasion';
+SELECT * FROM albums a WHERE a.name = 'Allenrok';
+SELECT * FROM albums a WHERE a.name = 'At Osteraker Prison';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Echobelly';
+SELECT * FROM albums a WHERE a.name = 'Slow Dancing With The Moon';
+SELECT * FROM albums a WHERE a.name = 'En Vogue';
+SELECT * FROM albums a WHERE a.name = 'Original Album Classics';
+SELECT * FROM albums a WHERE a.name = 'Première';
+SELECT * FROM albums a WHERE a.name = 'Angus_ Thongs and Perfect Snogging';
+SELECT * FROM albums a WHERE a.name = 'Young And Crazy';
+SELECT * FROM albums a WHERE a.name = 'Neverneverland';
+SELECT * FROM albums a WHERE a.name = 'Crash And Burn';
+SELECT * FROM albums a WHERE a.name = 'R & B From The Marquee';
+SELECT * FROM albums a WHERE a.name = 'Echoes';
+SELECT * FROM albums a WHERE a.name = 'Slow Motion Riot';
+SELECT * FROM albums a WHERE a.name = 'Soundtrip Northeast Brazil';
+SELECT * FROM albums a WHERE a.name = 'Aquanaute';
+SELECT * FROM albums a WHERE a.name = 'UGK (UnderGround Kingz)';
+SELECT * FROM albums a WHERE a.name = 'Ladies & Gentlemen... / Let It Come Down';
+SELECT * FROM albums a WHERE a.name = 'Worlds Collide';
+SELECT * FROM albums a WHERE a.name = 'Pandemonium Shadow Show';
+SELECT * FROM albums a WHERE a.name = 'The Definitive 60''s (sixties)';
+SELECT * FROM albums a WHERE a.name = 'The Best Of The 70''s (seventies)';
+SELECT * FROM albums a WHERE a.name = 'Lentoon';
+SELECT * FROM albums a WHERE a.name = 'Intégrale Les Cactus';
+SELECT * FROM albums a WHERE a.name = 'Original Album Classics';
+SELECT * FROM albums a WHERE a.name = 'Crazyhorse Mongoose';
+SELECT * FROM albums a WHERE a.name = 'Duets';
+SELECT * FROM albums a WHERE a.name = 'Up To Date';
+SELECT * FROM albums a WHERE a.name = 'The Pink & The Lily';
+SELECT * FROM albums a WHERE a.name = 'The Light of Things Hoped For';
+SELECT * FROM albums a WHERE a.name = 'Napoli Ieri Napoli Oggi Vol.5';
+SELECT * FROM albums a WHERE a.name = 'Rhythm Is A Mystery';
+SELECT * FROM albums a WHERE a.name = 'Afterhours Ibiza';
+SELECT * FROM albums a WHERE a.name = 'Joe Petrosino';
+SELECT * FROM albums a WHERE a.name = '100 % Haïtian Music - Konpa Essentials';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'The Ultimate Collection';
+SELECT * FROM albums a WHERE a.name = 'Detuner - I''ve Got The Wild Style (single)';
+SELECT * FROM albums a WHERE a.name = 'Stravinsky/Brahms: Violin Concertos';
+SELECT * FROM albums a WHERE a.name = 'The One Thing';
+SELECT * FROM albums a WHERE a.name = 'Affirmation';
+SELECT * FROM albums a WHERE a.name = 'Na Fisai I Anixi';
+SELECT * FROM albums a WHERE a.name = 'Reflections: Songs Of Love & Life';
+SELECT * FROM albums a WHERE a.name = 'The Best Of New Riders Of The Purple Sage';
+SELECT * FROM albums a WHERE a.name = 'Original Album Classics';
+SELECT * FROM albums a WHERE a.name = 'Federal';
+SELECT * FROM albums a WHERE a.name = 'Windows And Walls';
+SELECT * FROM albums a WHERE a.name = 'Wendy & Lisa';
+SELECT * FROM albums a WHERE a.name = 'Rumble Doll';
+SELECT * FROM albums a WHERE a.name = 'White Limozeen';
+SELECT * FROM albums a WHERE a.name = 'Tony Terry';
+SELECT * FROM albums a WHERE a.name = 'Lights...Camera...Revolution';
+SELECT * FROM albums a WHERE a.name = 'Family Style';
+SELECT * FROM albums a WHERE a.name = '4_5_6';
+SELECT * FROM albums a WHERE a.name = 'HIStory - Past_ Present and Future - Book I';
+SELECT * FROM albums a WHERE a.name = 'Comfort Eagle';
+SELECT * FROM albums a WHERE a.name = 'Scent Of Attraction';
+SELECT * FROM albums a WHERE a.name = 'Fifty Eggs';
+SELECT * FROM albums a WHERE a.name = 'tin cans & car tires';
+SELECT * FROM albums a WHERE a.name = 'Vincent LaGuardia Gambini Sings Just For You';
+SELECT * FROM albums a WHERE a.name = 'Christmas With Babyface';
+SELECT * FROM albums a WHERE a.name = 'Recommended For Airplay';
+SELECT * FROM albums a WHERE a.name = 'Strange Pleasure';
+SELECT * FROM albums a WHERE a.name = 'Boggy Depot';
+SELECT * FROM albums a WHERE a.name = 'If This Bass Could Only Talk';
+SELECT * FROM albums a WHERE a.name = 'Canto';
+SELECT * FROM albums a WHERE a.name = 'The Unauthorized Biography Of Reinhold Messner';
+SELECT * FROM albums a WHERE a.name = 'Fahrenheit';
+SELECT * FROM albums a WHERE a.name = 'No. 10_ Upping St.';
+SELECT * FROM albums a WHERE a.name = 'Hangin'' Tough';
+SELECT * FROM albums a WHERE a.name = 'We Come Strapped';
+SELECT * FROM albums a WHERE a.name = 'Next Position Please';
+SELECT * FROM albums a WHERE a.name = 'Hot Stuff: The Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'The Senior';
+SELECT * FROM albums a WHERE a.name = 'Hard';
+SELECT * FROM albums a WHERE a.name = 'Raw Like Sushi';
+SELECT * FROM albums a WHERE a.name = 'Shakespeare in Love - Music from the Miramax Motion Picture';
+SELECT * FROM albums a WHERE a.name = 'Yesterday_ Today_ Tomorrow - The Greatest Hits Of Kenny Loggins';
+SELECT * FROM albums a WHERE a.name = 'My Passion For The Piano';
+SELECT * FROM albums a WHERE a.name = 'Personal';
+SELECT * FROM albums a WHERE a.name = 'Layin'' Da Smack Down (Clean Version)';
+SELECT * FROM albums a WHERE a.name = '10 Years Of Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Here Came The Psychedelic Furs: B-Sides & Lost Grooves';
+SELECT * FROM albums a WHERE a.name = 'Timeless - Live In Concert';
+SELECT * FROM albums a WHERE a.name = 'Receiving The Gift Of Flavor';
+SELECT * FROM albums a WHERE a.name = 'Tattoos & Scars';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits Volume 2';
+SELECT * FROM albums a WHERE a.name = 'Mark Chesnutt';
+SELECT * FROM albums a WHERE a.name = 'Nightbirds';
+SELECT * FROM albums a WHERE a.name = 'Frankie Yankovic & His Yanks'' Greatests Hits';
+SELECT * FROM albums a WHERE a.name = 'It''s All Relative - Tillis Sings Tillis';
+SELECT * FROM albums a WHERE a.name = 'This Time Of The Year';
+SELECT * FROM albums a WHERE a.name = 'TURN IT UPSIDE DOWN';
+SELECT * FROM albums a WHERE a.name = 'A Horse Called Music';
+SELECT * FROM albums a WHERE a.name = 'Genuine';
+SELECT * FROM albums a WHERE a.name = 'East River Drive';
+SELECT * FROM albums a WHERE a.name = 'Billy Joel - The Ultimate Collection';
+SELECT * FROM albums a WHERE a.name = 'Vs.';
+SELECT * FROM albums a WHERE a.name = 'QBO';
+SELECT * FROM albums a WHERE a.name = 'The Basement Tapes';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'A Decade Of Rock And Roll 1970 to 1980';
+SELECT * FROM albums a WHERE a.name = 'Topsy-Turvy Original Motion Picture Soundtrack';
+SELECT * FROM albums a WHERE a.name = 'I''Ve Got The Rock ''N'' Rolls Again';
+SELECT * FROM albums a WHERE a.name = 'Stravinsky Conducts Stravinsky';
+SELECT * FROM albums a WHERE a.name = 'New Orleans - Vol. IV';
+SELECT * FROM albums a WHERE a.name = 'The Legend Of Paul Revere';
+SELECT * FROM albums a WHERE a.name = 'Messiah_ HWV 56 (Highlights)';
+SELECT * FROM albums a WHERE a.name = 'Urban Dancefloor Guerillas';
+SELECT * FROM albums a WHERE a.name = 'Get Your Wings';
+SELECT * FROM albums a WHERE a.name = 'Viva Santana !';
+SELECT * FROM albums a WHERE a.name = 'SKETCHES for My Sweetheart The Drunk';
+SELECT * FROM albums a WHERE a.name = 'Los Grandes Éxitos En Español';
+SELECT * FROM albums a WHERE a.name = 'Steppin'' Country: 19 Great Line Dancing Songs';
+SELECT * FROM albums a WHERE a.name = 'Simply Baroque II';
+SELECT * FROM albums a WHERE a.name = 'Sound Loaded';
+SELECT * FROM albums a WHERE a.name = 'G. Love And special Sauce';
+SELECT * FROM albums a WHERE a.name = 'Tidal';
+SELECT * FROM albums a WHERE a.name = 'Estrellas';
+SELECT * FROM albums a WHERE a.name = 'Feel';
+SELECT * FROM albums a WHERE a.name = 'Illumination';
+SELECT * FROM albums a WHERE a.name = 'STILL CLIMBING';
+SELECT * FROM albums a WHERE a.name = 'Ricky Martin';
+SELECT * FROM albums a WHERE a.name = 'Highwayman';
+SELECT * FROM albums a WHERE a.name = 'Russian Roulette';
+SELECT * FROM albums a WHERE a.name = 'Allure';
+SELECT * FROM albums a WHERE a.name = 'Jetzt Geht''S Ab';
+SELECT * FROM albums a WHERE a.name = 'The Real Ambassadors';
+SELECT * FROM albums a WHERE a.name = 'Rachmaninoff: Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Live At Felt Forum - The 2001 Concert';
+SELECT * FROM albums a WHERE a.name = 'Gershwin Fantasy';
+SELECT * FROM albums a WHERE a.name = 'Blue Jays';
+SELECT * FROM albums a WHERE a.name = 'Rabbit Songs';
+SELECT * FROM albums a WHERE a.name = 'Endangered Species';
+SELECT * FROM albums a WHERE a.name = 'The Time Machine';
+SELECT * FROM albums a WHERE a.name = 'Time And Tide';
+SELECT * FROM albums a WHERE a.name = 'Naughty Baby: Maureen McGovern';
+SELECT * FROM albums a WHERE a.name = 'Collected Works';
+SELECT * FROM albums a WHERE a.name = 'John Williams Conducts John Williams';
+SELECT * FROM albums a WHERE a.name = 'Goldilocks';
+SELECT * FROM albums a WHERE a.name = 'The Essential Marty Robbins  1951-1982';
+SELECT * FROM albums a WHERE a.name = '16 Most Requested Songs';
+SELECT * FROM albums a WHERE a.name = '16 Most Requested Songs';
+SELECT * FROM albums a WHERE a.name = 'The Essential Carl Smith  1950-1956';
+SELECT * FROM albums a WHERE a.name = 'The Most Happy Fella';
+SELECT * FROM albums a WHERE a.name = 'The Complete Blind Willie Johnson';
+SELECT * FROM albums a WHERE a.name = 'Mandy Patinkin';
+SELECT * FROM albums a WHERE a.name = 'Great Blues Guitarsists: String Dazzlers';
+SELECT * FROM albums a WHERE a.name = 'ANOTHER SIDE OF BOB DYLAN';
+SELECT * FROM albums a WHERE a.name = 'In The Blood';
+SELECT * FROM albums a WHERE a.name = 'Sleepwalking';
+SELECT * FROM albums a WHERE a.name = 'The Platinum Collection';
+SELECT * FROM albums a WHERE a.name = 'Love Songs';
+SELECT * FROM albums a WHERE a.name = 'The Great Subconscious Club';
+SELECT * FROM albums a WHERE a.name = 'The Best Of MFSB:  Love Is The Message';
+SELECT * FROM albums a WHERE a.name = 'Tribute To Tradition';
+SELECT * FROM albums a WHERE a.name = 'Naveed';
+SELECT * FROM albums a WHERE a.name = 'At Home In Muscle Shoals';
+SELECT * FROM albums a WHERE a.name = 'Can The Circle Be Unbroken: Country Music''s First Family';
+SELECT * FROM albums a WHERE a.name = 'Look What Thoughts Will Do';
+SELECT * FROM albums a WHERE a.name = 'Solo';
+SELECT * FROM albums a WHERE a.name = 'Demokratischer Sektor';
+SELECT * FROM albums a WHERE a.name = 'Only DBS Is Pure Bodybilly';
+SELECT * FROM albums a WHERE a.name = 'What A Man Could Do';
+SELECT * FROM albums a WHERE a.name = 'Elf';
+SELECT * FROM albums a WHERE a.name = 'The Statement';
+SELECT * FROM albums a WHERE a.name = 'Thug On Da Line';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Ottmar Liebert';
+SELECT * FROM albums a WHERE a.name = 'Moe Bandy & Joe Stampley - Super Hits';
+SELECT * FROM albums a WHERE a.name = 'The Roots Remain';
+SELECT * FROM albums a WHERE a.name = 'Tanya Tucker''S Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'So So Def Bass All-Stars Vol.  III';
+SELECT * FROM albums a WHERE a.name = 'Tanz! With Dave Tarras And The Musiker Brothers';
+SELECT * FROM albums a WHERE a.name = 'The Pianist (Original Motion Picture Soundtrack)';
+SELECT * FROM albums a WHERE a.name = 'Six Degrees Of P-Funk: The Best Of George Clinton & His Funk Family';
+SELECT * FROM albums a WHERE a.name = 'Essential Igor Stravinsky';
+SELECT * FROM albums a WHERE a.name = 'The Streetsweeper Vol. 1 (Clean Version)';
+SELECT * FROM albums a WHERE a.name = 'Dangerously In Love';
+SELECT * FROM albums a WHERE a.name = 'What''s A Man To Do?';
+SELECT * FROM albums a WHERE a.name = 'Ococo';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of Euphoric Dance Breakdown Summer 2008';
+SELECT * FROM albums a WHERE a.name = 'The Historical Conquests Of Josh Ritter';
+SELECT * FROM albums a WHERE a.name = 'Animal';
+SELECT * FROM albums a WHERE a.name = 'Milagro';
+SELECT * FROM albums a WHERE a.name = 'Eternal Love';
+SELECT * FROM albums a WHERE a.name = 'This One''s For You';
+SELECT * FROM albums a WHERE a.name = 'The Sopranos - Music From The HBO Original Series - Peppers & Eggs';
+SELECT * FROM albums a WHERE a.name = 'Between The Never And The Now Album Advance';
+SELECT * FROM albums a WHERE a.name = 'Yeah Baby';
+SELECT * FROM albums a WHERE a.name = 'Pop Music: The Golden Era 1951-1975';
+SELECT * FROM albums a WHERE a.name = 'Albatross / Christine Perfect';
+SELECT * FROM albums a WHERE a.name = 'The Snowman';
+SELECT * FROM albums a WHERE a.name = 'Intact - The Singles Collection';
+SELECT * FROM albums a WHERE a.name = 'Breakout';
+SELECT * FROM albums a WHERE a.name = 'Strange Beautiful Music';
+SELECT * FROM albums a WHERE a.name = 'Giant Steps';
+SELECT * FROM albums a WHERE a.name = 'Casa Paradiso Presents Karma Chill';
+SELECT * FROM albums a WHERE a.name = 'Club Summer 2008';
+SELECT * FROM albums a WHERE a.name = 'Small Feces Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Champagne';
+SELECT * FROM albums a WHERE a.name = 'Room To Roam';
+SELECT * FROM albums a WHERE a.name = 'CeCe Winans';
+SELECT * FROM albums a WHERE a.name = 'A Gershwin Songbook & Improvisations';
+SELECT * FROM albums a WHERE a.name = 'Quick Turns';
+SELECT * FROM albums a WHERE a.name = 'Nicolette';
+SELECT * FROM albums a WHERE a.name = 'Intimate Connection';
+SELECT * FROM albums a WHERE a.name = 'Waiting For The Sunrise';
+SELECT * FROM albums a WHERE a.name = 'All The Songs I''ve Loved Before';
+SELECT * FROM albums a WHERE a.name = 'Somos Gitanos';
+SELECT * FROM albums a WHERE a.name = 'The Magic Box';
+SELECT * FROM albums a WHERE a.name = 'O3';
+SELECT * FROM albums a WHERE a.name = 'Black Gold: The Best Of Soul Asylum';
+SELECT * FROM albums a WHERE a.name = 'Test. Don''t Test';
+SELECT * FROM albums a WHERE a.name = 'How To Steal The World';
+SELECT * FROM albums a WHERE a.name = 'Gotcha';
+SELECT * FROM albums a WHERE a.name = 'Live';
+SELECT * FROM albums a WHERE a.name = 'Volume I';
+SELECT * FROM albums a WHERE a.name = 'Prince Charming';
+SELECT * FROM albums a WHERE a.name = 'Top Gun - Motion Picture Soundtrack (Special Expanded Edition)';
+SELECT * FROM albums a WHERE a.name = 'School Days';
+SELECT * FROM albums a WHERE a.name = 'BTTB';
+SELECT * FROM albums a WHERE a.name = 'Love And Pride - The Best Of King';
+SELECT * FROM albums a WHERE a.name = 'Super Hits';
+SELECT * FROM albums a WHERE a.name = 'Songs Of Leonard Cohen';
+SELECT * FROM albums a WHERE a.name = 'Love Is Real';
+SELECT * FROM albums a WHERE a.name = 'Discoveries';
+SELECT * FROM albums a WHERE a.name = 'My Paper Heart';
+SELECT * FROM albums a WHERE a.name = 'The Walking Wounded [Gold Edition]';
+SELECT * FROM albums a WHERE a.name = '3 CD Boxset';
+SELECT * FROM albums a WHERE a.name = 'Twin Peaks';
+SELECT * FROM albums a WHERE a.name = 'Si Dieu Veut....';
+SELECT * FROM albums a WHERE a.name = 'Make Yourself';
+SELECT * FROM albums a WHERE a.name = 'Reflected Images - The Best Of Altered Images';
+SELECT * FROM albums a WHERE a.name = 'Spider Man - Music From And Inspired By';
+SELECT * FROM albums a WHERE a.name = 'Not Satisfied';
+SELECT * FROM albums a WHERE a.name = 'Cut Your Noose';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Victory';
+SELECT * FROM albums a WHERE a.name = 'Comforting Sounds';
+SELECT * FROM albums a WHERE a.name = 'Clutching At Straws';
+SELECT * FROM albums a WHERE a.name = 'Sissel';
+SELECT * FROM albums a WHERE a.name = 'La Folie Des Grandeurs';
+SELECT * FROM albums a WHERE a.name = 'Whiskey Rebels';
+SELECT * FROM albums a WHERE a.name = 'Skins & Pinz 3';
+SELECT * FROM albums a WHERE a.name = 'Privilege Of Your Company';
+SELECT * FROM albums a WHERE a.name = 'Horowitz: The Celebrated Scarlatti Recordings - Expanded Edition';
+SELECT * FROM albums a WHERE a.name = 'Friends & Lovers';
+SELECT * FROM albums a WHERE a.name = 'Una Rosa Blu';
+SELECT * FROM albums a WHERE a.name = 'Simple Songs Of Freedom:  The Tim Hardin Collection';
+SELECT * FROM albums a WHERE a.name = 'Samen Met Jou';
+SELECT * FROM albums a WHERE a.name = 'Music from the Motion Picture Mona Lisa Smile';
+SELECT * FROM albums a WHERE a.name = 'Much More Than Much Love';
+SELECT * FROM albums a WHERE a.name = 'Good News For People Who Love Bad News';
+SELECT * FROM albums a WHERE a.name = 'Live At The Metro';
+SELECT * FROM albums a WHERE a.name = 'The Passion Of The Christ - Original Motion Picture Soundtrack';
+SELECT * FROM albums a WHERE a.name = 'Life';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Jim Nabors';
+SELECT * FROM albums a WHERE a.name = 'Little Italy';
+SELECT * FROM albums a WHERE a.name = 'Flat 29';
+SELECT * FROM albums a WHERE a.name = 'Collection Gold';
+SELECT * FROM albums a WHERE a.name = '10';
+SELECT * FROM albums a WHERE a.name = 'Hit That';
+SELECT * FROM albums a WHERE a.name = 'Till Death Do Us Part';
+SELECT * FROM albums a WHERE a.name = 'Big Fish - Music from the Motion Picture';
+SELECT * FROM albums a WHERE a.name = 'El Idolo De Mexico';
+SELECT * FROM albums a WHERE a.name = 'Wandering Moon';
+SELECT * FROM albums a WHERE a.name = 'Annie - Original Telefilm Soundtrack';
+SELECT * FROM albums a WHERE a.name = 'LVL IV';
+SELECT * FROM albums a WHERE a.name = 'Foggy Mountain Gospel';
+SELECT * FROM albums a WHERE a.name = 'Jaku';
+SELECT * FROM albums a WHERE a.name = 'König von Deutschland - Das Beste von Rio Reiser';
+SELECT * FROM albums a WHERE a.name = 'Get Away From Me (Explicit)';
+SELECT * FROM albums a WHERE a.name = 'The Collection';
+SELECT * FROM albums a WHERE a.name = 'After The Flood: Live From The  Grand Forks Prom';
+SELECT * FROM albums a WHERE a.name = 'Florilège';
+SELECT * FROM albums a WHERE a.name = 'Another Day';
+SELECT * FROM albums a WHERE a.name = 'Amazing';
+SELECT * FROM albums a WHERE a.name = 'Public Energy No 1';
+SELECT * FROM albums a WHERE a.name = 'Edgar Broughton Band';
+SELECT * FROM albums a WHERE a.name = 'Poison Kiss';
+SELECT * FROM albums a WHERE a.name = 'Another Perception of Jazz';
+SELECT * FROM albums a WHERE a.name = 'Starost';
+SELECT * FROM albums a WHERE a.name = 'The Mix-Up';
+SELECT * FROM albums a WHERE a.name = 'Les Misérables - 10th Anniversary Concert';
+SELECT * FROM albums a WHERE a.name = 'British Oi! Working Class Anthems';
+SELECT * FROM albums a WHERE a.name = 'Toca''s Miracle 2008';
+SELECT * FROM albums a WHERE a.name = 'The Blue Thumb Recordings';
+SELECT * FROM albums a WHERE a.name = 'Le Vibrazioni II';
+SELECT * FROM albums a WHERE a.name = 'Jimmy Cozier';
+SELECT * FROM albums a WHERE a.name = 'Music';
+SELECT * FROM albums a WHERE a.name = 'Super Hits';
+SELECT * FROM albums a WHERE a.name = 'RCA Country Legends';
+SELECT * FROM albums a WHERE a.name = 'On The Road To Find Out (Repackaged)';
+SELECT * FROM albums a WHERE a.name = 'Best of the Alan Parsons Project_ Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Justin Guarini';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of Ed Ames';
+SELECT * FROM albums a WHERE a.name = 'That''s All Right (When the Sun Goes Down series)';
+SELECT * FROM albums a WHERE a.name = 'Händel: Messiah - Highlights';
+SELECT * FROM albums a WHERE a.name = 'Hymns';
+SELECT * FROM albums a WHERE a.name = 'The First Family of Soul: The Best of The Five Stairsteps';
+SELECT * FROM albums a WHERE a.name = 'The Essential Guy Clark';
+SELECT * FROM albums a WHERE a.name = 'Silhouette';
+SELECT * FROM albums a WHERE a.name = 'If I Should Love Again';
+SELECT * FROM albums a WHERE a.name = 'Run DMC';
+SELECT * FROM albums a WHERE a.name = 'Amplified';
+SELECT * FROM albums a WHERE a.name = 'The Boy Is Mine';
+SELECT * FROM albums a WHERE a.name = 'Dances For Flute';
+SELECT * FROM albums a WHERE a.name = 'Gimmie Da Mic';
+SELECT * FROM albums a WHERE a.name = 'Friendly Fires';
+SELECT * FROM albums a WHERE a.name = 'Distances';
+SELECT * FROM albums a WHERE a.name = 'Tough All Over';
+SELECT * FROM albums a WHERE a.name = 'Details';
+SELECT * FROM albums a WHERE a.name = 'Country Bluegrass Homecoming Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Auweia';
+SELECT * FROM albums a WHERE a.name = 'Room With A View';
+SELECT * FROM albums a WHERE a.name = 'Love Songs';
+SELECT * FROM albums a WHERE a.name = 'World Party';
+SELECT * FROM albums a WHERE a.name = 'Wimoweh!!! - The Best Of The Tokens';
+SELECT * FROM albums a WHERE a.name = 'Devotion';
+SELECT * FROM albums a WHERE a.name = 'The Essential Keith Whitley';
+SELECT * FROM albums a WHERE a.name = 'Mefistofele';
+SELECT * FROM albums a WHERE a.name = 'Chez Toots';
+SELECT * FROM albums a WHERE a.name = 'Balances & Options';
+SELECT * FROM albums a WHERE a.name = 'Music';
+SELECT * FROM albums a WHERE a.name = 'Strip';
+SELECT * FROM albums a WHERE a.name = 'American Child';
+SELECT * FROM albums a WHERE a.name = 'Midnight Marauders';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Rick Springfield';
+SELECT * FROM albums a WHERE a.name = 'Ich Bereue Nichts - The Best Of Ina Deter';
+SELECT * FROM albums a WHERE a.name = 'Duke''s Joint';
+SELECT * FROM albums a WHERE a.name = 'Music Of The Celtic Harp';
+SELECT * FROM albums a WHERE a.name = 'The Canadian Brass Plays Bernstein';
+SELECT * FROM albums a WHERE a.name = 'Gods And Monsters';
+SELECT * FROM albums a WHERE a.name = 'Best Of Grim Reaper';
+SELECT * FROM albums a WHERE a.name = 'A Place In The Sun';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'American Anthem';
+SELECT * FROM albums a WHERE a.name = 'Let''s Make History';
+SELECT * FROM albums a WHERE a.name = 'Amateur Dramatics';
+SELECT * FROM albums a WHERE a.name = 'Out Of The Valley';
+SELECT * FROM albums a WHERE a.name = 'Angels Running';
+SELECT * FROM albums a WHERE a.name = 'Between Black And White';
+SELECT * FROM albums a WHERE a.name = 'Peculiar Situation';
+SELECT * FROM albums a WHERE a.name = 'I Love You...Me';
+SELECT * FROM albums a WHERE a.name = 'Sings And Swings (Bluebird''s Best Series)';
+SELECT * FROM albums a WHERE a.name = 'Inside The Kremlin';
+SELECT * FROM albums a WHERE a.name = 'Live At Last';
+SELECT * FROM albums a WHERE a.name = 'The Renaissance Album';
+SELECT * FROM albums a WHERE a.name = 'The Romantics: Romantic Music of the 19th Century';
+SELECT * FROM albums a WHERE a.name = 'The Opening Of Doors';
+SELECT * FROM albums a WHERE a.name = 'One Church';
+SELECT * FROM albums a WHERE a.name = 'The Definitive Collection';
+SELECT * FROM albums a WHERE a.name = 'Letters Never Sent';
+SELECT * FROM albums a WHERE a.name = 'Land (1975-2002)';
+SELECT * FROM albums a WHERE a.name = 'Exposé';
+SELECT * FROM albums a WHERE a.name = 'Easter';
+SELECT * FROM albums a WHERE a.name = 'Radio Ethiopia';
+SELECT * FROM albums a WHERE a.name = 'Lagrimas Negras';
+SELECT * FROM albums a WHERE a.name = 'Esta Boca Es Mia';
+SELECT * FROM albums a WHERE a.name = 'Der Beste Tag Meines Lebens';
+SELECT * FROM albums a WHERE a.name = 'Tausend Dankeschön';
+SELECT * FROM albums a WHERE a.name = 'City';
+SELECT * FROM albums a WHERE a.name = 'Holes In The Wall';
+SELECT * FROM albums a WHERE a.name = 'Saltbox';
+SELECT * FROM albums a WHERE a.name = 'Hot In The Shade';
+SELECT * FROM albums a WHERE a.name = 'Supernova';
+SELECT * FROM albums a WHERE a.name = 'Everyday I Love You Less And Less';
+SELECT * FROM albums a WHERE a.name = 'Lifehouse';
+SELECT * FROM albums a WHERE a.name = 'Blue Bash';
+SELECT * FROM albums a WHERE a.name = 'Gold - Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'America';
+SELECT * FROM albums a WHERE a.name = 'The Collection';
+SELECT * FROM albums a WHERE a.name = 'Musica Di Te';
+SELECT * FROM albums a WHERE a.name = 'Dann habe ich umsonst gelebt';
+SELECT * FROM albums a WHERE a.name = 'Misty Eyed Adventures';
+SELECT * FROM albums a WHERE a.name = 'Live';
+SELECT * FROM albums a WHERE a.name = '20th Century Hits';
+SELECT * FROM albums a WHERE a.name = 'Im elektromagnetischen Feld';
+SELECT * FROM albums a WHERE a.name = 'Wenn der Abend kommt/Circulus';
+SELECT * FROM albums a WHERE a.name = 'Italiano Medio';
+SELECT * FROM albums a WHERE a.name = 'One Love (2nd Edition)';
+SELECT * FROM albums a WHERE a.name = 'Bully';
+SELECT * FROM albums a WHERE a.name = 'Danilo Perez';
+SELECT * FROM albums a WHERE a.name = 'The Ultimate Collection';
+SELECT * FROM albums a WHERE a.name = 'Love A Little Stronger';
+SELECT * FROM albums a WHERE a.name = 'Best Of Classics 3: Beethoven Sinfonie 5_ 6';
+SELECT * FROM albums a WHERE a.name = 'Mahogany Soul';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of';
+SELECT * FROM albums a WHERE a.name = 'Ay Fond Kiss';
+SELECT * FROM albums a WHERE a.name = 'C''Est Ca Lavoine';
+SELECT * FROM albums a WHERE a.name = 'Coming Around Again';
+SELECT * FROM albums a WHERE a.name = 'Life Think It Over';
+SELECT * FROM albums a WHERE a.name = '36 Grands Succès';
+SELECT * FROM albums a WHERE a.name = 'The Preacher''s Son';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of 1990 - 1997';
+SELECT * FROM albums a WHERE a.name = 'Keep It Natural';
+SELECT * FROM albums a WHERE a.name = 'María';
+SELECT * FROM albums a WHERE a.name = 'Wahrheit Oder Pflicht';
+SELECT * FROM albums a WHERE a.name = 'All That I Am';
+SELECT * FROM albums a WHERE a.name = 'Diary Of A Sinner: 1st Entry';
+SELECT * FROM albums a WHERE a.name = 'No Strings Attached';
+SELECT * FROM albums a WHERE a.name = 'Schubert: Symphony No. 9';
+SELECT * FROM albums a WHERE a.name = 'Between Friends';
+SELECT * FROM albums a WHERE a.name = 'Balance Of The Force';
+SELECT * FROM albums a WHERE a.name = 'Lucia';
+SELECT * FROM albums a WHERE a.name = 'Bittersweet';
+SELECT * FROM albums a WHERE a.name = 'Hello Afrika';
+SELECT * FROM albums a WHERE a.name = 'Tougher Than Leather';
+SELECT * FROM albums a WHERE a.name = 'Iso E';
+SELECT * FROM albums a WHERE a.name = 'The RCA Years';
+SELECT * FROM albums a WHERE a.name = 'Wisdom Of Forgiveness';
+SELECT * FROM albums a WHERE a.name = 'Alors Regarde';
+SELECT * FROM albums a WHERE a.name = 'Niño Josele';
+SELECT * FROM albums a WHERE a.name = '1991 Concerti';
+SELECT * FROM albums a WHERE a.name = 'La Voz De Oro';
+SELECT * FROM albums a WHERE a.name = 'Recycling The Future';
+SELECT * FROM albums a WHERE a.name = 'Se Stasera Sono Qui';
+SELECT * FROM albums a WHERE a.name = 'It''s A Man''s Man''s Man''s World';
+SELECT * FROM albums a WHERE a.name = 'Trampin''... Live aux Vieilles Charrues 2004';
+SELECT * FROM albums a WHERE a.name = 'Confessions';
+SELECT * FROM albums a WHERE a.name = 'Gavin DeGraw';
+SELECT * FROM albums a WHERE a.name = 'Nonstop';
+SELECT * FROM albums a WHERE a.name = 'Tubthumper';
+SELECT * FROM albums a WHERE a.name = 'Whitesnake''s Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Eye Candy';
+SELECT * FROM albums a WHERE a.name = 'Miss Jane Russell Sings';
+SELECT * FROM albums a WHERE a.name = 'Mervyn Nelson''s ''The Jazz Train''';
+SELECT * FROM albums a WHERE a.name = 'Bitter River';
+SELECT * FROM albums a WHERE a.name = 'Invasive Signals';
+SELECT * FROM albums a WHERE a.name = 'A Knight''s Tale - Music From The Motion Picture';
+SELECT * FROM albums a WHERE a.name = 'Alive and Amplified';
+SELECT * FROM albums a WHERE a.name = 'Alunni Del Sole';
+SELECT * FROM albums a WHERE a.name = 'Touch Me';
+SELECT * FROM albums a WHERE a.name = 'Vera';
+SELECT * FROM albums a WHERE a.name = 'Csak Egy Perc';
+SELECT * FROM albums a WHERE a.name = 'Mercy... Dancing For The Death Of An Imaginary Enemy';
+SELECT * FROM albums a WHERE a.name = 'Super Hits';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Glenn Jones';
+SELECT * FROM albums a WHERE a.name = 'R&B Chillout';
+SELECT * FROM albums a WHERE a.name = 'Rumì';
+SELECT * FROM albums a WHERE a.name = 'Hymie''s Basement';
+SELECT * FROM albums a WHERE a.name = 'Me And Armini';
+SELECT * FROM albums a WHERE a.name = 'The Best Of';
+SELECT * FROM albums a WHERE a.name = 'Nocturnece - Sessiones Reggae Instrumental';
+SELECT * FROM albums a WHERE a.name = 'We Are One';
+SELECT * FROM albums a WHERE a.name = 'Pure ''80s Hits';
+SELECT * FROM albums a WHERE a.name = 'Order Of The Leech';
+SELECT * FROM albums a WHERE a.name = 'Pierrot Lunaire';
+SELECT * FROM albums a WHERE a.name = 'Falling - The Best Of';
+SELECT * FROM albums a WHERE a.name = 'Starcollection';
+SELECT * FROM albums a WHERE a.name = 'Loop Doctors The Album';
+SELECT * FROM albums a WHERE a.name = 'Freudige Weihnachten';
+SELECT * FROM albums a WHERE a.name = 'El Canto Del Loco';
+SELECT * FROM albums a WHERE a.name = 'Hey World';
+SELECT * FROM albums a WHERE a.name = 'Arzobispofobia';
+SELECT * FROM albums a WHERE a.name = 'Debajo Del Puente - Vertigo';
+SELECT * FROM albums a WHERE a.name = 'Tausend Sterne';
+SELECT * FROM albums a WHERE a.name = 'Kamikaze Rock ''N'' Roll Suicide';
+SELECT * FROM albums a WHERE a.name = 'The Digital Collection';
+SELECT * FROM albums a WHERE a.name = 'Back Again';
+SELECT * FROM albums a WHERE a.name = 'Ice-T & Posse 2';
+SELECT * FROM albums a WHERE a.name = 'One Million Strings';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Gli Anni Miei';
+SELECT * FROM albums a WHERE a.name = 'All Maps Welcome';
+SELECT * FROM albums a WHERE a.name = 'What Are You Waiting For';
+SELECT * FROM albums a WHERE a.name = 'Welkom In Utopia';
+SELECT * FROM albums a WHERE a.name = 'Live';
+SELECT * FROM albums a WHERE a.name = 'Twee';
+SELECT * FROM albums a WHERE a.name = 'Star Warz';
+SELECT * FROM albums a WHERE a.name = 'Onnelliset Kohtaa';
+SELECT * FROM albums a WHERE a.name = '20/20 Best Of';
+SELECT * FROM albums a WHERE a.name = 'Föder NåT Nytt';
+SELECT * FROM albums a WHERE a.name = 'Pop De Los 60';
+SELECT * FROM albums a WHERE a.name = 'Il Circo Mangione';
+SELECT * FROM albums a WHERE a.name = 'Amor';
+SELECT * FROM albums a WHERE a.name = 'Made in Japan';
+SELECT * FROM albums a WHERE a.name = 'Tan Cerca De Mí';
+SELECT * FROM albums a WHERE a.name = 'David De Maria';
+SELECT * FROM albums a WHERE a.name = 'Mucho Mas Que Dos (Live In Concert)';
+SELECT * FROM albums a WHERE a.name = 'Männer_ Frauen und Maschinen';
+SELECT * FROM albums a WHERE a.name = 'Iniziali Bi-Bi';
+SELECT * FROM albums a WHERE a.name = 'Chloe''';
+SELECT * FROM albums a WHERE a.name = 'Hagnesta Hill';
+SELECT * FROM albums a WHERE a.name = 'Tissues And Issues';
+SELECT * FROM albums a WHERE a.name = 'Panorama';
+SELECT * FROM albums a WHERE a.name = 'Wasser und Sonne EP';
+SELECT * FROM albums a WHERE a.name = 'Früher war''s besser';
+SELECT * FROM albums a WHERE a.name = 'Verve Jazz Masters 52:  Maynard Ferguson';
+SELECT * FROM albums a WHERE a.name = 'What Sound';
+SELECT * FROM albums a WHERE a.name = 'Deckwatch EP';
+SELECT * FROM albums a WHERE a.name = 'Remix EP';
+SELECT * FROM albums a WHERE a.name = 'Essence EP';
+SELECT * FROM albums a WHERE a.name = 'M Series Part 2';
+SELECT * FROM albums a WHERE a.name = 'Connect';
+SELECT * FROM albums a WHERE a.name = 'Alles klar?';
+SELECT * FROM albums a WHERE a.name = 'Casa Mia';
+SELECT * FROM albums a WHERE a.name = 'Ci Vuole Un Fiore';
+SELECT * FROM albums a WHERE a.name = 'Animales';
+SELECT * FROM albums a WHERE a.name = 'Grown & Sexy';
+SELECT * FROM albums a WHERE a.name = 'The Dead 60s';
+SELECT * FROM albums a WHERE a.name = 'The Best Of';
+SELECT * FROM albums a WHERE a.name = 'Yuletide Joy';
+SELECT * FROM albums a WHERE a.name = 'Most Known Unknown (Screwed and Chopped)';
+SELECT * FROM albums a WHERE a.name = '7 Days In Memphis';
+SELECT * FROM albums a WHERE a.name = 'Back II Da Basics';
+SELECT * FROM albums a WHERE a.name = 'Duffy';
+SELECT * FROM albums a WHERE a.name = 'Rockin'' The Joint';
+SELECT * FROM albums a WHERE a.name = 'Underage Thinking';
+SELECT * FROM albums a WHERE a.name = 'Killadelphia';
+SELECT * FROM albums a WHERE a.name = 'Ultimate Collection';
+SELECT * FROM albums a WHERE a.name = 'Let It Snow! Let It Snow! Let It Snow!';
+SELECT * FROM albums a WHERE a.name = 'Édes Méreg';
+SELECT * FROM albums a WHERE a.name = 'Love... And Then?';
+SELECT * FROM albums a WHERE a.name = 'Do You Love Me Like You Say: The Very Best Of Terence Trent D''Arby';
+SELECT * FROM albums a WHERE a.name = 'Ev''rybody Know Me';
+SELECT * FROM albums a WHERE a.name = 'O Gun';
+SELECT * FROM albums a WHERE a.name = 'Christos Dantis Best';
+SELECT * FROM albums a WHERE a.name = 'Letting Go';
+SELECT * FROM albums a WHERE a.name = 'Ahead of the Lions';
+SELECT * FROM albums a WHERE a.name = 'Boneclouds';
+SELECT * FROM albums a WHERE a.name = 'For Blood And Empire';
+SELECT * FROM albums a WHERE a.name = 'The Essential Roy Orbison';
+SELECT * FROM albums a WHERE a.name = 'Bebo';
+SELECT * FROM albums a WHERE a.name = 'Alunni Del Sole';
+SELECT * FROM albums a WHERE a.name = 'Drupi';
+SELECT * FROM albums a WHERE a.name = 'Pure Shadowfax';
+SELECT * FROM albums a WHERE a.name = 'Around The City';
+SELECT * FROM albums a WHERE a.name = 'Dance Vault Remixes - I Learned From The Best';
+SELECT * FROM albums a WHERE a.name = 'Sing It Out';
+SELECT * FROM albums a WHERE a.name = 'The Wedding Singer - Original Broadway Cast Recording';
+SELECT * FROM albums a WHERE a.name = 'Pure John Gorka';
+SELECT * FROM albums a WHERE a.name = 'Les Indispensables';
+SELECT * FROM albums a WHERE a.name = 'The Ghost Of Cain (Bonus Content)';
+SELECT * FROM albums a WHERE a.name = 'Handel Keyboard Suites_ Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Schumann: Carnaval/Papillons/Faschingsschwank aus Wien';
+SELECT * FROM albums a WHERE a.name = 'All Hope Is Gone';
+SELECT * FROM albums a WHERE a.name = 'Back Together Again';
+SELECT * FROM albums a WHERE a.name = 'DEFECTED ACCAPELLAS VOL 7';
+SELECT * FROM albums a WHERE a.name = 'Conor Oberst';
+SELECT * FROM albums a WHERE a.name = 'The Collection';
+SELECT * FROM albums a WHERE a.name = 'Your Woman';
+SELECT * FROM albums a WHERE a.name = 'Blackwater';
+SELECT * FROM albums a WHERE a.name = 'BTNHRESURRECTION';
+SELECT * FROM albums a WHERE a.name = 'U + Ur Hand';
+SELECT * FROM albums a WHERE a.name = 'I Killed The Zeitgeist';
+SELECT * FROM albums a WHERE a.name = 'Sauf Si l''Amour';
+SELECT * FROM albums a WHERE a.name = 'Sound Theories Vol. I & II';
+SELECT * FROM albums a WHERE a.name = 'Tryo Fête Ses 10 Ans';
+SELECT * FROM albums a WHERE a.name = 'Headlock';
+SELECT * FROM albums a WHERE a.name = 'Everything Changes';
+SELECT * FROM albums a WHERE a.name = 'Another Girl Another Planet The Best Of';
+SELECT * FROM albums a WHERE a.name = 'Hell Hath No Fury';
+SELECT * FROM albums a WHERE a.name = '16 Biggest Hits';
+SELECT * FROM albums a WHERE a.name = 'Rachmaninov: Piano Concertos Nos.2 & 3, Prelude in E flat etc.';
+SELECT * FROM albums a WHERE a.name = 'I Wish I Could Have Loved You More';
+SELECT * FROM albums a WHERE a.name = 'Ray Quinn';
+SELECT * FROM albums a WHERE a.name = 'Good Morning Revival';
+SELECT * FROM albums a WHERE a.name = 'Act Your Age';
+SELECT * FROM albums a WHERE a.name = 'Cannibal Hood Carnival Hat';
+SELECT * FROM albums a WHERE a.name = 'Rise';
+SELECT * FROM albums a WHERE a.name = 'Invol2ver';
+SELECT * FROM albums a WHERE a.name = 'Il mercenario - Le Mercenaire - The mercenary (bande originale du film de Sergio Corbucci)';
+SELECT * FROM albums a WHERE a.name = 'Spirit They''re Gone Spirit They''ve Vanished / Danse Manatee';
+SELECT * FROM albums a WHERE a.name = 'Pure Bossa Nova';
+SELECT * FROM albums a WHERE a.name = '24 Postcards';
+SELECT * FROM albums a WHERE a.name = 'Piero piccioni in lounge';
+SELECT * FROM albums a WHERE a.name = 'Verve Jazz Masters: Tal Farlow';
+SELECT * FROM albums a WHERE a.name = 'Some Things Just Stick In My Mind';
+SELECT * FROM albums a WHERE a.name = 'Daddy Always Wanted Me to Grow a Pair of Wings';
+SELECT * FROM albums a WHERE a.name = 'On Call';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of Ram Jam';
+SELECT * FROM albums a WHERE a.name = 'Anatomia';
+SELECT * FROM albums a WHERE a.name = 'Ça Plane Pour Moi';
+SELECT * FROM albums a WHERE a.name = 'Sahara Euro Edition';
+SELECT * FROM albums a WHERE a.name = 'American Pride';
+SELECT * FROM albums a WHERE a.name = 'Wire';
+SELECT * FROM albums a WHERE a.name = 'Offerings: A Worship Album';
+SELECT * FROM albums a WHERE a.name = 'L''Instinct Et L''Envie';
+SELECT * FROM albums a WHERE a.name = 'Elvis At The Movies';
+SELECT * FROM albums a WHERE a.name = 'Tattoo You';
+SELECT * FROM albums a WHERE a.name = 'I Successi Di Miguel Bosè';
+SELECT * FROM albums a WHERE a.name = 'Aproximaciones';
+SELECT * FROM albums a WHERE a.name = 'My Home''s In Alabama';
+SELECT * FROM albums a WHERE a.name = 'Michael Jackson: The Ultimate Collection';
+SELECT * FROM albums a WHERE a.name = 'Afterglow Live';
+SELECT * FROM albums a WHERE a.name = 'The Recession';
+SELECT * FROM albums a WHERE a.name = 'Due';
+SELECT * FROM albums a WHERE a.name = 'Dan Sartain vs. the Serpientes';
+SELECT * FROM albums a WHERE a.name = 'Naked and Mixed Up';
+SELECT * FROM albums a WHERE a.name = 'Powder Burns';
+SELECT * FROM albums a WHERE a.name = 'Hits And Exit Wounds';
+SELECT * FROM albums a WHERE a.name = 'The Motown Years 50';
+SELECT * FROM albums a WHERE a.name = 'Los Ninos de Sara - Le Son Gitan d''Alabina';
+SELECT * FROM albums a WHERE a.name = 'Favors';
+SELECT * FROM albums a WHERE a.name = 'Declaration';
+SELECT * FROM albums a WHERE a.name = 'Soul Symphony';
+SELECT * FROM albums a WHERE a.name = 'Audio Day Dream';
+SELECT * FROM albums a WHERE a.name = 'Signals';
+SELECT * FROM albums a WHERE a.name = 'Cleopatra Grip';
+SELECT * FROM albums a WHERE a.name = 'If We Can''t Escape My Pretty';
+SELECT * FROM albums a WHERE a.name = 'Able Treasury';
+SELECT * FROM albums a WHERE a.name = 'Oozing Bass Spasms';
+SELECT * FROM albums a WHERE a.name = 'Big Floor Funk EP';
+SELECT * FROM albums a WHERE a.name = 'Red Forest';
+SELECT * FROM albums a WHERE a.name = 'Hypnotic Tango';
+SELECT * FROM albums a WHERE a.name = 'The Sisterhood of the Traveling Pants 2';
+SELECT * FROM albums a WHERE a.name = 'Live In Gdansk';
+SELECT * FROM albums a WHERE a.name = 'Elite Squad';
+SELECT * FROM albums a WHERE a.name = 'Round Trip (Plus Bonus Tracks)';
+SELECT * FROM albums a WHERE a.name = 'Catch Me If You Can';
+SELECT * FROM albums a WHERE a.name = 'Brass Knuckles';
+SELECT * FROM albums a WHERE a.name = 'The Iron Giant';
+SELECT * FROM albums a WHERE a.name = 'Creative Spaces';
+SELECT * FROM albums a WHERE a.name = 'Great Composers: Elmer Bernstein';
+SELECT * FROM albums a WHERE a.name = 'Judgement Day';
+SELECT * FROM albums a WHERE a.name = 'Jetzt';
+SELECT * FROM albums a WHERE a.name = 'Playlist: The Very Best Of Aretha Franklin';
+SELECT * FROM albums a WHERE a.name = 'Playlist: The Very Best Of Eddie Money';
+SELECT * FROM albums a WHERE a.name = 'Svet Mi Stupil Na Nohu';
+SELECT * FROM albums a WHERE a.name = 'La Riconquista Del Forum';
+SELECT * FROM albums a WHERE a.name = 'Soul Movement Vol I';
+SELECT * FROM albums a WHERE a.name = 'Livewire Perform The Best Of ACDC';
+SELECT * FROM albums a WHERE a.name = 'Zwischen Null und Zero';
+SELECT * FROM albums a WHERE a.name = 'Life Is Not A Waiting Room';
+SELECT * FROM albums a WHERE a.name = 'Diesel And Dust';
+SELECT * FROM albums a WHERE a.name = 'Scarborough Fair - Songs from the British Isles';
+SELECT * FROM albums a WHERE a.name = 'You May Already Be Dreaming';
+SELECT * FROM albums a WHERE a.name = 'Songs For You_ Truths For Me';
+SELECT * FROM albums a WHERE a.name = 'Twilight Of The Innocents';
+SELECT * FROM albums a WHERE a.name = 'Tyler Hilton: The Acoustic Sessions';
+SELECT * FROM albums a WHERE a.name = 'Home For Christmas';
+SELECT * FROM albums a WHERE a.name = 'Halo (Original Soundtrack)';
+SELECT * FROM albums a WHERE a.name = 'Beethoven : Complete String Quartets_ Quintets & Fragments';
+SELECT * FROM albums a WHERE a.name = 'Smell My Finger';
+SELECT * FROM albums a WHERE a.name = 'Pleased To Meet Me [Expanded Edition]';
+SELECT * FROM albums a WHERE a.name = 'Silverlake';
+SELECT * FROM albums a WHERE a.name = 'Murs For President';
+SELECT * FROM albums a WHERE a.name = 'Novos Hinos Para a Mocidade Portuguesa';
+SELECT * FROM albums a WHERE a.name = 'Colors Of The Sun';
+SELECT * FROM albums a WHERE a.name = 'Tame Impala';
+SELECT * FROM albums a WHERE a.name = 'Howl';
+SELECT * FROM albums a WHERE a.name = 'California Blues';
+SELECT * FROM albums a WHERE a.name = 'Second To None';
+SELECT * FROM albums a WHERE a.name = 'Touchstone';
+SELECT * FROM albums a WHERE a.name = 'Do What When Who Attack';
+SELECT * FROM albums a WHERE a.name = 'From Distant Vessels';
+SELECT * FROM albums a WHERE a.name = 'The Thief & The Heartbreaker';
+SELECT * FROM albums a WHERE a.name = 'Tech Dance Euphoria Mixed By Yoji';
+SELECT * FROM albums a WHERE a.name = 'Scheme For Thought';
+SELECT * FROM albums a WHERE a.name = 'De Geesten';
+SELECT * FROM albums a WHERE a.name = 'Canzoni da spiaggia deturpata';
+SELECT * FROM albums a WHERE a.name = 'The Bones Of You';
+SELECT * FROM albums a WHERE a.name = 'Multiplicity';
+SELECT * FROM albums a WHERE a.name = 'Got You Covered';
+SELECT * FROM albums a WHERE a.name = 'Montagnola';
+SELECT * FROM albums a WHERE a.name = 'Another Day (osunlade Remixes)';
+SELECT * FROM albums a WHERE a.name = 'Taster 4';
+SELECT * FROM albums a WHERE a.name = 'Taster 3';
+SELECT * FROM albums a WHERE a.name = 'Autour De La Lune';
+SELECT * FROM albums a WHERE a.name = '7';
+SELECT * FROM albums a WHERE a.name = 'Wrong';
+SELECT * FROM albums a WHERE a.name = 'Another Day At The Orifice';
+SELECT * FROM albums a WHERE a.name = '10_000 Years Beneath The Street';
+SELECT * FROM albums a WHERE a.name = 'Whole Lotta Live 1998';
+SELECT * FROM albums a WHERE a.name = 'Implant';
+SELECT * FROM albums a WHERE a.name = 'A Flat Man';
+SELECT * FROM albums a WHERE a.name = 'Fiction Fever';
+SELECT * FROM albums a WHERE a.name = 'Blood Red Earth';
+SELECT * FROM albums a WHERE a.name = 'Cello Blue';
+SELECT * FROM albums a WHERE a.name = 'Free Hauz';
+SELECT * FROM albums a WHERE a.name = 'Perfect Symmetry';
+SELECT * FROM albums a WHERE a.name = 'Lil Irocc Williams';
+SELECT * FROM albums a WHERE a.name = 'Krinkle';
+SELECT * FROM albums a WHERE a.name = 'Stand out';
+SELECT * FROM albums a WHERE a.name = 'Unwritten';
+SELECT * FROM albums a WHERE a.name = 'Weird hits_ two covers & a love song';
+SELECT * FROM albums a WHERE a.name = 'Far End Of Summer';
+SELECT * FROM albums a WHERE a.name = 'Eye Of The Wolf';
+SELECT * FROM albums a WHERE a.name = 'Am I Blue (1978) (Blues Reference)';
+SELECT * FROM albums a WHERE a.name = 'Pneuma';
+SELECT * FROM albums a WHERE a.name = 'Ain''t She Sweet';
+SELECT * FROM albums a WHERE a.name = 'Karl Jenkins: Quirk';
+SELECT * FROM albums a WHERE a.name = 'Like Hearts Swelling';
+SELECT * FROM albums a WHERE a.name = 'Ruck Rover';
+SELECT * FROM albums a WHERE a.name = 'I Love You So';
+SELECT * FROM albums a WHERE a.name = 'Everything Seems Clear';
+SELECT * FROM albums a WHERE a.name = 'Dr. Dre Presents Mega Big Gangsta Rap';
+SELECT * FROM albums a WHERE a.name = 'Creek Bank';
+SELECT * FROM albums a WHERE a.name = 'Regulars And Refugees';
+SELECT * FROM albums a WHERE a.name = 'My True Name';
+SELECT * FROM albums a WHERE a.name = 'Visions and Dreams';
+SELECT * FROM albums a WHERE a.name = 'Jake Summers';
+SELECT * FROM albums a WHERE a.name = 'Trancemaster 6002';
+SELECT * FROM albums a WHERE a.name = 'Elgin Avenue Breakdown (Revisited)';
+SELECT * FROM albums a WHERE a.name = 'Undanced II';
+SELECT * FROM albums a WHERE a.name = 'Timeless';
+SELECT * FROM albums a WHERE a.name = 'Your Love / Gonna Make You Mine 12s';
+SELECT * FROM albums a WHERE a.name = 'Still Making History';
+SELECT * FROM albums a WHERE a.name = 'Jack - Pot';
+SELECT * FROM albums a WHERE a.name = 'Blueprint Of A Lady: Sketches Of Billie Holiday';
+SELECT * FROM albums a WHERE a.name = 'The Concord Jazz Heritage Series';
+SELECT * FROM albums a WHERE a.name = 'Steppin'' Out';
+SELECT * FROM albums a WHERE a.name = 'Beauty Never Ceases';
+SELECT * FROM albums a WHERE a.name = '...It''s Ugly Or Nothing';
+SELECT * FROM albums a WHERE a.name = 'Living Country Blues USA Vol. 12 - East Coast Blues';
+SELECT * FROM albums a WHERE a.name = 'Living Country Blues USA Vol. 11 - Country Gospel Rock';
+SELECT * FROM albums a WHERE a.name = 'Jazz Trash';
+SELECT * FROM albums a WHERE a.name = 'Los geht''s - Das Beste';
+SELECT * FROM albums a WHERE a.name = 'Bonita';
+SELECT * FROM albums a WHERE a.name = 'Within The Heat';
+SELECT * FROM albums a WHERE a.name = 'Without This You Can Never Change';
+SELECT * FROM albums a WHERE a.name = 'Tools for Fools';
+SELECT * FROM albums a WHERE a.name = 'Beethoven Piano and Cello Works';
+SELECT * FROM albums a WHERE a.name = 'Varese Sarabande: A 25th Anniversary Celebration';
+SELECT * FROM albums a WHERE a.name = 'Come Back To Me';
+SELECT * FROM albums a WHERE a.name = 'Thieves';
+SELECT * FROM albums a WHERE a.name = 'Cold Chilly Woman (1972)';
+SELECT * FROM albums a WHERE a.name = 'Born In Georgia';
+SELECT * FROM albums a WHERE a.name = 'Luther''s Blues (1976) (Blues Reference)';
+SELECT * FROM albums a WHERE a.name = 'Being This Side Of Insane';
+SELECT * FROM albums a WHERE a.name = 'I Still Believe In You';
+SELECT * FROM albums a WHERE a.name = 'Torture Pit';
+SELECT * FROM albums a WHERE a.name = 'The Greatest - Souvenir Edition';
+SELECT * FROM albums a WHERE a.name = 'Esto es Sólo una Canción';
+SELECT * FROM albums a WHERE a.name = 'Bad Manners';
+SELECT * FROM albums a WHERE a.name = 'You Gotta Say Yes To Antother Excess';
+SELECT * FROM albums a WHERE a.name = 'King Of Kings';
+SELECT * FROM albums a WHERE a.name = 'Beggin'' : 1967 - 1969';
+SELECT * FROM albums a WHERE a.name = 'Clear Blue Sky';
+SELECT * FROM albums a WHERE a.name = 'Present From Nancy';
+SELECT * FROM albums a WHERE a.name = 'Dark Saloon';
+SELECT * FROM albums a WHERE a.name = 'Teenage Wristband';
+SELECT * FROM albums a WHERE a.name = 'Capsule (The Best of KOD: 1988-94)';
+SELECT * FROM albums a WHERE a.name = 'Maupassant et les femmes : Nouvelles';
+SELECT * FROM albums a WHERE a.name = 'Here_ It Never Snowed_ Afterwards It Did.';
+SELECT * FROM albums a WHERE a.name = 'Love Is Overtaking Me';
+SELECT * FROM albums a WHERE a.name = '7';
+SELECT * FROM albums a WHERE a.name = 'Atardecer';
+SELECT * FROM albums a WHERE a.name = 'Softer Diagram';
+SELECT * FROM albums a WHERE a.name = 'I Don''t Want To Be A Freak';
+SELECT * FROM albums a WHERE a.name = 'Carnival Ride';
+SELECT * FROM albums a WHERE a.name = 'The Hotel Café presents... Winter Songs';
+SELECT * FROM albums a WHERE a.name = 'Portable Life';
+SELECT * FROM albums a WHERE a.name = 'Comptant';
+SELECT * FROM albums a WHERE a.name = 'The Peoples Champ';
+SELECT * FROM albums a WHERE a.name = 'The Black Rob Report';
+SELECT * FROM albums a WHERE a.name = 'Stands For ICPMABOYC';
+SELECT * FROM albums a WHERE a.name = 'Guitar Boogie Fever';
+SELECT * FROM albums a WHERE a.name = 'It''s My Day';
+SELECT * FROM albums a WHERE a.name = 'A Day In June';
+SELECT * FROM albums a WHERE a.name = 'O.S.T. - L''allenatore nel pallone 2';
+SELECT * FROM albums a WHERE a.name = 'The Devil Hits Back';
+SELECT * FROM albums a WHERE a.name = 'Here''s Your Sign';
+SELECT * FROM albums a WHERE a.name = 'Amazing';
+SELECT * FROM albums a WHERE a.name = 'The Best Of The Dramatics';
+SELECT * FROM albums a WHERE a.name = 'Mis Romances';
+SELECT * FROM albums a WHERE a.name = 'Cafè De La Paix Vol.1';
+SELECT * FROM albums a WHERE a.name = 'Chillin'' Mania Vol.1';
+SELECT * FROM albums a WHERE a.name = 'Count Basie Swings - Joe Williams Sings';
+SELECT * FROM albums a WHERE a.name = 'Deepest Dark';
+SELECT * FROM albums a WHERE a.name = 'Space Shanty';
+SELECT * FROM albums a WHERE a.name = 'Always The Bridesmaid: A Singles Series. Volume III: A Record Year For Rainfall/ Raincoat Song';
+SELECT * FROM albums a WHERE a.name = 'balance';
+SELECT * FROM albums a WHERE a.name = 'Dance To The Underground';
+SELECT * FROM albums a WHERE a.name = 'Robbie Dupree with David Sancious';
+SELECT * FROM albums a WHERE a.name = 'Live At The Roxy_ London (1977) / Live At CBGB Theatre_ New York (1978)';
+SELECT * FROM albums a WHERE a.name = 'Put Your Hands Down';
+SELECT * FROM albums a WHERE a.name = 'A Winter Moment';
+SELECT * FROM albums a WHERE a.name = 'Friday''s Child';
+SELECT * FROM albums a WHERE a.name = 'In The Space Of A Few Minutes';
+SELECT * FROM albums a WHERE a.name = 'The Selecter''s The Tide Is High';
+SELECT * FROM albums a WHERE a.name = 'Talk To You By Hand';
+SELECT * FROM albums a WHERE a.name = 'Rack ''Em Up';
+SELECT * FROM albums a WHERE a.name = 'The Fathomless Mastery';
+SELECT * FROM albums a WHERE a.name = 'Black Snow';
+SELECT * FROM albums a WHERE a.name = 'Satin Sheets';
+SELECT * FROM albums a WHERE a.name = 'Don''t Squeeze My Sharmon';
+SELECT * FROM albums a WHERE a.name = 'The End Of The World';
+SELECT * FROM albums a WHERE a.name = 'Angel Of The Lake';
+SELECT * FROM albums a WHERE a.name = 'New Baby Boy Adam';
+SELECT * FROM albums a WHERE a.name = 'Monuments';
+SELECT * FROM albums a WHERE a.name = 'New Baby Boy Dennis';
+SELECT * FROM albums a WHERE a.name = 'Frore Meadow';
+SELECT * FROM albums a WHERE a.name = 'A Fallen Temple';
+SELECT * FROM albums a WHERE a.name = 'Engraved in Memory';
+SELECT * FROM albums a WHERE a.name = 'Kiss R&B Digital Downloads';
+SELECT * FROM albums a WHERE a.name = 'David Archuleta';
+SELECT * FROM albums a WHERE a.name = 'Just The Beginning';
+SELECT * FROM albums a WHERE a.name = 'La mixtape...Street Album vol.1';
+SELECT * FROM albums a WHERE a.name = 'Dancehall: The Rise of Jamaican Dancehall Culture';
+SELECT * FROM albums a WHERE a.name = 'the hares corner';
+SELECT * FROM albums a WHERE a.name = 'Life on Planet Groove';
+SELECT * FROM albums a WHERE a.name = 'Get On Down / Hold On';
+SELECT * FROM albums a WHERE a.name = 'Conspiracy To Riot';
+SELECT * FROM albums a WHERE a.name = 'Certifiable';
+SELECT * FROM albums a WHERE a.name = 'Ejector Seat Reservation';
+SELECT * FROM albums a WHERE a.name = 'Java Sur Seine';
+SELECT * FROM albums a WHERE a.name = 'Samo Voo Voo';
+SELECT * FROM albums a WHERE a.name = 'The Bang Gang Deejays ''D Is For Disco_ E Is For Dancing''';
+SELECT * FROM albums a WHERE a.name = 'Greatest Remixes';
+SELECT * FROM albums a WHERE a.name = 'David Cook';
+SELECT * FROM albums a WHERE a.name = 'V.I.P. 2008';
+SELECT * FROM albums a WHERE a.name = 'Italuba';
+SELECT * FROM albums a WHERE a.name = 'New Beginning';
+SELECT * FROM albums a WHERE a.name = 'Put on Your Rosey Red Glasses';
+SELECT * FROM albums a WHERE a.name = 'Brothers of Peace: The Definitive Collection';
+SELECT * FROM albums a WHERE a.name = 'Vom selben Stern - Live';
+SELECT * FROM albums a WHERE a.name = 'Brazilian Love Affair 2';
+SELECT * FROM albums a WHERE a.name = 'The Cries Of The Broken EP';
+SELECT * FROM albums a WHERE a.name = 'Gift Grub 9 How To Look Gift Naked';
+SELECT * FROM albums a WHERE a.name = 'Scars Remain';
+SELECT * FROM albums a WHERE a.name = 'Who Stole The Sky?';
+SELECT * FROM albums a WHERE a.name = 'Cranes';
+SELECT * FROM albums a WHERE a.name = 'Absolutely Freak Out (Zap Your Mind!)';
+SELECT * FROM albums a WHERE a.name = 'Satyre Cornu';
+SELECT * FROM albums a WHERE a.name = 'You''re Lucky To Have Friends Like Us';
+SELECT * FROM albums a WHERE a.name = 'The Albums';
+SELECT * FROM albums a WHERE a.name = 'Rhythm''n''blues';
+SELECT * FROM albums a WHERE a.name = 'Concert Hall Live';
+SELECT * FROM albums a WHERE a.name = '''A Classic FM Christmas'' - The Ultimate Classical and Jazz Album';
+SELECT * FROM albums a WHERE a.name = 'Celebration';
+SELECT * FROM albums a WHERE a.name = 'Janacek: Chamber & Orchestral Works';
+SELECT * FROM albums a WHERE a.name = 'Revisited By';
+SELECT * FROM albums a WHERE a.name = 'Al final de este viaje';
+SELECT * FROM albums a WHERE a.name = 'Dave Clarke - Back In The Box';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Fury Rockabilly Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'The Complete John Peel Sessions';
+SELECT * FROM albums a WHERE a.name = 'Stretching Out';
+SELECT * FROM albums a WHERE a.name = 'Van Der Bascule';
+SELECT * FROM albums a WHERE a.name = 'Further Listening 2003-2008';
+SELECT * FROM albums a WHERE a.name = 'Feedback';
+SELECT * FROM albums a WHERE a.name = 'Get A Life';
+SELECT * FROM albums a WHERE a.name = 'Colección de Oro - Horacio Salgán';
+SELECT * FROM albums a WHERE a.name = 'truANT';
+SELECT * FROM albums a WHERE a.name = 'Blast Action Heroes';
+SELECT * FROM albums a WHERE a.name = 'The Third Storm Of Cythraul';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Das Kann Nur Liebe Sein';
+SELECT * FROM albums a WHERE a.name = 'The 11i Remix EP';
+SELECT * FROM albums a WHERE a.name = 'Split';
+SELECT * FROM albums a WHERE a.name = 'A Collection: Past_ Present and Future';
+SELECT * FROM albums a WHERE a.name = 'Chess Blues Guitar / Two Decades Of Killer Fretwork_ 1949-1969';
+SELECT * FROM albums a WHERE a.name = 'Gavin';
+SELECT * FROM albums a WHERE a.name = 'Por siempre';
+SELECT * FROM albums a WHERE a.name = 'Ano Neko';
+SELECT * FROM albums a WHERE a.name = 'All you need is a song';
+SELECT * FROM albums a WHERE a.name = 'Le champ des larmes';
+SELECT * FROM albums a WHERE a.name = 'Oye Como Va';
+SELECT * FROM albums a WHERE a.name = 'Clubland 14';
+SELECT * FROM albums a WHERE a.name = 'Private City';
+SELECT * FROM albums a WHERE a.name = 'Closer (Than A Heartbeat)';
+SELECT * FROM albums a WHERE a.name = 'Master Of Pigeons';
+SELECT * FROM albums a WHERE a.name = 'Dump The Body In Rikki Lake';
+SELECT * FROM albums a WHERE a.name = 'Sin Gulls (Goring St. Eddy)';
+SELECT * FROM albums a WHERE a.name = 'To Hell With Humdrum';
+SELECT * FROM albums a WHERE a.name = 'The Document II';
+SELECT * FROM albums a WHERE a.name = 'Elektrik Elefant';
+SELECT * FROM albums a WHERE a.name = '2C';
+SELECT * FROM albums a WHERE a.name = 'Pensión Triana';
+SELECT * FROM albums a WHERE a.name = 'Take The Blame';
+SELECT * FROM albums a WHERE a.name = 'Stepping Out Of Line - The Anthology';
+SELECT * FROM albums a WHERE a.name = 'A Stone Alone - The Solo Anthology 1974-2002';
+SELECT * FROM albums a WHERE a.name = 'The Ultimate Collection';
+SELECT * FROM albums a WHERE a.name = '20 Original Greats';
+SELECT * FROM albums a WHERE a.name = 'Rock Island Line - The Singles Anthology';
+SELECT * FROM albums a WHERE a.name = 'Everything''s Tuesday - The Best Of';
+SELECT * FROM albums a WHERE a.name = 'Deeper Still';
+SELECT * FROM albums a WHERE a.name = 'The Wind Beneath My Wings';
+SELECT * FROM albums a WHERE a.name = 'Mar de Pedra';
+SELECT * FROM albums a WHERE a.name = 'Eels';
+SELECT * FROM albums a WHERE a.name = 'Where The Light Is: John Mayer Live In Los Angeles';
+SELECT * FROM albums a WHERE a.name = 'Singles';
+SELECT * FROM albums a WHERE a.name = 'A Collection Of Spikes';
+SELECT * FROM albums a WHERE a.name = 'The EMI Years - Best Of The Swinging Blue Jeans';
+SELECT * FROM albums a WHERE a.name = 'The Prospect Before Us';
+SELECT * FROM albums a WHERE a.name = 'Twelfth Night';
+SELECT * FROM albums a WHERE a.name = 'Ages';
+SELECT * FROM albums a WHERE a.name = '(Come On_ Join) The High Society';
+SELECT * FROM albums a WHERE a.name = 'Hits of The 60''s Volume 1';
+SELECT * FROM albums a WHERE a.name = 'Wabash Cannonball';
+SELECT * FROM albums a WHERE a.name = 'Trueno Oscuro';
+SELECT * FROM albums a WHERE a.name = 'Odyssée First Série: Chansons Créoles';
+SELECT * FROM albums a WHERE a.name = 'Odyssee First Serie: Latitudes Fêtes';
+SELECT * FROM albums a WHERE a.name = 'Spotlight On Gale Storm';
+SELECT * FROM albums a WHERE a.name = 'New Flowers';
+SELECT * FROM albums a WHERE a.name = 'Chemical Chords Extra Tracks EP';
+SELECT * FROM albums a WHERE a.name = '* Naked As Advertised  Versions 08';
+SELECT * FROM albums a WHERE a.name = 'Music For Solo Piano';
+SELECT * FROM albums a WHERE a.name = 'Knowledge Is King';
+SELECT * FROM albums a WHERE a.name = 'Kool Moe Dee';
+SELECT * FROM albums a WHERE a.name = 'Changes';
+SELECT * FROM albums a WHERE a.name = 'Boots_ Buckles & Spurs - 50 Songs Celebrate 50 Years of Cowboy Tradition';
+SELECT * FROM albums a WHERE a.name = 'One Eye To The Future';
+SELECT * FROM albums a WHERE a.name = 'Should I Tell You?';
+SELECT * FROM albums a WHERE a.name = 'Live At The House Of Blues';
+SELECT * FROM albums a WHERE a.name = 'Nadando A Crol';
+SELECT * FROM albums a WHERE a.name = 'La Paz Está En Las Matemáticas';
+SELECT * FROM albums a WHERE a.name = 'The Sidelong Glances Of A Pigeon Kicker';
+SELECT * FROM albums a WHERE a.name = 'Little Heart Attacks';
+SELECT * FROM albums a WHERE a.name = 'Ragga & The Jack Magic Orchestra';
+SELECT * FROM albums a WHERE a.name = 'All Out';
+SELECT * FROM albums a WHERE a.name = 'The Bonzo Dog Band - The Intro';
+SELECT * FROM albums a WHERE a.name = 'Fish And Chips';
+SELECT * FROM albums a WHERE a.name = 'Disposable Half-Truths';
+SELECT * FROM albums a WHERE a.name = 'Il Vuoto';
+SELECT * FROM albums a WHERE a.name = 'Solid Bronze - Great Hits';
+SELECT * FROM albums a WHERE a.name = 'Soul Zouk';
+SELECT * FROM albums a WHERE a.name = 'Tasty Jam';
+SELECT * FROM albums a WHERE a.name = 'The Goldwax Years';
+SELECT * FROM albums a WHERE a.name = 'Life Force Radio';
+SELECT * FROM albums a WHERE a.name = 'A Moment''s Pleasure';
+SELECT * FROM albums a WHERE a.name = 'Rooty';
+SELECT * FROM albums a WHERE a.name = 'Liberation - The Best Of';
+SELECT * FROM albums a WHERE a.name = 'Happy New Year!';
+SELECT * FROM albums a WHERE a.name = 'Discolights';
+SELECT * FROM albums a WHERE a.name = 'Reggae Max';
+SELECT * FROM albums a WHERE a.name = 'Recharge & Reload';
+SELECT * FROM albums a WHERE a.name = 'Kristal Zouk';
+SELECT * FROM albums a WHERE a.name = 'The Very Best of Tom Lehrer';
+SELECT * FROM albums a WHERE a.name = 'Best Of The Best';
+SELECT * FROM albums a WHERE a.name = 'Methodology ''74-''78: Attic Tapes';
+SELECT * FROM albums a WHERE a.name = 'I Am Love Ep';
+SELECT * FROM albums a WHERE a.name = 'In The Meantime';
+SELECT * FROM albums a WHERE a.name = 'Punk Crazy';
+SELECT * FROM albums a WHERE a.name = 'Versus';
+SELECT * FROM albums a WHERE a.name = 'Bares y Fondas';
+SELECT * FROM albums a WHERE a.name = 'Zomby EP';
+SELECT * FROM albums a WHERE a.name = 'The Gunslinger Part II: Fist Full of Dollars';
+SELECT * FROM albums a WHERE a.name = 'IZZ Live at NEARfest';
+SELECT * FROM albums a WHERE a.name = '1945 - 1950';
+SELECT * FROM albums a WHERE a.name = 'Versoeking';
+SELECT * FROM albums a WHERE a.name = 'Getcha Weight Up';
+SELECT * FROM albums a WHERE a.name = 'Swing';
+SELECT * FROM albums a WHERE a.name = 'Pubis Angelical / Yendo De La Cama Al Living';
+SELECT * FROM albums a WHERE a.name = 'Live and Loud! / Fly the Flags';
+SELECT * FROM albums a WHERE a.name = 'Takin'' a Detour #2';
+SELECT * FROM albums a WHERE a.name = 'BBC / Peel Sessions';
+SELECT * FROM albums a WHERE a.name = 'Live in London And Paris';
+SELECT * FROM albums a WHERE a.name = 'Heard That';
+SELECT * FROM albums a WHERE a.name = 'Justin Hinds'' Once A Man Twice A Child';
+SELECT * FROM albums a WHERE a.name = 'The Notations'' Take It Slow';
+SELECT * FROM albums a WHERE a.name = 'Rasputin Stash''s I Can Feel Your Love Jones';
+SELECT * FROM albums a WHERE a.name = 'Billy Butler''s Sugar Candy Lady';
+SELECT * FROM albums a WHERE a.name = 'The Contours'' In The Still Of The Night';
+SELECT * FROM albums a WHERE a.name = 'Arbee Stidham''s Please Let It Be';
+SELECT * FROM albums a WHERE a.name = 'Duncan Browne''s Ninepence Worth Of Walking';
+SELECT * FROM albums a WHERE a.name = 'Joe Loco''s Polonaise Op.53';
+SELECT * FROM albums a WHERE a.name = 'Glider';
+SELECT * FROM albums a WHERE a.name = 'Andre';
+SELECT * FROM albums a WHERE a.name = 'The North Wind Blew South';
+SELECT * FROM albums a WHERE a.name = 'A Thing For Me 2';
+SELECT * FROM albums a WHERE a.name = 'Hard Promises';
+SELECT * FROM albums a WHERE a.name = 'We Are Crazy';
+SELECT * FROM albums a WHERE a.name = 'Hardstyle Bundle Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'The Very Best of Relaxing Classics';
+SELECT * FROM albums a WHERE a.name = 'Nervous Acappellas 2';
+SELECT * FROM albums a WHERE a.name = 'Not Afraid';
+SELECT * FROM albums a WHERE a.name = 'Bretton';
+SELECT * FROM albums a WHERE a.name = 'Duos II';
+SELECT * FROM albums a WHERE a.name = 'The Dynasty Collection 1 - Early Years';
+SELECT * FROM albums a WHERE a.name = 'Pa''l Mundo';
+SELECT * FROM albums a WHERE a.name = 'In The Absence Of Truth';
+SELECT * FROM albums a WHERE a.name = 'Ridiculous Bohemia';
+SELECT * FROM albums a WHERE a.name = 'Midnight Showers';
+SELECT * FROM albums a WHERE a.name = 'Mama';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Me';
+SELECT * FROM albums a WHERE a.name = 'Les 4 saisons de Sonia Dersion';
+SELECT * FROM albums a WHERE a.name = 'West Of Broadway';
+SELECT * FROM albums a WHERE a.name = 'Nothing''s Gonna Spoil My Day Today';
+SELECT * FROM albums a WHERE a.name = 'The Early Years';
+SELECT * FROM albums a WHERE a.name = 'She Loves Me/There''s Love & There''s Love & There''s Love';
+SELECT * FROM albums a WHERE a.name = 'Clb';
+SELECT * FROM albums a WHERE a.name = 'Attimi Regolari';
+SELECT * FROM albums a WHERE a.name = 'YoYoYoYoYo';
+SELECT * FROM albums a WHERE a.name = '15 Levels Of Magnification';
+SELECT * FROM albums a WHERE a.name = 'Genetically Modified';
+SELECT * FROM albums a WHERE a.name = 'Tone Tales From Tomorrow Too';
+SELECT * FROM albums a WHERE a.name = 'Every Day';
+SELECT * FROM albums a WHERE a.name = 'USSR: The Art of Listening';
+SELECT * FROM albums a WHERE a.name = 'Middle Age Rampage';
+SELECT * FROM albums a WHERE a.name = 'The Complete Motown Singles_ Volume 2: 1962';
+SELECT * FROM albums a WHERE a.name = 'Skalpel';
+SELECT * FROM albums a WHERE a.name = 'The Complete Motown Singles_ Volume 4: 1964';
+SELECT * FROM albums a WHERE a.name = 'Paradise Blown';
+SELECT * FROM albums a WHERE a.name = 'The Complete Motown Singles_ Volume 5: 1965';
+SELECT * FROM albums a WHERE a.name = 'Souvenir';
+SELECT * FROM albums a WHERE a.name = 'Arcade Terra';
+SELECT * FROM albums a WHERE a.name = 'Blue Honey';
+SELECT * FROM albums a WHERE a.name = 'Music''s Made Of Memories';
+SELECT * FROM albums a WHERE a.name = 'With Voices';
+SELECT * FROM albums a WHERE a.name = 'Adventures in Foam';
+SELECT * FROM albums a WHERE a.name = 'Bothers In Blues';
+SELECT * FROM albums a WHERE a.name = 'Storm In A Teacup';
+SELECT * FROM albums a WHERE a.name = 'The Ugly Duckling and Other Great Songs';
+SELECT * FROM albums a WHERE a.name = 'John Coltrane';
+SELECT * FROM albums a WHERE a.name = 'Petula Clark';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of Charlie Parker';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Quincy Jones';
+SELECT * FROM albums a WHERE a.name = 'Johnny Mathis';
+SELECT * FROM albums a WHERE a.name = 'Ray Charles Vol 1';
+SELECT * FROM albums a WHERE a.name = 'Piano pour films muets / Music for silent movies vol.3';
+SELECT * FROM albums a WHERE a.name = 'Elephant in the sand (Diss Fat Joe)';
+SELECT * FROM albums a WHERE a.name = 'Back to Fundamentals by DJ Gregory';
+SELECT * FROM albums a WHERE a.name = 'UK - 1958 - June';
+SELECT * FROM albums a WHERE a.name = 'Lollipop';
+SELECT * FROM albums a WHERE a.name = 'Among Flies';
+SELECT * FROM albums a WHERE a.name = 'Only Baby';
+SELECT * FROM albums a WHERE a.name = 'Trasmazonia';
+SELECT * FROM albums a WHERE a.name = 'Live In London';
+SELECT * FROM albums a WHERE a.name = 'Scarface';
+SELECT * FROM albums a WHERE a.name = 'Definitive Collection';
+SELECT * FROM albums a WHERE a.name = 'The Way Of The Fist';
+SELECT * FROM albums a WHERE a.name = 'The Anthology';
+SELECT * FROM albums a WHERE a.name = 'Hits Of The War Years';
+SELECT * FROM albums a WHERE a.name = 'Ost.: Underground';
+SELECT * FROM albums a WHERE a.name = 'Epures';
+SELECT * FROM albums a WHERE a.name = 'One Single Breath';
+SELECT * FROM albums a WHERE a.name = 'What I''m For';
+SELECT * FROM albums a WHERE a.name = 'Withering to death';
+SELECT * FROM albums a WHERE a.name = 'D.e.v.o.l.u.t.i.o.n.';
+SELECT * FROM albums a WHERE a.name = 'Teddy Wilson in 4 Hands';
+SELECT * FROM albums a WHERE a.name = 'Be True';
+SELECT * FROM albums a WHERE a.name = 'Get It On';
+SELECT * FROM albums a WHERE a.name = 'Chilltronica - A Definition No. 1';
+SELECT * FROM albums a WHERE a.name = 'Mr. McGregor';
+SELECT * FROM albums a WHERE a.name = 'Francis Albert Sinatra & Antonio Carlos Jobim';
+SELECT * FROM albums a WHERE a.name = 'Keepin It Real';
+SELECT * FROM albums a WHERE a.name = 'Best Of Hilary Duff';
+SELECT * FROM albums a WHERE a.name = 'Babe Ruth';
+SELECT * FROM albums a WHERE a.name = 'Zeno';
+SELECT * FROM albums a WHERE a.name = 'Mix-Up';
+SELECT * FROM albums a WHERE a.name = 'Echoes Of Jilly''s';
+SELECT * FROM albums a WHERE a.name = 'Sunny day';
+SELECT * FROM albums a WHERE a.name = 'Nena Macht Rabatz';
+SELECT * FROM albums a WHERE a.name = 'Do It And More';
+SELECT * FROM albums a WHERE a.name = 'Rhythm Science';
+SELECT * FROM albums a WHERE a.name = 'Are You Gonna Go My Way';
+SELECT * FROM albums a WHERE a.name = 'Twisted Memories - Poems In C-Minor';
+SELECT * FROM albums a WHERE a.name = 'Volonta d''Arte';
+SELECT * FROM albums a WHERE a.name = 'Gigolo';
+SELECT * FROM albums a WHERE a.name = 'Songs For Swinging Lovers';
+SELECT * FROM albums a WHERE a.name = 'Just Do Me Right';
+SELECT * FROM albums a WHERE a.name = 'Drive Time';
+SELECT * FROM albums a WHERE a.name = 'More Out Of Today';
+SELECT * FROM albums a WHERE a.name = 'The French Christmas Album Volume 1';
+SELECT * FROM albums a WHERE a.name = 'Great Escape';
+SELECT * FROM albums a WHERE a.name = 'Cry Holy';
+SELECT * FROM albums a WHERE a.name = 'Three Trapped Tigers EP';
+SELECT * FROM albums a WHERE a.name = 'Step Back in Time';
+SELECT * FROM albums a WHERE a.name = 'And So It Went 1979 - 1981';
+SELECT * FROM albums a WHERE a.name = 'The Lone Gunman';
+SELECT * FROM albums a WHERE a.name = 'Ein kleines bißchen Horrorschau';
+SELECT * FROM albums a WHERE a.name = 'It''s About Time';
+SELECT * FROM albums a WHERE a.name = 'Shake Those Hula Hips!';
+SELECT * FROM albums a WHERE a.name = 'Get On Board';
+SELECT * FROM albums a WHERE a.name = 'Jesse Fuller''s Favorites';
+SELECT * FROM albums a WHERE a.name = 'They Tore My Playhouse Down....';
+SELECT * FROM albums a WHERE a.name = 'Sterne';
+SELECT * FROM albums a WHERE a.name = 'Gone With The Woodwinds!';
+SELECT * FROM albums a WHERE a.name = 'Sad Pig Dance';
+SELECT * FROM albums a WHERE a.name = 'Encounter!';
+SELECT * FROM albums a WHERE a.name = 'Live';
+SELECT * FROM albums a WHERE a.name = 'Live In Chicago';
+SELECT * FROM albums a WHERE a.name = 'Die Welt ist schön';
+SELECT * FROM albums a WHERE a.name = 'Sounds & Pressure 6';
+SELECT * FROM albums a WHERE a.name = 'The World of Purcell';
+SELECT * FROM albums a WHERE a.name = 'The Roulette Story';
+SELECT * FROM albums a WHERE a.name = 'We''ll Be Together Again';
+SELECT * FROM albums a WHERE a.name = 'Primitive Enema';
+SELECT * FROM albums a WHERE a.name = 'Turning Point';
+SELECT * FROM albums a WHERE a.name = 'The Motels';
+SELECT * FROM albums a WHERE a.name = 'Tribute';
+SELECT * FROM albums a WHERE a.name = 'My Place';
+SELECT * FROM albums a WHERE a.name = 'Zippo';
+SELECT * FROM albums a WHERE a.name = 'Hold Time';
+SELECT * FROM albums a WHERE a.name = 'Music from the Motion Picture The Curious Case of Benjamin Button';
+SELECT * FROM albums a WHERE a.name = 'Rodgers Conducts Rodgers';
+SELECT * FROM albums a WHERE a.name = 'Attitude Identitaire';
+SELECT * FROM albums a WHERE a.name = 'Live UK Tour ''75';
+SELECT * FROM albums a WHERE a.name = 'Rockabilly';
+SELECT * FROM albums a WHERE a.name = 'La Bamba';
+SELECT * FROM albums a WHERE a.name = 'Summerfish';
+SELECT * FROM albums a WHERE a.name = 'The Best of Horace Andy_ Ken Boothe & Dennis Brown';
+SELECT * FROM albums a WHERE a.name = 'Live From Relapse Contamination Festival';
+SELECT * FROM albums a WHERE a.name = 'On My Way';
+SELECT * FROM albums a WHERE a.name = 'Blame It On Love';
+SELECT * FROM albums a WHERE a.name = 'Sleepdrunk Seasons';
+SELECT * FROM albums a WHERE a.name = 'Muzica De Tolaneala & Depravare';
+SELECT * FROM albums a WHERE a.name = 'Dr Ragtime & Pals / Self Titled';
+SELECT * FROM albums a WHERE a.name = 'Best of the Comedians - The 50s';
+SELECT * FROM albums a WHERE a.name = 'Insanus_ Ultio_ Prodito_ Misericordiaque';
+SELECT * FROM albums a WHERE a.name = '1958 - August - US';
+SELECT * FROM albums a WHERE a.name = 'Variations';
+SELECT * FROM albums a WHERE a.name = 'Smash Hits 1982';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Darla 100';
+SELECT * FROM albums a WHERE a.name = 'The Crackling of the Anonymous';
+SELECT * FROM albums a WHERE a.name = 'Roamin'' and Ramblin''';
+SELECT * FROM albums a WHERE a.name = 'My Love Is Like A Red Red Rose';
+SELECT * FROM albums a WHERE a.name = 'Oceans Will Rise';
+SELECT * FROM albums a WHERE a.name = 'In This Life';
+SELECT * FROM albums a WHERE a.name = 'Sólo Éxitos';
+SELECT * FROM albums a WHERE a.name = 'Knight Time + A Little Knight Music';
+SELECT * FROM albums a WHERE a.name = 'Heritage - Maintenant Que La Jeunesse... - BAM (1968-1971)';
+SELECT * FROM albums a WHERE a.name = 'Heritage - Récital n°3 & 4 - BAM (1956-1957)';
+SELECT * FROM albums a WHERE a.name = 'Lucas';
+SELECT * FROM albums a WHERE a.name = 'rEVOLUCION';
+SELECT * FROM albums a WHERE a.name = 'Terror Squad Presents DJ Khaled / Listen...The Album';
+SELECT * FROM albums a WHERE a.name = 'I Got To Find Me A Woman';
+SELECT * FROM albums a WHERE a.name = 'Todeswunsch - Sous Le Soleil De Saturne';
+SELECT * FROM albums a WHERE a.name = 'Have Mercy: Live';
+SELECT * FROM albums a WHERE a.name = 'The Sue Story';
+SELECT * FROM albums a WHERE a.name = 'My Future';
+SELECT * FROM albums a WHERE a.name = 'Beyond Colossal';
+SELECT * FROM albums a WHERE a.name = 'Across The Water';
+SELECT * FROM albums a WHERE a.name = 'Eminem Presents The Re-Up';
+SELECT * FROM albums a WHERE a.name = '10 Years Of Quality Control';
+SELECT * FROM albums a WHERE a.name = 'Washingmachine Mouth - Unreleased';
+SELECT * FROM albums a WHERE a.name = 'Backroom Austin_ Tx 05-29-99';
+SELECT * FROM albums a WHERE a.name = 'Emo''s Austin_ Tx 04-01-97';
+SELECT * FROM albums a WHERE a.name = 'Live In Studio';
+SELECT * FROM albums a WHERE a.name = 'Breech';
+SELECT * FROM albums a WHERE a.name = 'Utopia Live from the Texas Opry';
+SELECT * FROM albums a WHERE a.name = 'Mit Gas';
+SELECT * FROM albums a WHERE a.name = 'Reggae Time';
+SELECT * FROM albums a WHERE a.name = 'Kool Funk Essentials CD2';
+SELECT * FROM albums a WHERE a.name = 'My Confession';
+SELECT * FROM albums a WHERE a.name = 'Mix Up Moods';
+SELECT * FROM albums a WHERE a.name = 'Nyahbinghi';
+SELECT * FROM albums a WHERE a.name = 'Crisis Time';
+SELECT * FROM albums a WHERE a.name = 'Real Clint Eastwood';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Funkadelic 1976-1981';
+SELECT * FROM albums a WHERE a.name = 'Tales Of Mozambique';
+SELECT * FROM albums a WHERE a.name = 'Early Rhythms';
+SELECT * FROM albums a WHERE a.name = '54';
+SELECT * FROM albums a WHERE a.name = 'The Twelve Inch Singles';
+SELECT * FROM albums a WHERE a.name = 'Single Ladies (Put A Ring On It) - Dance Remixes';
+SELECT * FROM albums a WHERE a.name = 'Live At The Old Quarter_ Houston_ Texas CD2';
+SELECT * FROM albums a WHERE a.name = 'Long Beach 1983';
+SELECT * FROM albums a WHERE a.name = 'The Four Horsemen Of Apocalypse';
+SELECT * FROM albums a WHERE a.name = 'Story of the Blues - The 20s';
+SELECT * FROM albums a WHERE a.name = 'All Time Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Vicious Delicious';
+SELECT * FROM albums a WHERE a.name = 'The Complete Quiet Elegance on Hi Records';
+SELECT * FROM albums a WHERE a.name = 'Energy to Burn + 1980';
+SELECT * FROM albums a WHERE a.name = 'Love On The Dancefloor';
+SELECT * FROM albums a WHERE a.name = '''Twas the Night Before Christmas';
+SELECT * FROM albums a WHERE a.name = 'Cuffed_ Collared and Tagged / Doing A Party Tonite';
+SELECT * FROM albums a WHERE a.name = 'Historiq volume 1';
+SELECT * FROM albums a WHERE a.name = 'Dark Was The Night (Red Hot Compilation)';
+SELECT * FROM albums a WHERE a.name = 'Jump Addict By Lethal Mg';
+SELECT * FROM albums a WHERE a.name = 'Never Alone';
+SELECT * FROM albums a WHERE a.name = 'Shake A Hand';
+SELECT * FROM albums a WHERE a.name = 'Una Estrella En Mi Jardín';
+SELECT * FROM albums a WHERE a.name = 'This Present Darkness';
+SELECT * FROM albums a WHERE a.name = 'Subsuelo';
+SELECT * FROM albums a WHERE a.name = 'Sugar Man';
+SELECT * FROM albums a WHERE a.name = 'Four Walls';
+SELECT * FROM albums a WHERE a.name = 'Takorce';
+SELECT * FROM albums a WHERE a.name = 'Lounge Jazz Volume 1';
+SELECT * FROM albums a WHERE a.name = 'Ornament';
+SELECT * FROM albums a WHERE a.name = 'Capital Inicial - Remixes';
+SELECT * FROM albums a WHERE a.name = 'Demon Music UK Top 75 Hits Vol 5';
+SELECT * FROM albums a WHERE a.name = 'Demon Music UK Top 75 Hits Vol 2';
+SELECT * FROM albums a WHERE a.name = 'National Anthems Of The World';
+SELECT * FROM albums a WHERE a.name = 'Playa';
+SELECT * FROM albums a WHERE a.name = 'Unchain Your Brain: The Best Of Gillan';
+SELECT * FROM albums a WHERE a.name = 'Voyager + Time Is Slipping Away';
+SELECT * FROM albums a WHERE a.name = 'Live At The Budokan';
+SELECT * FROM albums a WHERE a.name = 'Soul Serenade + Willie Mitchell Live';
+SELECT * FROM albums a WHERE a.name = 'Everybody''s Free';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of';
+SELECT * FROM albums a WHERE a.name = 'Live! Coast To Coast + TP';
+SELECT * FROM albums a WHERE a.name = 'Do It Yourself (Deluxe Edition)';
+SELECT * FROM albums a WHERE a.name = 'My Music';
+SELECT * FROM albums a WHERE a.name = 'Hors Beat';
+SELECT * FROM albums a WHERE a.name = 'Real Life';
+SELECT * FROM albums a WHERE a.name = 'Uncle Charlie';
+SELECT * FROM albums a WHERE a.name = 'Mud Slide Slim And The Blue Horizon';
+SELECT * FROM albums a WHERE a.name = 'Accordionist';
+SELECT * FROM albums a WHERE a.name = 'Jimmy''s Happy_ Jimmy''s Blue';
+SELECT * FROM albums a WHERE a.name = 'Soul Stirrings - Early Recordings Of Joe Tex_ Lee Dorsey_ Benny Spellman and Chuck Carbo';
+SELECT * FROM albums a WHERE a.name = 'Jimmy''s Tunes';
+SELECT * FROM albums a WHERE a.name = 'Light My Fire';
+SELECT * FROM albums a WHERE a.name = 'The Black Rider';
+SELECT * FROM albums a WHERE a.name = 'Demon UK Top 75 Hits Vol 6';
+SELECT * FROM albums a WHERE a.name = 'Out Of My Hands';
+SELECT * FROM albums a WHERE a.name = 'Edge Of Allegiance';
+SELECT * FROM albums a WHERE a.name = 'From My Pen';
+SELECT * FROM albums a WHERE a.name = 'A-lex';
+SELECT * FROM albums a WHERE a.name = '69% Unplugged';
+SELECT * FROM albums a WHERE a.name = 'R.I.P. Young Dot';
+SELECT * FROM albums a WHERE a.name = 'Award-Winning Movie Themes : The 70''s';
+SELECT * FROM albums a WHERE a.name = 'One World One Chance';
+SELECT * FROM albums a WHERE a.name = 'Cuando Ya No Me Quieras';
+SELECT * FROM albums a WHERE a.name = 'Gaiton N°5';
+SELECT * FROM albums a WHERE a.name = 'Two Below Zero';
+SELECT * FROM albums a WHERE a.name = 'Good Morning';
+SELECT * FROM albums a WHERE a.name = 'Voodoo Circle';
+SELECT * FROM albums a WHERE a.name = 'Sings Stardust And His Other Great Compositions';
+SELECT * FROM albums a WHERE a.name = 'Fearless';
+SELECT * FROM albums a WHERE a.name = 'Keep It Hid';
+SELECT * FROM albums a WHERE a.name = 'Christmas Classics';
+SELECT * FROM albums a WHERE a.name = 'Dance To The Music';
+SELECT * FROM albums a WHERE a.name = 'Les Indispensables';
+SELECT * FROM albums a WHERE a.name = 'WALK THAT WALK_ TALK THAT TALK';
+SELECT * FROM albums a WHERE a.name = 'SLAM';
+SELECT * FROM albums a WHERE a.name = 'Fascinado';
+SELECT * FROM albums a WHERE a.name = 'Love Is You';
+SELECT * FROM albums a WHERE a.name = 'Til Kragerne';
+SELECT * FROM albums a WHERE a.name = 'Motifs';
+SELECT * FROM albums a WHERE a.name = 'Perfection R.I.P.';
+SELECT * FROM albums a WHERE a.name = 'Echte Musik';
+SELECT * FROM albums a WHERE a.name = 'Pascow EP';
+SELECT * FROM albums a WHERE a.name = 'Daemmern';
+SELECT * FROM albums a WHERE a.name = 'Sings The Blues';
+SELECT * FROM albums a WHERE a.name = 'Blues Guitar Magic';
+SELECT * FROM albums a WHERE a.name = 'Cow Town Blues';
+SELECT * FROM albums a WHERE a.name = 'Blues Blastin'': The Modern Recordings Vol 2';
+SELECT * FROM albums a WHERE a.name = 'The Best Of The New Seekers';
+SELECT * FROM albums a WHERE a.name = 'Einfach leben - Best of - Live um die Welt';
+SELECT * FROM albums a WHERE a.name = 'Song 4 Mutya (Out Of Control)';
+SELECT * FROM albums a WHERE a.name = 'Teilzeithippie';
+SELECT * FROM albums a WHERE a.name = 'Fénix';
+SELECT * FROM albums a WHERE a.name = '8';
+SELECT * FROM albums a WHERE a.name = '50/50';
+SELECT * FROM albums a WHERE a.name = 'Todo Bien';
+SELECT * FROM albums a WHERE a.name = 'Canto Per Amore';
+SELECT * FROM albums a WHERE a.name = 'Sweetheart Snackbar';
+SELECT * FROM albums a WHERE a.name = 'Wrap Your Arms Around Me';
+SELECT * FROM albums a WHERE a.name = 'The Definitive Collection';
+SELECT * FROM albums a WHERE a.name = 'The King';
+SELECT * FROM albums a WHERE a.name = 'Let''s Groove - The Best Of';
+SELECT * FROM albums a WHERE a.name = 'Yuugata Generation';
+SELECT * FROM albums a WHERE a.name = 'Yume Is Vision';
+SELECT * FROM albums a WHERE a.name = 'let´s did it - Live - Raritäten';
+SELECT * FROM albums a WHERE a.name = 'Hittil og Littil';
+SELECT * FROM albums a WHERE a.name = 'Das weisse Lied';
+SELECT * FROM albums a WHERE a.name = 'Martha Argerich: Live from Lugano 2008';
+SELECT * FROM albums a WHERE a.name = 'Lost Messengers: The Outtakes';
+SELECT * FROM albums a WHERE a.name = 'Wheels Of Steel';
+SELECT * FROM albums a WHERE a.name = 'Ibiza ''06 Sampler 2';
+SELECT * FROM albums a WHERE a.name = 'Look Inside_ Now!';
+SELECT * FROM albums a WHERE a.name = 'Living Ornaments 80';
+SELECT * FROM albums a WHERE a.name = 'Skeleton Boy';
+SELECT * FROM albums a WHERE a.name = 'Made In the Shade';
+SELECT * FROM albums a WHERE a.name = 'Band-Aide and Scoot';
+SELECT * FROM albums a WHERE a.name = 'Common Existence';
+SELECT * FROM albums a WHERE a.name = 'Destiny';
+SELECT * FROM albums a WHERE a.name = 'Un cafe_ setanta matins';
+SELECT * FROM albums a WHERE a.name = 'Rockefeller';
+SELECT * FROM albums a WHERE a.name = 'Nobody Excluded';
+SELECT * FROM albums a WHERE a.name = 'Inhaler';
+SELECT * FROM albums a WHERE a.name = 'Somethin'' For The People';
+SELECT * FROM albums a WHERE a.name = 'The Dance Of Life';
+SELECT * FROM albums a WHERE a.name = 'Bring Me Home';
+SELECT * FROM albums a WHERE a.name = 'Ridin'' High';
+SELECT * FROM albums a WHERE a.name = 'Waiting For Columbus [Live Deluxe]';
+SELECT * FROM albums a WHERE a.name = 'J. Geils Band';
+SELECT * FROM albums a WHERE a.name = 'Johnny Clarke''s Tribute To Bob Marley With Dubs';
+SELECT * FROM albums a WHERE a.name = 'Narada Decade (The Anniversary Collection)';
+SELECT * FROM albums a WHERE a.name = 'Sozinha';
+SELECT * FROM albums a WHERE a.name = 'Dreamin'' My Dreams';
+SELECT * FROM albums a WHERE a.name = '#1''s';
+SELECT * FROM albums a WHERE a.name = 'UGK (Underground Kingz)';
+SELECT * FROM albums a WHERE a.name = 'The Best Of';
+SELECT * FROM albums a WHERE a.name = 'Jackson C Frank';
+SELECT * FROM albums a WHERE a.name = 'My Lips Shall Utter Praises';
+SELECT * FROM albums a WHERE a.name = 'Holiday';
+SELECT * FROM albums a WHERE a.name = 'Love Dance';
+SELECT * FROM albums a WHERE a.name = 'The Cursing';
+SELECT * FROM albums a WHERE a.name = 'Mein rasend Herz';
+SELECT * FROM albums a WHERE a.name = 'Reise zum Horizont - Der Soundtrack zum Film';
+SELECT * FROM albums a WHERE a.name = 'Straight Outta Looplandia';
+SELECT * FROM albums a WHERE a.name = 'Directo desde New York!';
+SELECT * FROM albums a WHERE a.name = 'Tocando el cielo';
+SELECT * FROM albums a WHERE a.name = 'Austropop Kult';
+SELECT * FROM albums a WHERE a.name = 'Ikuinen Virta';
+SELECT * FROM albums a WHERE a.name = 'The Best Of';
+SELECT * FROM albums a WHERE a.name = 'BUDOKAN! (30th Anniversary)';
+SELECT * FROM albums a WHERE a.name = 'Raw Delights';
+SELECT * FROM albums a WHERE a.name = 'Floored Memory...Fading Location';
+SELECT * FROM albums a WHERE a.name = 'Bird of Paradise';
+SELECT * FROM albums a WHERE a.name = 'Seya';
+SELECT * FROM albums a WHERE a.name = 'Black Square';
+SELECT * FROM albums a WHERE a.name = 'The Love Language';
+SELECT * FROM albums a WHERE a.name = 'Born and Raised';
+SELECT * FROM albums a WHERE a.name = 'Loose & Juicy';
+SELECT * FROM albums a WHERE a.name = 'Nice And Warm';
+SELECT * FROM albums a WHERE a.name = 'The Chain';
+SELECT * FROM albums a WHERE a.name = 'Skaggs and Rice';
+SELECT * FROM albums a WHERE a.name = 'Red On Blonde';
+SELECT * FROM albums a WHERE a.name = 'Antonis Remos Live';
+SELECT * FROM albums a WHERE a.name = 'Christmas With The Brady Bunch';
+SELECT * FROM albums a WHERE a.name = 'Ma Rainey';
+SELECT * FROM albums a WHERE a.name = 'My First Xmas E.P.';
+SELECT * FROM albums a WHERE a.name = 'Savoir Ecouter Le Blues (Listening to Blues)';
+SELECT * FROM albums a WHERE a.name = 'Strike';
+SELECT * FROM albums a WHERE a.name = 'Soil In The Synth EP';
+SELECT * FROM albums a WHERE a.name = 'Dopisy z kvetin';
+SELECT * FROM albums a WHERE a.name = 'Kaikki Muuttuu';
+SELECT * FROM albums a WHERE a.name = 'Die neuen Männer';
+SELECT * FROM albums a WHERE a.name = 'The Masters Series: Funk Vol 1';
+SELECT * FROM albums a WHERE a.name = 'Last Of The Good Guys';
+SELECT * FROM albums a WHERE a.name = 'Weezer';
+SELECT * FROM albums a WHERE a.name = 'Die Deutschen Hits Der 50er';
+SELECT * FROM albums a WHERE a.name = 'Moonlighter';
+SELECT * FROM albums a WHERE a.name = 'Living On The Other Side';
+SELECT * FROM albums a WHERE a.name = 'Daily Bread';
+SELECT * FROM albums a WHERE a.name = 'Woman Of The House';
+SELECT * FROM albums a WHERE a.name = 'Christmas Classics';
+SELECT * FROM albums a WHERE a.name = 'Ultra-Lounge / Mambo Fever  Volume Two';
+SELECT * FROM albums a WHERE a.name = 'Ultra-Lounge / Space-Capades  Volume Three';
+SELECT * FROM albums a WHERE a.name = 'Start Of Something';
+SELECT * FROM albums a WHERE a.name = 'When I Hit The Ground';
+SELECT * FROM albums a WHERE a.name = 'The Bridge - Concept Of A Culture';
+SELECT * FROM albums a WHERE a.name = 'Joan Baez';
+SELECT * FROM albums a WHERE a.name = '100 A state Of Trance Tunes';
+SELECT * FROM albums a WHERE a.name = '25 Trance Essentials_ Vol. 6';
+SELECT * FROM albums a WHERE a.name = 'Vanguard Visionaries';
+SELECT * FROM albums a WHERE a.name = 'The Best Of';
+SELECT * FROM albums a WHERE a.name = 'I''M Gonna Be A Country Girl Again';
+SELECT * FROM albums a WHERE a.name = 'Vanguard Visionaries';
+SELECT * FROM albums a WHERE a.name = 'Vanguard Visionaries';
+SELECT * FROM albums a WHERE a.name = 'Rare And Unreleased';
+SELECT * FROM albums a WHERE a.name = '20 Underground Music Tunes_ Vol. 3';
+SELECT * FROM albums a WHERE a.name = 'Big Sky';
+SELECT * FROM albums a WHERE a.name = 'Armada Winter Sessions 2008';
+SELECT * FROM albums a WHERE a.name = 'Americana Master Series : Best of the Sugar Hill Years';
+SELECT * FROM albums a WHERE a.name = '5';
+SELECT * FROM albums a WHERE a.name = 'Magnya Carta';
+SELECT * FROM albums a WHERE a.name = 'Un Tour Ensemble';
+SELECT * FROM albums a WHERE a.name = 'AMIGOS';
+SELECT * FROM albums a WHERE a.name = 'Leave No Trace';
+SELECT * FROM albums a WHERE a.name = 'Wanita';
+SELECT * FROM albums a WHERE a.name = 'I Don''t Wanna Be';
+SELECT * FROM albums a WHERE a.name = 'Coldharbour Selections_ Vol. 16';
+SELECT * FROM albums a WHERE a.name = 'Turn It On! Turn It Up!';
+SELECT * FROM albums a WHERE a.name = 'Back Home Again';
+SELECT * FROM albums a WHERE a.name = 'One Step Ahead';
+SELECT * FROM albums a WHERE a.name = 'No Angel Knows';
+SELECT * FROM albums a WHERE a.name = 'The Bluegrass Guitar Collection';
+SELECT * FROM albums a WHERE a.name = 'Large Marge Sent Us';
+SELECT * FROM albums a WHERE a.name = 'L''amour fou';
+SELECT * FROM albums a WHERE a.name = 'Livin'' Lovin'' Rockin'' Rollin'': The 25th Anniversary Collection';
+SELECT * FROM albums a WHERE a.name = 'Unleashed';
+SELECT * FROM albums a WHERE a.name = 'Emotions';
+SELECT * FROM albums a WHERE a.name = 'Live Catch';
+SELECT * FROM albums a WHERE a.name = 'Backline X-Mas Edition 2008';
+SELECT * FROM albums a WHERE a.name = 'Bromst';
+SELECT * FROM albums a WHERE a.name = 'Forty Reasons & The View';
+SELECT * FROM albums a WHERE a.name = 'High Risk';
+SELECT * FROM albums a WHERE a.name = 'Like Cats And Dogs';
+SELECT * FROM albums a WHERE a.name = 'It''s Like This - The Best Of';
+SELECT * FROM albums a WHERE a.name = 'Brainstorm';
+SELECT * FROM albums a WHERE a.name = 'Drowning Ep';
+SELECT * FROM albums a WHERE a.name = 'Vagabundo Por Amor';
+SELECT * FROM albums a WHERE a.name = 'Take Us To The River';
+SELECT * FROM albums a WHERE a.name = 'Ao Vivo No Campo Pequeno';
+SELECT * FROM albums a WHERE a.name = 'Memories Lost EP';
+SELECT * FROM albums a WHERE a.name = 'Phantoms';
+SELECT * FROM albums a WHERE a.name = 'Caixa de música';
+SELECT * FROM albums a WHERE a.name = 'Love Is My Profession - Une Parisienne (Original Film Soundtracks)';
+SELECT * FROM albums a WHERE a.name = 'Built From Scratch';
+SELECT * FROM albums a WHERE a.name = 'Ultimate Yanni';
+SELECT * FROM albums a WHERE a.name = 'Ever';
+SELECT * FROM albums a WHERE a.name = 'Progressively Funky';
+SELECT * FROM albums a WHERE a.name = 'First Sessions';
+SELECT * FROM albums a WHERE a.name = 'Love & Hope & Sex & Dreams [Deluxe Edition]';
+SELECT * FROM albums a WHERE a.name = 'What U Need';
+SELECT * FROM albums a WHERE a.name = 'Advance Base Battery Life';
+SELECT * FROM albums a WHERE a.name = 'Punk Goes Pop Volume Two';
+SELECT * FROM albums a WHERE a.name = 'Live At Blues Alley';
+SELECT * FROM albums a WHERE a.name = 'Jesus Christ Superstar ''20th Anniversary Cast';
+SELECT * FROM albums a WHERE a.name = 'Kimera chante noël';
+SELECT * FROM albums a WHERE a.name = 'Private Life';
+SELECT * FROM albums a WHERE a.name = 'Y despues de todo';
+SELECT * FROM albums a WHERE a.name = 'I Visionari';
+SELECT * FROM albums a WHERE a.name = 'Best of Wayne Fontana & The Mindbenders';
+SELECT * FROM albums a WHERE a.name = 'The Cosmodemonic Telegraph Company';
+SELECT * FROM albums a WHERE a.name = 'D-Code';
+SELECT * FROM albums a WHERE a.name = 'Frazzbass & Negative Network EP';
+SELECT * FROM albums a WHERE a.name = 'The Fake Sound Of Progress';
+SELECT * FROM albums a WHERE a.name = 'Save This Christmas For Me';
+SELECT * FROM albums a WHERE a.name = 'Down The Old Plank Road: The Nashville Sessions';
+SELECT * FROM albums a WHERE a.name = 'Lunar One EP';
+SELECT * FROM albums a WHERE a.name = 'Smoking Gun';
+SELECT * FROM albums a WHERE a.name = 'Outside The Gates Of Eden';
+SELECT * FROM albums a WHERE a.name = 'Pure Bossa Nova';
+SELECT * FROM albums a WHERE a.name = 'Les Chansons De Clarisse';
+SELECT * FROM albums a WHERE a.name = 'Jours Etranges';
+SELECT * FROM albums a WHERE a.name = 'Nanana Club';
+SELECT * FROM albums a WHERE a.name = 'Holyhead';
+SELECT * FROM albums a WHERE a.name = 'Saveurs Créoles';
+SELECT * FROM albums a WHERE a.name = 'The Duke Ellington Carnegie Hall Concerts_ January 1946';
+SELECT * FROM albums a WHERE a.name = 'Tue West / Meldingen Kommer';
+SELECT * FROM albums a WHERE a.name = 'Essential Collection';
+SELECT * FROM albums a WHERE a.name = 'The Click Song';
+SELECT * FROM albums a WHERE a.name = 'Happy Day';
+SELECT * FROM albums a WHERE a.name = 'Todas';
+SELECT * FROM albums a WHERE a.name = 'Todo Gardel  -Fundamental-';
+SELECT * FROM albums a WHERE a.name = 'Straight To The Highway';
+SELECT * FROM albums a WHERE a.name = 'CPM22';
+SELECT * FROM albums a WHERE a.name = 'Movin'' On';
+SELECT * FROM albums a WHERE a.name = 'The Stars Are Out';
+SELECT * FROM albums a WHERE a.name = 'Never Better';
+SELECT * FROM albums a WHERE a.name = 'Dois Na Bossa No.3';
+SELECT * FROM albums a WHERE a.name = 'Clues';
+SELECT * FROM albums a WHERE a.name = 'Bobby Hackett & Jack Teagarden';
+SELECT * FROM albums a WHERE a.name = 'Fearless';
+SELECT * FROM albums a WHERE a.name = 'Sell Out';
+SELECT * FROM albums a WHERE a.name = 'Plays Well With Others';
+SELECT * FROM albums a WHERE a.name = 'Whispering Grass';
+SELECT * FROM albums a WHERE a.name = 'I Give my Soul';
+SELECT * FROM albums a WHERE a.name = 'Boogieology - The Boogie Woogie Masters';
+SELECT * FROM albums a WHERE a.name = 'Questamation';
+SELECT * FROM albums a WHERE a.name = 'Joe Sent Me';
+SELECT * FROM albums a WHERE a.name = 'It''s Christmas - Natale In Vaticano';
+SELECT * FROM albums a WHERE a.name = 'La petite boite en fer';
+SELECT * FROM albums a WHERE a.name = 'Paranoid Prophets';
+SELECT * FROM albums a WHERE a.name = 'Everybody''s Talking_ Nobody''s Listening!';
+SELECT * FROM albums a WHERE a.name = 'The Burden Of Mules';
+SELECT * FROM albums a WHERE a.name = 'Honky Tonk Rockabillies_ Volume 1';
+SELECT * FROM albums a WHERE a.name = 'iTrance_ Vol. 4';
+SELECT * FROM albums a WHERE a.name = 'So In Love';
+SELECT * FROM albums a WHERE a.name = 'Places';
+SELECT * FROM albums a WHERE a.name = 'Fox';
+SELECT * FROM albums a WHERE a.name = 'Calle ilusion';
+SELECT * FROM albums a WHERE a.name = 'King Baby';
+SELECT * FROM albums a WHERE a.name = 'Cultura Jonda XVIII. Lebrija joven';
+SELECT * FROM albums a WHERE a.name = 'Hello My Apple';
+SELECT * FROM albums a WHERE a.name = 'Dear Diary';
+SELECT * FROM albums a WHERE a.name = 'The Best of Jimmy Hughes';
+SELECT * FROM albums a WHERE a.name = 'The Shadow Of The Cat';
+SELECT * FROM albums a WHERE a.name = 'Iltavilli';
+SELECT * FROM albums a WHERE a.name = 'They Came To Rule';
+SELECT * FROM albums a WHERE a.name = 'Amplified';
+SELECT * FROM albums a WHERE a.name = 'Negra_ Si Tú Supieras';
+SELECT * FROM albums a WHERE a.name = 'Balance Of The Force Remixed';
+SELECT * FROM albums a WHERE a.name = 'Hannah Montana The Movie';
+SELECT * FROM albums a WHERE a.name = 'Screamin'' The Blues';
+SELECT * FROM albums a WHERE a.name = 'The Mod Scene';
+SELECT * FROM albums a WHERE a.name = 'Le Transporteur 3 - The Transporter III (Original Motion Picture Soundtrack)';
+SELECT * FROM albums a WHERE a.name = 'La Historia Del Blues';
+SELECT * FROM albums a WHERE a.name = 'Live at 42 Walnut Crescent';
+SELECT * FROM albums a WHERE a.name = 'Breakaway';
+SELECT * FROM albums a WHERE a.name = 'Stepmom - Music from the Motion Picture';
+SELECT * FROM albums a WHERE a.name = 'Attack - The Remixes Part 2';
+SELECT * FROM albums a WHERE a.name = 'Ironias';
+SELECT * FROM albums a WHERE a.name = 'Mysteries Of Funk';
+SELECT * FROM albums a WHERE a.name = 'Remixed';
+SELECT * FROM albums a WHERE a.name = 'Skeletons';
+SELECT * FROM albums a WHERE a.name = 'Fist Of God';
+SELECT * FROM albums a WHERE a.name = 'Strange Liaison';
+SELECT * FROM albums a WHERE a.name = 'A Hundred Million Suns';
+SELECT * FROM albums a WHERE a.name = 'The Complete Motown Singles Vol. 11B: 1971';
+SELECT * FROM albums a WHERE a.name = 'How About Now';
+SELECT * FROM albums a WHERE a.name = 'Nobody''s Fault But Mine';
+SELECT * FROM albums a WHERE a.name = 'Midnight At Mabel Mercer''s';
+SELECT * FROM albums a WHERE a.name = 'Syvään valoon';
+SELECT * FROM albums a WHERE a.name = 'Twilight Of Jesters';
+SELECT * FROM albums a WHERE a.name = 'Kill Bill Vol. 1 Original Soundtrack';
+SELECT * FROM albums a WHERE a.name = 'Def Jamaica';
+SELECT * FROM albums a WHERE a.name = 'Love Songs';
+SELECT * FROM albums a WHERE a.name = 'Through The Trees';
+SELECT * FROM albums a WHERE a.name = 'Skream  - Watch The Ride';
+SELECT * FROM albums a WHERE a.name = 'Laugh&..Plus!';
+SELECT * FROM albums a WHERE a.name = 'Ella & Louis - The Collection';
+SELECT * FROM albums a WHERE a.name = 'On All Fours';
+SELECT * FROM albums a WHERE a.name = 'Joey Tempest';
+SELECT * FROM albums a WHERE a.name = 'Spotlight On Frankie Lymon';
+SELECT * FROM albums a WHERE a.name = 'Colours';
+SELECT * FROM albums a WHERE a.name = 'Tempa Allstars Vol. 3';
+SELECT * FROM albums a WHERE a.name = 'R U Still Down?';
+SELECT * FROM albums a WHERE a.name = 'Decisions';
+SELECT * FROM albums a WHERE a.name = 'Klappe die 2te/4 Bonus Tracks';
+SELECT * FROM albums a WHERE a.name = 'Funky Pukanky';
+SELECT * FROM albums a WHERE a.name = 'Dawn Patrol';
+SELECT * FROM albums a WHERE a.name = 'Back Home';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Warrant';
+SELECT * FROM albums a WHERE a.name = 'Live At The YMCA 27.10.79.';
+SELECT * FROM albums a WHERE a.name = 'The Essential';
+SELECT * FROM albums a WHERE a.name = 'Blackbird: The Music Of Lennon And McCartney';
+SELECT * FROM albums a WHERE a.name = 'Live In London';
+SELECT * FROM albums a WHERE a.name = 'Staring Down The Barrel';
+SELECT * FROM albums a WHERE a.name = 'Radio Futura';
+SELECT * FROM albums a WHERE a.name = 'Bun Them';
+SELECT * FROM albums a WHERE a.name = 'Stronger Rastaman';
+SELECT * FROM albums a WHERE a.name = 'Love Rule';
+SELECT * FROM albums a WHERE a.name = 'The Vintage Series';
+SELECT * FROM albums a WHERE a.name = 'George Phang: Power House Selector''s Choice Vol. 4';
+SELECT * FROM albums a WHERE a.name = 'A las buenas y a las malas';
+SELECT * FROM albums a WHERE a.name = 'A Wee Bit O''Revolution';
+SELECT * FROM albums a WHERE a.name = 'D''Une Âme À L''Autre';
+SELECT * FROM albums a WHERE a.name = 'Pobre Pescador / Stranger - Single';
+SELECT * FROM albums a WHERE a.name = 'Tracks 3';
+SELECT * FROM albums a WHERE a.name = 'Horizonte';
+SELECT * FROM albums a WHERE a.name = 'To Rococo Rot';
+SELECT * FROM albums a WHERE a.name = 'Love For A Strange World';
+SELECT * FROM albums a WHERE a.name = 'Killermachine';
+SELECT * FROM albums a WHERE a.name = 'Reality';
+SELECT * FROM albums a WHERE a.name = 'Of Dreams Forgotten and Fables Untold';
+SELECT * FROM albums a WHERE a.name = 'No Picture Of The Hero';
+SELECT * FROM albums a WHERE a.name = 'Polyester';
+SELECT * FROM albums a WHERE a.name = 'Infinite Love Songs';
+SELECT * FROM albums a WHERE a.name = 'Extasy';
+SELECT * FROM albums a WHERE a.name = 'The Last Legend';
+SELECT * FROM albums a WHERE a.name = 'I Can See Clearly Now';
+SELECT * FROM albums a WHERE a.name = 'Stampede';
+SELECT * FROM albums a WHERE a.name = 'Actually';
+SELECT * FROM albums a WHERE a.name = 'Come And Get It';
+SELECT * FROM albums a WHERE a.name = 'The Bright Mississippi';
+SELECT * FROM albums a WHERE a.name = '1977';
+SELECT * FROM albums a WHERE a.name = 'Scarlet Witching Black';
+SELECT * FROM albums a WHERE a.name = 'Ah bah ouais mais bon';
+SELECT * FROM albums a WHERE a.name = 'Louise Attaque';
+SELECT * FROM albums a WHERE a.name = '20 Grandes Sucessos De Quarteto Em Cy & Mpb-4';
+SELECT * FROM albums a WHERE a.name = 'Le best of';
+SELECT * FROM albums a WHERE a.name = 'Les Choses En Face - Nouvelle version';
+SELECT * FROM albums a WHERE a.name = 'The Definitive Collection';
+SELECT * FROM albums a WHERE a.name = 'Round about silence';
+SELECT * FROM albums a WHERE a.name = 'Live - Workin'' on a Groovy Thing';
+SELECT * FROM albums a WHERE a.name = '20 Años En Vivo';
+SELECT * FROM albums a WHERE a.name = 'Once Last_ Never Forgotten';
+SELECT * FROM albums a WHERE a.name = 'Metalbossa - The Restless Soul Mixes (feat. Sandra Nkake)';
+SELECT * FROM albums a WHERE a.name = 'Secando Lágrimas';
+SELECT * FROM albums a WHERE a.name = 'Billeder Af Verden';
+SELECT * FROM albums a WHERE a.name = 'Deodato 2';
+SELECT * FROM albums a WHERE a.name = 'Needles & Pin: The Best Of Smokie';
+SELECT * FROM albums a WHERE a.name = 'Bullets Aint Got No Name Vol.1';
+SELECT * FROM albums a WHERE a.name = 'Trance Mini Mix 015';
+SELECT * FROM albums a WHERE a.name = 'Modbilly';
+SELECT * FROM albums a WHERE a.name = 'Faith_ Hope & Lullabies - Peaceful Music For Quiet Moments';
+SELECT * FROM albums a WHERE a.name = 'The Return / Fading Memories / Eventuality / Life Goes On';
+SELECT * FROM albums a WHERE a.name = 'De Ley';
+SELECT * FROM albums a WHERE a.name = 'The Post-War Era';
+SELECT * FROM albums a WHERE a.name = 'Eating Us';
+SELECT * FROM albums a WHERE a.name = 'Sin-Decade';
+SELECT * FROM albums a WHERE a.name = 'Indian Warrior (remastered)';
+SELECT * FROM albums a WHERE a.name = 'Yours Sincerely';
+SELECT * FROM albums a WHERE a.name = 'Sentimento';
+SELECT * FROM albums a WHERE a.name = 'Aquarela Do Brasil';
+SELECT * FROM albums a WHERE a.name = 'Andrea Bocelli - Sacred Arias';
+SELECT * FROM albums a WHERE a.name = 'Swan Songs';
+SELECT * FROM albums a WHERE a.name = 'Lisztomania';
+SELECT * FROM albums a WHERE a.name = 'Chess Blues';
+SELECT * FROM albums a WHERE a.name = 'Ain''t Got No Home:  The Best Of Clarence Frogman Henry';
+SELECT * FROM albums a WHERE a.name = 'Our Theory';
+SELECT * FROM albums a WHERE a.name = 'They Know What Ghost Know';
+SELECT * FROM albums a WHERE a.name = 'One World';
+SELECT * FROM albums a WHERE a.name = 'Tatt Av Vinden';
+SELECT * FROM albums a WHERE a.name = 'Thinking Back_ Looking Forward';
+SELECT * FROM albums a WHERE a.name = 'Number4';
+SELECT * FROM albums a WHERE a.name = 'Top Of The Pops - Seventies';
+SELECT * FROM albums a WHERE a.name = 'Réchauffe L''hiver';
+SELECT * FROM albums a WHERE a.name = 'Waking Up In Vegas';
+SELECT * FROM albums a WHERE a.name = 'Imagination Movers: Juice Box Heroes';
+SELECT * FROM albums a WHERE a.name = 'Traveller South';
+SELECT * FROM albums a WHERE a.name = 'Thirteen Tales Of Love And Revenge';
+SELECT * FROM albums a WHERE a.name = 'Treachery';
+SELECT * FROM albums a WHERE a.name = 'Chapter 2: Gettin'' The Spirit';
+SELECT * FROM albums a WHERE a.name = 'Live Era ''87-''93';
+SELECT * FROM albums a WHERE a.name = 'Live At The Fillmore';
+SELECT * FROM albums a WHERE a.name = 'Escalation of Hostility';
+SELECT * FROM albums a WHERE a.name = 'Gok';
+SELECT * FROM albums a WHERE a.name = 'Black Heart';
+SELECT * FROM albums a WHERE a.name = 'Black Label';
+SELECT * FROM albums a WHERE a.name = 'Aero';
+SELECT * FROM albums a WHERE a.name = 'Precious Time';
+SELECT * FROM albums a WHERE a.name = 'Texas Troubadour CD3';
+SELECT * FROM albums a WHERE a.name = 'Amen Corner Selected Hits Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Slim Smith Selected Hits';
+SELECT * FROM albums a WHERE a.name = 'If I Know You';
+SELECT * FROM albums a WHERE a.name = 'Celia Cruz Y Sonora Matancera Selected Hits Vol. 4';
+SELECT * FROM albums a WHERE a.name = 'The Tune Robbers play the best of Simply Red';
+SELECT * FROM albums a WHERE a.name = 'Fat Baggage';
+SELECT * FROM albums a WHERE a.name = 'Rust';
+SELECT * FROM albums a WHERE a.name = 'And the Flying Boombox';
+SELECT * FROM albums a WHERE a.name = 'Infréquentable';
+SELECT * FROM albums a WHERE a.name = 'Voces A Mi Alrededor';
+SELECT * FROM albums a WHERE a.name = 'Gasolin'' The Album Collection';
+SELECT * FROM albums a WHERE a.name = 'Dignity - The Best Of';
+SELECT * FROM albums a WHERE a.name = 'Hearty & Hellish';
+SELECT * FROM albums a WHERE a.name = 'Dodens Evangelium';
+SELECT * FROM albums a WHERE a.name = 'The Quintessence : New York-Los Angeles 1939-1945';
+SELECT * FROM albums a WHERE a.name = 'Moribund transgoria';
+SELECT * FROM albums a WHERE a.name = 'Les autres';
+SELECT * FROM albums a WHERE a.name = 'Crockers & Killers';
+SELECT * FROM albums a WHERE a.name = 'To Moj Czas';
+SELECT * FROM albums a WHERE a.name = 'Evenfall';
+SELECT * FROM albums a WHERE a.name = 'Mano_ Parque_ Paseo';
+SELECT * FROM albums a WHERE a.name = 'Otoño En Agosto';
+SELECT * FROM albums a WHERE a.name = 'Enemmän kuin koko tuotanto';
+SELECT * FROM albums a WHERE a.name = 'Home of the Free & Mind at Ease (remixed by DJ Screw)';
+SELECT * FROM albums a WHERE a.name = 'Go Home';
+SELECT * FROM albums a WHERE a.name = 'L.s.t.';
+SELECT * FROM albums a WHERE a.name = 'Bassics: The Best Of The Ray Brown Trio (1977-2000)';
+SELECT * FROM albums a WHERE a.name = 'Arena / Chronicles';
+SELECT * FROM albums a WHERE a.name = 'Close To Paradise';
+SELECT * FROM albums a WHERE a.name = '20 Trance Hits_ Vol. 10';
+SELECT * FROM albums a WHERE a.name = 'Welcome to Vas Llegas';
+SELECT * FROM albums a WHERE a.name = 'Black Liberation Dub';
+SELECT * FROM albums a WHERE a.name = 'Hostage EP';
+SELECT * FROM albums a WHERE a.name = 'Ikasten';
+SELECT * FROM albums a WHERE a.name = 'Im Wald der Träume';
+SELECT * FROM albums a WHERE a.name = 'Lost In Transmission';
+SELECT * FROM albums a WHERE a.name = 'DD''s Fun-Collection';
+SELECT * FROM albums a WHERE a.name = 'Dadhi Mushkil Ban Gai';
+SELECT * FROM albums a WHERE a.name = 'The Legende of Jeb Minor';
+SELECT * FROM albums a WHERE a.name = 'Ladies Of Soul';
+SELECT * FROM albums a WHERE a.name = 'Strange Things Happen';
+SELECT * FROM albums a WHERE a.name = 'Microphone Music';
+SELECT * FROM albums a WHERE a.name = 'Do It Yourself';
+SELECT * FROM albums a WHERE a.name = 'Love Sensation ''06';
+SELECT * FROM albums a WHERE a.name = 'Exaudi Vocem Meam I';
+SELECT * FROM albums a WHERE a.name = 'The Linear Scaffold';
+SELECT * FROM albums a WHERE a.name = 'Abstract Man';
+SELECT * FROM albums a WHERE a.name = 'Phantasia';
+SELECT * FROM albums a WHERE a.name = 'That''s What I Call A Ball';
+SELECT * FROM albums a WHERE a.name = 'Ritter_ Wirtsleut_ Preiss''n und i';
+SELECT * FROM albums a WHERE a.name = 'Cheb Nasro';
+SELECT * FROM albums a WHERE a.name = 'New Address';
+SELECT * FROM albums a WHERE a.name = 'Kingdom Of The Blind';
+SELECT * FROM albums a WHERE a.name = 'Assassin Out of Custody';
+SELECT * FROM albums a WHERE a.name = 'Motown 7 Singles No. 4';
+SELECT * FROM albums a WHERE a.name = 'Summerhead';
+SELECT * FROM albums a WHERE a.name = 'Woodstock Nation';
+SELECT * FROM albums a WHERE a.name = 'Retrospect';
+SELECT * FROM albums a WHERE a.name = 'Woody Herman Live At Newport 1966 / Hollywood Bowl 1986';
+SELECT * FROM albums a WHERE a.name = 'Bird in the Hand';
+SELECT * FROM albums a WHERE a.name = 'Pyrokinesis';
+SELECT * FROM albums a WHERE a.name = 'The Magic Door';
+SELECT * FROM albums a WHERE a.name = 'Happy Birthday Marie-Rose & Mes plus belles chansons';
+SELECT * FROM albums a WHERE a.name = 'Broadway Melodies';
+SELECT * FROM albums a WHERE a.name = 'Waffe';
+SELECT * FROM albums a WHERE a.name = 'Instant Reality';
+SELECT * FROM albums a WHERE a.name = '10/100';
+SELECT * FROM albums a WHERE a.name = 'Jaula de Grillos';
+SELECT * FROM albums a WHERE a.name = 'Lorena';
+SELECT * FROM albums a WHERE a.name = 'Playlist: The Very Best Of The Lovin'' Spoonful';
+SELECT * FROM albums a WHERE a.name = 'Henry Street Music Vol. 12';
+SELECT * FROM albums a WHERE a.name = 'Live_ Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'A Portrait Of George Lewis From Burgundy Street To Berlin';
+SELECT * FROM albums a WHERE a.name = 'Kenny Dorham Quintet';
+SELECT * FROM albums a WHERE a.name = 'Unnameable';
+SELECT * FROM albums a WHERE a.name = 'The Chess Box';
+SELECT * FROM albums a WHERE a.name = 'The Colour And The Shape (Special Edition)';
+SELECT * FROM albums a WHERE a.name = 'Goodbye To Romance';
+SELECT * FROM albums a WHERE a.name = 'Starting Now';
+SELECT * FROM albums a WHERE a.name = 'Project One';
+SELECT * FROM albums a WHERE a.name = 'Best Of DJ Isaac';
+SELECT * FROM albums a WHERE a.name = 'Patience EP';
+SELECT * FROM albums a WHERE a.name = 'Message To Man';
+SELECT * FROM albums a WHERE a.name = 'Best of (Deluxe Version)';
+SELECT * FROM albums a WHERE a.name = 'Live';
+SELECT * FROM albums a WHERE a.name = 'I Like It Like That: More From The Fania Vaults';
+SELECT * FROM albums a WHERE a.name = 'The Pain E.p.';
+SELECT * FROM albums a WHERE a.name = 'Voices Of Americana: Delbert McClinton';
+SELECT * FROM albums a WHERE a.name = 'Nostalgia 77 Sessions Featuring Keith &amp, Julie Tippett';
+SELECT * FROM albums a WHERE a.name = 'Las cartas sobre la mesa';
+SELECT * FROM albums a WHERE a.name = 'Simple Truth';
+SELECT * FROM albums a WHERE a.name = 'Eddie Calvert - Orchestra';
+SELECT * FROM albums a WHERE a.name = 'Provision';
+SELECT * FROM albums a WHERE a.name = 'LOU CHRISTIE LIVE FROM THE BOTTOM LINE';
+SELECT * FROM albums a WHERE a.name = 'So What?';
+SELECT * FROM albums a WHERE a.name = 'Hot Robot';
+SELECT * FROM albums a WHERE a.name = 'Grey Gardens';
+SELECT * FROM albums a WHERE a.name = 'Fire';
+SELECT * FROM albums a WHERE a.name = 'Gathering';
+SELECT * FROM albums a WHERE a.name = 'PianoMelt';
+SELECT * FROM albums a WHERE a.name = 'Between The Glow And The Light';
+SELECT * FROM albums a WHERE a.name = 'Las Puertas Abiertas';
+SELECT * FROM albums a WHERE a.name = 'Cherrystone Park';
+SELECT * FROM albums a WHERE a.name = 'A Bump In The Night EP';
+SELECT * FROM albums a WHERE a.name = 'Cuckanandy';
+SELECT * FROM albums a WHERE a.name = 'Les Choeurs De L''Armée Rouge';
+SELECT * FROM albums a WHERE a.name = '2004 International Barbershop Quartet Contest - First Round - Volume 4';
+SELECT * FROM albums a WHERE a.name = 'Kitsuné: 1000 Things';
+SELECT * FROM albums a WHERE a.name = 'Sea Sew';
+SELECT * FROM albums a WHERE a.name = 'Al-D Presents... Unconditional Luv - A Memorial To DJ Screw';
+SELECT * FROM albums a WHERE a.name = 'Flutterby';
+SELECT * FROM albums a WHERE a.name = 'Slow-Cooked Pig Meat';
+SELECT * FROM albums a WHERE a.name = 'Missed The Boat';
+SELECT * FROM albums a WHERE a.name = 'Glam';
+SELECT * FROM albums a WHERE a.name = 'Meat Puppets Live';
+SELECT * FROM albums a WHERE a.name = 'Reggae Hits Vol. 19';
+SELECT * FROM albums a WHERE a.name = 'Reggae Hits Vol. 35';
+SELECT * FROM albums a WHERE a.name = 'Houseplanet : Mi-Tech Compilation';
+SELECT * FROM albums a WHERE a.name = 'Brainstorm';
+SELECT * FROM albums a WHERE a.name = 'The Ozzman Cometh';
+SELECT * FROM albums a WHERE a.name = 'Grace Days';
+SELECT * FROM albums a WHERE a.name = '60x60 Leyendas Del Pop-Rock';
+SELECT * FROM albums a WHERE a.name = 'Live at CBGB 1982';
+SELECT * FROM albums a WHERE a.name = 'Africa''s Chill Out';
+SELECT * FROM albums a WHERE a.name = 'Snowman - Mo Icey';
+SELECT * FROM albums a WHERE a.name = 'Questions';
+SELECT * FROM albums a WHERE a.name = '1937/40 Broadcasts';
+SELECT * FROM albums a WHERE a.name = 'Live';
+SELECT * FROM albums a WHERE a.name = 'Vores Bedste';
+SELECT * FROM albums a WHERE a.name = 'Roses Kings Castles';
+SELECT * FROM albums a WHERE a.name = 'Hologram Funk LP';
+SELECT * FROM albums a WHERE a.name = 'El Estado De Las Cosas';
+SELECT * FROM albums a WHERE a.name = 'Burn My Candle: The Complete Early Years 1956-58 (Part 1)';
+SELECT * FROM albums a WHERE a.name = '1943-45 Broadcasts';
+SELECT * FROM albums a WHERE a.name = 'Isabelle Aubret Chante Brel';
+SELECT * FROM albums a WHERE a.name = 'Hoy Quiero Soñar';
+SELECT * FROM albums a WHERE a.name = 'Voodoo';
+SELECT * FROM albums a WHERE a.name = 'Never Ending Torture';
+SELECT * FROM albums a WHERE a.name = 'The Black Circus';
+SELECT * FROM albums a WHERE a.name = 'Forever Will Be Gone';
+SELECT * FROM albums a WHERE a.name = 'Through the Gate We Go';
+SELECT * FROM albums a WHERE a.name = 'Salutes The Stars Of The London Palladium';
+SELECT * FROM albums a WHERE a.name = 'Vendetta';
+SELECT * FROM albums a WHERE a.name = 'Life_ Love & Gossip';
+SELECT * FROM albums a WHERE a.name = 'Never Going Back';
+SELECT * FROM albums a WHERE a.name = 'Crime In the City';
+SELECT * FROM albums a WHERE a.name = 'I Feel Alive';
+SELECT * FROM albums a WHERE a.name = 'Jam On Revenge';
+SELECT * FROM albums a WHERE a.name = 'Aizkolari';
+SELECT * FROM albums a WHERE a.name = 'Live Au Divan Orange';
+SELECT * FROM albums a WHERE a.name = 'El Mayimbe Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Directions';
+SELECT * FROM albums a WHERE a.name = 'The Lesson';
+SELECT * FROM albums a WHERE a.name = 'The German Horse';
+SELECT * FROM albums a WHERE a.name = 'Strength In Numbers';
+SELECT * FROM albums a WHERE a.name = 'Wednesday Night Heroes';
+SELECT * FROM albums a WHERE a.name = 'Love is the Look';
+SELECT * FROM albums a WHERE a.name = 'The Pasture_ the Oil';
+SELECT * FROM albums a WHERE a.name = '25 Years';
+SELECT * FROM albums a WHERE a.name = 'Al Lirvat Wabap';
+SELECT * FROM albums a WHERE a.name = 'The Human Body EP';
+SELECT * FROM albums a WHERE a.name = 'Superdiscount 2 10 Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Reprogram';
+SELECT * FROM albums a WHERE a.name = 'Torch';
+SELECT * FROM albums a WHERE a.name = 'Soul Groovin - Speedometer Live';
+SELECT * FROM albums a WHERE a.name = 'I Will Survive: The 20th Anniversary Collection';
+SELECT * FROM albums a WHERE a.name = 'Incoming E.p';
+SELECT * FROM albums a WHERE a.name = 'Patchwork (Disc 2 - The Camellia Remixes)';
+SELECT * FROM albums a WHERE a.name = 'Some Quiet Place';
+SELECT * FROM albums a WHERE a.name = 'ONCE AND FOR ALL';
+SELECT * FROM albums a WHERE a.name = 'Weekend Science Experiment: The Binary Theorem';
+SELECT * FROM albums a WHERE a.name = 'Rustic';
+SELECT * FROM albums a WHERE a.name = 'New People Make Us Nervous';
+SELECT * FROM albums a WHERE a.name = 'In A Welcome Field';
+SELECT * FROM albums a WHERE a.name = 'Mr. Mafioso';
+SELECT * FROM albums a WHERE a.name = 'Pocustone';
+SELECT * FROM albums a WHERE a.name = 'Abbracadamn!!!';
+SELECT * FROM albums a WHERE a.name = 'Erik Tronic';
+SELECT * FROM albums a WHERE a.name = 'This Is Jazz #12';
+SELECT * FROM albums a WHERE a.name = 'BobBaldwin.com';
+SELECT * FROM albums a WHERE a.name = 'Electrolessons 1';
+SELECT * FROM albums a WHERE a.name = 'The Lifeboat';
+SELECT * FROM albums a WHERE a.name = 'Juanita Hall Sings The Blues';
+SELECT * FROM albums a WHERE a.name = 'Solo Two/Happy Together';
+SELECT * FROM albums a WHERE a.name = 'Pick ''Em/Super Strings';
+SELECT * FROM albums a WHERE a.name = 'Aztec/Do Not Shake';
+SELECT * FROM albums a WHERE a.name = 'Cream Future Trance';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of The Lovetones';
+SELECT * FROM albums a WHERE a.name = 'Akasha';
+SELECT * FROM albums a WHERE a.name = 'Wonderful Instrumentals Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Fractured';
+SELECT * FROM albums a WHERE a.name = 'Goes Underground';
+SELECT * FROM albums a WHERE a.name = 'A Rockin'' Decade';
+SELECT * FROM albums a WHERE a.name = 'Version Galore';
+SELECT * FROM albums a WHERE a.name = 'La Tranquilidad Después De La Paliza';
+SELECT * FROM albums a WHERE a.name = 'Chained';
+SELECT * FROM albums a WHERE a.name = 'Benny Spellman Selected Favorites';
+SELECT * FROM albums a WHERE a.name = 'The Bollock Brothers'' Count Dracula Where''s Your Trousers';
+SELECT * FROM albums a WHERE a.name = 'The Wes Montgomery Trio';
+SELECT * FROM albums a WHERE a.name = 'Vildhallon';
+SELECT * FROM albums a WHERE a.name = 'There and Back';
+SELECT * FROM albums a WHERE a.name = 'Montreux ''77';
+SELECT * FROM albums a WHERE a.name = 'The Voice';
+SELECT * FROM albums a WHERE a.name = 'xtoyourmilkyhair';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Skullage';
+SELECT * FROM albums a WHERE a.name = 'No Point In Wasting Tears';
+SELECT * FROM albums a WHERE a.name = 'Que Seas Muy Feliz';
+SELECT * FROM albums a WHERE a.name = 'Awake?';
+SELECT * FROM albums a WHERE a.name = 'Good People In Times of Evil';
+SELECT * FROM albums a WHERE a.name = 'Joe Henderson In Japan';
+SELECT * FROM albums a WHERE a.name = 'Absence';
+SELECT * FROM albums a WHERE a.name = 'Living Proof';
+SELECT * FROM albums a WHERE a.name = 'Mr. Big Stuff';
+SELECT * FROM albums a WHERE a.name = 'Vicissitudes';
+SELECT * FROM albums a WHERE a.name = 'Pop Beloved';
+SELECT * FROM albums a WHERE a.name = 'Selling Celery to Get a Salary:  Remixes_ Demos & B-Sides';
+SELECT * FROM albums a WHERE a.name = 'Vengeance War ''Till Death';
+SELECT * FROM albums a WHERE a.name = 'Las Mejores Gaitas Vol.3';
+SELECT * FROM albums a WHERE a.name = 'Troublemakers';
+SELECT * FROM albums a WHERE a.name = 'Toshack Highway';
+SELECT * FROM albums a WHERE a.name = 'The Last';
+SELECT * FROM albums a WHERE a.name = 'Music Heard Far Off';
+SELECT * FROM albums a WHERE a.name = 'Bonnie & Clyde';
+SELECT * FROM albums a WHERE a.name = 'When I Grow Up';
+SELECT * FROM albums a WHERE a.name = 'Di Real Rock';
+SELECT * FROM albums a WHERE a.name = 'Here I Go Again';
+SELECT * FROM albums a WHERE a.name = 'Electrical Boy';
+SELECT * FROM albums a WHERE a.name = 'The Speed By Which We Fall';
+SELECT * FROM albums a WHERE a.name = 'Headspin';
+SELECT * FROM albums a WHERE a.name = 'What Is Real and What Is Not';
+SELECT * FROM albums a WHERE a.name = 'Remix: Volume One';
+SELECT * FROM albums a WHERE a.name = 'Negative Capability...Check it Out!';
+SELECT * FROM albums a WHERE a.name = 'The Reign of Terror';
+SELECT * FROM albums a WHERE a.name = 'Free Shit! Live in Chicago (2 Final Shows)';
+SELECT * FROM albums a WHERE a.name = 'Wiccked';
+SELECT * FROM albums a WHERE a.name = 'Bone To Pick';
+SELECT * FROM albums a WHERE a.name = 'Vortex of Vacancy';
+SELECT * FROM albums a WHERE a.name = 'Penance Soiree';
+SELECT * FROM albums a WHERE a.name = 'Club Ocean Vol. 7';
+SELECT * FROM albums a WHERE a.name = 'Sex En La Playa';
+SELECT * FROM albums a WHERE a.name = 'Dúo Dinámico_ Sus 20 Grandes Éxitos';
+SELECT * FROM albums a WHERE a.name = 'Destroy all monsters';
+SELECT * FROM albums a WHERE a.name = 'Joe Gibbs Presents ''Inner City Roots'' (Ina Rockers Style)';
+SELECT * FROM albums a WHERE a.name = 'Grandes Éxitos De Pepe Pinto';
+SELECT * FROM albums a WHERE a.name = 'Jumpstyle Hardstyle Vol 2';
+SELECT * FROM albums a WHERE a.name = 'Tom Tom Club - Deluxe Edition';
+SELECT * FROM albums a WHERE a.name = 'Singin'' And Swingin''';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of';
+SELECT * FROM albums a WHERE a.name = 'Essential Organ Masters';
+SELECT * FROM albums a WHERE a.name = 'Crazy Arms';
+SELECT * FROM albums a WHERE a.name = 'Cameo Parkway - The Best Of The Tymes (Original Hit Recordings)';
+SELECT * FROM albums a WHERE a.name = 'The Lenny Bruce Originals_ Volume 1';
+SELECT * FROM albums a WHERE a.name = 'The Last From Lennie''s';
+SELECT * FROM albums a WHERE a.name = 'Lord Of The Rings';
+SELECT * FROM albums a WHERE a.name = 'Madness In Abyss';
+SELECT * FROM albums a WHERE a.name = 'Looking in the eye of the world';
+SELECT * FROM albums a WHERE a.name = 'Nervous Breakdown';
+SELECT * FROM albums a WHERE a.name = 'The Oxidising Angel';
+SELECT * FROM albums a WHERE a.name = 'Demon Kiss';
+SELECT * FROM albums a WHERE a.name = 'Shelter';
+SELECT * FROM albums a WHERE a.name = 'Hate Never Dies Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Hate Never Dies Vol. 3';
+SELECT * FROM albums a WHERE a.name = 'Grand Design (Re-Designed)';
+SELECT * FROM albums a WHERE a.name = 'Revenge';
+SELECT * FROM albums a WHERE a.name = 'Totalitär';
+SELECT * FROM albums a WHERE a.name = 'Machineries of Joy Vol. 4';
+SELECT * FROM albums a WHERE a.name = 'Schlafende Energie';
+SELECT * FROM albums a WHERE a.name = 'Cão';
+SELECT * FROM albums a WHERE a.name = 'Laut';
+SELECT * FROM albums a WHERE a.name = 'Frames';
+SELECT * FROM albums a WHERE a.name = 'Pearls';
+SELECT * FROM albums a WHERE a.name = 'Slip Of The Tongue (20th Anniversary Expanded Edition)';
+SELECT * FROM albums a WHERE a.name = 'Dangerous';
+SELECT * FROM albums a WHERE a.name = 'Taste The Music';
+SELECT * FROM albums a WHERE a.name = 'Let''s Talk About Love';
+SELECT * FROM albums a WHERE a.name = 'For Those Who Think Young';
+SELECT * FROM albums a WHERE a.name = 'Love And Glitter_ Hot Days And Muzik';
+SELECT * FROM albums a WHERE a.name = 'Time Will Tell';
+SELECT * FROM albums a WHERE a.name = 'The Spinning Top';
+SELECT * FROM albums a WHERE a.name = 'The Katie Melua Collection';
+SELECT * FROM albums a WHERE a.name = 'Pictures';
+SELECT * FROM albums a WHERE a.name = '1.0.8';
+SELECT * FROM albums a WHERE a.name = 'Perspectives Of';
+SELECT * FROM albums a WHERE a.name = 'Killer Eyes';
+SELECT * FROM albums a WHERE a.name = 'Raise The Youth';
+SELECT * FROM albums a WHERE a.name = 'Oceana_ I Will Return';
+SELECT * FROM albums a WHERE a.name = 'Ghosts Of Leaves';
+SELECT * FROM albums a WHERE a.name = 'Fear Of A Digital Planet';
+SELECT * FROM albums a WHERE a.name = 'Skinhead Times 1982-1998';
+SELECT * FROM albums a WHERE a.name = 'Lautturi';
+SELECT * FROM albums a WHERE a.name = 'Keep Me Comin'' (With Bonus Tracks)';
+SELECT * FROM albums a WHERE a.name = 'The Beginning';
+SELECT * FROM albums a WHERE a.name = 'Most Sampled';
+SELECT * FROM albums a WHERE a.name = 'Love For The Last Time';
+SELECT * FROM albums a WHERE a.name = 'Cajun Country';
+SELECT * FROM albums a WHERE a.name = 'Wicked Disco & Soul Breaks';
+SELECT * FROM albums a WHERE a.name = 'Lunatics & Poets';
+SELECT * FROM albums a WHERE a.name = 'Zen Connection';
+SELECT * FROM albums a WHERE a.name = 'Groove Yard';
+SELECT * FROM albums a WHERE a.name = 'Kin';
+SELECT * FROM albums a WHERE a.name = 'Satu';
+SELECT * FROM albums a WHERE a.name = 'ASP';
+SELECT * FROM albums a WHERE a.name = 'Noodle-Arm Whimsy';
+SELECT * FROM albums a WHERE a.name = 'Quiet Glow';
+SELECT * FROM albums a WHERE a.name = 'Utopian Theory';
+SELECT * FROM albums a WHERE a.name = 'Red Bennies';
+SELECT * FROM albums a WHERE a.name = 'Postcards From Hell';
+SELECT * FROM albums a WHERE a.name = 'All The Stuff We Do';
+SELECT * FROM albums a WHERE a.name = 'Project Mayhem';
+SELECT * FROM albums a WHERE a.name = 'Shiver';
+SELECT * FROM albums a WHERE a.name = 'Gitane';
+SELECT * FROM albums a WHERE a.name = 'Ape Uprising!';
+SELECT * FROM albums a WHERE a.name = 'Shake Your Pelvis';
+SELECT * FROM albums a WHERE a.name = 'Three Against War';
+SELECT * FROM albums a WHERE a.name = 'Maggot Fetus... Teeth Like Thorns';
+SELECT * FROM albums a WHERE a.name = 'Rock The World';
+SELECT * FROM albums a WHERE a.name = 'Total Reggae: From Jamaica With love';
+SELECT * FROM albums a WHERE a.name = 'Daybreak Mourning';
+SELECT * FROM albums a WHERE a.name = 'Love_ Death_ & Customer Service';
+SELECT * FROM albums a WHERE a.name = 'Say No More';
+SELECT * FROM albums a WHERE a.name = 'Sunny Side Up';
+SELECT * FROM albums a WHERE a.name = 'Better Days';
+SELECT * FROM albums a WHERE a.name = 'Online Exclusive: Demos & Rarities';
+SELECT * FROM albums a WHERE a.name = 'Our Split EP';
+SELECT * FROM albums a WHERE a.name = 'With Every Breath';
+SELECT * FROM albums a WHERE a.name = 'Hey Rocker';
+SELECT * FROM albums a WHERE a.name = 'Aclamare Tu Gracia';
+SELECT * FROM albums a WHERE a.name = 'Holiday From You';
+SELECT * FROM albums a WHERE a.name = 'Good Wood';
+SELECT * FROM albums a WHERE a.name = 'Vol. 1 Comp';
+SELECT * FROM albums a WHERE a.name = 'Blind Windows';
+SELECT * FROM albums a WHERE a.name = 'Rare And Unreleased Tracks';
+SELECT * FROM albums a WHERE a.name = 'Straight Up With A Twist';
+SELECT * FROM albums a WHERE a.name = 'Jet Set';
+SELECT * FROM albums a WHERE a.name = 'Rasta Legacy Vol I';
+SELECT * FROM albums a WHERE a.name = 'A Woman Like Me';
+SELECT * FROM albums a WHERE a.name = 'Cencerro Blanco';
+SELECT * FROM albums a WHERE a.name = 'Smitty''s Blues';
+SELECT * FROM albums a WHERE a.name = 'Kathleen Madigan';
+SELECT * FROM albums a WHERE a.name = 'Male Stvari';
+SELECT * FROM albums a WHERE a.name = 'Slaves To Rock N Roll';
+SELECT * FROM albums a WHERE a.name = 'Mind Over Matter';
+SELECT * FROM albums a WHERE a.name = 'The Dells Selected Favorites Volume 1';
+SELECT * FROM albums a WHERE a.name = 'Caught in The Act';
+SELECT * FROM albums a WHERE a.name = 'Nostradamus';
+SELECT * FROM albums a WHERE a.name = 'V2';
+SELECT * FROM albums a WHERE a.name = 'Preacher';
+SELECT * FROM albums a WHERE a.name = 'Summer Ever';
+SELECT * FROM albums a WHERE a.name = 'Sagala';
+SELECT * FROM albums a WHERE a.name = 'It Must Be Love';
+SELECT * FROM albums a WHERE a.name = 'The Birth';
+SELECT * FROM albums a WHERE a.name = 'True To Myself';
+SELECT * FROM albums a WHERE a.name = 'Warren Smith Selected Hits Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Beta 14 Ok';
+SELECT * FROM albums a WHERE a.name = 'Four Fifty One';
+SELECT * FROM albums a WHERE a.name = 'Unenthusiastic Ebony Brown Soul';
+SELECT * FROM albums a WHERE a.name = 'Malagueña';
+SELECT * FROM albums a WHERE a.name = 'The Only Tourist In Town';
+SELECT * FROM albums a WHERE a.name = 'Shapeshifter Volume 4';
+SELECT * FROM albums a WHERE a.name = 'Heart It Races Remixes';
+SELECT * FROM albums a WHERE a.name = 'Big Shot';
+SELECT * FROM albums a WHERE a.name = 'Facts Of Life / I Don''t Know What The World Is Coming To';
+SELECT * FROM albums a WHERE a.name = 'Safe As Houses';
+SELECT * FROM albums a WHERE a.name = 'and Nothing is #1';
+SELECT * FROM albums a WHERE a.name = 'Street Smarts';
+SELECT * FROM albums a WHERE a.name = 'A Little Revolution';
+SELECT * FROM albums a WHERE a.name = 'Universo Inverso';
+SELECT * FROM albums a WHERE a.name = 'Mickey: The Very Best of Toni Basil';
+SELECT * FROM albums a WHERE a.name = 'Anthology Of Releases: 2001 - 2003';
+SELECT * FROM albums a WHERE a.name = 'Soft Focus';
+SELECT * FROM albums a WHERE a.name = 'Conquistador';
+SELECT * FROM albums a WHERE a.name = 'Beneath The Antlers';
+SELECT * FROM albums a WHERE a.name = 'My Love';
+SELECT * FROM albums a WHERE a.name = 'Tommy McCook Selected Hits';
+SELECT * FROM albums a WHERE a.name = 'Jesus Is A Rock';
+SELECT * FROM albums a WHERE a.name = 'Memoirs Of An Afterlife';
+SELECT * FROM albums a WHERE a.name = '0201';
+SELECT * FROM albums a WHERE a.name = 'Racing the Tide';
+SELECT * FROM albums a WHERE a.name = 'Who Came First';
+SELECT * FROM albums a WHERE a.name = '2nd';
+SELECT * FROM albums a WHERE a.name = 'Down Down Down';
+SELECT * FROM albums a WHERE a.name = 'In The Guru Lounge';
+SELECT * FROM albums a WHERE a.name = 'Saxon Selected Hits Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Remedy';
+SELECT * FROM albums a WHERE a.name = 'All the best Cowboys have chinese eyes (Re-Release)';
+SELECT * FROM albums a WHERE a.name = 'The Million Dollar Quartet Selected Hits Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'White Night EP Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Enciéndelo';
+SELECT * FROM albums a WHERE a.name = 'Cuttin'' Cream & Smackers EP';
+SELECT * FROM albums a WHERE a.name = 'Circostanze';
+SELECT * FROM albums a WHERE a.name = 'moon_phase';
+SELECT * FROM albums a WHERE a.name = 'Disguises';
+SELECT * FROM albums a WHERE a.name = 'The Five Stairsteps and Cubie Selected Favorites';
+SELECT * FROM albums a WHERE a.name = 'Out Of Our Mouths';
+SELECT * FROM albums a WHERE a.name = 'Say Goodbye To The Camera';
+SELECT * FROM albums a WHERE a.name = 'Chapter II: Aftermath';
+SELECT * FROM albums a WHERE a.name = 'Just Let Me Talk To Her';
+SELECT * FROM albums a WHERE a.name = 'Foot Of The Mountain';
+SELECT * FROM albums a WHERE a.name = 'Oxygen Refreshed (Instrumentals)';
+SELECT * FROM albums a WHERE a.name = 'Funkafied';
+SELECT * FROM albums a WHERE a.name = 'Capsules';
+SELECT * FROM albums a WHERE a.name = 'You''ll Be The One';
+SELECT * FROM albums a WHERE a.name = 'Abbey Is Blue';
+SELECT * FROM albums a WHERE a.name = 'Cold City';
+SELECT * FROM albums a WHERE a.name = 'Vodka Lemon (Bande Originale Du Film)';
+SELECT * FROM albums a WHERE a.name = 'Music of Renaissance For Classical Guitar';
+SELECT * FROM albums a WHERE a.name = 'Buy It Sell It';
+SELECT * FROM albums a WHERE a.name = 'Liberté';
+SELECT * FROM albums a WHERE a.name = 'Black and Brown';
+SELECT * FROM albums a WHERE a.name = 'Delusions of Safety';
+SELECT * FROM albums a WHERE a.name = 'I';
+SELECT * FROM albums a WHERE a.name = 'Sinners Stick Together';
+SELECT * FROM albums a WHERE a.name = 'The Legacy Continues...';
+SELECT * FROM albums a WHERE a.name = 'Music From the Motion Picture - Good People Bad Things';
+SELECT * FROM albums a WHERE a.name = 'Moment to Moment';
+SELECT * FROM albums a WHERE a.name = 'Believe the Thieves';
+SELECT * FROM albums a WHERE a.name = 'If You Love Me';
+SELECT * FROM albums a WHERE a.name = '100 Degrees - The Techno Experience Vol.2';
+SELECT * FROM albums a WHERE a.name = 'The ''59 Sound';
+SELECT * FROM albums a WHERE a.name = 'Cold Flame / Big Love';
+SELECT * FROM albums a WHERE a.name = 'Kasvukipuja';
+SELECT * FROM albums a WHERE a.name = 'Roozhaye Taraneh Va Andooh - Persian Music';
+SELECT * FROM albums a WHERE a.name = 'Cult Of Static';
+SELECT * FROM albums a WHERE a.name = 'Made Home';
+SELECT * FROM albums a WHERE a.name = 'Polar';
+SELECT * FROM albums a WHERE a.name = 'Dutch Hex';
+SELECT * FROM albums a WHERE a.name = 'The Love Chronicles';
+SELECT * FROM albums a WHERE a.name = 'No One Will Thank You When You Are Dead...';
+SELECT * FROM albums a WHERE a.name = 'God Made Dirt';
+SELECT * FROM albums a WHERE a.name = 'Traveller';
+SELECT * FROM albums a WHERE a.name = 'Y''all Ready Now?';
+SELECT * FROM albums a WHERE a.name = 'On Avery Island';
+SELECT * FROM albums a WHERE a.name = 'Diario';
+SELECT * FROM albums a WHERE a.name = 'Phi';
+SELECT * FROM albums a WHERE a.name = 'Flute';
+SELECT * FROM albums a WHERE a.name = 'Blue Waltz';
+SELECT * FROM albums a WHERE a.name = 'Tonight And Forever';
+SELECT * FROM albums a WHERE a.name = 'Georgiavania';
+SELECT * FROM albums a WHERE a.name = 'EZ  - Essential Garage Collection';
+SELECT * FROM albums a WHERE a.name = 'Up From Below';
+SELECT * FROM albums a WHERE a.name = 'High voltage resistance';
+SELECT * FROM albums a WHERE a.name = 'Easter Everywhere';
+SELECT * FROM albums a WHERE a.name = '808 Bit';
+SELECT * FROM albums a WHERE a.name = 'Means to an End';
+SELECT * FROM albums a WHERE a.name = 'Carnival Of Sins/Live';
+SELECT * FROM albums a WHERE a.name = 'Primeras Páginas';
+SELECT * FROM albums a WHERE a.name = 'Los Mejores';
+SELECT * FROM albums a WHERE a.name = 'Elements of persuasion';
+SELECT * FROM albums a WHERE a.name = 'The Iron Man (Re-Release)';
+SELECT * FROM albums a WHERE a.name = 'On';
+SELECT * FROM albums a WHERE a.name = 'Pies Descalzos';
+SELECT * FROM albums a WHERE a.name = 'Satisfied';
+SELECT * FROM albums a WHERE a.name = 'HABITACION DOBLE';
+SELECT * FROM albums a WHERE a.name = 'Akrasia';
+SELECT * FROM albums a WHERE a.name = 'The Highway QC''s Selected Hits Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Uncovered Heart';
+SELECT * FROM albums a WHERE a.name = 'Fuselace';
+SELECT * FROM albums a WHERE a.name = 'The Confusion of A.J. Schicksal 1927-1973 (Vinyl Version)';
+SELECT * FROM albums a WHERE a.name = 'Salsa Superstar CD2';
+SELECT * FROM albums a WHERE a.name = 'The Champs'' Limbo Rock';
+SELECT * FROM albums a WHERE a.name = 'Sacred Treasures V - From A Russian Cathedral';
+SELECT * FROM albums a WHERE a.name = 'The Bubble Puppy Selected Favorites';
+SELECT * FROM albums a WHERE a.name = 'Pearly Gates Selected Hits';
+SELECT * FROM albums a WHERE a.name = 'Swirl';
+SELECT * FROM albums a WHERE a.name = 'Pat Kelly Selected Hits';
+SELECT * FROM albums a WHERE a.name = 'Chaotica';
+SELECT * FROM albums a WHERE a.name = 'A Collection of Chinese Music Masterpieces: Erhu';
+SELECT * FROM albums a WHERE a.name = 'The Rutland Isles';
+SELECT * FROM albums a WHERE a.name = 'Shrimp Boats';
+SELECT * FROM albums a WHERE a.name = 'Nu Flow';
+SELECT * FROM albums a WHERE a.name = 'Eternal Passion';
+SELECT * FROM albums a WHERE a.name = 'Mama Used To Say';
+SELECT * FROM albums a WHERE a.name = 'To Dad From Motown';
+SELECT * FROM albums a WHERE a.name = 'Na Vida Real';
+SELECT * FROM albums a WHERE a.name = 'Distance';
+SELECT * FROM albums a WHERE a.name = 'Jack of all trades';
+SELECT * FROM albums a WHERE a.name = 'Toujours Ghetto Collector';
+SELECT * FROM albums a WHERE a.name = 'Camping sauvage';
+SELECT * FROM albums a WHERE a.name = 'In Love';
+SELECT * FROM albums a WHERE a.name = 'Airport Symphony';
+SELECT * FROM albums a WHERE a.name = 'Shadows of the Lovers';
+SELECT * FROM albums a WHERE a.name = 'It''s A Lonely World';
+SELECT * FROM albums a WHERE a.name = 'Uncivilization/Special Edition';
+SELECT * FROM albums a WHERE a.name = 'Don''t Get Comfortable';
+SELECT * FROM albums a WHERE a.name = 'Life on life''s terms';
+SELECT * FROM albums a WHERE a.name = '1';
+SELECT * FROM albums a WHERE a.name = 'Solenoid EP';
+SELECT * FROM albums a WHERE a.name = 'Country Gospel';
+SELECT * FROM albums a WHERE a.name = 'Stasis E.P';
+SELECT * FROM albums a WHERE a.name = 'So Be It';
+SELECT * FROM albums a WHERE a.name = 'Golden Hitz Of Calypso And Soca Vol.1';
+SELECT * FROM albums a WHERE a.name = 'One';
+SELECT * FROM albums a WHERE a.name = 'Border States';
+SELECT * FROM albums a WHERE a.name = 'Scatterlings';
+SELECT * FROM albums a WHERE a.name = 'The Cove';
+SELECT * FROM albums a WHERE a.name = 'Downfall Of The Working Man';
+SELECT * FROM albums a WHERE a.name = 'The Blue Bloods';
+SELECT * FROM albums a WHERE a.name = 'Meanwhile';
+SELECT * FROM albums a WHERE a.name = 'Keep the Fire Burning (Stones Platinum Diner)';
+SELECT * FROM albums a WHERE a.name = 'Brave New World (7inch Edit)';
+SELECT * FROM albums a WHERE a.name = 'Radar Love (Radio Edit)';
+SELECT * FROM albums a WHERE a.name = 'Houseman (7inch Mix)';
+SELECT * FROM albums a WHERE a.name = 'Congo Square';
+SELECT * FROM albums a WHERE a.name = 'The Ecstatic';
+SELECT * FROM albums a WHERE a.name = 'Here With Me';
+SELECT * FROM albums a WHERE a.name = 'In Our Bedroom After The War';
+SELECT * FROM albums a WHERE a.name = 'Drawing Down the Moon';
+SELECT * FROM albums a WHERE a.name = 'Doctor''s Orders';
+SELECT * FROM albums a WHERE a.name = 'Best Kept Secret';
+SELECT * FROM albums a WHERE a.name = 'Electric Rodeo';
+SELECT * FROM albums a WHERE a.name = 'I''m Really Smokin''';
+SELECT * FROM albums a WHERE a.name = 'Songs For The Working Man';
+SELECT * FROM albums a WHERE a.name = 'Seven Year War';
+SELECT * FROM albums a WHERE a.name = 'I Gotcha';
+SELECT * FROM albums a WHERE a.name = 'And Come the Sirens';
+SELECT * FROM albums a WHERE a.name = 'Work For All';
+SELECT * FROM albums a WHERE a.name = 'Dora The Explorer Party Favorites';
+SELECT * FROM albums a WHERE a.name = 'Spotlight Karaoke Vol. 2 - Best of Schlager 2007';
+SELECT * FROM albums a WHERE a.name = 'Wah Wah';
+SELECT * FROM albums a WHERE a.name = 'My Blues';
+SELECT * FROM albums a WHERE a.name = 'The War Back Home';
+SELECT * FROM albums a WHERE a.name = 'Live Moment';
+SELECT * FROM albums a WHERE a.name = 'C&C Music Factory vs. RMD Dance: Everybody Dance Now! (Sweat- The Remixes)';
+SELECT * FROM albums a WHERE a.name = 'Respirare';
+SELECT * FROM albums a WHERE a.name = 'Stop the Tape! Stop the Tape!';
+SELECT * FROM albums a WHERE a.name = 'Heartbreak Make Me A Dancer';
+SELECT * FROM albums a WHERE a.name = 'Ao Vivo no Coliseu dos Recreios';
+SELECT * FROM albums a WHERE a.name = 'Sharabee Vol 3';
+SELECT * FROM albums a WHERE a.name = 'Live In Ukraine';
+SELECT * FROM albums a WHERE a.name = 'Funny In The Head - The Best Of The Barron Knights';
+SELECT * FROM albums a WHERE a.name = 'Resolution';
+SELECT * FROM albums a WHERE a.name = 'Either Or';
+SELECT * FROM albums a WHERE a.name = 'Decade - Box Set';
+SELECT * FROM albums a WHERE a.name = 'Fur';
+SELECT * FROM albums a WHERE a.name = 'Volver A Nacer';
+SELECT * FROM albums a WHERE a.name = 'Shadows Of The Past';
+SELECT * FROM albums a WHERE a.name = 'Strong Currents';
+SELECT * FROM albums a WHERE a.name = 'Destination Life';
+SELECT * FROM albums a WHERE a.name = 'South Side Stories vol.3';
+SELECT * FROM albums a WHERE a.name = 'The One That Got Away';
+SELECT * FROM albums a WHERE a.name = 'Fool Me Good';
+SELECT * FROM albums a WHERE a.name = 'Realistic';
+SELECT * FROM albums a WHERE a.name = 'Let''s Just Call You Quits';
+SELECT * FROM albums a WHERE a.name = 'Now And Then - Folk Songs For The 21st Century';
+SELECT * FROM albums a WHERE a.name = 'You Know Me';
+SELECT * FROM albums a WHERE a.name = 'Mosaic';
+SELECT * FROM albums a WHERE a.name = 'Main Street';
+SELECT * FROM albums a WHERE a.name = 'Two Guns_ Twin Arrows';
+SELECT * FROM albums a WHERE a.name = 'Buckle Up';
+SELECT * FROM albums a WHERE a.name = 'When Rappers Attack';
+SELECT * FROM albums a WHERE a.name = 'Piano Playhouse';
+SELECT * FROM albums a WHERE a.name = 'New Recovery';
+SELECT * FROM albums a WHERE a.name = 'First Congregational Church Concert';
+SELECT * FROM albums a WHERE a.name = 'Healing Waters';
+SELECT * FROM albums a WHERE a.name = 'Beyond The Valley Of The Proles';
+SELECT * FROM albums a WHERE a.name = 'Songs of Prey';
+SELECT * FROM albums a WHERE a.name = 'Territory=Universe';
+SELECT * FROM albums a WHERE a.name = 'Five Knuckle Philosophy';
+SELECT * FROM albums a WHERE a.name = 'Makina Klassix';
+SELECT * FROM albums a WHERE a.name = 'Voz De Referencia';
+SELECT * FROM albums a WHERE a.name = 'Cheyenne Nation';
+SELECT * FROM albums a WHERE a.name = 'Land Of Hope And Crosby';
+SELECT * FROM albums a WHERE a.name = 'Refractory';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Xavier Cugat And His Orchestra';
+SELECT * FROM albums a WHERE a.name = 'Everybody''s Talkin'' ''Bout Miss Thing!';
+SELECT * FROM albums a WHERE a.name = 'Lilas EP';
+SELECT * FROM albums a WHERE a.name = 'Draft Radio Volume 1';
+SELECT * FROM albums a WHERE a.name = 'More Or Less Is More';
+SELECT * FROM albums a WHERE a.name = 'Togo';
+SELECT * FROM albums a WHERE a.name = 'Back To The Delta';
+SELECT * FROM albums a WHERE a.name = 'Just The Facts';
+SELECT * FROM albums a WHERE a.name = 'Real Life';
+SELECT * FROM albums a WHERE a.name = 'Vol. II';
+SELECT * FROM albums a WHERE a.name = 'Simply Glad';
+SELECT * FROM albums a WHERE a.name = 'If I Could Do It All Again';
+SELECT * FROM albums a WHERE a.name = 'More Than a Song';
+SELECT * FROM albums a WHERE a.name = 'Between Earth & Sky: The Pulse of Celtic Music';
+SELECT * FROM albums a WHERE a.name = 'Dark Skies';
+SELECT * FROM albums a WHERE a.name = 'Reunion';
+SELECT * FROM albums a WHERE a.name = 'As You''re Vanishing In Silence';
+SELECT * FROM albums a WHERE a.name = 'Songs From Lynchland Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Function 8_ We''re All Wearing Capes';
+SELECT * FROM albums a WHERE a.name = 'Waking Up Is Hard To Do!';
+SELECT * FROM albums a WHERE a.name = 'E.U. and Friends...School Daze revisited';
+SELECT * FROM albums a WHERE a.name = 'THE FREQUENCY';
+SELECT * FROM albums a WHERE a.name = 'Wildfires';
+SELECT * FROM albums a WHERE a.name = 'All For Business';
+SELECT * FROM albums a WHERE a.name = 'Hollywood Town Hall';
+SELECT * FROM albums a WHERE a.name = 'Jill Paquette';
+SELECT * FROM albums a WHERE a.name = 'Starrbooty: Original Motion Picture Soundtrack';
+SELECT * FROM albums a WHERE a.name = 'Miltape Vol.1';
+SELECT * FROM albums a WHERE a.name = 'The Looking Glass';
+SELECT * FROM albums a WHERE a.name = 'Mars/Venus';
+SELECT * FROM albums a WHERE a.name = 'Columbia: Live at Missouri University 4/25/93';
+SELECT * FROM albums a WHERE a.name = 'Twilight On Sometimes Island';
+SELECT * FROM albums a WHERE a.name = 'Asi Como Me Ven';
+SELECT * FROM albums a WHERE a.name = 'Maxi mariage - 51 titres';
+SELECT * FROM albums a WHERE a.name = 'Remote';
+SELECT * FROM albums a WHERE a.name = 'Rock En Español - Lo Mejor De Fobia';
+SELECT * FROM albums a WHERE a.name = 'Hypnotic Poison';
+SELECT * FROM albums a WHERE a.name = 'Balansamba 2005';
+SELECT * FROM albums a WHERE a.name = 'Babblesick';
+SELECT * FROM albums a WHERE a.name = 'Überjam';
+SELECT * FROM albums a WHERE a.name = 'Full Circle';
+SELECT * FROM albums a WHERE a.name = 'Arkansas';
+SELECT * FROM albums a WHERE a.name = 'A Mi la Calle';
+SELECT * FROM albums a WHERE a.name = 'Garde-Moi La Derniere Danse Vol 8';
+SELECT * FROM albums a WHERE a.name = 'Fielding';
+SELECT * FROM albums a WHERE a.name = 'Octopants';
+SELECT * FROM albums a WHERE a.name = 'Tomorrow Never Happened';
+SELECT * FROM albums a WHERE a.name = 'Two Ton Tuesday Live!';
+SELECT * FROM albums a WHERE a.name = 'Don''t Be Cruel / Bobby';
+SELECT * FROM albums a WHERE a.name = 'It''s Harassment';
+SELECT * FROM albums a WHERE a.name = 'The Art of Navigating by the Stars';
+SELECT * FROM albums a WHERE a.name = 'One Step Closer';
+SELECT * FROM albums a WHERE a.name = 'Hutspot';
+SELECT * FROM albums a WHERE a.name = 'Silence';
+SELECT * FROM albums a WHERE a.name = 'Worlds Apart Revisited';
+SELECT * FROM albums a WHERE a.name = 'Paradise Lost';
+SELECT * FROM albums a WHERE a.name = 'Marathon';
+SELECT * FROM albums a WHERE a.name = 'Ten black years - Best of';
+SELECT * FROM albums a WHERE a.name = 'All Inclusive';
+SELECT * FROM albums a WHERE a.name = 'Playgrounds';
+SELECT * FROM albums a WHERE a.name = 'The New Wind and the Second Wave';
+SELECT * FROM albums a WHERE a.name = 'Molecular Heinosity';
+SELECT * FROM albums a WHERE a.name = 'Emotionally Disqualified';
+SELECT * FROM albums a WHERE a.name = 'For The Love Of Strange Medicine';
+SELECT * FROM albums a WHERE a.name = 'The Best of Country Joe McDonald';
+SELECT * FROM albums a WHERE a.name = 'Katharine McPhee';
+SELECT * FROM albums a WHERE a.name = 'Negroklaro';
+SELECT * FROM albums a WHERE a.name = 'In the Interim';
+SELECT * FROM albums a WHERE a.name = 'Soldiers of Love';
+SELECT * FROM albums a WHERE a.name = 'Sex & Misery';
+SELECT * FROM albums a WHERE a.name = 'Out For Blood';
+SELECT * FROM albums a WHERE a.name = 'Texasongs';
+SELECT * FROM albums a WHERE a.name = 'Free Cocaine';
+SELECT * FROM albums a WHERE a.name = 'Memphis Slim U.S.A.';
+SELECT * FROM albums a WHERE a.name = 'Giraffes and Jackals';
+SELECT * FROM albums a WHERE a.name = 'The Blues Never Die';
+SELECT * FROM albums a WHERE a.name = 'Restore EP';
+SELECT * FROM albums a WHERE a.name = 'Weirdo';
+SELECT * FROM albums a WHERE a.name = 'Forever Young - New Mixes 2009';
+SELECT * FROM albums a WHERE a.name = 'Party Rock';
+SELECT * FROM albums a WHERE a.name = 'Pleasure';
+SELECT * FROM albums a WHERE a.name = 'The very best...Live - Montreal Jazz Festival 25th Anniversary Series';
+SELECT * FROM albums a WHERE a.name = 'The Notorious Cherry Bombs';
+SELECT * FROM albums a WHERE a.name = 'Et Si C''Etait Moi';
+SELECT * FROM albums a WHERE a.name = 'The Incredible Kai Winding Trombones';
+SELECT * FROM albums a WHERE a.name = 'The Highschool Reunion';
+SELECT * FROM albums a WHERE a.name = 'Prokofiev - Scythian Suite_ Stravinsky - The Rite of Spring';
+SELECT * FROM albums a WHERE a.name = 'One Louder';
+SELECT * FROM albums a WHERE a.name = 'The Shiggar Fraggar Show! Vol. 3';
+SELECT * FROM albums a WHERE a.name = 'Equilibrium';
+SELECT * FROM albums a WHERE a.name = 'Harry / Silent Mother Nature';
+SELECT * FROM albums a WHERE a.name = 'Mind Is Not Brain';
+SELECT * FROM albums a WHERE a.name = 'Danger: White Men Dancing';
+SELECT * FROM albums a WHERE a.name = 'Where We Belong (rafa''s Epic Journey)';
+SELECT * FROM albums a WHERE a.name = 'Live Inferno';
+SELECT * FROM albums a WHERE a.name = 'On The Run: Live At The Velvet Lounge';
+SELECT * FROM albums a WHERE a.name = 'Strictly Platinum';
+SELECT * FROM albums a WHERE a.name = 'Stone Love - Champion Sound_ Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'High Country Blues';
+SELECT * FROM albums a WHERE a.name = 'Sextessense: A Tribute To John Stevens and the SME';
+SELECT * FROM albums a WHERE a.name = 'Michael Bublé Meets Madison Square Garden';
+SELECT * FROM albums a WHERE a.name = 'Neil Young Archives Volume I [1963 - 1972]';
+SELECT * FROM albums a WHERE a.name = 'One Part Lullaby';
+SELECT * FROM albums a WHERE a.name = 'Leise';
+SELECT * FROM albums a WHERE a.name = 'String Wizards';
+SELECT * FROM albums a WHERE a.name = 'CJ Bomb Club Mix Best Of 1997-2008 Vol. 5';
+SELECT * FROM albums a WHERE a.name = 'The Boom Lucy';
+SELECT * FROM albums a WHERE a.name = 'Warrior Charge';
+SELECT * FROM albums a WHERE a.name = 'Guitar Adagios';
+SELECT * FROM albums a WHERE a.name = 'Certified';
+SELECT * FROM albums a WHERE a.name = 'Skywriter / Get It Together';
+SELECT * FROM albums a WHERE a.name = 'Frame';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Northern';
+SELECT * FROM albums a WHERE a.name = 'Junglization';
+SELECT * FROM albums a WHERE a.name = 'Electro Ave';
+SELECT * FROM albums a WHERE a.name = 'SHINING STAR';
+SELECT * FROM albums a WHERE a.name = 'A Pair Of Hanks';
+SELECT * FROM albums a WHERE a.name = 'Rise';
+SELECT * FROM albums a WHERE a.name = 'Divine Design';
+SELECT * FROM albums a WHERE a.name = 'A Nation of Actors';
+SELECT * FROM albums a WHERE a.name = 'The Stolen Singles';
+SELECT * FROM albums a WHERE a.name = 'Shajarian Golden Songs - Persian Music';
+SELECT * FROM albums a WHERE a.name = 'Cheyenne Autumn';
+SELECT * FROM albums a WHERE a.name = 'Nightout';
+SELECT * FROM albums a WHERE a.name = 'A Place Called Grace (Premiere Performance Plus Track)';
+SELECT * FROM albums a WHERE a.name = 'WTF feat. Kid Sister & Paserock';
+SELECT * FROM albums a WHERE a.name = 'Research & Development';
+SELECT * FROM albums a WHERE a.name = 'From Past To Present';
+SELECT * FROM albums a WHERE a.name = 'Robot Love (Part 2)';
+SELECT * FROM albums a WHERE a.name = 'Kevlar';
+SELECT * FROM albums a WHERE a.name = 'Dissidia';
+SELECT * FROM albums a WHERE a.name = 'Le Mepris';
+SELECT * FROM albums a WHERE a.name = 'Battlestar';
+SELECT * FROM albums a WHERE a.name = 'Rough Diamonds';
+SELECT * FROM albums a WHERE a.name = 'Desolation Angels';
+SELECT * FROM albums a WHERE a.name = 'Les Grands Succès Du Cinema Hollywoodien';
+SELECT * FROM albums a WHERE a.name = 'Process Of A New Decline';
+SELECT * FROM albums a WHERE a.name = 'Les Maîtres De L''Accordéon';
+SELECT * FROM albums a WHERE a.name = 'Alkaline EP';
+SELECT * FROM albums a WHERE a.name = 'The Present Age';
+SELECT * FROM albums a WHERE a.name = 'Rio De Colores';
+SELECT * FROM albums a WHERE a.name = 'In Loving Memory';
+SELECT * FROM albums a WHERE a.name = 'First Come_ First Served (Instrumentals)';
+SELECT * FROM albums a WHERE a.name = 'Dogu Ruzgari (Wind of East)';
+SELECT * FROM albums a WHERE a.name = 'Chicago Jump';
+SELECT * FROM albums a WHERE a.name = 'Papillon';
+SELECT * FROM albums a WHERE a.name = 'Wonderful Educated Bear';
+SELECT * FROM albums a WHERE a.name = 'Turbinado';
+SELECT * FROM albums a WHERE a.name = 'The Countess';
+SELECT * FROM albums a WHERE a.name = 'The Flying Ballerina';
+SELECT * FROM albums a WHERE a.name = 'How Dark This Earth Will Shine';
+SELECT * FROM albums a WHERE a.name = 'In The Rectory Of The Bizarre Reverend';
+SELECT * FROM albums a WHERE a.name = 'Tiwahé';
+SELECT * FROM albums a WHERE a.name = 'Euphonic Sounds';
+SELECT * FROM albums a WHERE a.name = 'Along Came The Chosen';
+SELECT * FROM albums a WHERE a.name = 'Harry Potter And The Half-Blood Prince - Original Soundtrack';
+SELECT * FROM albums a WHERE a.name = 'Reflections: Steve Lacy Plays Thelonious Monk';
+SELECT * FROM albums a WHERE a.name = 'Fragmentary Evidence';
+SELECT * FROM albums a WHERE a.name = 'World Beaters';
+SELECT * FROM albums a WHERE a.name = 'Bossa Evergreen';
+SELECT * FROM albums a WHERE a.name = 'The Horrible Plans Of Flex Busterman';
+SELECT * FROM albums a WHERE a.name = 'Shizuo Vs. Shizor';
+SELECT * FROM albums a WHERE a.name = 'Chayanne';
+SELECT * FROM albums a WHERE a.name = 'Enter Now The World';
+SELECT * FROM albums a WHERE a.name = 'Fuck Step 98';
+SELECT * FROM albums a WHERE a.name = 'Live In Philadelphia';
+SELECT * FROM albums a WHERE a.name = 'Attitude PC8';
+SELECT * FROM albums a WHERE a.name = 'Unplugged';
+SELECT * FROM albums a WHERE a.name = 'Trapped In The Closet (Chapters 1-12) [Explicit]';
+SELECT * FROM albums a WHERE a.name = 'La Puta Y El Diablo';
+SELECT * FROM albums a WHERE a.name = 'Desolation Street';
+SELECT * FROM albums a WHERE a.name = 'Nightsongs And Lullabies';
+SELECT * FROM albums a WHERE a.name = 'Start from Skratch';
+SELECT * FROM albums a WHERE a.name = 'Craftsmen';
+SELECT * FROM albums a WHERE a.name = '2.';
+SELECT * FROM albums a WHERE a.name = 'Chronic Dreams';
+SELECT * FROM albums a WHERE a.name = 'Hardware Chronicles Vol. 3';
+SELECT * FROM albums a WHERE a.name = 'Texas Unplugged_ Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Artboy Meets Artgirl';
+SELECT * FROM albums a WHERE a.name = 'Solos for the Horn Player  - The Mason Jones Book';
+SELECT * FROM albums a WHERE a.name = 'Cidar';
+SELECT * FROM albums a WHERE a.name = '¡Amigo_ No Paso Na!';
+SELECT * FROM albums a WHERE a.name = 'De La Cabeza Con Bersuit Vergarabat';
+SELECT * FROM albums a WHERE a.name = 'In Formal Introduction';
+SELECT * FROM albums a WHERE a.name = 'The Airs of Wales';
+SELECT * FROM albums a WHERE a.name = 'New Memories';
+SELECT * FROM albums a WHERE a.name = 'The Barbecue Swingers Live';
+SELECT * FROM albums a WHERE a.name = 'Insomnia';
+SELECT * FROM albums a WHERE a.name = 'Hi-Tech Lowlife';
+SELECT * FROM albums a WHERE a.name = 'Median''s Relief';
+SELECT * FROM albums a WHERE a.name = 'Butterflies_ Zebras_ And Moonbeams';
+SELECT * FROM albums a WHERE a.name = 'RockN''Road All Night By Danni Carlos';
+SELECT * FROM albums a WHERE a.name = 'Emmerson Nogueira Ao Vivo';
+SELECT * FROM albums a WHERE a.name = 'Habia Una Vez';
+SELECT * FROM albums a WHERE a.name = 'Vinyl Replica:  Noche Y Día';
+SELECT * FROM albums a WHERE a.name = 'Os Replicantes';
+SELECT * FROM albums a WHERE a.name = 'É Por Amor';
+SELECT * FROM albums a WHERE a.name = 'Um Viol¦o Em Primeiro Plano';
+SELECT * FROM albums a WHERE a.name = 'Divididos Por La Felicidad';
+SELECT * FROM albums a WHERE a.name = 'Pequenas Anécdotas Sobre Las Instituciones';
+SELECT * FROM albums a WHERE a.name = 'Sí o Sí - Diario del Rock Argentino - Sui Generis';
+SELECT * FROM albums a WHERE a.name = 'Capital Inicial Multishow Ao Vivo';
+SELECT * FROM albums a WHERE a.name = 'Black Holes And Revelations';
+SELECT * FROM albums a WHERE a.name = 'Karaoke: The 60''s Hits - Singing to the Hits';
+SELECT * FROM albums a WHERE a.name = 'Murphy''s Law';
+SELECT * FROM albums a WHERE a.name = 'Streetcred2 Punchline';
+SELECT * FROM albums a WHERE a.name = 'The Singles';
+SELECT * FROM albums a WHERE a.name = 'Cocaine 2009 Mixes';
+SELECT * FROM albums a WHERE a.name = 'Fall';
+SELECT * FROM albums a WHERE a.name = 'Last Of The Angels';
+SELECT * FROM albums a WHERE a.name = 'Barfly';
+SELECT * FROM albums a WHERE a.name = 'Sneaky Flutes';
+SELECT * FROM albums a WHERE a.name = 'Cuts...';
+SELECT * FROM albums a WHERE a.name = 'Strictly East Coast';
+SELECT * FROM albums a WHERE a.name = 'Waiting To Happen/36';
+SELECT * FROM albums a WHERE a.name = 'Mis 30 Mejores Canciones';
+SELECT * FROM albums a WHERE a.name = 'La Sangre En El Cuerpo';
+SELECT * FROM albums a WHERE a.name = 'Tania Libertad Canta A Jose Alfredo Jimenez';
+SELECT * FROM albums a WHERE a.name = 'Aerosoul';
+SELECT * FROM albums a WHERE a.name = '100 Kilómetros De Musica';
+SELECT * FROM albums a WHERE a.name = '12 Vivos';
+SELECT * FROM albums a WHERE a.name = 'Serie De Coleccion 15 Autenticos';
+SELECT * FROM albums a WHERE a.name = 'Incontinopia';
+SELECT * FROM albums a WHERE a.name = 'A Gozar/Sonora Santanera';
+SELECT * FROM albums a WHERE a.name = 'Más Unidos Que Nunca';
+SELECT * FROM albums a WHERE a.name = 'Grandes Sucessos - Nilton Cesar';
+SELECT * FROM albums a WHERE a.name = 'Pato Fu';
+SELECT * FROM albums a WHERE a.name = 'A Melhor Banda De Todos Os Tempos Da Última Semana';
+SELECT * FROM albums a WHERE a.name = 'Mi Biografia';
+SELECT * FROM albums a WHERE a.name = 'Mi Vida Musical';
+SELECT * FROM albums a WHERE a.name = 'Tabuleiro Musical';
+SELECT * FROM albums a WHERE a.name = 'Desde El Batiscafo';
+SELECT * FROM albums a WHERE a.name = 'La Parranda es con Poncho & Emilianito';
+SELECT * FROM albums a WHERE a.name = 'Sagrado Corazón';
+SELECT * FROM albums a WHERE a.name = 'Broadway Blues';
+SELECT * FROM albums a WHERE a.name = 'Down Home Blues';
+SELECT * FROM albums a WHERE a.name = 'The Blues Ballad';
+SELECT * FROM albums a WHERE a.name = 'Vriend & Vijand';
+SELECT * FROM albums a WHERE a.name = 'The Nightfly';
+SELECT * FROM albums a WHERE a.name = 'Serotonality';
+SELECT * FROM albums a WHERE a.name = 'Don''t Cry Now';
+SELECT * FROM albums a WHERE a.name = 'Sorry Ma_ Forgot To Take Out The Trash!';
+SELECT * FROM albums a WHERE a.name = 'Ooh La La';
+SELECT * FROM albums a WHERE a.name = 'Compositions';
+SELECT * FROM albums a WHERE a.name = 'Chicken Skin Music';
+SELECT * FROM albums a WHERE a.name = '(Hoist)';
+SELECT * FROM albums a WHERE a.name = 'In The Storm';
+SELECT * FROM albums a WHERE a.name = 'Heart_ Mind & Soul';
+SELECT * FROM albums a WHERE a.name = 'Broadway - Right Now!';
+SELECT * FROM albums a WHERE a.name = 'Per... Un Mondo Di Cristallo';
+SELECT * FROM albums a WHERE a.name = 'On A Mission';
+SELECT * FROM albums a WHERE a.name = 'I''ll Be There';
+SELECT * FROM albums a WHERE a.name = 'The End Is Not The End';
+SELECT * FROM albums a WHERE a.name = 'Moon';
+SELECT * FROM albums a WHERE a.name = 'Mind and Body';
+SELECT * FROM albums a WHERE a.name = '1614';
+SELECT * FROM albums a WHERE a.name = 'Kingdom Of The Night';
+SELECT * FROM albums a WHERE a.name = 'Loco por Ti';
+SELECT * FROM albums a WHERE a.name = 'Personalidad';
+SELECT * FROM albums a WHERE a.name = 'Personalidad';
+SELECT * FROM albums a WHERE a.name = 'RCA 100 Años De Musica';
+SELECT * FROM albums a WHERE a.name = 'RCA 100 Años De Musica';
+SELECT * FROM albums a WHERE a.name = 'Los Ultimos Exitos De Rigo Tovar';
+SELECT * FROM albums a WHERE a.name = 'Ramon Ayala & Bronco';
+SELECT * FROM albums a WHERE a.name = 'Dying For A Heart';
+SELECT * FROM albums a WHERE a.name = 'La Gran Coleccion Del 60 Aniversario CBS - Gualberto Castro';
+SELECT * FROM albums a WHERE a.name = 'Las Numero 1 De La Sonora Santanera';
+SELECT * FROM albums a WHERE a.name = 'Don''t Kill the Messenger';
+SELECT * FROM albums a WHERE a.name = 'Live At The Rat';
+SELECT * FROM albums a WHERE a.name = 'Right Now!';
+SELECT * FROM albums a WHERE a.name = 'L.A. Explosion';
+SELECT * FROM albums a WHERE a.name = 'Svenska favoriter';
+SELECT * FROM albums a WHERE a.name = 'Buffalo Killers';
+SELECT * FROM albums a WHERE a.name = 'Ebele EP';
+SELECT * FROM albums a WHERE a.name = 'If Footmen Tire You...';
+SELECT * FROM albums a WHERE a.name = 'Car Wash';
+SELECT * FROM albums a WHERE a.name = 'Erasure Is Our Ally EP';
+SELECT * FROM albums a WHERE a.name = 'Lådan';
+SELECT * FROM albums a WHERE a.name = 'Dancecore';
+SELECT * FROM albums a WHERE a.name = 'Endless Summer Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Give Me Some Love (Part 1)';
+SELECT * FROM albums a WHERE a.name = 'Ultimate Trance Collection';
+SELECT * FROM albums a WHERE a.name = 'Rest In Sleaze';
+SELECT * FROM albums a WHERE a.name = 'La Historia De Magneto';
+SELECT * FROM albums a WHERE a.name = 'Masters Of Reality';
+SELECT * FROM albums a WHERE a.name = 'In My Life';
+SELECT * FROM albums a WHERE a.name = 'Piano Piano';
+SELECT * FROM albums a WHERE a.name = 'Birdy Nam Nam';
+SELECT * FROM albums a WHERE a.name = 'I Hate Us Even More';
+SELECT * FROM albums a WHERE a.name = 'Sonatas And Interludes For Prepared Piano';
+SELECT * FROM albums a WHERE a.name = 'Beach Music Anthology';
+SELECT * FROM albums a WHERE a.name = 'About You';
+SELECT * FROM albums a WHERE a.name = 'Xlr8r';
+SELECT * FROM albums a WHERE a.name = 'Journeys of a Dervish';
+SELECT * FROM albums a WHERE a.name = 'Pesca De Sones Jarochos';
+SELECT * FROM albums a WHERE a.name = 'John Cage - A Firenze';
+SELECT * FROM albums a WHERE a.name = 'I''ll Shut Up When You Fuck Off';
+SELECT * FROM albums a WHERE a.name = 'All Night Long';
+SELECT * FROM albums a WHERE a.name = '...Beyond My Grey Wake';
+SELECT * FROM albums a WHERE a.name = 'The Shape Of Life';
+SELECT * FROM albums a WHERE a.name = 'Tomorrow Waits';
+SELECT * FROM albums a WHERE a.name = 'The Winding Path';
+SELECT * FROM albums a WHERE a.name = 'Rise Up';
+SELECT * FROM albums a WHERE a.name = 'Watlington Street EP';
+SELECT * FROM albums a WHERE a.name = 'Amok';
+SELECT * FROM albums a WHERE a.name = 'What I Mean To Say Is Goodbye';
+SELECT * FROM albums a WHERE a.name = '68/98';
+SELECT * FROM albums a WHERE a.name = 'For That $crilla';
+SELECT * FROM albums a WHERE a.name = 'Clean Machine';
+SELECT * FROM albums a WHERE a.name = 'Carrot Rope';
+SELECT * FROM albums a WHERE a.name = 'Crooked Rain Crooked Rain (Deluxe Edition)';
+SELECT * FROM albums a WHERE a.name = 'Natural';
+SELECT * FROM albums a WHERE a.name = 'Completely Taken In';
+SELECT * FROM albums a WHERE a.name = 'Old Rottenhat';
+SELECT * FROM albums a WHERE a.name = 'Brighten the Corners (Nicene Creedence Ed.)';
+SELECT * FROM albums a WHERE a.name = 'Westing (By Musket and Sextant)';
+SELECT * FROM albums a WHERE a.name = 'British Tour ''76';
+SELECT * FROM albums a WHERE a.name = 'Pete Tong Presents Wonderland 2009';
+SELECT * FROM albums a WHERE a.name = 'The Official Hampster Dance Song';
+SELECT * FROM albums a WHERE a.name = 'Laissez Faire...';
+SELECT * FROM albums a WHERE a.name = 'Lucero';
+SELECT * FROM albums a WHERE a.name = 'Lovebites';
+SELECT * FROM albums a WHERE a.name = '...and The Winnerys';
+SELECT * FROM albums a WHERE a.name = 'Söder Om Kärleken';
+SELECT * FROM albums a WHERE a.name = 'Meander';
+SELECT * FROM albums a WHERE a.name = 'When The Going Gets Dark';
+SELECT * FROM albums a WHERE a.name = 'Tennessee Before Daylight';
+SELECT * FROM albums a WHERE a.name = 'Do Not Ignore the Potential';
+SELECT * FROM albums a WHERE a.name = 'The Absent and The Distant';
+SELECT * FROM albums a WHERE a.name = 'Povel Ramel/De sista entusiasterna';
+SELECT * FROM albums a WHERE a.name = 'A New Old Fashioned Christmas';
+SELECT * FROM albums a WHERE a.name = 'En plats i solen';
+SELECT * FROM albums a WHERE a.name = 'III';
+SELECT * FROM albums a WHERE a.name = 'Tommy Körberg & Stefan Nilsson tolkar Jacques Brel';
+SELECT * FROM albums a WHERE a.name = 'Been It';
+SELECT * FROM albums a WHERE a.name = 'Forever';
+SELECT * FROM albums a WHERE a.name = 'Perfect World';
+SELECT * FROM albums a WHERE a.name = 'First Descent - The Story Of The Snowboarding Revolution (OST)';
+SELECT * FROM albums a WHERE a.name = 'Slither - Music From The Motion Picture';
+SELECT * FROM albums a WHERE a.name = 'The Heartbeat Orchestra';
+SELECT * FROM albums a WHERE a.name = 'Dirty Electro House 4';
+SELECT * FROM albums a WHERE a.name = 'Deadly Passions';
+SELECT * FROM albums a WHERE a.name = 'LITTLE MISS DANGEROUS';
+SELECT * FROM albums a WHERE a.name = 'NUGENT';
+SELECT * FROM albums a WHERE a.name = 'Raised On Whipped Cream';
+SELECT * FROM albums a WHERE a.name = 'IN THE PALACE OF THE KING';
+SELECT * FROM albums a WHERE a.name = 'Lo Esencial';
+SELECT * FROM albums a WHERE a.name = 'WELCOME TO HAITII CREOLE 101';
+SELECT * FROM albums a WHERE a.name = 'PISTOLA';
+SELECT * FROM albums a WHERE a.name = 'LIVE AT MONTREUX 2006';
+SELECT * FROM albums a WHERE a.name = 'Det snurrar i min skalle';
+SELECT * FROM albums a WHERE a.name = 'Canciones De Amor De Yuri';
+SELECT * FROM albums a WHERE a.name = 'LIVE AT KNEBWORTH 1980';
+SELECT * FROM albums a WHERE a.name = 'Necesito Dueña';
+SELECT * FROM albums a WHERE a.name = 'Here Today And Gone Tomorrow';
+SELECT * FROM albums a WHERE a.name = 'Puro Sierreño Bravo';
+SELECT * FROM albums a WHERE a.name = '10 de Colección';
+SELECT * FROM albums a WHERE a.name = 'Stay Hungry [Deluxe 25th Anniversary Edition]';
+SELECT * FROM albums a WHERE a.name = 'My Turn';
+SELECT * FROM albums a WHERE a.name = 'More weird hits';
+SELECT * FROM albums a WHERE a.name = 'Reggae Reggae';
+SELECT * FROM albums a WHERE a.name = 'The Fight Of My Life';
+SELECT * FROM albums a WHERE a.name = 'World We Know';
+SELECT * FROM albums a WHERE a.name = 'Something Wrong';
+SELECT * FROM albums a WHERE a.name = 'Latin Travels 2';
+SELECT * FROM albums a WHERE a.name = 'Bellydance Overdrives';
+SELECT * FROM albums a WHERE a.name = 'Trance Hits Vol.2';
+SELECT * FROM albums a WHERE a.name = 'Power Trance Vol. 4';
+SELECT * FROM albums a WHERE a.name = 'The Poems of Elizabeth Bishop and Other Songs';
+SELECT * FROM albums a WHERE a.name = 'The Bright Lights & What I Should Have Learned';
+SELECT * FROM albums a WHERE a.name = 'The Herbaliser Band - Session 1 & 2';
+SELECT * FROM albums a WHERE a.name = 'Out of States Plates';
+SELECT * FROM albums a WHERE a.name = 'Non fumeur';
+SELECT * FROM albums a WHERE a.name = 'Fegefeuer';
+SELECT * FROM albums a WHERE a.name = 'Glömda Hjältars Ballad';
+SELECT * FROM albums a WHERE a.name = 'Show';
+SELECT * FROM albums a WHERE a.name = 'Defected Presents Classics In The House';
+SELECT * FROM albums a WHERE a.name = 'Happy Birthday Mum';
+SELECT * FROM albums a WHERE a.name = 'Trinity';
+SELECT * FROM albums a WHERE a.name = 'Let''s Be Us Again';
+SELECT * FROM albums a WHERE a.name = 'Surrender';
+SELECT * FROM albums a WHERE a.name = 'Momentum Shift';
+SELECT * FROM albums a WHERE a.name = 'Redesign - Realize Remixed';
+SELECT * FROM albums a WHERE a.name = 'Last Night Out';
+SELECT * FROM albums a WHERE a.name = 'Peculiar Friends';
+SELECT * FROM albums a WHERE a.name = 'Maelstrom';
+SELECT * FROM albums a WHERE a.name = 'Hi-Bias: Clubbin''';
+SELECT * FROM albums a WHERE a.name = 'A Tribute To John Hartford - Live From Mountain Stage';
+SELECT * FROM albums a WHERE a.name = 'Valdr Galga';
+SELECT * FROM albums a WHERE a.name = 'Tassoumakan';
+SELECT * FROM albums a WHERE a.name = 'If I Prove False';
+SELECT * FROM albums a WHERE a.name = 'Country''s Greatest No 1''s';
+SELECT * FROM albums a WHERE a.name = 'Where''er You Walk';
+SELECT * FROM albums a WHERE a.name = 'Thank God For Mental Illness';
+SELECT * FROM albums a WHERE a.name = 'Forbidden Fruit';
+SELECT * FROM albums a WHERE a.name = 'Mustang Sally / Three Time Loser [Digital 45]';
+SELECT * FROM albums a WHERE a.name = 'Ignorance';
+SELECT * FROM albums a WHERE a.name = 'Rated O';
+SELECT * FROM albums a WHERE a.name = 'So bin ich';
+SELECT * FROM albums a WHERE a.name = 'Rock En Español - Lo Mejor De Tijuana No!';
+SELECT * FROM albums a WHERE a.name = 'The Wrong Cage';
+SELECT * FROM albums a WHERE a.name = 'We''re Selfish And Lazy And Greedy';
+SELECT * FROM albums a WHERE a.name = 'The Ground';
+SELECT * FROM albums a WHERE a.name = 'Holy Shiite';
+SELECT * FROM albums a WHERE a.name = 'Ghost White';
+SELECT * FROM albums a WHERE a.name = 'Cromer';
+SELECT * FROM albums a WHERE a.name = 'Things Gonna Get Greater: The Watts Prophets 1969-1971';
+SELECT * FROM albums a WHERE a.name = 'L''apparenza';
+SELECT * FROM albums a WHERE a.name = 'Coming Up For Air';
+SELECT * FROM albums a WHERE a.name = 'Up North';
+SELECT * FROM albums a WHERE a.name = 'Airmail Special';
+SELECT * FROM albums a WHERE a.name = 'Central Avenue';
+SELECT * FROM albums a WHERE a.name = 'Bombay Dub Orchestra';
+SELECT * FROM albums a WHERE a.name = 'Viper Millennium Freestyle Dance Party Volume 1';
+SELECT * FROM albums a WHERE a.name = 'Music From A Painted Cave';
+SELECT * FROM albums a WHERE a.name = 'Trust In Jah';
+SELECT * FROM albums a WHERE a.name = 'Andalusian Nights';
+SELECT * FROM albums a WHERE a.name = 'The Band Kept Playing';
+SELECT * FROM albums a WHERE a.name = 'Meant To Be';
+SELECT * FROM albums a WHERE a.name = 'A Story In Sound';
+SELECT * FROM albums a WHERE a.name = 'Stick Game Songs Of The Paiute';
+SELECT * FROM albums a WHERE a.name = 'You Say Rock';
+SELECT * FROM albums a WHERE a.name = 'Ya...';
+SELECT * FROM albums a WHERE a.name = 'Howl';
+SELECT * FROM albums a WHERE a.name = 'Colors of My Heart';
+SELECT * FROM albums a WHERE a.name = 'Tornado Alley';
+SELECT * FROM albums a WHERE a.name = 'Lost & Rare';
+SELECT * FROM albums a WHERE a.name = 'Live';
+SELECT * FROM albums a WHERE a.name = 'Fuzzy Boombox v.2';
+SELECT * FROM albums a WHERE a.name = '229 2299 Girls Against Shit';
+SELECT * FROM albums a WHERE a.name = 'Project Overground: The Scienz Experiment Instrumentals';
+SELECT * FROM albums a WHERE a.name = 'Right Here_ Right Now';
+SELECT * FROM albums a WHERE a.name = 'Intersteller Fugitives';
+SELECT * FROM albums a WHERE a.name = 'Nazz Vs Toddzila';
+SELECT * FROM albums a WHERE a.name = 'Afterburner';
+SELECT * FROM albums a WHERE a.name = 'Never Leave You';
+SELECT * FROM albums a WHERE a.name = 'Recordings Of Music For Film';
+SELECT * FROM albums a WHERE a.name = 'Something Real & Here_ Here and Here';
+SELECT * FROM albums a WHERE a.name = 'Deliberately Fragile (Bonus Disc)';
+SELECT * FROM albums a WHERE a.name = 'Subject...Aldo Nova';
+SELECT * FROM albums a WHERE a.name = 'MTV Unplugged';
+SELECT * FROM albums a WHERE a.name = 'Three Crosses';
+SELECT * FROM albums a WHERE a.name = 'E-LIFE';
+SELECT * FROM albums a WHERE a.name = 'Multiply';
+SELECT * FROM albums a WHERE a.name = 'Aeftershock';
+SELECT * FROM albums a WHERE a.name = 'Kiva';
+SELECT * FROM albums a WHERE a.name = 'Vulture Street';
+SELECT * FROM albums a WHERE a.name = 'Gillan''s Inn';
+SELECT * FROM albums a WHERE a.name = 'Return To Form';
+SELECT * FROM albums a WHERE a.name = 'Chill The Beach';
+SELECT * FROM albums a WHERE a.name = 'Airs On A Shoestring';
+SELECT * FROM albums a WHERE a.name = 'Spokes';
+SELECT * FROM albums a WHERE a.name = 'Invisible Show Case Vol.1 Part: Two';
+SELECT * FROM albums a WHERE a.name = 'Haha Sound';
+SELECT * FROM albums a WHERE a.name = 'The Theory of Evolution';
+SELECT * FROM albums a WHERE a.name = 'Intervision';
+SELECT * FROM albums a WHERE a.name = 'Trainer';
+SELECT * FROM albums a WHERE a.name = 'Play It ''Til Tomorrow';
+SELECT * FROM albums a WHERE a.name = 'Empire';
+SELECT * FROM albums a WHERE a.name = 'Drukqs';
+SELECT * FROM albums a WHERE a.name = 'Watamanu?';
+SELECT * FROM albums a WHERE a.name = 'II';
+SELECT * FROM albums a WHERE a.name = 'E Coli';
+SELECT * FROM albums a WHERE a.name = 'Bytes';
+SELECT * FROM albums a WHERE a.name = 'For Beginner Piano';
+SELECT * FROM albums a WHERE a.name = 'George Walker_ A Portrait';
+SELECT * FROM albums a WHERE a.name = 'One House Left Standing';
+SELECT * FROM albums a WHERE a.name = 'One Nine Eight Two';
+SELECT * FROM albums a WHERE a.name = 'Duele';
+SELECT * FROM albums a WHERE a.name = 'H';
+SELECT * FROM albums a WHERE a.name = 'Musical Erratum + In Conversation';
+SELECT * FROM albums a WHERE a.name = 'I Feel Like Steppin'' Out';
+SELECT * FROM albums a WHERE a.name = 'Tranchã';
+SELECT * FROM albums a WHERE a.name = 'Get Serious';
+SELECT * FROM albums a WHERE a.name = 'A Return To The Isle Of Men';
+SELECT * FROM albums a WHERE a.name = 'Manuel Carrasco';
+SELECT * FROM albums a WHERE a.name = 'Little Darla Has A Treat For You v.26';
+SELECT * FROM albums a WHERE a.name = 'Transmigration';
+SELECT * FROM albums a WHERE a.name = 'The 1950s Concerto Recordings';
+SELECT * FROM albums a WHERE a.name = 'Andy Pratt';
+SELECT * FROM albums a WHERE a.name = 'The Slaughter House Tapes';
+SELECT * FROM albums a WHERE a.name = 'Passages';
+SELECT * FROM albums a WHERE a.name = 'Armada Lounge_ Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Tortured Tunes - Live';
+SELECT * FROM albums a WHERE a.name = 'You''re No Good';
+SELECT * FROM albums a WHERE a.name = 'Battle For The Sun (Greek Digital Version)';
+SELECT * FROM albums a WHERE a.name = 'Take Off Your Colours';
+SELECT * FROM albums a WHERE a.name = 'Son By 4';
+SELECT * FROM albums a WHERE a.name = 'Sonic Diary - Mixed';
+SELECT * FROM albums a WHERE a.name = 'Afternoon Pornstar';
+SELECT * FROM albums a WHERE a.name = 'Lasso';
+SELECT * FROM albums a WHERE a.name = 'Full On Mask Hysteria';
+SELECT * FROM albums a WHERE a.name = 'Soundsystem';
+SELECT * FROM albums a WHERE a.name = 'Home';
+SELECT * FROM albums a WHERE a.name = 'Porque No Basta';
+SELECT * FROM albums a WHERE a.name = 'Music for Nature Documentaries';
+SELECT * FROM albums a WHERE a.name = 'Nine Heavens';
+SELECT * FROM albums a WHERE a.name = 'Afterglow';
+SELECT * FROM albums a WHERE a.name = 'Classic 220';
+SELECT * FROM albums a WHERE a.name = 'Lost & Lonely Blues Vol 2';
+SELECT * FROM albums a WHERE a.name = 'Debris (ltd. ed. bonus disc)';
+SELECT * FROM albums a WHERE a.name = 'Circle Dance Songs of the Paiute and Shoshone';
+SELECT * FROM albums a WHERE a.name = 'The Camels';
+SELECT * FROM albums a WHERE a.name = 'Blue Tofu';
+SELECT * FROM albums a WHERE a.name = 'I Love You';
+SELECT * FROM albums a WHERE a.name = 'Dahmer';
+SELECT * FROM albums a WHERE a.name = 'When the Funk Hits the Fan';
+SELECT * FROM albums a WHERE a.name = 'Ya Mama & Song For Shelter';
+SELECT * FROM albums a WHERE a.name = 'Willy Porter';
+SELECT * FROM albums a WHERE a.name = 'Donde Estas Corazon';
+SELECT * FROM albums a WHERE a.name = 'Hoochie Momma';
+SELECT * FROM albums a WHERE a.name = 'The People Mover';
+SELECT * FROM albums a WHERE a.name = 'Young_ Gifted_ And Black Country';
+SELECT * FROM albums a WHERE a.name = 'What My Blues Are All About';
+SELECT * FROM albums a WHERE a.name = 'Start A People';
+SELECT * FROM albums a WHERE a.name = 'By Any Means Necessary';
+SELECT * FROM albums a WHERE a.name = 'Midnight Howl';
+SELECT * FROM albums a WHERE a.name = 'Super Hits';
+SELECT * FROM albums a WHERE a.name = 'Canciones De La Costa Chica (Chilenas)';
+SELECT * FROM albums a WHERE a.name = 'Serie Platino';
+SELECT * FROM albums a WHERE a.name = 'The Lucky Few';
+SELECT * FROM albums a WHERE a.name = 'Who Put Sac on the Map ? 2';
+SELECT * FROM albums a WHERE a.name = 'Straight Edge Failure';
+SELECT * FROM albums a WHERE a.name = 'Honey Lingers';
+SELECT * FROM albums a WHERE a.name = 'The Distant And Mechanised Glow Of Eastern European Dance Parties';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Collection';
+SELECT * FROM albums a WHERE a.name = 'Elevision Music';
+SELECT * FROM albums a WHERE a.name = 'Fede Rossoblu';
+SELECT * FROM albums a WHERE a.name = 'Spiritual R-Evolution';
+SELECT * FROM albums a WHERE a.name = 'Pain & Glory';
+SELECT * FROM albums a WHERE a.name = 'An Evening With Jerry Herman_ Lee Roy Reams and Karen Morrow';
+SELECT * FROM albums a WHERE a.name = 'Ho smesso di vivere';
+SELECT * FROM albums a WHERE a.name = 'Super L';
+SELECT * FROM albums a WHERE a.name = 'Getting To the Point Is Beside It';
+SELECT * FROM albums a WHERE a.name = 'A Arte E A Música Do Trio Odemira';
+SELECT * FROM albums a WHERE a.name = 'Promises_ Promises';
+SELECT * FROM albums a WHERE a.name = 'Above The Clouds EP';
+SELECT * FROM albums a WHERE a.name = 'The Purple Tape';
+SELECT * FROM albums a WHERE a.name = 'Strictly Rhythms Volume 2 mixed by Mr V';
+SELECT * FROM albums a WHERE a.name = 'Summertown';
+SELECT * FROM albums a WHERE a.name = 'Craving';
+SELECT * FROM albums a WHERE a.name = 'More Bad Habits';
+SELECT * FROM albums a WHERE a.name = 'Two Dollar Pistols with Tift Merritt';
+SELECT * FROM albums a WHERE a.name = 'I Need You';
+SELECT * FROM albums a WHERE a.name = 'The Pity List';
+SELECT * FROM albums a WHERE a.name = 'Who Do You Think You Are';
+SELECT * FROM albums a WHERE a.name = '''E Vicule ''O Scuro';
+SELECT * FROM albums a WHERE a.name = '...Y Los Relojes Se Pararon';
+SELECT * FROM albums a WHERE a.name = 'Little Spaces';
+SELECT * FROM albums a WHERE a.name = 'You Can''t Win';
+SELECT * FROM albums a WHERE a.name = 'Twist Party';
+SELECT * FROM albums a WHERE a.name = 'Revenge!';
+SELECT * FROM albums a WHERE a.name = 'Zeno Beach';
+SELECT * FROM albums a WHERE a.name = 'Noble Creatures';
+SELECT * FROM albums a WHERE a.name = 'Other People';
+SELECT * FROM albums a WHERE a.name = 'High Wire Live';
+SELECT * FROM albums a WHERE a.name = 'Electric Chair Song';
+SELECT * FROM albums a WHERE a.name = 'Three Live Times Ago';
+SELECT * FROM albums a WHERE a.name = 'Wassan Pharaoun';
+SELECT * FROM albums a WHERE a.name = 'Telegraph';
+SELECT * FROM albums a WHERE a.name = 'Dog Disco';
+SELECT * FROM albums a WHERE a.name = 'The Offering';
+SELECT * FROM albums a WHERE a.name = 'Mystery';
+SELECT * FROM albums a WHERE a.name = 'Reinitialized (limited bonus)';
+SELECT * FROM albums a WHERE a.name = 'Friendly Persuasion';
+SELECT * FROM albums a WHERE a.name = 'Buenaestrella';
+SELECT * FROM albums a WHERE a.name = 'Queen Majesty';
+SELECT * FROM albums a WHERE a.name = 'Abandon Music From The Motion Picture';
+SELECT * FROM albums a WHERE a.name = 'Play this game';
+SELECT * FROM albums a WHERE a.name = '100 Ans De Bal Musette';
+SELECT * FROM albums a WHERE a.name = 'Love It All - Remixes EP';
+SELECT * FROM albums a WHERE a.name = 'The Harbor Sessions';
+SELECT * FROM albums a WHERE a.name = 'Hartreim Saga';
+SELECT * FROM albums a WHERE a.name = 'Wildflowers';
+SELECT * FROM albums a WHERE a.name = 'Somewhere I''ve Never Travelled';
+SELECT * FROM albums a WHERE a.name = 'No Man''s Fool';
+SELECT * FROM albums a WHERE a.name = 'Mary Star Of The Sea';
+SELECT * FROM albums a WHERE a.name = 'A Mi Shabba';
+SELECT * FROM albums a WHERE a.name = 'Rainie Yang - My Intuition';
+SELECT * FROM albums a WHERE a.name = 'Marian McPartland''s Piano Jazz Radio Broadcast';
+SELECT * FROM albums a WHERE a.name = 'Complete Compilation 3CD Golden Serise - Prudence Liew';
+SELECT * FROM albums a WHERE a.name = 'Midnight Prayer';
+SELECT * FROM albums a WHERE a.name = 'Right Now';
+SELECT * FROM albums a WHERE a.name = 'Strange Faith And Practice';
+SELECT * FROM albums a WHERE a.name = 'A Land For Renegades';
+SELECT * FROM albums a WHERE a.name = 'Humbug';
+SELECT * FROM albums a WHERE a.name = 'Soirée Mondaine';
+SELECT * FROM albums a WHERE a.name = 'No Longer At Ease';
+SELECT * FROM albums a WHERE a.name = 'My Mistakes Were Made For You';
+SELECT * FROM albums a WHERE a.name = 'Domino Remixes';
+SELECT * FROM albums a WHERE a.name = 'Samrah';
+SELECT * FROM albums a WHERE a.name = 'Superpallo';
+SELECT * FROM albums a WHERE a.name = 'Don''t mess with the country boys';
+SELECT * FROM albums a WHERE a.name = 'Beautiful Life';
+SELECT * FROM albums a WHERE a.name = 'Satellite Sessions';
+SELECT * FROM albums a WHERE a.name = 'Can''t Sell Dope Forever';
+SELECT * FROM albums a WHERE a.name = 'Speed of Sound- Music Withouth Words from Travels in the Sou';
+SELECT * FROM albums a WHERE a.name = 'Provisions';
+SELECT * FROM albums a WHERE a.name = 'Alligator Purse';
+SELECT * FROM albums a WHERE a.name = 'Kéçia';
+SELECT * FROM albums a WHERE a.name = 'Cantava';
+SELECT * FROM albums a WHERE a.name = '20 Trance Classics';
+SELECT * FROM albums a WHERE a.name = 'The Remix Collection';
+SELECT * FROM albums a WHERE a.name = 'Planetary Folklore 2';
+SELECT * FROM albums a WHERE a.name = 'All Points North EP';
+SELECT * FROM albums a WHERE a.name = 'Twin Peaks EP - Peak Two';
+SELECT * FROM albums a WHERE a.name = 'Women As Lovers';
+SELECT * FROM albums a WHERE a.name = 'Random Violence';
+SELECT * FROM albums a WHERE a.name = 'Boo Hoo Boo Hoo';
+SELECT * FROM albums a WHERE a.name = 'The Quarter After';
+SELECT * FROM albums a WHERE a.name = 'City Fallen Leaves';
+SELECT * FROM albums a WHERE a.name = 'Ten White Stones';
+SELECT * FROM albums a WHERE a.name = 'Telescopic Eyes Glance the Future Sick';
+SELECT * FROM albums a WHERE a.name = '7';
+SELECT * FROM albums a WHERE a.name = 'Five Pillars of Soul';
+SELECT * FROM albums a WHERE a.name = 'MP3';
+SELECT * FROM albums a WHERE a.name = '9 Patriotic Battle Hymns for Children';
+SELECT * FROM albums a WHERE a.name = 'Mollie''s Mix';
+SELECT * FROM albums a WHERE a.name = 'Liliput (2xCD)';
+SELECT * FROM albums a WHERE a.name = 'Har Mar Superstar';
+SELECT * FROM albums a WHERE a.name = 'Artificial Fire';
+SELECT * FROM albums a WHERE a.name = 'New Plastic Ideas';
+SELECT * FROM albums a WHERE a.name = 'Snakebite';
+SELECT * FROM albums a WHERE a.name = 'Thrill';
+SELECT * FROM albums a WHERE a.name = 'The Best Of My Love';
+SELECT * FROM albums a WHERE a.name = 'The Man_ the King_ The Girl';
+SELECT * FROM albums a WHERE a.name = 'Harem of the Sundrum & the Witness Figg';
+SELECT * FROM albums a WHERE a.name = 'Parachute';
+SELECT * FROM albums a WHERE a.name = 'All This Everything';
+SELECT * FROM albums a WHERE a.name = 'Kaos';
+SELECT * FROM albums a WHERE a.name = 'Cab Calloway - Minnie The Moocher';
+SELECT * FROM albums a WHERE a.name = 'Live At The Planetarium';
+SELECT * FROM albums a WHERE a.name = 'Erskine Hawkins - Night After Night';
+SELECT * FROM albums a WHERE a.name = 'Les mauvais coups';
+SELECT * FROM albums a WHERE a.name = 'Fearless';
+SELECT * FROM albums a WHERE a.name = 'Dave Pearce Best of the Dance Years 1988 - 1992';
+SELECT * FROM albums a WHERE a.name = 'Chart Buster Vol. 3';
+SELECT * FROM albums a WHERE a.name = 'Coming Up Easy';
+SELECT * FROM albums a WHERE a.name = 'David Allan Coe Live..If That Ain''t Country';
+SELECT * FROM albums a WHERE a.name = 'Born To Be Alive';
+SELECT * FROM albums a WHERE a.name = 'The History of Northwest Rock_ Vol 2 - The Garage Years';
+SELECT * FROM albums a WHERE a.name = 'Homework';
+SELECT * FROM albums a WHERE a.name = 'Dear Friends and Gentle Hearts';
+SELECT * FROM albums a WHERE a.name = 'Too Late To Cry';
+SELECT * FROM albums a WHERE a.name = 'Canciones del Alma';
+SELECT * FROM albums a WHERE a.name = 'Best Of';
+SELECT * FROM albums a WHERE a.name = 'Broken Heart';
+SELECT * FROM albums a WHERE a.name = 'Hail To The Thief';
+SELECT * FROM albums a WHERE a.name = 'Redeye 2008 Holiday Sampler';
+SELECT * FROM albums a WHERE a.name = '11 Episodios Sinfonicos';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'All Night Cinema';
+SELECT * FROM albums a WHERE a.name = 'Aftershock';
+SELECT * FROM albums a WHERE a.name = 'Kitsuné: Maximus - EP';
+SELECT * FROM albums a WHERE a.name = 'Hi-Baby';
+SELECT * FROM albums a WHERE a.name = 'Osee Yee';
+SELECT * FROM albums a WHERE a.name = 'Leon - Beijing Station';
+SELECT * FROM albums a WHERE a.name = 'Missing You (Mi Yeewnii)';
+SELECT * FROM albums a WHERE a.name = 'Supreme Beings Of Leisure';
+SELECT * FROM albums a WHERE a.name = 'The Avenues E.P.';
+SELECT * FROM albums a WHERE a.name = 'Mixed Emotional Features';
+SELECT * FROM albums a WHERE a.name = 'Let''s All Go to Bed';
+SELECT * FROM albums a WHERE a.name = 'The History of Northwest Rock_ Vol 1';
+SELECT * FROM albums a WHERE a.name = 'Up Rock Possibilitys';
+SELECT * FROM albums a WHERE a.name = 'Cousu Main';
+SELECT * FROM albums a WHERE a.name = 'A Purple Journey Into the Mod Machine';
+SELECT * FROM albums a WHERE a.name = 'Soulful House';
+SELECT * FROM albums a WHERE a.name = 'Something To Write Home About';
+SELECT * FROM albums a WHERE a.name = 'Tennessee';
+SELECT * FROM albums a WHERE a.name = 'The Silence';
+SELECT * FROM albums a WHERE a.name = '80s Hits Live!';
+SELECT * FROM albums a WHERE a.name = 'Back Of My Mind';
+SELECT * FROM albums a WHERE a.name = 'Other Mathematics';
+SELECT * FROM albums a WHERE a.name = 'El Radio';
+SELECT * FROM albums a WHERE a.name = 'Goldenwest';
+SELECT * FROM albums a WHERE a.name = 'How Sweet It Is';
+SELECT * FROM albums a WHERE a.name = 'Moonlight Feels Right';
+SELECT * FROM albums a WHERE a.name = 'King Cobb Steelie';
+SELECT * FROM albums a WHERE a.name = 'People Get Funny ...';
+SELECT * FROM albums a WHERE a.name = 'Perfect As Cats: A Tribute to the Cure';
+SELECT * FROM albums a WHERE a.name = 'January';
+SELECT * FROM albums a WHERE a.name = 'Murder Junkies';
+SELECT * FROM albums a WHERE a.name = 'The Cycore Megamix';
+SELECT * FROM albums a WHERE a.name = 'Loud And Out Of Tune';
+SELECT * FROM albums a WHERE a.name = 'Offshore the World';
+SELECT * FROM albums a WHERE a.name = 'Boston Scene Report';
+SELECT * FROM albums a WHERE a.name = 'Little Red';
+SELECT * FROM albums a WHERE a.name = 'A Wright Christmas';
+SELECT * FROM albums a WHERE a.name = 'London Undersound';
+SELECT * FROM albums a WHERE a.name = 'Unforgettable Fifties';
+SELECT * FROM albums a WHERE a.name = 'Reasons';
+SELECT * FROM albums a WHERE a.name = 'Funeral Phantoms';
+SELECT * FROM albums a WHERE a.name = 'The 70th anniversary album';
+SELECT * FROM albums a WHERE a.name = 'Hell is Empty All the Devils are Here';
+SELECT * FROM albums a WHERE a.name = 'Euro dance';
+SELECT * FROM albums a WHERE a.name = 'The Rain';
+SELECT * FROM albums a WHERE a.name = 'Friendly Fires';
+SELECT * FROM albums a WHERE a.name = 'Stretch That Skull Cover and Smile';
+SELECT * FROM albums a WHERE a.name = 'Har Do Ashegh';
+SELECT * FROM albums a WHERE a.name = 'Tanga';
+SELECT * FROM albums a WHERE a.name = 'Hair';
+SELECT * FROM albums a WHERE a.name = 'Doll Domination 3.0';
+SELECT * FROM albums a WHERE a.name = 'At Home... Plus';
+SELECT * FROM albums a WHERE a.name = 'The Covers EP';
+SELECT * FROM albums a WHERE a.name = 'Manhood & Electronics';
+SELECT * FROM albums a WHERE a.name = 'The Rage Team Punkompilation';
+SELECT * FROM albums a WHERE a.name = 'Overview';
+SELECT * FROM albums a WHERE a.name = 'No Need for School Graduation';
+SELECT * FROM albums a WHERE a.name = 'Blind Tested EP';
+SELECT * FROM albums a WHERE a.name = 'Flame Spitter / V-Town';
+SELECT * FROM albums a WHERE a.name = 'Release';
+SELECT * FROM albums a WHERE a.name = 'Secrets';
+SELECT * FROM albums a WHERE a.name = 'Light & Dark';
+SELECT * FROM albums a WHERE a.name = 'Samba Incrementado';
+SELECT * FROM albums a WHERE a.name = 'Lone Star_ Todos Sus Exitos';
+SELECT * FROM albums a WHERE a.name = 'In Three Dimensions...Plus';
+SELECT * FROM albums a WHERE a.name = 'In Rare Form';
+SELECT * FROM albums a WHERE a.name = 'Slimewave - Goregrind Series';
+SELECT * FROM albums a WHERE a.name = 'Un''ora Con Loro';
+SELECT * FROM albums a WHERE a.name = 'Humble / Story Of My Life';
+SELECT * FROM albums a WHERE a.name = 'Trem Maluco e Outras Cantigas de Roda';
+SELECT * FROM albums a WHERE a.name = 'Multikillionaire: The Devil''s Contract';
+SELECT * FROM albums a WHERE a.name = 'I''ve Got the World On a String';
+SELECT * FROM albums a WHERE a.name = 'A State Of Trance 2009';
+SELECT * FROM albums a WHERE a.name = 'Panic In The Streets';
+SELECT * FROM albums a WHERE a.name = 'Música en Imágenes';
+SELECT * FROM albums a WHERE a.name = 'Un Prophète';
+SELECT * FROM albums a WHERE a.name = 'What A Wonderful World';
+SELECT * FROM albums a WHERE a.name = 'Xtension';
+SELECT * FROM albums a WHERE a.name = 'I Was There: Roger Kellaway Plays from the Bobby Darin Songbook';
+SELECT * FROM albums a WHERE a.name = 'High Wide & Handsome - The Charlie Poole Project';
+SELECT * FROM albums a WHERE a.name = 'Live In A Dive';
+SELECT * FROM albums a WHERE a.name = 'Karton veverek';
+SELECT * FROM albums a WHERE a.name = 'Capercaillie Live in Concert';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits Live!';
+SELECT * FROM albums a WHERE a.name = 'Neguits_ Angunies I Forats';
+SELECT * FROM albums a WHERE a.name = 'Shut Your Mouth';
+SELECT * FROM albums a WHERE a.name = 'Thizzmatic';
+SELECT * FROM albums a WHERE a.name = 'Sofa King Cool';
+SELECT * FROM albums a WHERE a.name = 'This Is Satire';
+SELECT * FROM albums a WHERE a.name = 'Music For Film & Theatre';
+SELECT * FROM albums a WHERE a.name = 'Hope Freaks';
+SELECT * FROM albums a WHERE a.name = 'I Look To You';
+SELECT * FROM albums a WHERE a.name = 'Differently';
+SELECT * FROM albums a WHERE a.name = 'The Lenny White Collection';
+SELECT * FROM albums a WHERE a.name = 'The New New Lost City Ramblers with Tracy Schwarz: Gone to the Country';
+SELECT * FROM albums a WHERE a.name = 'The Folkways Years_ 1959-1961';
+SELECT * FROM albums a WHERE a.name = 'Suburban Teenage Wasteland Blues';
+SELECT * FROM albums a WHERE a.name = 'Lead Belly''s Last Sessions';
+SELECT * FROM albums a WHERE a.name = 'Blasts from the Past';
+SELECT * FROM albums a WHERE a.name = 'And the tin pan bended and the story ended...';
+SELECT * FROM albums a WHERE a.name = 'New Orleans Street Singer';
+SELECT * FROM albums a WHERE a.name = 'Calypso in New York';
+SELECT * FROM albums a WHERE a.name = 'Intox';
+SELECT * FROM albums a WHERE a.name = 'Jellybean Blues_ Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Country Hits Vol. 4';
+SELECT * FROM albums a WHERE a.name = 'Again! Lord Melody Sings Calypso';
+SELECT * FROM albums a WHERE a.name = 'Rhythm ''n'' Blues - Fine Brown Sugar Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Tommy Dorsey & His Orchestra';
+SELECT * FROM albums a WHERE a.name = 'Liquidsand';
+SELECT * FROM albums a WHERE a.name = 'Peer Raben - the great composer of film music - Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Goin'' Mad Blues Vol. 5';
+SELECT * FROM albums a WHERE a.name = 'Hank Williams Vol. 3';
+SELECT * FROM albums a WHERE a.name = 'Decameron';
+SELECT * FROM albums a WHERE a.name = 'The Bowels Of Repugnance';
+SELECT * FROM albums a WHERE a.name = 'Carnival Of Chaos';
+SELECT * FROM albums a WHERE a.name = 'Recruited To Do Good Deeds For The Devil';
+SELECT * FROM albums a WHERE a.name = 'Nosferatu';
+SELECT * FROM albums a WHERE a.name = 'Born In America';
+SELECT * FROM albums a WHERE a.name = 'Gallery Of Suicide';
+SELECT * FROM albums a WHERE a.name = 'My God';
+SELECT * FROM albums a WHERE a.name = 'Flesh_Power_Dominion';
+SELECT * FROM albums a WHERE a.name = 'Into The Lungs Of Hell';
+SELECT * FROM albums a WHERE a.name = 'Hellucinate';
+SELECT * FROM albums a WHERE a.name = 'A New Dawn For The Dead';
+SELECT * FROM albums a WHERE a.name = 'Miasma';
+SELECT * FROM albums a WHERE a.name = 'Godspeed';
+SELECT * FROM albums a WHERE a.name = 'Aeolian';
+SELECT * FROM albums a WHERE a.name = 'A Long March: The First Recordings';
+SELECT * FROM albums a WHERE a.name = 'Inside The Machine';
+SELECT * FROM albums a WHERE a.name = 'Lupus Dei';
+SELECT * FROM albums a WHERE a.name = 'Kingdom Of Might';
+SELECT * FROM albums a WHERE a.name = 'Circus Bells';
+SELECT * FROM albums a WHERE a.name = 'Revolution 09';
+SELECT * FROM albums a WHERE a.name = 'Burning In Water_ Drowning In Flames';
+SELECT * FROM albums a WHERE a.name = 'Dusk';
+SELECT * FROM albums a WHERE a.name = 'American Ballads';
+SELECT * FROM albums a WHERE a.name = 'COMA';
+SELECT * FROM albums a WHERE a.name = 'The Richest Man In Babylon';
+SELECT * FROM albums a WHERE a.name = 'Buell Kazee Sings and Plays';
+SELECT * FROM albums a WHERE a.name = 'Panamericana';
+SELECT * FROM albums a WHERE a.name = 'American Moonshine and Prohibition Songs';
+SELECT * FROM albums a WHERE a.name = 'Detlef''s La Isla Bonita - Buena Vista Gala Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'There''s a Brown Boy in the Ring and Other Children''s Calypso Songs';
+SELECT * FROM albums a WHERE a.name = 'Savin'' the Honky Tonk';
+SELECT * FROM albums a WHERE a.name = 'On Two Sides';
+SELECT * FROM albums a WHERE a.name = 'Digital Pride';
+SELECT * FROM albums a WHERE a.name = 'Zaik / Little Bitch';
+SELECT * FROM albums a WHERE a.name = 'Red Garland''s Piano';
+SELECT * FROM albums a WHERE a.name = 'Voice Of A Savior (Premiere Performance Plus Track)';
+SELECT * FROM albums a WHERE a.name = 'A Strange Arrangement';
+SELECT * FROM albums a WHERE a.name = 'The Legendary Town Hall Concert New York 1945';
+SELECT * FROM albums a WHERE a.name = 'Accept The Fact';
+SELECT * FROM albums a WHERE a.name = 'Best of Jumpstyle & Hardstyle 2008-2009';
+SELECT * FROM albums a WHERE a.name = 'Lounge Classics : Classic Chillout / Bargrooves';
+SELECT * FROM albums a WHERE a.name = 'Afterglow';
+SELECT * FROM albums a WHERE a.name = 'Anders';
+SELECT * FROM albums a WHERE a.name = 'Café Zen';
+SELECT * FROM albums a WHERE a.name = 'Concert in Dachau';
+SELECT * FROM albums a WHERE a.name = 'The Platters & Bonus Tracks';
+SELECT * FROM albums a WHERE a.name = 'The Best Of American Comedy';
+SELECT * FROM albums a WHERE a.name = 'The X-Files 4.0';
+SELECT * FROM albums a WHERE a.name = 'Ticklin'' The Ivories - Volume 2';
+SELECT * FROM albums a WHERE a.name = 'Panpipes Of Ireland';
+SELECT * FROM albums a WHERE a.name = 'Still Wreck''in';
+SELECT * FROM albums a WHERE a.name = 'Raise Hell';
+SELECT * FROM albums a WHERE a.name = 'Wartime Memories';
+SELECT * FROM albums a WHERE a.name = 'Ignore The Ignorant';
+SELECT * FROM albums a WHERE a.name = 'Mellow Down Easy';
+SELECT * FROM albums a WHERE a.name = 'Keep It To Yourself';
+SELECT * FROM albums a WHERE a.name = 'Jane Russell';
+SELECT * FROM albums a WHERE a.name = 'Not Nervous!';
+SELECT * FROM albums a WHERE a.name = 'Money Over Everyone';
+SELECT * FROM albums a WHERE a.name = 'Thriller';
+SELECT * FROM albums a WHERE a.name = 'Reggae Sunday Service Vol. 8';
+SELECT * FROM albums a WHERE a.name = 'Burnt Out Landscapes';
+SELECT * FROM albums a WHERE a.name = 'The Temple Of Trance';
+SELECT * FROM albums a WHERE a.name = '10cc';
+SELECT * FROM albums a WHERE a.name = 'Singin'' To My Baby';
+SELECT * FROM albums a WHERE a.name = 'Solid Soul';
+SELECT * FROM albums a WHERE a.name = 'Love Drunk';
+SELECT * FROM albums a WHERE a.name = 'Just Like Everybody Part Two';
+SELECT * FROM albums a WHERE a.name = 'The Pilgrim Travellers Volume 1';
+SELECT * FROM albums a WHERE a.name = 'Chicago White Small Bands';
+SELECT * FROM albums a WHERE a.name = 'Sixties British Beat Double';
+SELECT * FROM albums a WHERE a.name = 'Fun Time Jazz boxset';
+SELECT * FROM albums a WHERE a.name = 'Sun Records The Early Years boxset';
+SELECT * FROM albums a WHERE a.name = 'Burn Bright_ Burn Fast';
+SELECT * FROM albums a WHERE a.name = 'Ella Fitzgerald Double';
+SELECT * FROM albums a WHERE a.name = 'Hawks Groove';
+SELECT * FROM albums a WHERE a.name = 'Je chanterai pour toi - I''ll sing for you (original soundtracks) (Musique originale du film de Jacq';
+SELECT * FROM albums a WHERE a.name = 'Clase Aparte';
+SELECT * FROM albums a WHERE a.name = 'Big Band Blues';
+SELECT * FROM albums a WHERE a.name = 'Arembelo';
+SELECT * FROM albums a WHERE a.name = 'Re: From a Deep Place';
+SELECT * FROM albums a WHERE a.name = 'Storm in the Garage';
+SELECT * FROM albums a WHERE a.name = 'Manic Frustration';
+SELECT * FROM albums a WHERE a.name = 'A Hawk And A Hacksaw';
+SELECT * FROM albums a WHERE a.name = 'Rise Up';
+SELECT * FROM albums a WHERE a.name = 'Live At The Crescendo';
+SELECT * FROM albums a WHERE a.name = 'Cool Blues';
+SELECT * FROM albums a WHERE a.name = 'Hot August Night NYC';
+SELECT * FROM albums a WHERE a.name = 'Romantic Songs Of The ''30s';
+SELECT * FROM albums a WHERE a.name = 'Fragments';
+SELECT * FROM albums a WHERE a.name = 'Bach: Organ Works Vol.2';
+SELECT * FROM albums a WHERE a.name = 'Songs From Home';
+SELECT * FROM albums a WHERE a.name = 'Vent d''automne_ Vol. 3';
+SELECT * FROM albums a WHERE a.name = 'The Golden Road  [1965-1973]';
+SELECT * FROM albums a WHERE a.name = 'Jennifer''s Body Music From The Original Motion Picture Soundtrack [Deluxe]';
+SELECT * FROM albums a WHERE a.name = 'The Everly Brothers Sing';
+SELECT * FROM albums a WHERE a.name = 'Can''t Stand The Rezillos: The [Almost] Complete Rezillos';
+SELECT * FROM albums a WHERE a.name = 'The BBC Sessions';
+SELECT * FROM albums a WHERE a.name = 'Taking Woodstock [Original Motion Picture Soundtrack]';
+SELECT * FROM albums a WHERE a.name = 'Ultimate';
+SELECT * FROM albums a WHERE a.name = 'Starfighter Pilot';
+SELECT * FROM albums a WHERE a.name = 'Do The Pop-Eye';
+SELECT * FROM albums a WHERE a.name = 'Viva Soul';
+SELECT * FROM albums a WHERE a.name = 'King Of Myself';
+SELECT * FROM albums a WHERE a.name = 'Songs';
+SELECT * FROM albums a WHERE a.name = 'Nine Lives';
+SELECT * FROM albums a WHERE a.name = 'Todo Cambio';
+SELECT * FROM albums a WHERE a.name = 'Raindrops Keep Falling On My Head & Other Favorites (Digitally Remastered)';
+SELECT * FROM albums a WHERE a.name = 'Blue Planet';
+SELECT * FROM albums a WHERE a.name = 'On The Sunny Banks & Other Favorites (Digitally Remastered)';
+SELECT * FROM albums a WHERE a.name = 'Tantric';
+SELECT * FROM albums a WHERE a.name = 'It''s So Easy & Other Favorites (Digitally Remastered)';
+SELECT * FROM albums a WHERE a.name = 'Life Beyond L.A.';
+SELECT * FROM albums a WHERE a.name = 'Reintegration Time';
+SELECT * FROM albums a WHERE a.name = 'The Warning';
+SELECT * FROM albums a WHERE a.name = 'Back Door Man & Other Favorites (Digitally Remastered)';
+SELECT * FROM albums a WHERE a.name = 'Never Has Been';
+SELECT * FROM albums a WHERE a.name = 'Ryan Dan';
+SELECT * FROM albums a WHERE a.name = 'Evolution';
+SELECT * FROM albums a WHERE a.name = 'How Did it Get to This';
+SELECT * FROM albums a WHERE a.name = 'Accicdental Goals';
+SELECT * FROM albums a WHERE a.name = 'Bottled Vintage xxx';
+SELECT * FROM albums a WHERE a.name = 'In the Key of Calloused Fingers';
+SELECT * FROM albums a WHERE a.name = 'Shout';
+SELECT * FROM albums a WHERE a.name = 'Live At the Temple Bar and More';
+SELECT * FROM albums a WHERE a.name = 'Harlem Jazz (Louis Armstrong In New York Volume 3 1925)';
+SELECT * FROM albums a WHERE a.name = 'Bad Times';
+SELECT * FROM albums a WHERE a.name = 'Churchin'' With Dottie';
+SELECT * FROM albums a WHERE a.name = 'Actuate Recordings -  Collected Works Vol.1';
+SELECT * FROM albums a WHERE a.name = 'To Je To';
+SELECT * FROM albums a WHERE a.name = 'Lion King';
+SELECT * FROM albums a WHERE a.name = 'Big People Music Volume 12';
+SELECT * FROM albums a WHERE a.name = 'Live at Jazz Standard Volume Two';
+SELECT * FROM albums a WHERE a.name = 'Chicago Jazz (New Orleans Rhythm Kings Volume 2 1923)';
+SELECT * FROM albums a WHERE a.name = 'Just Lounge Miami';
+SELECT * FROM albums a WHERE a.name = 'Key nell';
+SELECT * FROM albums a WHERE a.name = 'Soulkitchen What''s Cookin''! 2nd Serving';
+SELECT * FROM albums a WHERE a.name = 'Game One 2007 Remixes Part One';
+SELECT * FROM albums a WHERE a.name = 'Dreamer';
+SELECT * FROM albums a WHERE a.name = 'The Ladies In Blues Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Death on a Bitch';
+SELECT * FROM albums a WHERE a.name = '30 Exitos Insuperables';
+SELECT * FROM albums a WHERE a.name = 'No Mires la Caratula';
+SELECT * FROM albums a WHERE a.name = 'Acapella Project Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Stuff Smith';
+SELECT * FROM albums a WHERE a.name = 'Make the World Go Round';
+SELECT * FROM albums a WHERE a.name = 'Make the World Go Round';
+SELECT * FROM albums a WHERE a.name = 'Christmas Hymns And Carols';
+SELECT * FROM albums a WHERE a.name = 'Essential Workout Mix: Non-Stop House Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'In London_ In Love';
+SELECT * FROM albums a WHERE a.name = 'Daydreams';
+SELECT * FROM albums a WHERE a.name = 'Ibiza 1991 - 2009';
+SELECT * FROM albums a WHERE a.name = 'Ignorance';
+SELECT * FROM albums a WHERE a.name = 'Chicago Jazz';
+SELECT * FROM albums a WHERE a.name = 'Get Your Hopes Up';
+SELECT * FROM albums a WHERE a.name = 'Touareg';
+SELECT * FROM albums a WHERE a.name = 'Songs Of The South';
+SELECT * FROM albums a WHERE a.name = 'Mozart: Quatuors dédiés à Haydn & Les Dissonances';
+SELECT * FROM albums a WHERE a.name = 'Sing Boy Sing';
+SELECT * FROM albums a WHERE a.name = 'In A Mellow Mood';
+SELECT * FROM albums a WHERE a.name = 'Ultimate Happy Hardcore 3';
+SELECT * FROM albums a WHERE a.name = 'Pioneers Of Boogie Woogie: Volume 1';
+SELECT * FROM albums a WHERE a.name = 'Pianola Playtime';
+SELECT * FROM albums a WHERE a.name = 'Exit';
+SELECT * FROM albums a WHERE a.name = 'Furthermore: From the Studio_ From the Stage';
+SELECT * FROM albums a WHERE a.name = 'What Lies Beneath';
+SELECT * FROM albums a WHERE a.name = 'Psychic City';
+SELECT * FROM albums a WHERE a.name = 'On Tour';
+SELECT * FROM albums a WHERE a.name = 'Kamaal The Abstract';
+SELECT * FROM albums a WHERE a.name = 'Eclipse Acoustic';
+SELECT * FROM albums a WHERE a.name = 'The Fabulous B B King';
+SELECT * FROM albums a WHERE a.name = 'Keep It Goin'' Louder';
+SELECT * FROM albums a WHERE a.name = 'Live at the Folklore Center_ NYC - March 6_ 1967';
+SELECT * FROM albums a WHERE a.name = 'My Dusty Road';
+SELECT * FROM albums a WHERE a.name = 'Serious Friction';
+SELECT * FROM albums a WHERE a.name = 'Skambankt';
+SELECT * FROM albums a WHERE a.name = 'Dancing The Whole Way Home';
+SELECT * FROM albums a WHERE a.name = 'War On The Inside';
+SELECT * FROM albums a WHERE a.name = 'Föld kaland ilyesmi - Archívum';
+SELECT * FROM albums a WHERE a.name = 'Holdfenyexpress - Archívum [Copy]';
+SELECT * FROM albums a WHERE a.name = 'Zeus 2009';
+SELECT * FROM albums a WHERE a.name = 'Acapella Hymns';
+SELECT * FROM albums a WHERE a.name = 'Rambos Collection';
+SELECT * FROM albums a WHERE a.name = 'A Joplin Bouquet';
+SELECT * FROM albums a WHERE a.name = 'Safe From The Loosing Fight';
+SELECT * FROM albums a WHERE a.name = 'Norooz Umad - Persian New Year';
+SELECT * FROM albums a WHERE a.name = 'Nicer Dogs';
+SELECT * FROM albums a WHERE a.name = 'Splitter';
+SELECT * FROM albums a WHERE a.name = 'Milk Man';
+SELECT * FROM albums a WHERE a.name = 'Memoirs of an imperfect Angel';
+SELECT * FROM albums a WHERE a.name = 'Tesoros De Coleccion - Ranchero';
+SELECT * FROM albums a WHERE a.name = 'Rock And Roll Music';
+SELECT * FROM albums a WHERE a.name = 'Rhythm Of Peace';
+SELECT * FROM albums a WHERE a.name = 'Rockar På Svenska';
+SELECT * FROM albums a WHERE a.name = 'Deadlivers';
+SELECT * FROM albums a WHERE a.name = 'All Is Dream';
+SELECT * FROM albums a WHERE a.name = 'Island Diamonds';
+SELECT * FROM albums a WHERE a.name = 'BBQ Beets II Return of the Yams';
+SELECT * FROM albums a WHERE a.name = 'Seething With Thunders';
+SELECT * FROM albums a WHERE a.name = 'Inozemci (Foreigners)';
+SELECT * FROM albums a WHERE a.name = 'When Life Gives You Lemons_ You Paint That Shit Gold (Deluxe Edition)';
+SELECT * FROM albums a WHERE a.name = 'Dont Let Me Be Misunderstood (Granite & Sugarman Remixes)';
+SELECT * FROM albums a WHERE a.name = 'Bunny';
+SELECT * FROM albums a WHERE a.name = 'The Prezident';
+SELECT * FROM albums a WHERE a.name = 'The First Contact';
+SELECT * FROM albums a WHERE a.name = 'Trance Sessions (The Winter Edition)';
+SELECT * FROM albums a WHERE a.name = 'When The Shelter Came - EP';
+SELECT * FROM albums a WHERE a.name = 'The Soft Touch';
+SELECT * FROM albums a WHERE a.name = 'Be Here To Love Me (Soundtrack)';
+SELECT * FROM albums a WHERE a.name = 'Cuban Lullaby';
+SELECT * FROM albums a WHERE a.name = 'This Is House Vol.1';
+SELECT * FROM albums a WHERE a.name = 'The Swamp Angel';
+SELECT * FROM albums a WHERE a.name = 'Idee:Mensch';
+SELECT * FROM albums a WHERE a.name = 'Rap Music Is Life Music';
+SELECT * FROM albums a WHERE a.name = 'Magnolia Land';
+SELECT * FROM albums a WHERE a.name = 'All Keyed Up';
+SELECT * FROM albums a WHERE a.name = 'Just Another Day In Hell';
+SELECT * FROM albums a WHERE a.name = 'Rosalie';
+SELECT * FROM albums a WHERE a.name = 'Curse Your Branches';
+SELECT * FROM albums a WHERE a.name = 'America''s Wartime Sweethearts';
+SELECT * FROM albums a WHERE a.name = 'Veil Of Ignorance';
+SELECT * FROM albums a WHERE a.name = 'Haih or Amortecedor';
+SELECT * FROM albums a WHERE a.name = 'Wundenmann';
+SELECT * FROM albums a WHERE a.name = 'Bite Harder: The Music De Wolfe Studio Sampler_ Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Groove Approved';
+SELECT * FROM albums a WHERE a.name = 'Dans le Décor';
+SELECT * FROM albums a WHERE a.name = 'Songs of Liberation Vol. 3';
+SELECT * FROM albums a WHERE a.name = 'Hot To Trot';
+SELECT * FROM albums a WHERE a.name = 'Finjo a fazer de conta feito';
+SELECT * FROM albums a WHERE a.name = 'Etiketten är Musik';
+SELECT * FROM albums a WHERE a.name = 'Gå Härifrån';
+SELECT * FROM albums a WHERE a.name = 'Av norrøn ætt';
+SELECT * FROM albums a WHERE a.name = 'Desperately Yours';
+SELECT * FROM albums a WHERE a.name = 'Late Lament';
+SELECT * FROM albums a WHERE a.name = '20 Exitos Originales';
+SELECT * FROM albums a WHERE a.name = 'Euro deluxe dance party';
+SELECT * FROM albums a WHERE a.name = 'Album';
+SELECT * FROM albums a WHERE a.name = 'Smoke & Mirrors';
+SELECT * FROM albums a WHERE a.name = 'Djupa Skogen';
+SELECT * FROM albums a WHERE a.name = 'A Master Of Ceremonies';
+SELECT * FROM albums a WHERE a.name = 'Hopkok';
+SELECT * FROM albums a WHERE a.name = 'Too Shy: The Best Of Kajagoogoo & Limahl';
+SELECT * FROM albums a WHERE a.name = '45:33 Remixes';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'One Day Remains';
+SELECT * FROM albums a WHERE a.name = 'One World One Love';
+SELECT * FROM albums a WHERE a.name = 'Peace_ Love And Respect';
+SELECT * FROM albums a WHERE a.name = 'Ladies Of Bass';
+SELECT * FROM albums a WHERE a.name = 'Just Sumthin To Do';
+SELECT * FROM albums a WHERE a.name = 'Sugo';
+SELECT * FROM albums a WHERE a.name = 'Magnificent: The Complete Studio Duets';
+SELECT * FROM albums a WHERE a.name = 'Never Say Die!';
+SELECT * FROM albums a WHERE a.name = 'Tupac Robot Club Rock';
+SELECT * FROM albums a WHERE a.name = 'Digital Mystery Tour';
+SELECT * FROM albums a WHERE a.name = 'Shpongle Remixed';
+SELECT * FROM albums a WHERE a.name = 'Interstate';
+SELECT * FROM albums a WHERE a.name = 'El Mas Chingon';
+SELECT * FROM albums a WHERE a.name = 'Happy Birthday! Remixed Pt.3';
+SELECT * FROM albums a WHERE a.name = 'Us';
+SELECT * FROM albums a WHERE a.name = 'The Anthology';
+SELECT * FROM albums a WHERE a.name = 'Hyena Safari';
+SELECT * FROM albums a WHERE a.name = 'Satellites';
+SELECT * FROM albums a WHERE a.name = 'Splitting The Atom';
+SELECT * FROM albums a WHERE a.name = 'a/rhythmia';
+SELECT * FROM albums a WHERE a.name = 'Disiz the end';
+SELECT * FROM albums a WHERE a.name = 'Skinny Jeanz And A Mic';
+SELECT * FROM albums a WHERE a.name = 'Under Pressure #1';
+SELECT * FROM albums a WHERE a.name = 'Live From Home';
+SELECT * FROM albums a WHERE a.name = 'Yatra (Nomadic Souls)';
+SELECT * FROM albums a WHERE a.name = 'Cajun Fiddle_ Old and New: Instruction';
+SELECT * FROM albums a WHERE a.name = 'Poetry of Friedrich von Schiller: Read in German by Kinski';
+SELECT * FROM albums a WHERE a.name = 'National 7.5';
+SELECT * FROM albums a WHERE a.name = 'Church Songs: Sung and Played on the Piano by Little Brother Montgomery';
+SELECT * FROM albums a WHERE a.name = 'Happy Birthday_ Ruthy Baby';
+SELECT * FROM albums a WHERE a.name = 'Don''t Look Now';
+SELECT * FROM albums a WHERE a.name = 'Songs of Memphis Slim and Wee Willie Dixon';
+SELECT * FROM albums a WHERE a.name = 'Symphony';
+SELECT * FROM albums a WHERE a.name = 'Woody Guthrie''s Songs to Grow On';
+SELECT * FROM albums a WHERE a.name = 'Territory';
+SELECT * FROM albums a WHERE a.name = 'Pigeon John Sings The Blues!';
+SELECT * FROM albums a WHERE a.name = 'Chilled Jazz Moods';
+SELECT * FROM albums a WHERE a.name = 'Xplosion';
+SELECT * FROM albums a WHERE a.name = 'Cory Branan & Jon Snodgrass';
+SELECT * FROM albums a WHERE a.name = 'Massenet: Werther';
+SELECT * FROM albums a WHERE a.name = 'Party''s Over';
+SELECT * FROM albums a WHERE a.name = 'Pierrot chante pour les gamins_ les marmots...';
+SELECT * FROM albums a WHERE a.name = 'Shank''s Pony';
+SELECT * FROM albums a WHERE a.name = 'Radio Hits 2';
+SELECT * FROM albums a WHERE a.name = 'Jackie Says';
+SELECT * FROM albums a WHERE a.name = 'Block';
+SELECT * FROM albums a WHERE a.name = 'Samba De Futebol';
+SELECT * FROM albums a WHERE a.name = 'I''ll Be Brave This Christmas [Studio Series Performance Track]';
+SELECT * FROM albums a WHERE a.name = 'On The Road (And More)';
+SELECT * FROM albums a WHERE a.name = 'Do Not Follow the Leaders';
+SELECT * FROM albums a WHERE a.name = 'Cryin'' Hey';
+SELECT * FROM albums a WHERE a.name = 'Mandulino Napulitano';
+SELECT * FROM albums a WHERE a.name = 'Closer to Pluton EP';
+SELECT * FROM albums a WHERE a.name = 'Eisblume';
+SELECT * FROM albums a WHERE a.name = 'Fire In The Mountain';
+SELECT * FROM albums a WHERE a.name = 'Taxi For These Animal Men';
+SELECT * FROM albums a WHERE a.name = 'iMusic';
+SELECT * FROM albums a WHERE a.name = 'Alta Marea And Vaterland';
+SELECT * FROM albums a WHERE a.name = 'Triple Play: The Second Inning';
+SELECT * FROM albums a WHERE a.name = 'Unmap';
+SELECT * FROM albums a WHERE a.name = 'Sentir';
+SELECT * FROM albums a WHERE a.name = 'Reservations';
+SELECT * FROM albums a WHERE a.name = 'Get Even';
+SELECT * FROM albums a WHERE a.name = 'Instinct';
+SELECT * FROM albums a WHERE a.name = 'Die Stadt';
+SELECT * FROM albums a WHERE a.name = 'Far From The Shamrock Shore';
+SELECT * FROM albums a WHERE a.name = 'Living In A Box';
+SELECT * FROM albums a WHERE a.name = 'Essential Masters';
+SELECT * FROM albums a WHERE a.name = 'Soul Activated';
+SELECT * FROM albums a WHERE a.name = 'La Barrera Del Sonido';
+SELECT * FROM albums a WHERE a.name = 'The Best Of The Memphis Jug Band';
+SELECT * FROM albums a WHERE a.name = 'Lifestyle2 - Dance Grooves Vol 2';
+SELECT * FROM albums a WHERE a.name = 'Play Some Pool - Skip Some School - Act Real Cool: A Global Pop Tribute to Bruce Springsteen';
+SELECT * FROM albums a WHERE a.name = 'Signature';
+SELECT * FROM albums a WHERE a.name = 'A Story (Part 2 Bonus EP)';
+SELECT * FROM albums a WHERE a.name = 'Out Standing In Their Field';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Cannon''s Jug Stompers';
+SELECT * FROM albums a WHERE a.name = 'Founder of the Delta Blues';
+SELECT * FROM albums a WHERE a.name = 'Many Happy Returns';
+SELECT * FROM albums a WHERE a.name = 'Music From And Inspired By The Motion Picture The Matrix';
+SELECT * FROM albums a WHERE a.name = 'The Cricket''s Orchestra';
+SELECT * FROM albums a WHERE a.name = 'Trance 30';
+SELECT * FROM albums a WHERE a.name = 'Downtown & Brooklyn Only';
+SELECT * FROM albums a WHERE a.name = 'Slim Westerns Vol I & II';
+SELECT * FROM albums a WHERE a.name = 'Cruise Control';
+SELECT * FROM albums a WHERE a.name = 'Sleepyhead';
+SELECT * FROM albums a WHERE a.name = 'Watoosh!';
+SELECT * FROM albums a WHERE a.name = 'Deep Forest';
+SELECT * FROM albums a WHERE a.name = 'E Musica - Summer Sessions - Volume 1';
+SELECT * FROM albums a WHERE a.name = 'The Barn Sessions';
+SELECT * FROM albums a WHERE a.name = 'Resurrection';
+SELECT * FROM albums a WHERE a.name = 'Give Up The Ghost';
+SELECT * FROM albums a WHERE a.name = 'Gun For A Tongue';
+SELECT * FROM albums a WHERE a.name = 'DJ Omega Classics Part 1';
+SELECT * FROM albums a WHERE a.name = 'Night Lights';
+SELECT * FROM albums a WHERE a.name = '3';
+SELECT * FROM albums a WHERE a.name = 'Take A Look';
+SELECT * FROM albums a WHERE a.name = 'Sweet Wet Flower';
+SELECT * FROM albums a WHERE a.name = 'Partying Without Inhibition Or Dignity E.P.';
+SELECT * FROM albums a WHERE a.name = 'How Far Shallow Takes You';
+SELECT * FROM albums a WHERE a.name = 'Come On Now';
+SELECT * FROM albums a WHERE a.name = 'Dog Problems';
+SELECT * FROM albums a WHERE a.name = 'Little Things';
+SELECT * FROM albums a WHERE a.name = 'Redneck Blues';
+SELECT * FROM albums a WHERE a.name = 'When Will You be Mine?';
+SELECT * FROM albums a WHERE a.name = 'Savannah Drive';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of Smooth Jazz Guitar';
+SELECT * FROM albums a WHERE a.name = 'Guitar Man';
+SELECT * FROM albums a WHERE a.name = 'Come Out Of Your Mine';
+SELECT * FROM albums a WHERE a.name = 'Who Still Kill Sound?';
+SELECT * FROM albums a WHERE a.name = 'The Love Song Collection';
+SELECT * FROM albums a WHERE a.name = 'The Five Seasons';
+SELECT * FROM albums a WHERE a.name = 'My First Record';
+SELECT * FROM albums a WHERE a.name = 'Music of Dreams';
+SELECT * FROM albums a WHERE a.name = 'Unsilent Night';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Joe & Antoinette McKenna';
+SELECT * FROM albums a WHERE a.name = 'Crazy Rhythm';
+SELECT * FROM albums a WHERE a.name = 'Ain''t She Sweet';
+SELECT * FROM albums a WHERE a.name = 'Sulla Mia Pelle';
+SELECT * FROM albums a WHERE a.name = 'Dr. Elmo''s Twisted Tunes';
+SELECT * FROM albums a WHERE a.name = 'Bookends/Sounds of Silence';
+SELECT * FROM albums a WHERE a.name = '& The Rock?n?Roll Circuz';
+SELECT * FROM albums a WHERE a.name = 'Just Like it is';
+SELECT * FROM albums a WHERE a.name = 'Pissed Tae Th'' Gills';
+SELECT * FROM albums a WHERE a.name = 'English Roots Music';
+SELECT * FROM albums a WHERE a.name = 'Down In Black Bottom: Lowdown Barrelhouse Piano';
+SELECT * FROM albums a WHERE a.name = 'Get it Straight';
+SELECT * FROM albums a WHERE a.name = 'Fusion';
+SELECT * FROM albums a WHERE a.name = 'Deliveries after dark';
+SELECT * FROM albums a WHERE a.name = 'Daredevil';
+SELECT * FROM albums a WHERE a.name = 'For Your Pleasure';
+SELECT * FROM albums a WHERE a.name = 'Ain''t It The Truth';
+SELECT * FROM albums a WHERE a.name = 'Sunny Spells and Scattered Showers';
+SELECT * FROM albums a WHERE a.name = 'Perfect Night In London';
+SELECT * FROM albums a WHERE a.name = 'Identikit';
+SELECT * FROM albums a WHERE a.name = 'Hear Our Prayers O Lord';
+SELECT * FROM albums a WHERE a.name = 'Waters In Azure';
+SELECT * FROM albums a WHERE a.name = 'And Now The Rain Sounds Like Life Is Falling Down Through It';
+SELECT * FROM albums a WHERE a.name = 'Exorcise This Wasteland';
+SELECT * FROM albums a WHERE a.name = 'Millions Like Stars In My Hands';
+SELECT * FROM albums a WHERE a.name = 'Carried Beyond';
+SELECT * FROM albums a WHERE a.name = 'Christmas Fantasies';
+SELECT * FROM albums a WHERE a.name = 'The Kids Are All Square - This Is Hip | Girlsville';
+SELECT * FROM albums a WHERE a.name = 'The Cheeky Cheese';
+SELECT * FROM albums a WHERE a.name = 'Yes! 2-Disc Set';
+SELECT * FROM albums a WHERE a.name = 'The Main Attraction';
+SELECT * FROM albums a WHERE a.name = 'Dead Man''s Bones';
+SELECT * FROM albums a WHERE a.name = 'Káta Horni?';
+SELECT * FROM albums a WHERE a.name = 'Falstaff';
+SELECT * FROM albums a WHERE a.name = 'African Holocaust';
+SELECT * FROM albums a WHERE a.name = 'Mister Day';
+SELECT * FROM albums a WHERE a.name = 'Fin. Finito. Infinito';
+SELECT * FROM albums a WHERE a.name = 'Keys To Your Heart';
+SELECT * FROM albums a WHERE a.name = 'To Bird With Love: Live at the Blue Note';
+SELECT * FROM albums a WHERE a.name = 'Dogma';
+SELECT * FROM albums a WHERE a.name = 'Texas Hold''em';
+SELECT * FROM albums a WHERE a.name = 'Acquainted With The Night';
+SELECT * FROM albums a WHERE a.name = 'Grace';
+SELECT * FROM albums a WHERE a.name = 'Bop!';
+SELECT * FROM albums a WHERE a.name = 'Song of the Traveling Daughter';
+SELECT * FROM albums a WHERE a.name = 'Having';
+SELECT * FROM albums a WHERE a.name = 'Who''s Looking After Me? - EP';
+SELECT * FROM albums a WHERE a.name = 'Computer Camp Love';
+SELECT * FROM albums a WHERE a.name = 'Need New Body';
+SELECT * FROM albums a WHERE a.name = 'A State Of Aya';
+SELECT * FROM albums a WHERE a.name = 'Unstoppable';
+SELECT * FROM albums a WHERE a.name = 'Illegitimati';
+SELECT * FROM albums a WHERE a.name = 'Energy: Live at Tulagi & More [Original Recording Remastered]';
+SELECT * FROM albums a WHERE a.name = 'Naked 1';
+SELECT * FROM albums a WHERE a.name = 'How Sweet It Is';
+SELECT * FROM albums a WHERE a.name = 'Rompalation Allstars';
+SELECT * FROM albums a WHERE a.name = 'Seize The Day';
+SELECT * FROM albums a WHERE a.name = 'Living Music Collection';
+SELECT * FROM albums a WHERE a.name = '604';
+SELECT * FROM albums a WHERE a.name = 'Changing Tha Game';
+SELECT * FROM albums a WHERE a.name = 'Waterson:Carthy';
+SELECT * FROM albums a WHERE a.name = 'Sitzpogo';
+SELECT * FROM albums a WHERE a.name = 'Radio for the deaf';
+SELECT * FROM albums a WHERE a.name = 'Merry Christmas';
+SELECT * FROM albums a WHERE a.name = 'Sangria';
+SELECT * FROM albums a WHERE a.name = 'Jay Stay Paid';
+SELECT * FROM albums a WHERE a.name = 'Nature Baby';
+SELECT * FROM albums a WHERE a.name = 'I Got That Cake Mix!';
+SELECT * FROM albums a WHERE a.name = 'Born Legendary';
+SELECT * FROM albums a WHERE a.name = 'Hardships!';
+SELECT * FROM albums a WHERE a.name = 'Auralux Reggae Showcase';
+SELECT * FROM albums a WHERE a.name = 'The Jazz Butcher''s Free Lunch';
+SELECT * FROM albums a WHERE a.name = 'Silver Sweepstakes';
+SELECT * FROM albums a WHERE a.name = 'Guerrilla Skies EP';
+SELECT * FROM albums a WHERE a.name = 'The Engine Of Commerce';
+SELECT * FROM albums a WHERE a.name = 'Blackouts';
+SELECT * FROM albums a WHERE a.name = 'Shining Bright : The Songs of Lal & Mike Waterson';
+SELECT * FROM albums a WHERE a.name = 'Poppaloopa';
+SELECT * FROM albums a WHERE a.name = 'United In Regret';
+SELECT * FROM albums a WHERE a.name = '2004 Teenbeat Sampler';
+SELECT * FROM albums a WHERE a.name = 'And Their Name Was Treason';
+SELECT * FROM albums a WHERE a.name = 'Lullaby Renditions of The Ramones';
+SELECT * FROM albums a WHERE a.name = 'Obsession';
+SELECT * FROM albums a WHERE a.name = 'American Dreamsicle';
+SELECT * FROM albums a WHERE a.name = 'Black Diamond Express To Hell';
+SELECT * FROM albums a WHERE a.name = 'Infinitesimal Flash';
+SELECT * FROM albums a WHERE a.name = 'The Earls Of Duke';
+SELECT * FROM albums a WHERE a.name = 'Herbert von Karajan (Early Recordings Volume 1 1938 - 1939)';
+SELECT * FROM albums a WHERE a.name = 'At Your Convenience';
+SELECT * FROM albums a WHERE a.name = 'Bass Planet Paranoia';
+SELECT * FROM albums a WHERE a.name = 'Arcadia The Remixes Album';
+SELECT * FROM albums a WHERE a.name = 'Hitch Hikin'' Music (Clean Version)';
+SELECT * FROM albums a WHERE a.name = 'Last Of My Kind';
+SELECT * FROM albums a WHERE a.name = 'You''re Not The Answer';
+SELECT * FROM albums a WHERE a.name = 'Dirt Farmer';
+SELECT * FROM albums a WHERE a.name = 'The Houston Kid';
+SELECT * FROM albums a WHERE a.name = 'Heart Of The City';
+SELECT * FROM albums a WHERE a.name = 'Animal Magic';
+SELECT * FROM albums a WHERE a.name = 'Lowblow';
+SELECT * FROM albums a WHERE a.name = 'Diabolical Streak';
+SELECT * FROM albums a WHERE a.name = 'Paper Cut Eye';
+SELECT * FROM albums a WHERE a.name = 'Live_ Love_ Let Go';
+SELECT * FROM albums a WHERE a.name = 'Extraordinary Ways';
+SELECT * FROM albums a WHERE a.name = 'No Soap (In A Dirty War)';
+SELECT * FROM albums a WHERE a.name = 'Marrakesh';
+SELECT * FROM albums a WHERE a.name = 'Tijuana Sessions Vol. 3';
+SELECT * FROM albums a WHERE a.name = 'The Man Machine (2009 Digital Remaster)';
+SELECT * FROM albums a WHERE a.name = 'Zodiac Zoo';
+SELECT * FROM albums a WHERE a.name = 'Ramones [Expanded]';
+SELECT * FROM albums a WHERE a.name = 'Through The Eyes Of Ahab';
+SELECT * FROM albums a WHERE a.name = 'Christmas Is';
+SELECT * FROM albums a WHERE a.name = 'Il Pirata';
+SELECT * FROM albums a WHERE a.name = 'Piano Solos';
+SELECT * FROM albums a WHERE a.name = 'Baladas Do Asfalto e Outros Blue Ao Vivo';
+SELECT * FROM albums a WHERE a.name = 'Uebayashi: Concerto_ Sonate_ Suite & Au delá du Temps';
+SELECT * FROM albums a WHERE a.name = 'Sucka Free Classics';
+SELECT * FROM albums a WHERE a.name = 'Found Songs';
+SELECT * FROM albums a WHERE a.name = 'Hjärtats Melodi';
+SELECT * FROM albums a WHERE a.name = 'Aspera Hiems Symfonia - Constellation - My Angel';
+SELECT * FROM albums a WHERE a.name = 'Luxusvernichtung';
+SELECT * FROM albums a WHERE a.name = 'The Most Romantic Classical Collection';
+SELECT * FROM albums a WHERE a.name = 'On the Viking Station';
+SELECT * FROM albums a WHERE a.name = 'How Can it Be Told';
+SELECT * FROM albums a WHERE a.name = 'Noites de gala_ samba na rua - ao vivo';
+SELECT * FROM albums a WHERE a.name = 'Ibiza Chilled Classics : Classic Balearic Lounge (Deluxe Digital Version)';
+SELECT * FROM albums a WHERE a.name = 'Apparence Jugee';
+SELECT * FROM albums a WHERE a.name = 'The Riot City Years 1982-1984';
+SELECT * FROM albums a WHERE a.name = 'Quick Frozen Small Yellow Cracker';
+SELECT * FROM albums a WHERE a.name = '22 Wilma Lee Cooper Hits - Keep On The Sunny Side';
+SELECT * FROM albums a WHERE a.name = 'Easy Listening Greats - Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Karaoke: The Rockin'' 70''s - Singing to the Hits';
+SELECT * FROM albums a WHERE a.name = 'HeadStomp';
+SELECT * FROM albums a WHERE a.name = 'The Oslo Agreement';
+SELECT * FROM albums a WHERE a.name = 'Pasion Y Deseo (Sus Grandes Exitos De La Copla Y De La Balada Romantica)';
+SELECT * FROM albums a WHERE a.name = 'Totally Oppressed';
+SELECT * FROM albums a WHERE a.name = 'The Katies';
+SELECT * FROM albums a WHERE a.name = 'Blue';
+SELECT * FROM albums a WHERE a.name = 'Charge Of The 7th Cavalry';
+SELECT * FROM albums a WHERE a.name = 'Fat Out Of Hell';
+SELECT * FROM albums a WHERE a.name = 'Hank Snow - 16 Golden Greats';
+SELECT * FROM albums a WHERE a.name = 'Welcome to Dunvegas';
+SELECT * FROM albums a WHERE a.name = 'Spirit Of Rebellion';
+SELECT * FROM albums a WHERE a.name = 'Huntington Beach';
+SELECT * FROM albums a WHERE a.name = 'Supermodels';
+SELECT * FROM albums a WHERE a.name = 'Out Of The Gutter';
+SELECT * FROM albums a WHERE a.name = 'A Captured Moment In Time';
+SELECT * FROM albums a WHERE a.name = 'Punk Junkies';
+SELECT * FROM albums a WHERE a.name = 'Ultimate Southern Soul';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Infa Riot';
+SELECT * FROM albums a WHERE a.name = 'Songs For A Nanny State';
+SELECT * FROM albums a WHERE a.name = 'Sempre a Cantar';
+SELECT * FROM albums a WHERE a.name = 'Broken Bottles';
+SELECT * FROM albums a WHERE a.name = 'See How We Are [Expanded]';
+SELECT * FROM albums a WHERE a.name = 'Folktopia Vol 1';
+SELECT * FROM albums a WHERE a.name = 'The Birnam Witch Project';
+SELECT * FROM albums a WHERE a.name = 'Bookmarks';
+SELECT * FROM albums a WHERE a.name = 'Turn Out The Lights';
+SELECT * FROM albums a WHERE a.name = 'Emergence';
+SELECT * FROM albums a WHERE a.name = 'Stukas Over Disneyland';
+SELECT * FROM albums a WHERE a.name = 'Apollo';
+SELECT * FROM albums a WHERE a.name = 'Moving On';
+SELECT * FROM albums a WHERE a.name = 'Not Enough Shouting';
+SELECT * FROM albums a WHERE a.name = 'The Barracudas';
+SELECT * FROM albums a WHERE a.name = 'Dubplate Drama 2 - The Mixtape';
+SELECT * FROM albums a WHERE a.name = 'Blankets!';
+SELECT * FROM albums a WHERE a.name = 'South Of The Border';
+SELECT * FROM albums a WHERE a.name = 'SRO';
+SELECT * FROM albums a WHERE a.name = 'Everybody Knows The Monkey';
+SELECT * FROM albums a WHERE a.name = 'Presidential';
+SELECT * FROM albums a WHERE a.name = 'Cabaret At The Roundhouse_ Live 1977';
+SELECT * FROM albums a WHERE a.name = 'Schlager & Stars - Folge 2';
+SELECT * FROM albums a WHERE a.name = 'The Best Of (1)';
+SELECT * FROM albums a WHERE a.name = 'A Little Way Different';
+SELECT * FROM albums a WHERE a.name = 'Sognami';
+SELECT * FROM albums a WHERE a.name = 'Passeport';
+SELECT * FROM albums a WHERE a.name = 'The Mercury Blues Story (1945 - 1955) - West Coast Blues_ Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Haven''t Slept All Year';
+SELECT * FROM albums a WHERE a.name = 'La Baguette et la Plume - Sir Walter Scott';
+SELECT * FROM albums a WHERE a.name = 'Bedroom Madness';
+SELECT * FROM albums a WHERE a.name = 'Independent Pleasure Club';
+SELECT * FROM albums a WHERE a.name = 'U.S. Tour ''72';
+SELECT * FROM albums a WHERE a.name = 'Next Time You See Me';
+SELECT * FROM albums a WHERE a.name = '1972';
+SELECT * FROM albums a WHERE a.name = 'Snow Patrol Late Night Tales';
+SELECT * FROM albums a WHERE a.name = 'On the Beach';
+SELECT * FROM albums a WHERE a.name = 'Dig My Mood';
+SELECT * FROM albums a WHERE a.name = 'Original Hits - Pub Jukebox';
+SELECT * FROM albums a WHERE a.name = 'Original Hits - Country';
+SELECT * FROM albums a WHERE a.name = '2000 Mil_ 400 Nätter';
+SELECT * FROM albums a WHERE a.name = 'Luke Vibert''s Nuggets';
+SELECT * FROM albums a WHERE a.name = 'Underground Alternatives';
+SELECT * FROM albums a WHERE a.name = 'American Legends_ VOL.6';
+SELECT * FROM albums a WHERE a.name = 'The Complete Studio Albums';
+SELECT * FROM albums a WHERE a.name = '15 Exitos de Siempre Vol. 3';
+SELECT * FROM albums a WHERE a.name = 'Lakeside Sessions Vol 1 EP';
+SELECT * FROM albums a WHERE a.name = 'American Legend_ Volume 2';
+SELECT * FROM albums a WHERE a.name = 'Ovunque Proteggi';
+SELECT * FROM albums a WHERE a.name = 'Christmas Gumbo';
+SELECT * FROM albums a WHERE a.name = 'Pink Panther Party';
+SELECT * FROM albums a WHERE a.name = 'Minskaya EP';
+SELECT * FROM albums a WHERE a.name = 'Tha Ginja Bread Man Compilation Vol. 1 & 2';
+SELECT * FROM albums a WHERE a.name = 'In Memorium  - From The Archives (Digitally Remastered)';
+SELECT * FROM albums a WHERE a.name = 'Goodnight My Love - From The Archives (Digitally Remastered)';
+SELECT * FROM albums a WHERE a.name = 'The History of Rhythm and Blues 1925 - 1942';
+SELECT * FROM albums a WHERE a.name = 'Unity';
+SELECT * FROM albums a WHERE a.name = 'Brothers of the Southland';
+SELECT * FROM albums a WHERE a.name = 'Skyscraper';
+SELECT * FROM albums a WHERE a.name = 'Bump City';
+SELECT * FROM albums a WHERE a.name = 'American Legend_ Volume 3';
+SELECT * FROM albums a WHERE a.name = 'Requiem';
+SELECT * FROM albums a WHERE a.name = 'You Yeah Smokin'' Hot';
+SELECT * FROM albums a WHERE a.name = 'Halim';
+SELECT * FROM albums a WHERE a.name = '20 Exitos';
+SELECT * FROM albums a WHERE a.name = 'Tango';
+SELECT * FROM albums a WHERE a.name = 'Woman In Love';
+SELECT * FROM albums a WHERE a.name = 'Mr. Booty Do Right';
+SELECT * FROM albums a WHERE a.name = 'Andy Warhol';
+SELECT * FROM albums a WHERE a.name = 'A Tribute';
+SELECT * FROM albums a WHERE a.name = 'Adios';
+SELECT * FROM albums a WHERE a.name = 'Tijuana Bible';
+SELECT * FROM albums a WHERE a.name = 'Reign Ghost';
+SELECT * FROM albums a WHERE a.name = 'Sad-o-matic';
+SELECT * FROM albums a WHERE a.name = 'Holidays & Hits';
+SELECT * FROM albums a WHERE a.name = 'Merry Christmas From Wayne Newton';
+SELECT * FROM albums a WHERE a.name = 'Unendlich Mehr';
+SELECT * FROM albums a WHERE a.name = 'One Nation Under Awed';
+SELECT * FROM albums a WHERE a.name = 'Intenta respirar';
+SELECT * FROM albums a WHERE a.name = 'Camera Talk';
+SELECT * FROM albums a WHERE a.name = 'Spotlight On';
+SELECT * FROM albums a WHERE a.name = 'Tell Me';
+SELECT * FROM albums a WHERE a.name = 'The Suits Vs The Tilted Chairs';
+SELECT * FROM albums a WHERE a.name = 'industrial romance';
+SELECT * FROM albums a WHERE a.name = 'Septemberland';
+SELECT * FROM albums a WHERE a.name = 'Life is Music';
+SELECT * FROM albums a WHERE a.name = 'Cluain Tarb';
+SELECT * FROM albums a WHERE a.name = 'Can''t Maintain';
+SELECT * FROM albums a WHERE a.name = 'Too Broke To Go Solo';
+SELECT * FROM albums a WHERE a.name = 'Unborn Again';
+SELECT * FROM albums a WHERE a.name = 'Stay Heated';
+SELECT * FROM albums a WHERE a.name = 'Before Nightfall';
+SELECT * FROM albums a WHERE a.name = 'Set It Off - Music From The New Line Cinema Motion Picture';
+SELECT * FROM albums a WHERE a.name = 'On Your Side';
+SELECT * FROM albums a WHERE a.name = 'The Rubberband Man / Now That We''re Together [Digital 45]';
+SELECT * FROM albums a WHERE a.name = 'Borderline/A Beautiful Life - BONUS REMIX EP';
+SELECT * FROM albums a WHERE a.name = 'Alone Together: Essential Late Night Jazz';
+SELECT * FROM albums a WHERE a.name = 'You Can Make Sound';
+SELECT * FROM albums a WHERE a.name = 'Shining Hour';
+SELECT * FROM albums a WHERE a.name = 'Smooth Jazz Brown Sugar';
+SELECT * FROM albums a WHERE a.name = 'Ten Man Mop Or Mr. Resevoir Butler Rides Again';
+SELECT * FROM albums a WHERE a.name = 'Endless Highway: The Music of The Band';
+SELECT * FROM albums a WHERE a.name = 'The Complete Bang Sessions';
+SELECT * FROM albums a WHERE a.name = 'In The Sign of the Raven';
+SELECT * FROM albums a WHERE a.name = 'Spotlight On Debbie Reynolds';
+SELECT * FROM albums a WHERE a.name = 'The UA Singles 1977-1982';
+SELECT * FROM albums a WHERE a.name = 'The Wheels Of The World_ Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Dawn Of Shockabilly (2008 Re-Masters)';
+SELECT * FROM albums a WHERE a.name = 'Shockabilly Coliseum (2008 Re-Masters)';
+SELECT * FROM albums a WHERE a.name = 'Shockabilly Heaven';
+SELECT * FROM albums a WHERE a.name = 'Tar Beach';
+SELECT * FROM albums a WHERE a.name = 'The Classic R&B Collection';
+SELECT * FROM albums a WHERE a.name = 'Los Grandes Éxitos de&';
+SELECT * FROM albums a WHERE a.name = '80''s Pop Rock Jams';
+SELECT * FROM albums a WHERE a.name = 'Capitaines';
+SELECT * FROM albums a WHERE a.name = '10 Cent Billionaire';
+SELECT * FROM albums a WHERE a.name = 'South Of Graceland';
+SELECT * FROM albums a WHERE a.name = 'Wrecked';
+SELECT * FROM albums a WHERE a.name = 'Like The Season';
+SELECT * FROM albums a WHERE a.name = 'Party';
+SELECT * FROM albums a WHERE a.name = 'From My Tradition: The Best Of Joe Heaney';
+SELECT * FROM albums a WHERE a.name = 'The Mighty King Of Love';
+SELECT * FROM albums a WHERE a.name = 'A Splendid Tray';
+SELECT * FROM albums a WHERE a.name = 'Guitar Landscapes';
+SELECT * FROM albums a WHERE a.name = 'Traditional Music Of Ireland';
+SELECT * FROM albums a WHERE a.name = 'Continent';
+SELECT * FROM albums a WHERE a.name = 'Singing In The Bathtub';
+SELECT * FROM albums a WHERE a.name = 'The Edge Of Silence';
+SELECT * FROM albums a WHERE a.name = 'Tommy Makem and Liam Clancy';
+SELECT * FROM albums a WHERE a.name = 'When I Was A Boy';
+SELECT * FROM albums a WHERE a.name = 'Know Now';
+SELECT * FROM albums a WHERE a.name = 'The Music Inside';
+SELECT * FROM albums a WHERE a.name = 'The High Part Of The Road';
+SELECT * FROM albums a WHERE a.name = 'Tempted And Tried';
+SELECT * FROM albums a WHERE a.name = 'Django Reinhardt';
+SELECT * FROM albums a WHERE a.name = '2 Many Shots of Jägermeister - Taken from Superstar';
+SELECT * FROM albums a WHERE a.name = 'Hard Drive';
+SELECT * FROM albums a WHERE a.name = 'Best Of EP';
+SELECT * FROM albums a WHERE a.name = 'Live 2008 I-Gods Of Metal';
+SELECT * FROM albums a WHERE a.name = 'Love Is Not Sex';
+SELECT * FROM albums a WHERE a.name = 'Love Is Not Pop';
+SELECT * FROM albums a WHERE a.name = 'Breaking Daylight';
+SELECT * FROM albums a WHERE a.name = 'Dazsoo';
+SELECT * FROM albums a WHERE a.name = 'Alles Waar Ik Nooit Aan Begon';
+SELECT * FROM albums a WHERE a.name = '15 Jahre - Michael Klostermann';
+SELECT * FROM albums a WHERE a.name = '20 Jahre - 20 Erfolge';
+SELECT * FROM albums a WHERE a.name = 'One Step Beyond';
+SELECT * FROM albums a WHERE a.name = 'Hey Let''s Twist! The Best Of Joey Dee & The Starliters';
+SELECT * FROM albums a WHERE a.name = 'Wrecking Ball';
+SELECT * FROM albums a WHERE a.name = 'The Music Scene';
+SELECT * FROM albums a WHERE a.name = 'Live From Axis Mundi';
+SELECT * FROM albums a WHERE a.name = 'She Came Along';
+SELECT * FROM albums a WHERE a.name = 'Adelphia';
+SELECT * FROM albums a WHERE a.name = 'Tiny Tina & Little John';
+SELECT * FROM albums a WHERE a.name = 'Brit Beat of the 60''s: Shake ''n'' Shimmy';
+SELECT * FROM albums a WHERE a.name = 'pop muzik 30th anniversary remixes';
+SELECT * FROM albums a WHERE a.name = 'A State Of Trance Classics_ Volume 4';
+SELECT * FROM albums a WHERE a.name = 'Latin Vibes EP Collection (Club Edition)';
+SELECT * FROM albums a WHERE a.name = 'Early Days';
+SELECT * FROM albums a WHERE a.name = 'The Annual 2010';
+SELECT * FROM albums a WHERE a.name = 'Faithful To Believe';
+SELECT * FROM albums a WHERE a.name = 'Perceptions Of Pacha';
+SELECT * FROM albums a WHERE a.name = 'The Hits';
+SELECT * FROM albums a WHERE a.name = 'Halloween II - 30th Anniversary Expanded Original Motion Picture Soundtrack';
+SELECT * FROM albums a WHERE a.name = 'Water And A Flame';
+SELECT * FROM albums a WHERE a.name = 'Qui Suis-Je ?';
+SELECT * FROM albums a WHERE a.name = 'It''s Not Killing Me';
+SELECT * FROM albums a WHERE a.name = 'Dedicated';
+SELECT * FROM albums a WHERE a.name = 'Alive As Fuck';
+SELECT * FROM albums a WHERE a.name = 'Forbidden Planet Explored / Sci-Fi Sound Effects';
+SELECT * FROM albums a WHERE a.name = 'The Idan Raichel Project';
+SELECT * FROM albums a WHERE a.name = 'From Beyond';
+SELECT * FROM albums a WHERE a.name = 'Go-Go and Gumbo_ Satchmo ''N Soul';
+SELECT * FROM albums a WHERE a.name = 'Golden Songs No. 8 - Persian Music';
+SELECT * FROM albums a WHERE a.name = 'The Weekend Has Landed';
+SELECT * FROM albums a WHERE a.name = 'I Hear Music';
+SELECT * FROM albums a WHERE a.name = 'We''re The Good Guys';
+SELECT * FROM albums a WHERE a.name = 'Broadcast And The Focus Group Investigate Witch Cults Of The Radio Age';
+SELECT * FROM albums a WHERE a.name = 'The Performance';
+SELECT * FROM albums a WHERE a.name = 'Warp20 (Unheard)';
+SELECT * FROM albums a WHERE a.name = 'Stwff';
+SELECT * FROM albums a WHERE a.name = 'Angels Men & Monkeys';
+SELECT * FROM albums a WHERE a.name = 'Beginner''s Guide To France';
+SELECT * FROM albums a WHERE a.name = 'A Little More Time - The Very Best OF Chairmen Of The Board';
+SELECT * FROM albums a WHERE a.name = 'Echoes From The Future - Album Sampler 3';
+SELECT * FROM albums a WHERE a.name = 'Walking A Full Moon Dog';
+SELECT * FROM albums a WHERE a.name = 'Regarding Purgatories';
+SELECT * FROM albums a WHERE a.name = 'C'' Est L'' Amour (The Best Of French Music Vol. 1)';
+SELECT * FROM albums a WHERE a.name = 'Tribute';
+SELECT * FROM albums a WHERE a.name = 'The Rose';
+SELECT * FROM albums a WHERE a.name = 'Mistletoe & Wine';
+SELECT * FROM albums a WHERE a.name = 'Uptown Girls';
+SELECT * FROM albums a WHERE a.name = 'People Get Ready';
+SELECT * FROM albums a WHERE a.name = 'Command & Conquer: Red Alert 2';
+SELECT * FROM albums a WHERE a.name = 'Carlito';
+SELECT * FROM albums a WHERE a.name = 'Crazy Love';
+SELECT * FROM albums a WHERE a.name = 'Eye Of A Hurricane';
+SELECT * FROM albums a WHERE a.name = 'Dance To The Hits Of The Beatles';
+SELECT * FROM albums a WHERE a.name = 'Love Holding Love';
+SELECT * FROM albums a WHERE a.name = 'Bone of My Bones';
+SELECT * FROM albums a WHERE a.name = 'Away We Go Original Motion Picture Soundtrack';
+SELECT * FROM albums a WHERE a.name = 'Bodies And Souls';
+SELECT * FROM albums a WHERE a.name = 'Need For Speed: Prostreet';
+SELECT * FROM albums a WHERE a.name = 'Mandy Barnett';
+SELECT * FROM albums a WHERE a.name = 'From Where???';
+SELECT * FROM albums a WHERE a.name = 'SimAnimals';
+SELECT * FROM albums a WHERE a.name = 'The Haçienda - Acid House Classics';
+SELECT * FROM albums a WHERE a.name = 'Poland - 20 Great Polkas';
+SELECT * FROM albums a WHERE a.name = 'Under The Radar';
+SELECT * FROM albums a WHERE a.name = 'Fits And Starts';
+SELECT * FROM albums a WHERE a.name = 'Pip Paine [Pay The £5000 You Owe]';
+SELECT * FROM albums a WHERE a.name = 'Barcelona [Remixes]';
+SELECT * FROM albums a WHERE a.name = 'Holly-West Crisis';
+SELECT * FROM albums a WHERE a.name = 'The First Sessions';
+SELECT * FROM albums a WHERE a.name = 'The Great Misdirect';
+SELECT * FROM albums a WHERE a.name = 'Destrophy';
+SELECT * FROM albums a WHERE a.name = 'The Wild Party';
+SELECT * FROM albums a WHERE a.name = 'Calle ilusion';
+SELECT * FROM albums a WHERE a.name = 'Black flamenco';
+SELECT * FROM albums a WHERE a.name = 'The Men Who Stare At Goats (Original Soundtrack)';
+SELECT * FROM albums a WHERE a.name = 'Ultimate Mozart';
+SELECT * FROM albums a WHERE a.name = 'Ultimate Baroque';
+SELECT * FROM albums a WHERE a.name = 'Allegra';
+SELECT * FROM albums a WHERE a.name = 'Masterpieces: 1991-2002';
+SELECT * FROM albums a WHERE a.name = 'Falling Sickness / Dysentery Split';
+SELECT * FROM albums a WHERE a.name = 'I''m So Hopeless_ You''re So Hopeless';
+SELECT * FROM albums a WHERE a.name = 'From Wishes To Eternity';
+SELECT * FROM albums a WHERE a.name = 'The Land of Spirit and Light';
+SELECT * FROM albums a WHERE a.name = 'Sukker';
+SELECT * FROM albums a WHERE a.name = 'Trouble Woman';
+SELECT * FROM albums a WHERE a.name = 'Knuckles Whiten';
+SELECT * FROM albums a WHERE a.name = 'Annan vuodet 1997-2008';
+SELECT * FROM albums a WHERE a.name = 'The Seven Gates Of Hell: The Singles 1980-85';
+SELECT * FROM albums a WHERE a.name = '...och utan en massa skit';
+SELECT * FROM albums a WHERE a.name = 'Hold Me Back';
+SELECT * FROM albums a WHERE a.name = 'Face à Soi-même';
+SELECT * FROM albums a WHERE a.name = 'Irish Favourites';
+SELECT * FROM albums a WHERE a.name = 'Pleurer Avec Le Sourire';
+SELECT * FROM albums a WHERE a.name = 'Emotional Ninja';
+SELECT * FROM albums a WHERE a.name = 'Privilege Entails Responsibility';
+SELECT * FROM albums a WHERE a.name = 'Original';
+SELECT * FROM albums a WHERE a.name = 'Semmi szédíto magasság';
+SELECT * FROM albums a WHERE a.name = 'Hallelujah (Premiere Performance Plus Track)';
+SELECT * FROM albums a WHERE a.name = 'Get Salted Volume 2 Mixed By Miguel Migs';
+SELECT * FROM albums a WHERE a.name = 'Fantastic Mr. Fox (Original Soundtrack)';
+SELECT * FROM albums a WHERE a.name = 'Alive In Paris';
+SELECT * FROM albums a WHERE a.name = 'A Lesson To Be Learned';
+SELECT * FROM albums a WHERE a.name = 'Jukebox';
+SELECT * FROM albums a WHERE a.name = 'The Slaughter House & Cellblock Tapes';
+SELECT * FROM albums a WHERE a.name = 'Tidsmaskin';
+SELECT * FROM albums a WHERE a.name = 'Shouting ''Bout The Blues';
+SELECT * FROM albums a WHERE a.name = 'Strata';
+SELECT * FROM albums a WHERE a.name = 'Alien Sex Fiend Halloween';
+SELECT * FROM albums a WHERE a.name = 'Desperate Measures';
+SELECT * FROM albums a WHERE a.name = 'Twangy Peaks';
+SELECT * FROM albums a WHERE a.name = 'Trancemaster 6008 (Special Version)';
+SELECT * FROM albums a WHERE a.name = 'Live At El Sol';
+SELECT * FROM albums a WHERE a.name = 'Open Water';
+SELECT * FROM albums a WHERE a.name = '24 Exitos - 18 Grandes Artistas - Romanticos';
+SELECT * FROM albums a WHERE a.name = 'An-ten-nae Presents Acid Crunk Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Gone Part 1';
+SELECT * FROM albums a WHERE a.name = 'Dystopia';
+SELECT * FROM albums a WHERE a.name = 'Dils Dils Dils';
+SELECT * FROM albums a WHERE a.name = '1-2-3-4';
+SELECT * FROM albums a WHERE a.name = 'New World Orphans';
+SELECT * FROM albums a WHERE a.name = 'Toma la Traca';
+SELECT * FROM albums a WHERE a.name = 'Move!';
+SELECT * FROM albums a WHERE a.name = 'North of Bakersfield';
+SELECT * FROM albums a WHERE a.name = 'We Are One Remixes';
+SELECT * FROM albums a WHERE a.name = 'Passages et Obsessions EP';
+SELECT * FROM albums a WHERE a.name = 'Slow Rewind';
+SELECT * FROM albums a WHERE a.name = 'Detention';
+SELECT * FROM albums a WHERE a.name = 'Mr. Pityinger... Az Eredeti Genszter';
+SELECT * FROM albums a WHERE a.name = 'Betyárvizit';
+SELECT * FROM albums a WHERE a.name = 'Decenija';
+SELECT * FROM albums a WHERE a.name = 'Beyond 2012';
+SELECT * FROM albums a WHERE a.name = 'LOAF Presents: Domestic POP';
+SELECT * FROM albums a WHERE a.name = 'get even';
+SELECT * FROM albums a WHERE a.name = 'Soundz Vol. 2 - Loosely Blended By The Soundz';
+SELECT * FROM albums a WHERE a.name = 'Call the MedicWe''re Begging Please';
+SELECT * FROM albums a WHERE a.name = 'This Is Hell';
+SELECT * FROM albums a WHERE a.name = 'Pop Culture Assassins  Remastered';
+SELECT * FROM albums a WHERE a.name = 'Adios Amigo: A Tribute to Arthur Alexander';
+SELECT * FROM albums a WHERE a.name = 'Deja Entendu';
+SELECT * FROM albums a WHERE a.name = 'A Twisted Christmas: Live';
+SELECT * FROM albums a WHERE a.name = 'BBC In Concert: Live at The Phoenix Festival (1994)';
+SELECT * FROM albums a WHERE a.name = 'Smoke';
+SELECT * FROM albums a WHERE a.name = 'Ladies & Gentlemen We Are Floating In Space';
+SELECT * FROM albums a WHERE a.name = 'Det bästa från Idol 2009';
+SELECT * FROM albums a WHERE a.name = 'X 1 Fin - Juntos Por El Sahara';
+SELECT * FROM albums a WHERE a.name = 'Blood Visions';
+SELECT * FROM albums a WHERE a.name = '¡Estoy ke Muerdo!';
+SELECT * FROM albums a WHERE a.name = 'Lookin'' For A Change';
+SELECT * FROM albums a WHERE a.name = 'If We''ve Ever Needed You';
+SELECT * FROM albums a WHERE a.name = 'Wake Up';
+SELECT * FROM albums a WHERE a.name = 'The Platinum Collection';
+SELECT * FROM albums a WHERE a.name = 'CD Multibandas';
+SELECT * FROM albums a WHERE a.name = 'The Rock''n Roll Symphony';
+SELECT * FROM albums a WHERE a.name = 'Schrei!';
+SELECT * FROM albums a WHERE a.name = 'Muovi antaa periksi';
+SELECT * FROM albums a WHERE a.name = 'Arpi';
+SELECT * FROM albums a WHERE a.name = 'No More';
+SELECT * FROM albums a WHERE a.name = 'Music You Heard On the Sopranos';
+SELECT * FROM albums a WHERE a.name = 'Echo';
+SELECT * FROM albums a WHERE a.name = 'No Place Like Home';
+SELECT * FROM albums a WHERE a.name = 'Red_ Green & Gold';
+SELECT * FROM albums a WHERE a.name = 'Riddim Driven: Rub-A-Dub';
+SELECT * FROM albums a WHERE a.name = 'A Place Called Happiness';
+SELECT * FROM albums a WHERE a.name = 'Tyhjyys';
+SELECT * FROM albums a WHERE a.name = 'Remixed - Volume 1';
+SELECT * FROM albums a WHERE a.name = 'Working Men';
+SELECT * FROM albums a WHERE a.name = 'Underneath Rotting';
+SELECT * FROM albums a WHERE a.name = 'Public Domain: The Prequel';
+SELECT * FROM albums a WHERE a.name = 'Everything';
+SELECT * FROM albums a WHERE a.name = 'Resurrection';
+SELECT * FROM albums a WHERE a.name = 'Volume 10 - Rasor Beyond';
+SELECT * FROM albums a WHERE a.name = 'The Vocal Album';
+SELECT * FROM albums a WHERE a.name = 'Calm Down';
+SELECT * FROM albums a WHERE a.name = 'Tchaikovsky: Sleeping Beauty';
+SELECT * FROM albums a WHERE a.name = 'It''s Christmas';
+SELECT * FROM albums a WHERE a.name = 'FOREVER AND A DAY';
+SELECT * FROM albums a WHERE a.name = 'O melhor de';
+SELECT * FROM albums a WHERE a.name = 'Voices';
+SELECT * FROM albums a WHERE a.name = 'Between The Bars EP';
+SELECT * FROM albums a WHERE a.name = 'Denial ( Bonus Version)';
+SELECT * FROM albums a WHERE a.name = '3 minutos antes de a maré encher';
+SELECT * FROM albums a WHERE a.name = 'Aika ei venaa ketään';
+SELECT * FROM albums a WHERE a.name = 'Chronicles Of A Real World';
+SELECT * FROM albums a WHERE a.name = 'Tweaked';
+SELECT * FROM albums a WHERE a.name = 'THE CORE';
+SELECT * FROM albums a WHERE a.name = 'One Small Step For A Man';
+SELECT * FROM albums a WHERE a.name = 'Spike';
+SELECT * FROM albums a WHERE a.name = 'Raw Digits';
+SELECT * FROM albums a WHERE a.name = 'D-FUNK  Funk_ Disco & Boogie Grooves From Germany 1972-2002';
+SELECT * FROM albums a WHERE a.name = 'Cope Remixed';
+SELECT * FROM albums a WHERE a.name = 'Buddha Groove';
+SELECT * FROM albums a WHERE a.name = 'Remix Our World - SuDance Vol. 1';
+SELECT * FROM albums a WHERE a.name = '16  Canciones de oro';
+SELECT * FROM albums a WHERE a.name = 'So Fine';
+SELECT * FROM albums a WHERE a.name = 'Somebody Tell Me';
+SELECT * FROM albums a WHERE a.name = 'Confessions of a Las Vegas Loser';
+SELECT * FROM albums a WHERE a.name = 'Notfalls Werde Ich Für Immer Warten';
+SELECT * FROM albums a WHERE a.name = 'Zion Way';
+SELECT * FROM albums a WHERE a.name = 'Dekadens';
+SELECT * FROM albums a WHERE a.name = 'No More War';
+SELECT * FROM albums a WHERE a.name = 'License To Thrill';
+SELECT * FROM albums a WHERE a.name = 'Machismo';
+SELECT * FROM albums a WHERE a.name = 'Ma Motivation';
+SELECT * FROM albums a WHERE a.name = 'Bedrock 11 Compiled & Mixed John Digweed';
+SELECT * FROM albums a WHERE a.name = 'Burn The Whole Place Down';
+SELECT * FROM albums a WHERE a.name = 'Al posto del fuoco';
+SELECT * FROM albums a WHERE a.name = 'Once';
+SELECT * FROM albums a WHERE a.name = 'This Is The Yin And The Yang';
+SELECT * FROM albums a WHERE a.name = 'Island life';
+SELECT * FROM albums a WHERE a.name = 'Stuntrock (Original Soundtrack)';
+SELECT * FROM albums a WHERE a.name = 'Unlimited';
+SELECT * FROM albums a WHERE a.name = 'The Very Best Of Brenda Lee Vol.2';
+SELECT * FROM albums a WHERE a.name = 'Sky High';
+SELECT * FROM albums a WHERE a.name = 'The Crossing / Flashpoint';
+SELECT * FROM albums a WHERE a.name = 'Perfect Day';
+SELECT * FROM albums a WHERE a.name = 'The Definitive Collection';
+SELECT * FROM albums a WHERE a.name = 'Forward Music';
+SELECT * FROM albums a WHERE a.name = 'After';
+SELECT * FROM albums a WHERE a.name = 'Dreams That Money Can''t Buy';
+SELECT * FROM albums a WHERE a.name = 'Classic Voices 2010';
+SELECT * FROM albums a WHERE a.name = 'Anthem';
+SELECT * FROM albums a WHERE a.name = 'Back Up_ Coming Through Remixed';
+SELECT * FROM albums a WHERE a.name = 'Sisters';
+SELECT * FROM albums a WHERE a.name = 'The Best of Luk';
+SELECT * FROM albums a WHERE a.name = '17 Again';
+SELECT * FROM albums a WHERE a.name = 'Sur l''autre rive';
+SELECT * FROM albums a WHERE a.name = 'Cocina Salvaje';
+SELECT * FROM albums a WHERE a.name = 'House on the Beach 3 - 30 winter chillout tunes';
+SELECT * FROM albums a WHERE a.name = 'Tio Singlar 2002-2007';
+SELECT * FROM albums a WHERE a.name = 'The Remixes';
+SELECT * FROM albums a WHERE a.name = 'The Big Guitars (Digitally Remastered)';
+SELECT * FROM albums a WHERE a.name = 'Sabroso Como El Guarapo (Digitally Remastered)';
+SELECT * FROM albums a WHERE a.name = 'Hotel Utah';
+SELECT * FROM albums a WHERE a.name = 'In A Different Light';
+SELECT * FROM albums a WHERE a.name = 'The Hank Snow Memorial Album - 24 Golden Memories';
+SELECT * FROM albums a WHERE a.name = 'Equestrienne';
+SELECT * FROM albums a WHERE a.name = 'The Dealers';
+SELECT * FROM albums a WHERE a.name = 'The Animals: All-Time Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'KPM 1000 Series: Flamboyant Themes (Volume 3)';
+SELECT * FROM albums a WHERE a.name = 'Billig Lykke (Re-Mastret)';
+SELECT * FROM albums a WHERE a.name = 'I Full Symfoni (Med Kringkastingsorkesteret)';
+SELECT * FROM albums a WHERE a.name = 'Black Earth';
+SELECT * FROM albums a WHERE a.name = 'Hard To Be A Rock''N Roller..';
+SELECT * FROM albums a WHERE a.name = 'Quantos Possunt Ad Satanitatem Trahunt';
+SELECT * FROM albums a WHERE a.name = 'Angelus Exuro Pro Eternus';
+SELECT * FROM albums a WHERE a.name = 'Burma';
+SELECT * FROM albums a WHERE a.name = 'Hilsen Halvdan';
+SELECT * FROM albums a WHERE a.name = 'Personal Heroin';
+SELECT * FROM albums a WHERE a.name = 'OHRWÜRMER Deutscher Disco Fox';
+SELECT * FROM albums a WHERE a.name = 'Hymns to the Fallen V';
+SELECT * FROM albums a WHERE a.name = 'Where''d You Get That Vibe?';
+SELECT * FROM albums a WHERE a.name = 'Welcome To Thizz World_ V. 2.1';
+SELECT * FROM albums a WHERE a.name = 'North London Cutz EP';
+SELECT * FROM albums a WHERE a.name = 'Nothing To Lose';
+SELECT * FROM albums a WHERE a.name = 'Steve Hill';
+SELECT * FROM albums a WHERE a.name = 'Livraison  ...par en-arrière';
+SELECT * FROM albums a WHERE a.name = 'Neurodamage';
+SELECT * FROM albums a WHERE a.name = 'The World Engaged';
+SELECT * FROM albums a WHERE a.name = 'Expedition';
+SELECT * FROM albums a WHERE a.name = 'Some Of These Were Hooj volume 4';
+SELECT * FROM albums a WHERE a.name = 'Later Summer Fields';
+SELECT * FROM albums a WHERE a.name = 'Computer Games the Unreleased Files Expansion Pack 0_3';
+SELECT * FROM albums a WHERE a.name = 'Harvest Festival';
+SELECT * FROM albums a WHERE a.name = 'Anthem For The Underdog';
+SELECT * FROM albums a WHERE a.name = 'Introducing';
+SELECT * FROM albums a WHERE a.name = 'All Or Nothing';
+SELECT * FROM albums a WHERE a.name = 'Greatest Instrumentals of the Rock Era - 50 Hit Songs';
+SELECT * FROM albums a WHERE a.name = 'Sexie';
+SELECT * FROM albums a WHERE a.name = 'I Love The 50''s - 1955';
+SELECT * FROM albums a WHERE a.name = '100 Funny Favorites';
+SELECT * FROM albums a WHERE a.name = 'An Introduction To Chico Hamilton Vol 2';
+SELECT * FROM albums a WHERE a.name = 'Sunday Morning';
+SELECT * FROM albums a WHERE a.name = 'Fed Through The Teeth Machine';
+SELECT * FROM albums a WHERE a.name = 'I Remember';
+SELECT * FROM albums a WHERE a.name = 'An Introduction To Buddy Rich Vol 3';
+SELECT * FROM albums a WHERE a.name = 'Whale Meat Again!';
+SELECT * FROM albums a WHERE a.name = 'An Introduction To Connie Francis Vol 2';
+SELECT * FROM albums a WHERE a.name = 'Left';
+SELECT * FROM albums a WHERE a.name = 'Journey Into Day';
+SELECT * FROM albums a WHERE a.name = 'Christmas Album';
+SELECT * FROM albums a WHERE a.name = 'Pesnya pro tebya i menya';
+SELECT * FROM albums a WHERE a.name = 'Easily Misunderstood';
+SELECT * FROM albums a WHERE a.name = 'Corps à corps';
+SELECT * FROM albums a WHERE a.name = 'Leb schnö und stirb longsom';
+SELECT * FROM albums a WHERE a.name = 'R & B And Soul Roots Vol. 02';
+SELECT * FROM albums a WHERE a.name = '12 Bar Blues';
+SELECT * FROM albums a WHERE a.name = 'Sunshine';
+SELECT * FROM albums a WHERE a.name = 'Willa Was Here';
+SELECT * FROM albums a WHERE a.name = 'Secret Story';
+SELECT * FROM albums a WHERE a.name = 'Faith Hope Love';
+SELECT * FROM albums a WHERE a.name = 'Horrorscope';
+SELECT * FROM albums a WHERE a.name = 'Morgarot';
+SELECT * FROM albums a WHERE a.name = 'Zesta Pota';
+SELECT * FROM albums a WHERE a.name = 'Eyes Of Eternity';
+SELECT * FROM albums a WHERE a.name = 'Truckload Sale';
+SELECT * FROM albums a WHERE a.name = 'A Christmas Carol OST';
+SELECT * FROM albums a WHERE a.name = 'Nothing To Undo - Chapter Six';
+SELECT * FROM albums a WHERE a.name = 'Life Continuum';
+SELECT * FROM albums a WHERE a.name = 'Take It As It Comes';
+SELECT * FROM albums a WHERE a.name = 'Rawww EP';
+SELECT * FROM albums a WHERE a.name = 'Face First';
+SELECT * FROM albums a WHERE a.name = 'Aprés Ski Nonstop Party Mix';
+SELECT * FROM albums a WHERE a.name = 'DJ Zumbi - Big Stone';
+SELECT * FROM albums a WHERE a.name = 'Little Eve';
+SELECT * FROM albums a WHERE a.name = 'Music For Christmas Lovers';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits (Wreckchopped & Screwed)';
+SELECT * FROM albums a WHERE a.name = 'Ghosts';
+SELECT * FROM albums a WHERE a.name = 'No Way Down';
+SELECT * FROM albums a WHERE a.name = 'Try To Remember Everything';
+SELECT * FROM albums a WHERE a.name = 'Backline Volume 56';
+SELECT * FROM albums a WHERE a.name = 'Stamina Daddy';
+SELECT * FROM albums a WHERE a.name = 'Stalag 17-18 And 19';
+SELECT * FROM albums a WHERE a.name = 'Serie 20 Exitos';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits_ Volume Two';
+SELECT * FROM albums a WHERE a.name = 'Mallu Magalhães';
+SELECT * FROM albums a WHERE a.name = 'Con Un Mismo Corazon';
+SELECT * FROM albums a WHERE a.name = 'Lane';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'White Lion';
+SELECT * FROM albums a WHERE a.name = 'Tesoros De Coleccion - Los Tres Ases';
+SELECT * FROM albums a WHERE a.name = '20 Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Jesse''s Best';
+SELECT * FROM albums a WHERE a.name = 'Tesoros De Coleccion - Los Rurales De Gilberto Parra';
+SELECT * FROM albums a WHERE a.name = 'Where We Land';
+SELECT * FROM albums a WHERE a.name = 'Amazing Sound Effects of Fire & Emergency';
+SELECT * FROM albums a WHERE a.name = 'Full Attention';
+SELECT * FROM albums a WHERE a.name = 'Here''s One I Made Earlier!';
+SELECT * FROM albums a WHERE a.name = 'Folklore';
+SELECT * FROM albums a WHERE a.name = 'Unsettled Scores';
+SELECT * FROM albums a WHERE a.name = 'Down With Gravity';
+SELECT * FROM albums a WHERE a.name = 'Almost Complete';
+SELECT * FROM albums a WHERE a.name = 'Le King pour toujours/25 ans déja';
+SELECT * FROM albums a WHERE a.name = 'Secrets';
+SELECT * FROM albums a WHERE a.name = 'Suburban Empire';
+SELECT * FROM albums a WHERE a.name = 'Stereotypes';
+SELECT * FROM albums a WHERE a.name = 'Clatterbeats Two';
+SELECT * FROM albums a WHERE a.name = 'Norwegian Songs Vol I';
+SELECT * FROM albums a WHERE a.name = 'Reason Why EP';
+SELECT * FROM albums a WHERE a.name = 'I''m Getting Lost In My Brain';
+SELECT * FROM albums a WHERE a.name = 'Szambo i Perfumeria';
+SELECT * FROM albums a WHERE a.name = 'Omnimotion the Remix EP';
+SELECT * FROM albums a WHERE a.name = 'Remotely Controlled';
+SELECT * FROM albums a WHERE a.name = 'Canciones Rancheras A La Manera De Los Panchos';
+SELECT * FROM albums a WHERE a.name = 'Best Rock Anthems.....Ever!';
+SELECT * FROM albums a WHERE a.name = 'Moon Landing';
+SELECT * FROM albums a WHERE a.name = 'Un Leon Demente';
+SELECT * FROM albums a WHERE a.name = 'Rebel Tracks';
+SELECT * FROM albums a WHERE a.name = 'Amino Acid Flashback';
+SELECT * FROM albums a WHERE a.name = 'Beating A Dead Horse To Death Again';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Dorsey Burnette - The Era Years';
+SELECT * FROM albums a WHERE a.name = 'Just The Country Hits Of David Houston';
+SELECT * FROM albums a WHERE a.name = 'An Absence of Empathy';
+SELECT * FROM albums a WHERE a.name = 'Love Madness';
+SELECT * FROM albums a WHERE a.name = 'Massive';
+SELECT * FROM albums a WHERE a.name = 'Back To The Beginning - Usher';
+SELECT * FROM albums a WHERE a.name = 'Play Time Is Over';
+SELECT * FROM albums a WHERE a.name = 'Block Obama II';
+SELECT * FROM albums a WHERE a.name = 'Leviathans Creations';
+SELECT * FROM albums a WHERE a.name = 'In Your Ear';
+SELECT * FROM albums a WHERE a.name = 'Harmonicas';
+SELECT * FROM albums a WHERE a.name = 'Brand New Love Affair';
+SELECT * FROM albums a WHERE a.name = 'BBC In Concert (14th January 1981_ Recorded at Paris Theatre)';
+SELECT * FROM albums a WHERE a.name = 'Secrets Of Saturns';
+SELECT * FROM albums a WHERE a.name = 'Life Goes On';
+SELECT * FROM albums a WHERE a.name = 'Ghosts In The AI';
+SELECT * FROM albums a WHERE a.name = 'Secrets (Remix Package)';
+SELECT * FROM albums a WHERE a.name = 'Merry Christmas With Bing Crosby & The Andrews Sisters';
+SELECT * FROM albums a WHERE a.name = 'The Hits Live';
+SELECT * FROM albums a WHERE a.name = 'UNCA FIBRE';
+SELECT * FROM albums a WHERE a.name = 'Hung - up';
+SELECT * FROM albums a WHERE a.name = 'Live At The Fillmore East';
+SELECT * FROM albums a WHERE a.name = 'Cemetery Road - Dead Electroniks';
+SELECT * FROM albums a WHERE a.name = '15 Jahre';
+SELECT * FROM albums a WHERE a.name = 'The last revolving door';
+SELECT * FROM albums a WHERE a.name = 'Back To Work - The Official TP mixtape vol.1';
+SELECT * FROM albums a WHERE a.name = 'Grey Goose';
+SELECT * FROM albums a WHERE a.name = 'Arglistige Täuschung';
+SELECT * FROM albums a WHERE a.name = 'The Glamour Of Darkness';
+SELECT * FROM albums a WHERE a.name = 'Country Club Anthems - The Massive Hits Collection';
+SELECT * FROM albums a WHERE a.name = 'Me Na Me Kae';
+SELECT * FROM albums a WHERE a.name = 'Welcome To Sillycone Valley';
+SELECT * FROM albums a WHERE a.name = 'Birch - Gangsta Rock Riddim';
+SELECT * FROM albums a WHERE a.name = 'Celtic Healing ~ Harp for the Inner Soul';
+SELECT * FROM albums a WHERE a.name = 'One Night In Madrid';
+SELECT * FROM albums a WHERE a.name = 'Obeshtania(Promises)';
+SELECT * FROM albums a WHERE a.name = 'Inner-Cept';
+SELECT * FROM albums a WHERE a.name = 'May Recordings - Best of 2009 Part 1 (Part 1)';
+SELECT * FROM albums a WHERE a.name = 'Drunk With Passion';
+SELECT * FROM albums a WHERE a.name = 'Brain holidays - Stereo roots';
+SELECT * FROM albums a WHERE a.name = 'Belfast Food - Live in Tvornica';
+SELECT * FROM albums a WHERE a.name = 'Better';
+SELECT * FROM albums a WHERE a.name = 'Coconut Rock Deluxe Edition';
+SELECT * FROM albums a WHERE a.name = 'More Of Other Worlds_ Other Sounds';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'A Day In The Life';
+SELECT * FROM albums a WHERE a.name = 'Contact?';
+SELECT * FROM albums a WHERE a.name = 'Mujer Sin Tiempo';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Percy Sledge';
+SELECT * FROM albums a WHERE a.name = 'Globetrotter';
+SELECT * FROM albums a WHERE a.name = 'Support Your Local Groover';
+SELECT * FROM albums a WHERE a.name = 'One Eighty';
+SELECT * FROM albums a WHERE a.name = 'A Fine Stormy Weather';
+SELECT * FROM albums a WHERE a.name = 'Narcissus Goes to the Moon';
+SELECT * FROM albums a WHERE a.name = 'Breed To Death';
+SELECT * FROM albums a WHERE a.name = 'The Beginning Of It All';
+SELECT * FROM albums a WHERE a.name = 'The Best of Tommy Overstreet';
+SELECT * FROM albums a WHERE a.name = 'STRAVINSKY: Jeu de cartes / Orpheus / Histoire du soldat';
+SELECT * FROM albums a WHERE a.name = 'The Constant Weight Of Zero';
+SELECT * FROM albums a WHERE a.name = 'Rondo Veneziano';
+SELECT * FROM albums a WHERE a.name = 'Stick To The Plan';
+SELECT * FROM albums a WHERE a.name = 'Conduction Remixes';
+SELECT * FROM albums a WHERE a.name = 'Kitsuné: Cryptic';
+SELECT * FROM albums a WHERE a.name = 'Kitsuné Tabloid compiled & mixed by';
+SELECT * FROM albums a WHERE a.name = 'Boris Vian - The greatest hits';
+SELECT * FROM albums a WHERE a.name = 'DRUGIC ENKRAT';
+SELECT * FROM albums a WHERE a.name = 'Fini d''planer';
+SELECT * FROM albums a WHERE a.name = 'The Best Of The Rest Of The Fireballs'' Vocals';
+SELECT * FROM albums a WHERE a.name = 'Accordéon diatonique';
+SELECT * FROM albums a WHERE a.name = 'Port 4 - Exhale';
+SELECT * FROM albums a WHERE a.name = 'The Saga';
+SELECT * FROM albums a WHERE a.name = 'Christmas Gospel Classics';
+SELECT * FROM albums a WHERE a.name = 'Louis Armstrong: Portrait Of The Artist As A Young Man 1923-1934';
+SELECT * FROM albums a WHERE a.name = 'Future Sound Of Cambridge 2';
+SELECT * FROM albums a WHERE a.name = 'Billion Dollar Gravy';
+SELECT * FROM albums a WHERE a.name = 'Syncopated City';
+SELECT * FROM albums a WHERE a.name = 'Stormy Weather - Original Film Soundtrack';
+SELECT * FROM albums a WHERE a.name = 'Weezer (Rarities Edition)';
+SELECT * FROM albums a WHERE a.name = 'It Must Really Suck To Be Four Year Strong Right Now';
+SELECT * FROM albums a WHERE a.name = 'Ritmo En La Sangre';
+SELECT * FROM albums a WHERE a.name = 'The Howling';
+SELECT * FROM albums a WHERE a.name = 'Monkey Hanging EP';
+SELECT * FROM albums a WHERE a.name = 'Some Other Day';
+SELECT * FROM albums a WHERE a.name = 'Take Good are of My Baby';
+SELECT * FROM albums a WHERE a.name = 'Ireland - 20 Favourite Drinking Songs';
+SELECT * FROM albums a WHERE a.name = 'Flashback EP';
+SELECT * FROM albums a WHERE a.name = 'Allegory & Metaphor 2.0';
+SELECT * FROM albums a WHERE a.name = 'Sentimental Journey - 20 Big Band Greats';
+SELECT * FROM albums a WHERE a.name = 'Just Out Of Reach';
+SELECT * FROM albums a WHERE a.name = 'No Bad Habits';
+SELECT * FROM albums a WHERE a.name = 'The Leslie West Band';
+SELECT * FROM albums a WHERE a.name = 'Change of Space';
+SELECT * FROM albums a WHERE a.name = 'Lure The Fox';
+SELECT * FROM albums a WHERE a.name = 'Recuerdos y tequila';
+SELECT * FROM albums a WHERE a.name = 'Permanent Record: The Very Best Of The Violent Femmes';
+SELECT * FROM albums a WHERE a.name = 'The Early Years';
+SELECT * FROM albums a WHERE a.name = 'No Gravity EP';
+SELECT * FROM albums a WHERE a.name = 'En Passant';
+SELECT * FROM albums a WHERE a.name = 'Recorded as Jerry Landis';
+SELECT * FROM albums a WHERE a.name = 'For Some Time Past';
+SELECT * FROM albums a WHERE a.name = 'Hotel Sot';
+SELECT * FROM albums a WHERE a.name = 'Solitude';
+SELECT * FROM albums a WHERE a.name = 'Blue Monday';
+SELECT * FROM albums a WHERE a.name = 'Bossa for a Coup';
+SELECT * FROM albums a WHERE a.name = 'Sacrament';
+SELECT * FROM albums a WHERE a.name = 'Out Of Myself';
+SELECT * FROM albums a WHERE a.name = 'A Sceptic''s Universe';
+SELECT * FROM albums a WHERE a.name = 'WANT';
+SELECT * FROM albums a WHERE a.name = 'Cyrus';
+SELECT * FROM albums a WHERE a.name = '...And A Time To Dance';
+SELECT * FROM albums a WHERE a.name = 'Quiet Storm';
+SELECT * FROM albums a WHERE a.name = 'Antología de la Música Andina Colombiana';
+SELECT * FROM albums a WHERE a.name = 'The EP''s: Red Letter Day & Woodson';
+SELECT * FROM albums a WHERE a.name = 'Four Minute Mile';
+SELECT * FROM albums a WHERE a.name = 'The Great Eartha Kitt';
+SELECT * FROM albums a WHERE a.name = 'Evanescence';
+SELECT * FROM albums a WHERE a.name = 'Ketchup Suicide';
+SELECT * FROM albums a WHERE a.name = 'Portrait of Billie Holiday';
+SELECT * FROM albums a WHERE a.name = 'Solitary Confinement';
+SELECT * FROM albums a WHERE a.name = 'Right To Rumble!';
+SELECT * FROM albums a WHERE a.name = 'Fall Of The Despised';
+SELECT * FROM albums a WHERE a.name = '28 Party Dancers from Montreal''s Finest';
+SELECT * FROM albums a WHERE a.name = 'Loko  - The Perfect Groove';
+SELECT * FROM albums a WHERE a.name = 'Personal Trainer';
+SELECT * FROM albums a WHERE a.name = 'Nightmares';
+SELECT * FROM albums a WHERE a.name = 'Easter';
+SELECT * FROM albums a WHERE a.name = 'Entirely Complete Spectacular Nothing';
+SELECT * FROM albums a WHERE a.name = 'The IVth Crusade';
+SELECT * FROM albums a WHERE a.name = 'Masters Of Misery';
+SELECT * FROM albums a WHERE a.name = 'Swansong';
+SELECT * FROM albums a WHERE a.name = 'Gateways To Anihilation';
+SELECT * FROM albums a WHERE a.name = 'The Smell Of Rain';
+SELECT * FROM albums a WHERE a.name = 'Heretic';
+SELECT * FROM albums a WHERE a.name = 'In Disgust We Trust';
+SELECT * FROM albums a WHERE a.name = 'Hazardous Mutation';
+SELECT * FROM albums a WHERE a.name = 'P.I.F. - Pictures In Frames';
+SELECT * FROM albums a WHERE a.name = 'Order And Punishment';
+SELECT * FROM albums a WHERE a.name = 'L''affaire Taktika';
+SELECT * FROM albums a WHERE a.name = 'Blues Bar Stew';
+SELECT * FROM albums a WHERE a.name = 'Rye Whiskey';
+SELECT * FROM albums a WHERE a.name = 'Hors-Saisons';
+SELECT * FROM albums a WHERE a.name = 'En Beau Country';
+SELECT * FROM albums a WHERE a.name = 'Echos hypnotiques (From the Vaults of Albarika Store 1969-1979_ Vol. 2)';
+SELECT * FROM albums a WHERE a.name = 'Le coeur et la raison';
+SELECT * FROM albums a WHERE a.name = 'Country Lovers_ Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Klabüster Klabuster';
+SELECT * FROM albums a WHERE a.name = 'The World''s Greatest Marches';
+SELECT * FROM albums a WHERE a.name = 'On Seventh Change Of Comprehension';
+SELECT * FROM albums a WHERE a.name = 'On And On';
+SELECT * FROM albums a WHERE a.name = 'Jubilee Concert';
+SELECT * FROM albums a WHERE a.name = 'Laughter';
+SELECT * FROM albums a WHERE a.name = 'Jade Presents The Venom LP';
+SELECT * FROM albums a WHERE a.name = 'Nasty';
+SELECT * FROM albums a WHERE a.name = 'Shorter_ Faster_ Louder';
+SELECT * FROM albums a WHERE a.name = 'Check Point Charlie';
+SELECT * FROM albums a WHERE a.name = 'Silk Flowers - As Above So Below';
+SELECT * FROM albums a WHERE a.name = 'Mexican Trip';
+SELECT * FROM albums a WHERE a.name = 'Top 40 Bellydance - Classic Belly Dance Bar Grooves plus continuous DJ Mix';
+SELECT * FROM albums a WHERE a.name = 'Blue Moon';
+SELECT * FROM albums a WHERE a.name = 'Violent Love';
+SELECT * FROM albums a WHERE a.name = 'Il Tempo Necessario';
+SELECT * FROM albums a WHERE a.name = 'Librerías 3';
+SELECT * FROM albums a WHERE a.name = 'Enslaved Condemned';
+SELECT * FROM albums a WHERE a.name = 'Deathless';
+SELECT * FROM albums a WHERE a.name = 'Ringing In The Dawn';
+SELECT * FROM albums a WHERE a.name = 'Visitor';
+SELECT * FROM albums a WHERE a.name = 'Twelve Ways to Warm Up Your Days';
+SELECT * FROM albums a WHERE a.name = 'Take One for the Team';
+SELECT * FROM albums a WHERE a.name = 'The Same Ol'' Diddley Dee';
+SELECT * FROM albums a WHERE a.name = 'Pleasure Doze';
+SELECT * FROM albums a WHERE a.name = 'Campus Earth';
+SELECT * FROM albums a WHERE a.name = 'Special Edition';
+SELECT * FROM albums a WHERE a.name = 'Glory & Shame';
+SELECT * FROM albums a WHERE a.name = 'Sometimes I''m Happy';
+SELECT * FROM albums a WHERE a.name = 'Silence Is Golden';
+SELECT * FROM albums a WHERE a.name = 'Always On My Mind (Live)';
+SELECT * FROM albums a WHERE a.name = 'Oh Happy Day';
+SELECT * FROM albums a WHERE a.name = 'On & On';
+SELECT * FROM albums a WHERE a.name = 'The Best of Luciano Pavarotti';
+SELECT * FROM albums a WHERE a.name = 'Ike Turner Vol.1';
+SELECT * FROM albums a WHERE a.name = 'Outta Here';
+SELECT * FROM albums a WHERE a.name = 'Dj Tracks Minimal Techno_ Vol. 5 (WMC Miami 2009 Edition)';
+SELECT * FROM albums a WHERE a.name = 'Never Fade Away';
+SELECT * FROM albums a WHERE a.name = 'Lotus';
+SELECT * FROM albums a WHERE a.name = '¡ Basta !';
+SELECT * FROM albums a WHERE a.name = 'Le commun des bordels';
+SELECT * FROM albums a WHERE a.name = 'And the living is easy!  Incl. remixes by DJ Sayem & The Dynamics';
+SELECT * FROM albums a WHERE a.name = 'Essential Delta Blues';
+SELECT * FROM albums a WHERE a.name = 'Ya basta!!!!!';
+SELECT * FROM albums a WHERE a.name = 'Cinematic Lounge Volume 2';
+SELECT * FROM albums a WHERE a.name = 'Pussycat';
+SELECT * FROM albums a WHERE a.name = 'Country Was';
+SELECT * FROM albums a WHERE a.name = 'Stand By Your Man';
+SELECT * FROM albums a WHERE a.name = 'Gospel Legacy - Walter Hawkins';
+SELECT * FROM albums a WHERE a.name = 'The Cause & Effect';
+SELECT * FROM albums a WHERE a.name = 'Mariem Hassan con Leyoad';
+SELECT * FROM albums a WHERE a.name = 'Brasil';
+SELECT * FROM albums a WHERE a.name = 'Gusto y Sabor';
+SELECT * FROM albums a WHERE a.name = 'Crash Bang Wallop / Rising Of Rhinos';
+SELECT * FROM albums a WHERE a.name = 'Acústico MTV - Engenheiros Do Hawaii';
+SELECT * FROM albums a WHERE a.name = 'Hard Hat Zone';
+SELECT * FROM albums a WHERE a.name = 'The Carnival Bizarre';
+SELECT * FROM albums a WHERE a.name = 'Blessed Are The Sick';
+SELECT * FROM albums a WHERE a.name = 'Happy?';
+SELECT * FROM albums a WHERE a.name = 'Für Euch_ die ihr liebt';
+SELECT * FROM albums a WHERE a.name = 'Darkness Prevails';
+SELECT * FROM albums a WHERE a.name = 'Out Of Time';
+SELECT * FROM albums a WHERE a.name = 'Let Me Be';
+SELECT * FROM albums a WHERE a.name = 'Ibiza Trance Anthems 2008 (World Version)';
+SELECT * FROM albums a WHERE a.name = 'Suite Beat Boy';
+SELECT * FROM albums a WHERE a.name = 'Wounded And Time Lost';
+SELECT * FROM albums a WHERE a.name = 'Big ideas';
+SELECT * FROM albums a WHERE a.name = 'Tür zu!';
+SELECT * FROM albums a WHERE a.name = 'Tiger';
+SELECT * FROM albums a WHERE a.name = 'Kitsuné: Claymore - Single';
+SELECT * FROM albums a WHERE a.name = 'Straight Dancing';
+SELECT * FROM albums a WHERE a.name = 'The Cross & The Crucible';
+SELECT * FROM albums a WHERE a.name = 'Notes From The Past';
+SELECT * FROM albums a WHERE a.name = 'Silence Of Another Kind';
+SELECT * FROM albums a WHERE a.name = '100 Mantovani Classical Christmas';
+SELECT * FROM albums a WHERE a.name = 'Okinawa Sunset';
+SELECT * FROM albums a WHERE a.name = 'One Man Against The World';
+SELECT * FROM albums a WHERE a.name = 'Field of crows';
+SELECT * FROM albums a WHERE a.name = 'You forgot it in people';
+SELECT * FROM albums a WHERE a.name = 'Les plus beaux thèmes pour la flute et le hautbois';
+SELECT * FROM albums a WHERE a.name = 'Get Fucked Up';
+SELECT * FROM albums a WHERE a.name = 'Final Conversation Of Kings';
+SELECT * FROM albums a WHERE a.name = 'Actual Fantasy Revisited';
+SELECT * FROM albums a WHERE a.name = 'There''s Know Place Like Home';
+SELECT * FROM albums a WHERE a.name = 'Xmas Sampler 2009';
+SELECT * FROM albums a WHERE a.name = 'Hits EP';
+SELECT * FROM albums a WHERE a.name = 'H2H';
+SELECT * FROM albums a WHERE a.name = 'Decade Of The Nail-spiked Bat';
+SELECT * FROM albums a WHERE a.name = 'Definitive Americana';
+SELECT * FROM albums a WHERE a.name = 'Canada Supreme';
+SELECT * FROM albums a WHERE a.name = 'Hot Cha Cha Cha';
+SELECT * FROM albums a WHERE a.name = 'Big Band Explosion';
+SELECT * FROM albums a WHERE a.name = 'Sax Of A Kind';
+SELECT * FROM albums a WHERE a.name = 'Bounce Nation 2 - Mixed by Sound Selektaz';
+SELECT * FROM albums a WHERE a.name = 'Celestrial Dreams';
+SELECT * FROM albums a WHERE a.name = 'Soldier of Love';
+SELECT * FROM albums a WHERE a.name = 'The Heartfelt';
+SELECT * FROM albums a WHERE a.name = 'Rock To The Beat';
+SELECT * FROM albums a WHERE a.name = 'Inked Up N Banged Out';
+SELECT * FROM albums a WHERE a.name = 'Empire & Love';
+SELECT * FROM albums a WHERE a.name = 'peace_ love & harmony';
+SELECT * FROM albums a WHERE a.name = 'La Musica Dei Populi';
+SELECT * FROM albums a WHERE a.name = 'Kurohata';
+SELECT * FROM albums a WHERE a.name = 'Le plus grandes chansons';
+SELECT * FROM albums a WHERE a.name = 'Instrumentals';
+SELECT * FROM albums a WHERE a.name = 'jj nº 2';
+SELECT * FROM albums a WHERE a.name = 'Chez Leprest_ vol. 2 (Ils chantent Allain Leprest)';
+SELECT * FROM albums a WHERE a.name = 'Nice Boys Finish Last';
+SELECT * FROM albums a WHERE a.name = 'Cream Future Electro';
+SELECT * FROM albums a WHERE a.name = 'Live Bootleg Series Volume 6';
+SELECT * FROM albums a WHERE a.name = 'Move Into Soul';
+SELECT * FROM albums a WHERE a.name = 'OM2...This Is Oyster Music ''Club Mixes''';
+SELECT * FROM albums a WHERE a.name = 'Urban Requiems (Extended)';
+SELECT * FROM albums a WHERE a.name = 'Children of Paradise 2K9';
+SELECT * FROM albums a WHERE a.name = 'When In Rome - Music From And Inspired By The Original Motion Picture Soundtrack';
+SELECT * FROM albums a WHERE a.name = 'I Know';
+SELECT * FROM albums a WHERE a.name = 'Tears';
+SELECT * FROM albums a WHERE a.name = 'Creating Abundance';
+SELECT * FROM albums a WHERE a.name = 'MELODIJE IRSKE I KVARNERA';
+SELECT * FROM albums a WHERE a.name = 'Velikite Komitsi Peyat';
+SELECT * FROM albums a WHERE a.name = 'The Earthrumental EP';
+SELECT * FROM albums a WHERE a.name = 'Sophie Rimheden';
+SELECT * FROM albums a WHERE a.name = 'Ottoman';
+SELECT * FROM albums a WHERE a.name = 'Limited Edition (7 Cuts)';
+SELECT * FROM albums a WHERE a.name = 'Unraveling';
+SELECT * FROM albums a WHERE a.name = 'Hood Politics';
+SELECT * FROM albums a WHERE a.name = 'Alcohol Fueled Brutality';
+SELECT * FROM albums a WHERE a.name = 'Remains of the Gods';
+SELECT * FROM albums a WHERE a.name = 'Natural Composite';
+SELECT * FROM albums a WHERE a.name = 'Frank (Rarities Edition)';
+SELECT * FROM albums a WHERE a.name = 'Hag songs';
+SELECT * FROM albums a WHERE a.name = 'End Times';
+SELECT * FROM albums a WHERE a.name = 'Döden Föder';
+SELECT * FROM albums a WHERE a.name = 'Any Minute Now';
+SELECT * FROM albums a WHERE a.name = 'Animal';
+SELECT * FROM albums a WHERE a.name = 'Get It Down (ft. Whiskey Pete)';
+SELECT * FROM albums a WHERE a.name = 'B-Sides And Rarities 1994-2005';
+SELECT * FROM albums a WHERE a.name = 'What Part Of Get Thee Gone Don''t You Understand?';
+SELECT * FROM albums a WHERE a.name = 'Desperate Little Town';
+SELECT * FROM albums a WHERE a.name = 'Group Improvisation& That''s Music!';
+SELECT * FROM albums a WHERE a.name = '&And They Shall Take Up Serpents';
+SELECT * FROM albums a WHERE a.name = 'Relax';
+SELECT * FROM albums a WHERE a.name = 'The Early Grave';
+SELECT * FROM albums a WHERE a.name = 'Travel Without Leaving The Bed';
+SELECT * FROM albums a WHERE a.name = 'The Outlaw Blues Band';
+SELECT * FROM albums a WHERE a.name = 'Spirits and Worm';
+SELECT * FROM albums a WHERE a.name = 'Sorcerers';
+SELECT * FROM albums a WHERE a.name = 'Is Here';
+SELECT * FROM albums a WHERE a.name = 'Oriel Joans';
+SELECT * FROM albums a WHERE a.name = 'Making Moves';
+SELECT * FROM albums a WHERE a.name = 'Lo mejor de Síntesis';
+SELECT * FROM albums a WHERE a.name = 'Watah-Sha';
+SELECT * FROM albums a WHERE a.name = 'She Ain''t Me';
+SELECT * FROM albums a WHERE a.name = 'Mute: Audio Documents';
+SELECT * FROM albums a WHERE a.name = 'Vive la Revolution';
+SELECT * FROM albums a WHERE a.name = 'Starsigns';
+SELECT * FROM albums a WHERE a.name = 'Deceive the World to Rule the Planet';
+SELECT * FROM albums a WHERE a.name = 'Drum Lesson Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Live at the Granada';
+SELECT * FROM albums a WHERE a.name = 'The 2K10 Remakes';
+SELECT * FROM albums a WHERE a.name = 'Come Back To Me';
+SELECT * FROM albums a WHERE a.name = 'Free Fall / Salsa Moves You (Franck Roger Remix)';
+SELECT * FROM albums a WHERE a.name = 'Jim Stärk';
+SELECT * FROM albums a WHERE a.name = 'Fixing the Charts_ Volume 1';
+SELECT * FROM albums a WHERE a.name = 'Goodnight_ Dear';
+SELECT * FROM albums a WHERE a.name = 'Only Time Will Tell';
+SELECT * FROM albums a WHERE a.name = 'It''s Been A Long Day';
+SELECT * FROM albums a WHERE a.name = 'Could This Be Real (Remixes)';
+SELECT * FROM albums a WHERE a.name = 'Interesting Times';
+SELECT * FROM albums a WHERE a.name = 'Galadriel';
+SELECT * FROM albums a WHERE a.name = 'Riddim Driven - Party Time';
+SELECT * FROM albums a WHERE a.name = 'Riddim Driven - Mexican';
+SELECT * FROM albums a WHERE a.name = 'Patto';
+SELECT * FROM albums a WHERE a.name = 'The Equinox';
+SELECT * FROM albums a WHERE a.name = 'Destiny';
+SELECT * FROM albums a WHERE a.name = 'Fear Of A Black Tangent';
+SELECT * FROM albums a WHERE a.name = 'South Haven / International Language';
+SELECT * FROM albums a WHERE a.name = 'The Armada DJ Extended Versions Collection 2010_ Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Riddim Driven - Bingie Trod';
+SELECT * FROM albums a WHERE a.name = 'Acústico MTV';
+SELECT * FROM albums a WHERE a.name = 'Alfred Brendel: The Farewell Concerts';
+SELECT * FROM albums a WHERE a.name = 'Truth Crushed To Earth Shall Rise Again [Explicit Version]';
+SELECT * FROM albums a WHERE a.name = 'A Arte De Moraes Moreira';
+SELECT * FROM albums a WHERE a.name = 'Homemade Drugs';
+SELECT * FROM albums a WHERE a.name = 'Maintenant';
+SELECT * FROM albums a WHERE a.name = 'A Arca De Noé';
+SELECT * FROM albums a WHERE a.name = 'Morning Star';
+SELECT * FROM albums a WHERE a.name = 'A Night In Cassis (W/The Vertavo String Quartet';
+SELECT * FROM albums a WHERE a.name = 'Love Stories';
+SELECT * FROM albums a WHERE a.name = 'Grace';
+SELECT * FROM albums a WHERE a.name = 'Irish Clubland 2 - The Essential Hits Collection';
+SELECT * FROM albums a WHERE a.name = 'Country Clubland - The Dance Anthems';
+SELECT * FROM albums a WHERE a.name = 'Alas de Cristal';
+SELECT * FROM albums a WHERE a.name = 'Funeral For A Feeling';
+SELECT * FROM albums a WHERE a.name = 'A Match & Some Gasoline';
+SELECT * FROM albums a WHERE a.name = 'Masì cho';
+SELECT * FROM albums a WHERE a.name = 'In Search Of Stoney Jackson';
+SELECT * FROM albums a WHERE a.name = 'Living In A Dream';
+SELECT * FROM albums a WHERE a.name = 'Vobiscum Satanas';
+SELECT * FROM albums a WHERE a.name = 'Lounge Du Soleil Vol.8';
+SELECT * FROM albums a WHERE a.name = 'Alle Gjør Det';
+SELECT * FROM albums a WHERE a.name = 'The Courage Of Others';
+SELECT * FROM albums a WHERE a.name = 'Seven Deadly Sins';
+SELECT * FROM albums a WHERE a.name = 'Chixdiggit Ii';
+SELECT * FROM albums a WHERE a.name = 'Flair For Darjeeling';
+SELECT * FROM albums a WHERE a.name = 'An Evening Of Yes Music Plus';
+SELECT * FROM albums a WHERE a.name = 'The Chocolate King';
+SELECT * FROM albums a WHERE a.name = 'Fy Fan';
+SELECT * FROM albums a WHERE a.name = 'Child of the Storm';
+SELECT * FROM albums a WHERE a.name = 'In Tokyo';
+SELECT * FROM albums a WHERE a.name = 'Reynaldo Armas y Los Mejores Copleros';
+SELECT * FROM albums a WHERE a.name = 'Recordando a los Melódicos_ Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Sabu Yerkoy';
+SELECT * FROM albums a WHERE a.name = 'El Bebop Kid & Friends';
+SELECT * FROM albums a WHERE a.name = 'Shallow Life (Deluxe Edition)';
+SELECT * FROM albums a WHERE a.name = '000 / Slippin';
+SELECT * FROM albums a WHERE a.name = 'Die Sekte (X-Mas Edition)';
+SELECT * FROM albums a WHERE a.name = 'Friendly Selection Vol.1';
+SELECT * FROM albums a WHERE a.name = 'Prima Norsk 2';
+SELECT * FROM albums a WHERE a.name = 'For Sleepyheads Only';
+SELECT * FROM albums a WHERE a.name = 'Burned Alive By Time';
+SELECT * FROM albums a WHERE a.name = 'Fragments Of An Untold Story Born By Shunning The Opportunity';
+SELECT * FROM albums a WHERE a.name = 'On Fire';
+SELECT * FROM albums a WHERE a.name = 'Some of Us May Never See the World';
+SELECT * FROM albums a WHERE a.name = 'Do I Have to Tell You Why I Love You';
+SELECT * FROM albums a WHERE a.name = 'Don Corleon Presents - Far Away Riddim';
+SELECT * FROM albums a WHERE a.name = 'Kaihomieli Valpas';
+SELECT * FROM albums a WHERE a.name = 'Recorded by Martin Meinschäfer';
+SELECT * FROM albums a WHERE a.name = 'Dreamscapes Revisited 3';
+SELECT * FROM albums a WHERE a.name = 'My Room Is a Mess';
+SELECT * FROM albums a WHERE a.name = 'Low Road';
+SELECT * FROM albums a WHERE a.name = 'Ghetto Bootleg';
+SELECT * FROM albums a WHERE a.name = 'Amnesty';
+SELECT * FROM albums a WHERE a.name = '[Who?] Keeps Changing Your Mind [2010 Mixes]';
+SELECT * FROM albums a WHERE a.name = 'Las 2 Grandes Orquestas de Venezuela';
+SELECT * FROM albums a WHERE a.name = 'Assorted Music';
+SELECT * FROM albums a WHERE a.name = 'Imagi:Nations Part 2 - Day';
+SELECT * FROM albums a WHERE a.name = 'Heroes of the Imagination';
+SELECT * FROM albums a WHERE a.name = 'Classical Love Collection - 40 Romantic Classical Masterpieces';
+SELECT * FROM albums a WHERE a.name = 'Geri Reig Und Normalette Surprise';
+SELECT * FROM albums a WHERE a.name = 'Soniq Circus';
+SELECT * FROM albums a WHERE a.name = 'Nobody But You';
+SELECT * FROM albums a WHERE a.name = 'A Special Wish (Holiday Classics By Christian Superstars)';
+SELECT * FROM albums a WHERE a.name = 'Gitano Cromático';
+SELECT * FROM albums a WHERE a.name = 'Hunger of a Thin Man';
+SELECT * FROM albums a WHERE a.name = 'Antología del Cante Flamenco  CD 2';
+SELECT * FROM albums a WHERE a.name = 'Time passing 02';
+SELECT * FROM albums a WHERE a.name = 'Divergent';
+SELECT * FROM albums a WHERE a.name = 'You Said';
+SELECT * FROM albums a WHERE a.name = 'Another Saturday Night';
+SELECT * FROM albums a WHERE a.name = 'Thinking Of You';
+SELECT * FROM albums a WHERE a.name = 'Ends In Light';
+SELECT * FROM albums a WHERE a.name = 'Everything_ I Bet You';
+SELECT * FROM albums a WHERE a.name = 'Cherry Blossom / Beautifull Mind';
+SELECT * FROM albums a WHERE a.name = 'Home Grown 5: Totally Live';
+SELECT * FROM albums a WHERE a.name = 'Dino Merlin - Burek';
+SELECT * FROM albums a WHERE a.name = 'Essence Of Soul';
+SELECT * FROM albums a WHERE a.name = 'Chinkuzi Riddim Riddin #2';
+SELECT * FROM albums a WHERE a.name = 'Bebi Dol-Live';
+SELECT * FROM albums a WHERE a.name = 'Girls Night Out - Disco & Soul Party';
+SELECT * FROM albums a WHERE a.name = 'Out On the Floor - Breathtaking Northern Soul Classics';
+SELECT * FROM albums a WHERE a.name = 'The Good_ The Bad & The Blazing';
+SELECT * FROM albums a WHERE a.name = 'Super Cracker EP';
+SELECT * FROM albums a WHERE a.name = 'Slangsta Paradise';
+SELECT * FROM albums a WHERE a.name = 'The Skull';
+SELECT * FROM albums a WHERE a.name = 'Wurzeln & Flügel';
+SELECT * FROM albums a WHERE a.name = 'Special Series 24';
+SELECT * FROM albums a WHERE a.name = 'Strapped (The Very Best Of The Remixes)';
+SELECT * FROM albums a WHERE a.name = 'Build A Horse';
+SELECT * FROM albums a WHERE a.name = 'NDW 2005';
+SELECT * FROM albums a WHERE a.name = 'Aggro Ansage Nr. 3 X';
+SELECT * FROM albums a WHERE a.name = 'The Latin Sounds of Edmundo Ros';
+SELECT * FROM albums a WHERE a.name = 'Deutsche Probleme';
+SELECT * FROM albums a WHERE a.name = 'Evolution In One Take: For Grindfreaks Only!  Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Live In Tokyo';
+SELECT * FROM albums a WHERE a.name = 'Voices';
+SELECT * FROM albums a WHERE a.name = 'Ireland''s Harvest';
+SELECT * FROM albums a WHERE a.name = 'Complete Recordings';
+SELECT * FROM albums a WHERE a.name = 'Noaidi - A Twisted Lovestory';
+SELECT * FROM albums a WHERE a.name = 'Quelli come noi';
+SELECT * FROM albums a WHERE a.name = 'You And Me';
+SELECT * FROM albums a WHERE a.name = 'Paradise_ Found';
+SELECT * FROM albums a WHERE a.name = 'Sundowning';
+SELECT * FROM albums a WHERE a.name = 'Venom & Tears';
+SELECT * FROM albums a WHERE a.name = 'Primitive Calculators and Friends';
+SELECT * FROM albums a WHERE a.name = 'Confidence and Consequence';
+SELECT * FROM albums a WHERE a.name = 'The Complete Truth';
+SELECT * FROM albums a WHERE a.name = 'Forever Crossing The Line';
+SELECT * FROM albums a WHERE a.name = 'High Contrast Presents Marcel Woods - Album Sampler';
+SELECT * FROM albums a WHERE a.name = 'Songs For Choice (Compilation)';
+SELECT * FROM albums a WHERE a.name = 'The Future';
+SELECT * FROM albums a WHERE a.name = 'Winter Wonderland';
+SELECT * FROM albums a WHERE a.name = 'Cloud Nr. 9 / Acceleration';
+SELECT * FROM albums a WHERE a.name = 'Boca & Coca EP';
+SELECT * FROM albums a WHERE a.name = 'Ram Jam Party';
+SELECT * FROM albums a WHERE a.name = 'It''s On Everything';
+SELECT * FROM albums a WHERE a.name = 'Dubbabuddah';
+SELECT * FROM albums a WHERE a.name = '2007 International Barbershop Quartet Contest - First Round - Volume 2';
+SELECT * FROM albums a WHERE a.name = 'Crossover';
+SELECT * FROM albums a WHERE a.name = 'The Dream';
+SELECT * FROM albums a WHERE a.name = 'Magic Numbers';
+SELECT * FROM albums a WHERE a.name = 'Stand Strong Stand Proud';
+SELECT * FROM albums a WHERE a.name = 'All Pretty People Live In Airports';
+SELECT * FROM albums a WHERE a.name = 'Gor Det Ändå';
+SELECT * FROM albums a WHERE a.name = 'I Said';
+SELECT * FROM albums a WHERE a.name = 'A Touch of Jazz';
+SELECT * FROM albums a WHERE a.name = 'Gostoso É Sambar';
+SELECT * FROM albums a WHERE a.name = 'Casual';
+SELECT * FROM albums a WHERE a.name = 'Witch Season';
+SELECT * FROM albums a WHERE a.name = 'Rette Mich Später';
+SELECT * FROM albums a WHERE a.name = 'Glow';
+SELECT * FROM albums a WHERE a.name = 'City Limits Volume 1';
+SELECT * FROM albums a WHERE a.name = 'Life is for Living';
+SELECT * FROM albums a WHERE a.name = 'One';
+SELECT * FROM albums a WHERE a.name = 'Nobody''s Coming To Save You';
+SELECT * FROM albums a WHERE a.name = 'Rich In Paradise - Remix';
+SELECT * FROM albums a WHERE a.name = 'In Your Face';
+SELECT * FROM albums a WHERE a.name = 'Paisviatge';
+SELECT * FROM albums a WHERE a.name = 'Feels Nas Straight From Bim Vol.2';
+SELECT * FROM albums a WHERE a.name = 'Barnas Jul [3 Cd]';
+SELECT * FROM albums a WHERE a.name = 'All Questions Answered';
+SELECT * FROM albums a WHERE a.name = 'After Two But Before Five';
+SELECT * FROM albums a WHERE a.name = 'Norwegian Mood';
+SELECT * FROM albums a WHERE a.name = 'Abduction';
+SELECT * FROM albums a WHERE a.name = 'Gegenüber';
+SELECT * FROM albums a WHERE a.name = 'Direkt Aus Dem Knast (Du Spast)';
+SELECT * FROM albums a WHERE a.name = 'Table Manners';
+SELECT * FROM albums a WHERE a.name = 'Ear 2 the Streets Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Das Beste Vom Besten';
+SELECT * FROM albums a WHERE a.name = 'Fholo EP';
+SELECT * FROM albums a WHERE a.name = 'Doramu Kompyuta';
+SELECT * FROM albums a WHERE a.name = 'Kingpintin''';
+SELECT * FROM albums a WHERE a.name = 'Texas 2 Da World Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Your Grandpa Is Dancing EP';
+SELECT * FROM albums a WHERE a.name = 'Layer One';
+SELECT * FROM albums a WHERE a.name = 'Friendly Persuasion';
+SELECT * FROM albums a WHERE a.name = 'This Earthly Spell (Expanded Edition)';
+SELECT * FROM albums a WHERE a.name = 'Whateverland';
+SELECT * FROM albums a WHERE a.name = 'In The Light We See';
+SELECT * FROM albums a WHERE a.name = 'A Band And Their Music';
+SELECT * FROM albums a WHERE a.name = '15 Exitos';
+SELECT * FROM albums a WHERE a.name = 'Midnight Tornado';
+SELECT * FROM albums a WHERE a.name = 'Twisted';
+SELECT * FROM albums a WHERE a.name = 'Alter Ego';
+SELECT * FROM albums a WHERE a.name = 'Geirr Tveitt: Suite No.1, Harp Concerto, Nykken';
+SELECT * FROM albums a WHERE a.name = 'The Catel EP';
+SELECT * FROM albums a WHERE a.name = 'Happy Happy Happy';
+SELECT * FROM albums a WHERE a.name = 'The Hot Stuff';
+SELECT * FROM albums a WHERE a.name = 'When The Kite String Pops';
+SELECT * FROM albums a WHERE a.name = 'Napoli amore mio';
+SELECT * FROM albums a WHERE a.name = 'Kimidanzeigen';
+SELECT * FROM albums a WHERE a.name = 'Glenn Miller from A to Z_ vol.4';
+SELECT * FROM albums a WHERE a.name = 'Ama Zone';
+SELECT * FROM albums a WHERE a.name = 'Amnesia';
+SELECT * FROM albums a WHERE a.name = 'Ten Songs And Hey Hey';
+SELECT * FROM albums a WHERE a.name = 'Save Our Souls - S.O.S.';
+SELECT * FROM albums a WHERE a.name = 'The Sound Of Music';
+SELECT * FROM albums a WHERE a.name = 'Tricks Of Time';
+SELECT * FROM albums a WHERE a.name = '320ML';
+SELECT * FROM albums a WHERE a.name = 'Already Happened';
+SELECT * FROM albums a WHERE a.name = 'Filles en délires_ Vol. 1 (Sonneries)';
+SELECT * FROM albums a WHERE a.name = 'É a Maior!';
+SELECT * FROM albums a WHERE a.name = 'The Manhattan Love Suicides - Deluxe Edition - Longer & Louder';
+SELECT * FROM albums a WHERE a.name = 'Jason Aldean';
+SELECT * FROM albums a WHERE a.name = 'Rock ''n'' Roll Drive In - 50 Original Recordings';
+SELECT * FROM albums a WHERE a.name = 'Incorrect Thoughts';
+SELECT * FROM albums a WHERE a.name = 'Duke Ellington Volume 2 - From The Archives (Digitally Remastered)';
+SELECT * FROM albums a WHERE a.name = 'His Christmas Album (Digitally Remastered)';
+SELECT * FROM albums a WHERE a.name = 'The Constant [Deluxe Edition]';
+SELECT * FROM albums a WHERE a.name = 'Angelina & Other Favorites (Digitally Remastered)';
+SELECT * FROM albums a WHERE a.name = 'Chocolate Cherry - Single';
+SELECT * FROM albums a WHERE a.name = 'The Greatest Rock ''n'' Roll Collection - Volume 1';
+SELECT * FROM albums a WHERE a.name = 'We Will Overcome';
+SELECT * FROM albums a WHERE a.name = 'Classic Soulful House';
+SELECT * FROM albums a WHERE a.name = 'The Best Of';
+SELECT * FROM albums a WHERE a.name = '12 Song Program';
+SELECT * FROM albums a WHERE a.name = 'Country Love';
+SELECT * FROM albums a WHERE a.name = 'Bilder Fressen Strom';
+SELECT * FROM albums a WHERE a.name = 'Saborear';
+SELECT * FROM albums a WHERE a.name = 'Dansebandfestivalen I Seljord 2006';
+SELECT * FROM albums a WHERE a.name = 'Embrace The Death';
+SELECT * FROM albums a WHERE a.name = 'I Know You Want Me';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Bucks Fizz';
+SELECT * FROM albums a WHERE a.name = 'Matters Of The Dark';
+SELECT * FROM albums a WHERE a.name = 'Lift Up the Needle';
+SELECT * FROM albums a WHERE a.name = 'Story - Greatest Kills';
+SELECT * FROM albums a WHERE a.name = 'Odin Owns Ye All';
+SELECT * FROM albums a WHERE a.name = 'The Archaic Course';
+SELECT * FROM albums a WHERE a.name = 'Without A Sound';
+SELECT * FROM albums a WHERE a.name = 'Five Deadly Venoms';
+SELECT * FROM albums a WHERE a.name = 'Declaration Of A Headhunter';
+SELECT * FROM albums a WHERE a.name = 'Thane To The Throne';
+SELECT * FROM albums a WHERE a.name = 'And Then You´ll Beg';
+SELECT * FROM albums a WHERE a.name = 'Wasting Time (Eternal Summer)';
+SELECT * FROM albums a WHERE a.name = 'Deadlands';
+SELECT * FROM albums a WHERE a.name = 'Synergy';
+SELECT * FROM albums a WHERE a.name = 'Cain';
+SELECT * FROM albums a WHERE a.name = 'Death After Life';
+SELECT * FROM albums a WHERE a.name = 'Act Of Faith';
+SELECT * FROM albums a WHERE a.name = 'The Best Club in the World EP';
+SELECT * FROM albums a WHERE a.name = 'Sweet Mental';
+SELECT * FROM albums a WHERE a.name = 'Buried Alive';
+SELECT * FROM albums a WHERE a.name = 'We Must Obey';
+SELECT * FROM albums a WHERE a.name = 'King Of The Golden West';
+SELECT * FROM albums a WHERE a.name = 'Mister Cowboy';
+SELECT * FROM albums a WHERE a.name = 'Java Jive';
+SELECT * FROM albums a WHERE a.name = 'Rock ''n'' Roll Drive In - 75 Original Recordings';
+SELECT * FROM albums a WHERE a.name = 'En concert au Splendid';
+SELECT * FROM albums a WHERE a.name = 'Power';
+SELECT * FROM albums a WHERE a.name = 'DAVIS_ C.: Alice in Wonderland [Ballet] (Prague City Philharmonic_ Davis)';
+SELECT * FROM albums a WHERE a.name = '12 * 25';
+SELECT * FROM albums a WHERE a.name = 'Seize The Day';
+SELECT * FROM albums a WHERE a.name = 'Jazz And Flowers';
+SELECT * FROM albums a WHERE a.name = 'Bongolito''s Hideaway';
+SELECT * FROM albums a WHERE a.name = 'Chill House Planet_ Vol. 4';
+SELECT * FROM albums a WHERE a.name = 'Hoop + Wire';
+SELECT * FROM albums a WHERE a.name = 'Nearer My God To Thee (Digitally Remastered)';
+SELECT * FROM albums a WHERE a.name = 'Music In The Morgan Manner (Digitally Remastered)';
+SELECT * FROM albums a WHERE a.name = 'Toolbox Part 1';
+SELECT * FROM albums a WHERE a.name = 'In My Blood';
+SELECT * FROM albums a WHERE a.name = '11-22';
+SELECT * FROM albums a WHERE a.name = 'Tributo a Marcos Chacon';
+SELECT * FROM albums a WHERE a.name = 'When You Were Shouting At The Devil... We Were In League With Satan';
+SELECT * FROM albums a WHERE a.name = 'A Dead Heavy Day';
+SELECT * FROM albums a WHERE a.name = 'Latina the Best Compilation_ Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Magnetofon';
+SELECT * FROM albums a WHERE a.name = 'Bound By Fire (re-issue)';
+SELECT * FROM albums a WHERE a.name = 'Vagabundo Ao Vivo';
+SELECT * FROM albums a WHERE a.name = 'High Tide';
+SELECT * FROM albums a WHERE a.name = 'Born Again';
+SELECT * FROM albums a WHERE a.name = 'Dubnamite';
+SELECT * FROM albums a WHERE a.name = 'Penny Pills';
+SELECT * FROM albums a WHERE a.name = '50 Love Songs';
+SELECT * FROM albums a WHERE a.name = 'The Great Stone War';
+SELECT * FROM albums a WHERE a.name = 'The Somnambulist';
+SELECT * FROM albums a WHERE a.name = 'New Blood';
+SELECT * FROM albums a WHERE a.name = 'The Modern Deep Left Quartet';
+SELECT * FROM albums a WHERE a.name = 'The Aladdin Records Story';
+SELECT * FROM albums a WHERE a.name = 'Think Like A Mountain';
+SELECT * FROM albums a WHERE a.name = 'Daten-Übertragungs-Küsschen Remixes';
+SELECT * FROM albums a WHERE a.name = 'Julekvad';
+SELECT * FROM albums a WHERE a.name = 'Inn For Landing';
+SELECT * FROM albums a WHERE a.name = 'Kippschwinger';
+SELECT * FROM albums a WHERE a.name = 'FK10';
+SELECT * FROM albums a WHERE a.name = 'Like A Rocket';
+SELECT * FROM albums a WHERE a.name = 'B.L.U.E.S.';
+SELECT * FROM albums a WHERE a.name = 'Alessandro Tognetti Select';
+SELECT * FROM albums a WHERE a.name = 'Nadine';
+SELECT * FROM albums a WHERE a.name = 'Angelfish';
+SELECT * FROM albums a WHERE a.name = 'Adios';
+SELECT * FROM albums a WHERE a.name = 'Coconut';
+SELECT * FROM albums a WHERE a.name = 'Feels Like I''m In Love';
+SELECT * FROM albums a WHERE a.name = 'Total Recall Vol. 4';
+SELECT * FROM albums a WHERE a.name = 'Strictly The Best Vol. 32';
+SELECT * FROM albums a WHERE a.name = 'Riddim Driven: 12 Gauge';
+SELECT * FROM albums a WHERE a.name = 'It''s Not The End Of The World';
+SELECT * FROM albums a WHERE a.name = 'Fueled By Hate';
+SELECT * FROM albums a WHERE a.name = 'The Concealers';
+SELECT * FROM albums a WHERE a.name = 'The Forgotten Tales (Remastered)';
+SELECT * FROM albums a WHERE a.name = 'Monster Tunes Winter Collection 01';
+SELECT * FROM albums a WHERE a.name = 'The Brutalist Bricks';
+SELECT * FROM albums a WHERE a.name = 'Sacred Area';
+SELECT * FROM albums a WHERE a.name = 'Clint to Kubrik - Soundtrack to a Century 2';
+SELECT * FROM albums a WHERE a.name = 'New York City 1930 - 1939 Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'A Lady Loves';
+SELECT * FROM albums a WHERE a.name = 'Forgery';
+SELECT * FROM albums a WHERE a.name = 'Totally Clubbed Up';
+SELECT * FROM albums a WHERE a.name = 'Loupita';
+SELECT * FROM albums a WHERE a.name = 'Local Band Does O.K.';
+SELECT * FROM albums a WHERE a.name = 'Browen';
+SELECT * FROM albums a WHERE a.name = 'Wonder Wheel';
+SELECT * FROM albums a WHERE a.name = 'Dreams in America';
+SELECT * FROM albums a WHERE a.name = 'Funkatron';
+SELECT * FROM albums a WHERE a.name = 'The Complete A & B Sides 1961 - 1968';
+SELECT * FROM albums a WHERE a.name = 'Long ''Bout Midnight';
+SELECT * FROM albums a WHERE a.name = 'Lo Esencial de la Maldita Vecindad y los Hijos del Quinto Patio';
+SELECT * FROM albums a WHERE a.name = '40+ [2cd]';
+SELECT * FROM albums a WHERE a.name = 'Sus Mas Grandes Exitos (En Vivo)';
+SELECT * FROM albums a WHERE a.name = '10 Versions';
+SELECT * FROM albums a WHERE a.name = 'Songs Along The Way';
+SELECT * FROM albums a WHERE a.name = 'Flamingo Remix EP';
+SELECT * FROM albums a WHERE a.name = 'Tesoros de Colección - Los Hooligans';
+SELECT * FROM albums a WHERE a.name = 'Die Geschichte der bekanntesten Attentate';
+SELECT * FROM albums a WHERE a.name = 'Best of 40''s and 50''s_ Vol. 53';
+SELECT * FROM albums a WHERE a.name = 'Johanna Zeul';
+SELECT * FROM albums a WHERE a.name = 'Twelvepack';
+SELECT * FROM albums a WHERE a.name = 'Outbursts';
+SELECT * FROM albums a WHERE a.name = 'God of War: Blood & Metal';
+SELECT * FROM albums a WHERE a.name = 'Jason Derulo';
+SELECT * FROM albums a WHERE a.name = 'Elect The Dead Symphony';
+SELECT * FROM albums a WHERE a.name = 'Bloc Bizniz';
+SELECT * FROM albums a WHERE a.name = 'Suburbia Remixes';
+SELECT * FROM albums a WHERE a.name = 'Show Stoppers';
+SELECT * FROM albums a WHERE a.name = 'Hot And Fire';
+SELECT * FROM albums a WHERE a.name = 'Infinity - R3MIXED';
+SELECT * FROM albums a WHERE a.name = 'Bert & John';
+SELECT * FROM albums a WHERE a.name = 'Tip Of The Tongue State';
+SELECT * FROM albums a WHERE a.name = 'Addicted To Black';
+SELECT * FROM albums a WHERE a.name = 'Look For a Star';
+SELECT * FROM albums a WHERE a.name = 'The Great Perry Como_ Vol. 1 (Remastered)';
+SELECT * FROM albums a WHERE a.name = 'Western Themes';
+SELECT * FROM albums a WHERE a.name = 'Live - Ao vivo';
+SELECT * FROM albums a WHERE a.name = 'Faya';
+SELECT * FROM albums a WHERE a.name = 'Plains_ Plateaus And Mountains';
+SELECT * FROM albums a WHERE a.name = 'Science Fiction';
+SELECT * FROM albums a WHERE a.name = 'Big Echo';
+SELECT * FROM albums a WHERE a.name = 'BM';
+SELECT * FROM albums a WHERE a.name = 'Visions';
+SELECT * FROM albums a WHERE a.name = 'The Venom It Drips';
+SELECT * FROM albums a WHERE a.name = 'Für die Ewigkeit';
+SELECT * FROM albums a WHERE a.name = 'The Crystal Sleep';
+SELECT * FROM albums a WHERE a.name = 'Are We Still In The Game?';
+SELECT * FROM albums a WHERE a.name = 'Dave Digs Disney';
+SELECT * FROM albums a WHERE a.name = 'Miami Tunes 2010';
+SELECT * FROM albums a WHERE a.name = 'Trust Your Soul';
+SELECT * FROM albums a WHERE a.name = 'Devious Dan Ep';
+SELECT * FROM albums a WHERE a.name = 'Sven Väth In the Mix - the Sound of the Ninth Season';
+SELECT * FROM albums a WHERE a.name = 'Sven Väth In the Mix - the Sound of the Tenth Season';
+SELECT * FROM albums a WHERE a.name = 'While We''re Becoming';
+SELECT * FROM albums a WHERE a.name = 'Salsa Cubana Vol.8';
+SELECT * FROM albums a WHERE a.name = 'Greatest Joints';
+SELECT * FROM albums a WHERE a.name = 'In Order';
+SELECT * FROM albums a WHERE a.name = 'Johnny Dankworth / Let''s Slip Away - Film And TV 1960 - 1973';
+SELECT * FROM albums a WHERE a.name = '6x4';
+SELECT * FROM albums a WHERE a.name = 'Little Windows';
+SELECT * FROM albums a WHERE a.name = 'Last of England';
+SELECT * FROM albums a WHERE a.name = 'Live Recordings_ TV-Clips & Roadmovie (Audio Version)';
+SELECT * FROM albums a WHERE a.name = 'OuTLeT';
+SELECT * FROM albums a WHERE a.name = 'Viva Rock Vegas';
+SELECT * FROM albums a WHERE a.name = 'Let''s Rock';
+SELECT * FROM albums a WHERE a.name = 'Helio Sun';
+SELECT * FROM albums a WHERE a.name = 'High Glow';
+SELECT * FROM albums a WHERE a.name = 'Sun In Your Eyes / Advanced Reaction EP';
+SELECT * FROM albums a WHERE a.name = 'Knowledge and Ignorance';
+SELECT * FROM albums a WHERE a.name = 'The Swing Of Things';
+SELECT * FROM albums a WHERE a.name = 'Tunnel Trance Force Vol. 51 Download Edition (20 Maxximum Overdrive Hardclub Traxx Plus DJ Dean''s M';
+SELECT * FROM albums a WHERE a.name = '2008 - Live';
+SELECT * FROM albums a WHERE a.name = 'Cool & Easy';
+SELECT * FROM albums a WHERE a.name = 'Sound of Berlin 6 - The Finest Club Sounds Selection of House_ Electro_ Minimal and Techno';
+SELECT * FROM albums a WHERE a.name = 'Tag für Sieger';
+SELECT * FROM albums a WHERE a.name = 'Jamaican E.T.';
+SELECT * FROM albums a WHERE a.name = 'Black Sheep EP';
+SELECT * FROM albums a WHERE a.name = 'Simple Isn''T Easy';
+SELECT * FROM albums a WHERE a.name = 'Collector''s Gold Series';
+SELECT * FROM albums a WHERE a.name = 'Lil'' Suzy - The Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Factory Showroom';
+SELECT * FROM albums a WHERE a.name = 'A Nu Day';
+SELECT * FROM albums a WHERE a.name = 'The Instigator';
+SELECT * FROM albums a WHERE a.name = 'Confiá';
+SELECT * FROM albums a WHERE a.name = 'The World Of Boots Randolph';
+SELECT * FROM albums a WHERE a.name = 'Just The Hits 2009';
+SELECT * FROM albums a WHERE a.name = 'Exhibition Century';
+SELECT * FROM albums a WHERE a.name = 'Interpreting the Masters Volume 1: A Tribute to Daryl Hall and John Oates';
+SELECT * FROM albums a WHERE a.name = 'Make Time For Love';
+SELECT * FROM albums a WHERE a.name = 'Zebra Live';
+SELECT * FROM albums a WHERE a.name = 'Cowboy Christmas';
+SELECT * FROM albums a WHERE a.name = 'You';
+SELECT * FROM albums a WHERE a.name = 'Seconds Away From Salvation';
+SELECT * FROM albums a WHERE a.name = 'Survival Story';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Old Fashioned Love Songs';
+SELECT * FROM albums a WHERE a.name = 'Goin'' Back To New Orleans';
+SELECT * FROM albums a WHERE a.name = 'New Life';
+SELECT * FROM albums a WHERE a.name = 'Law And Order';
+SELECT * FROM albums a WHERE a.name = 'Trumslagarpojken';
+SELECT * FROM albums a WHERE a.name = 'Ett slag';
+SELECT * FROM albums a WHERE a.name = 'Night Walk';
+SELECT * FROM albums a WHERE a.name = 'Light in the Dark';
+SELECT * FROM albums a WHERE a.name = 'Right Here_ Right Now';
+SELECT * FROM albums a WHERE a.name = 'The Whole Scenario';
+SELECT * FROM albums a WHERE a.name = 'Hyper Sound';
+SELECT * FROM albums a WHERE a.name = 'Fairy Tales';
+SELECT * FROM albums a WHERE a.name = 'No Shields';
+SELECT * FROM albums a WHERE a.name = 'From Beyond The Grave';
+SELECT * FROM albums a WHERE a.name = 'Rock Crown';
+SELECT * FROM albums a WHERE a.name = 'Floppy Drive';
+SELECT * FROM albums a WHERE a.name = 'Soul & Inspiration';
+SELECT * FROM albums a WHERE a.name = 'Back To Basics';
+SELECT * FROM albums a WHERE a.name = 'Face To Face';
+SELECT * FROM albums a WHERE a.name = 'Visit Me';
+SELECT * FROM albums a WHERE a.name = 'Untitled';
+SELECT * FROM albums a WHERE a.name = 'Mirage A Trois';
+SELECT * FROM albums a WHERE a.name = 'Field Day';
+SELECT * FROM albums a WHERE a.name = 'Fantastic Planet';
+SELECT * FROM albums a WHERE a.name = 'Little Acts Of Treason';
+SELECT * FROM albums a WHERE a.name = 'Sexsational';
+SELECT * FROM albums a WHERE a.name = '60''s Girl Groups';
+SELECT * FROM albums a WHERE a.name = 'Hypnotize The Moon';
+SELECT * FROM albums a WHERE a.name = 'Chronicle Kings';
+SELECT * FROM albums a WHERE a.name = 'Home Of The Brave';
+SELECT * FROM albums a WHERE a.name = 'From In The Shadows';
+SELECT * FROM albums a WHERE a.name = 'The Right Kind Of Life';
+SELECT * FROM albums a WHERE a.name = 'Bing Crosby Gets Romantic';
+SELECT * FROM albums a WHERE a.name = 'Secrets glacés';
+SELECT * FROM albums a WHERE a.name = 'Autocarro 45';
+SELECT * FROM albums a WHERE a.name = 'I wanna grow old with You';
+SELECT * FROM albums a WHERE a.name = 'Easton Corbin';
+SELECT * FROM albums a WHERE a.name = 'Handmade Essence';
+SELECT * FROM albums a WHERE a.name = 'My - Rock!';
+SELECT * FROM albums a WHERE a.name = 'Who Did It To Michelle Waters?';
+SELECT * FROM albums a WHERE a.name = 'Dreamatic - TNR007';
+SELECT * FROM albums a WHERE a.name = 'Marc Romboy pres. Musica Electronica Vol. 4';
+SELECT * FROM albums a WHERE a.name = 'Fabulös';
+SELECT * FROM albums a WHERE a.name = 'A Real Live Dolly';
+SELECT * FROM albums a WHERE a.name = 'Il Mercante Di Stelle';
+SELECT * FROM albums a WHERE a.name = 'Velocifero (Remixed and Rare)';
+SELECT * FROM albums a WHERE a.name = '32 Karat Juice II';
+SELECT * FROM albums a WHERE a.name = 'Cold And Bitter Tears';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'Sigh';
+SELECT * FROM albums a WHERE a.name = 'Bonzai Worx - DJ Sessions 22 - mixed by Max Angel';
+SELECT * FROM albums a WHERE a.name = 'Stardust Vol 2';
+SELECT * FROM albums a WHERE a.name = 'Great British Rock ''n'' Roll - Just About As Good As It Gets!_ Vol. 4';
+SELECT * FROM albums a WHERE a.name = 'Great Rockabilly - Just About As Good As It Gets!_ Vol. 4';
+SELECT * FROM albums a WHERE a.name = 'Shall I Play For You?';
+SELECT * FROM albums a WHERE a.name = 'Love Songs';
+SELECT * FROM albums a WHERE a.name = 'Utopia';
+SELECT * FROM albums a WHERE a.name = 'Mardraum';
+SELECT * FROM albums a WHERE a.name = 'Snowbound';
+SELECT * FROM albums a WHERE a.name = 'No dejes de bailar';
+SELECT * FROM albums a WHERE a.name = 'Bardot';
+SELECT * FROM albums a WHERE a.name = 'Busoni: Piano Concerto, Turandot Suite Etc';
+SELECT * FROM albums a WHERE a.name = 'Tide Is High';
+SELECT * FROM albums a WHERE a.name = 'Delroy';
+SELECT * FROM albums a WHERE a.name = 'Charles Aznavour Volume 2';
+SELECT * FROM albums a WHERE a.name = 'Euge Groove';
+SELECT * FROM albums a WHERE a.name = 'The Difficult First Album';
+SELECT * FROM albums a WHERE a.name = 'Serial';
+SELECT * FROM albums a WHERE a.name = 'IN2LATIN';
+SELECT * FROM albums a WHERE a.name = 'Fallen Angel';
+SELECT * FROM albums a WHERE a.name = '120 Romantic Classical Masterpieces';
+SELECT * FROM albums a WHERE a.name = 'El Cantante del Siglo /  Boleros';
+SELECT * FROM albums a WHERE a.name = 'Thou Art In Heaven';
+SELECT * FROM albums a WHERE a.name = 'Rebota';
+SELECT * FROM albums a WHERE a.name = 'Antología. . . Toña la Negra';
+SELECT * FROM albums a WHERE a.name = 'Tesoros Mexicanos';
+SELECT * FROM albums a WHERE a.name = 'La Garra Suena con Todo';
+SELECT * FROM albums a WHERE a.name = 'Calendar Girl';
+SELECT * FROM albums a WHERE a.name = 'The Story Of Your Life';
+SELECT * FROM albums a WHERE a.name = 'Heat Fetish';
+SELECT * FROM albums a WHERE a.name = 'Murder 4 Hire';
+SELECT * FROM albums a WHERE a.name = 'GOD''S GRACE';
+SELECT * FROM albums a WHERE a.name = 'Are You Scared To Get Happy?';
+SELECT * FROM albums a WHERE a.name = 'Artificial Respiratory';
+SELECT * FROM albums a WHERE a.name = 'Conversations';
+SELECT * FROM albums a WHERE a.name = 'Absinthe';
+SELECT * FROM albums a WHERE a.name = 'Hardcore Will Never Die!';
+SELECT * FROM albums a WHERE a.name = 'Fade';
+SELECT * FROM albums a WHERE a.name = 'Best of';
+SELECT * FROM albums a WHERE a.name = 'Christmas In Vegas - Snowman And Snowflake';
+SELECT * FROM albums a WHERE a.name = 'The Major and the Minor';
+SELECT * FROM albums a WHERE a.name = 'The Most Beloved Songs of Shaike Paikov';
+SELECT * FROM albums a WHERE a.name = 'The Mood I''m in';
+SELECT * FROM albums a WHERE a.name = 'And His Gummiband';
+SELECT * FROM albums a WHERE a.name = 'Classic Years of The Merry Macs';
+SELECT * FROM albums a WHERE a.name = 'M20';
+SELECT * FROM albums a WHERE a.name = 'My Propeller';
+SELECT * FROM albums a WHERE a.name = 'Just About as Good as It Gets!';
+SELECT * FROM albums a WHERE a.name = 'Total Dance 2008 Vol. 2';
+SELECT * FROM albums a WHERE a.name = '2012 EP';
+SELECT * FROM albums a WHERE a.name = 'Haven''t You Heard';
+SELECT * FROM albums a WHERE a.name = 'Alien 4';
+SELECT * FROM albums a WHERE a.name = '88 Keys & Counting';
+SELECT * FROM albums a WHERE a.name = 'Five men swinging';
+SELECT * FROM albums a WHERE a.name = 'Just an American Boy';
+SELECT * FROM albums a WHERE a.name = 'Mauricio Kagel: Les Idees Fixes';
+SELECT * FROM albums a WHERE a.name = 'The Piano Virtuoso: Sergio Tiempo plays Chopin_ Bach_ Mozart and Ginastera';
+SELECT * FROM albums a WHERE a.name = 'Bombard Your Soul';
+SELECT * FROM albums a WHERE a.name = 'Scapple from the Apple (The Early Years)';
+SELECT * FROM albums a WHERE a.name = 'Go_ Went_ Gone';
+SELECT * FROM albums a WHERE a.name = 'As You Desire Me  (The Very Best Of_ Vol. 1)';
+SELECT * FROM albums a WHERE a.name = 'Hello Walls (The Faron Young Story_ Vol. 2)';
+SELECT * FROM albums a WHERE a.name = 'Profile Lost (Jeff Bennett Remixes)';
+SELECT * FROM albums a WHERE a.name = 'Klouds';
+SELECT * FROM albums a WHERE a.name = 'On Fire!';
+SELECT * FROM albums a WHERE a.name = 'Tweet Tweet';
+SELECT * FROM albums a WHERE a.name = 'Kyana';
+SELECT * FROM albums a WHERE a.name = 'Mechanic Side Of Nature';
+SELECT * FROM albums a WHERE a.name = 'Lärm';
+SELECT * FROM albums a WHERE a.name = 'Jag tyckte jag var glad';
+SELECT * FROM albums a WHERE a.name = 'The End of an Error';
+SELECT * FROM albums a WHERE a.name = 'Tarkat Tajje / Let''s Go!';
+SELECT * FROM albums a WHERE a.name = 'Triangle Of Love / Allunaggio';
+SELECT * FROM albums a WHERE a.name = 'Hand Made';
+SELECT * FROM albums a WHERE a.name = 'Westside Memories';
+SELECT * FROM albums a WHERE a.name = 'Die Fremde';
+SELECT * FROM albums a WHERE a.name = 'Armada On Mercury';
+SELECT * FROM albums a WHERE a.name = 'Back To Basics';
+SELECT * FROM albums a WHERE a.name = 'The New Pathetic';
+SELECT * FROM albums a WHERE a.name = 'Absolute Power';
+SELECT * FROM albums a WHERE a.name = 'From Isolation';
+SELECT * FROM albums a WHERE a.name = 'Aurona Arona';
+SELECT * FROM albums a WHERE a.name = 'Sonando Ya';
+SELECT * FROM albums a WHERE a.name = 'Álbum de la Revolución';
+SELECT * FROM albums a WHERE a.name = 'Modern Time Remixed Pt. 1';
+SELECT * FROM albums a WHERE a.name = 'I Get Off';
+SELECT * FROM albums a WHERE a.name = 'World In Love Ep';
+SELECT * FROM albums a WHERE a.name = 'Greatest Zits 1990-2003 + Bonus Surf CD';
+SELECT * FROM albums a WHERE a.name = 'Auto Tune - Single';
+SELECT * FROM albums a WHERE a.name = 'Have A Little Faith In People';
+SELECT * FROM albums a WHERE a.name = 'The Code';
+SELECT * FROM albums a WHERE a.name = 'Duces ''N Trayz: The Old Fashioned Way (Clean)';
+SELECT * FROM albums a WHERE a.name = 'Tribal America';
+SELECT * FROM albums a WHERE a.name = 'mental [per]mutation';
+SELECT * FROM albums a WHERE a.name = 'Best of Aqualoop (Vol. 2)';
+SELECT * FROM albums a WHERE a.name = 'Roberta';
+SELECT * FROM albums a WHERE a.name = 'J & Friends Sing & Chant for Amma';
+SELECT * FROM albums a WHERE a.name = 'Highly Aggressive_ Mixtape Vol. 2';
+SELECT * FROM albums a WHERE a.name = 'Stuff LikeThat EP';
+SELECT * FROM albums a WHERE a.name = 'They Come For Us';
+SELECT * FROM albums a WHERE a.name = 'So Low';
+SELECT * FROM albums a WHERE a.name = 'If You Leave It Alone';
+SELECT * FROM albums a WHERE a.name = 'Yeah So';
+SELECT * FROM albums a WHERE a.name = 'Cant Stop Us Now';
+SELECT * FROM albums a WHERE a.name = 'The Platinum Collection';
+SELECT * FROM albums a WHERE a.name = 'AZ Mezzanine Digital Volume 4';
+SELECT * FROM albums a WHERE a.name = '99 Songs of Revolution';
+SELECT * FROM albums a WHERE a.name = 'Music From The Revelator Collection';
+SELECT * FROM albums a WHERE a.name = 'Vne nominatsiy';
+SELECT * FROM albums a WHERE a.name = 'George Duke';
+SELECT * FROM albums a WHERE a.name = 'Our Day Will Come';
+SELECT * FROM albums a WHERE a.name = 'GBGvsSTHLM';
+SELECT * FROM albums a WHERE a.name = 'Princess';
+SELECT * FROM albums a WHERE a.name = 'Let It Roll';
+SELECT * FROM albums a WHERE a.name = 'Live In San Francisco';
+SELECT * FROM albums a WHERE a.name = 'Di Notte';
+SELECT * FROM albums a WHERE a.name = 'Que el viento sople a tu favor';
+SELECT * FROM albums a WHERE a.name = 'Ape-ology Presents Super Ape Vs Return Of The Super Ape';
+SELECT * FROM albums a WHERE a.name = 'Born Dead';
+SELECT * FROM albums a WHERE a.name = 'Beyond The Sunset';
+SELECT * FROM albums a WHERE a.name = 'Paris Nights/ New York Mornings';
+SELECT * FROM albums a WHERE a.name = 'Bass Check VII';
+SELECT * FROM albums a WHERE a.name = 'Conversation Peace';
+SELECT * FROM albums a WHERE a.name = 'Call it what you Want';
+SELECT * FROM albums a WHERE a.name = 'Trance Raider - Tomb 4';
+SELECT * FROM albums a WHERE a.name = 'The Ultimate Collection';
+SELECT * FROM albums a WHERE a.name = 'Ta Kyriakatika';
+SELECT * FROM albums a WHERE a.name = 'Ta laika tis plateias Omonoias';
+SELECT * FROM albums a WHERE a.name = 'Heroes de los 80. Decima victima';
+SELECT * FROM albums a WHERE a.name = 'COSMIC TROUBADOUR';
+SELECT * FROM albums a WHERE a.name = 'THE UNIVERSE WILL PROVIDE';
+SELECT * FROM albums a WHERE a.name = 'Strictly The Best Vol. 9';
+SELECT * FROM albums a WHERE a.name = 'THAT WAS THEN_ THIS IS NOW';
+SELECT * FROM albums a WHERE a.name = 'III';
+SELECT * FROM albums a WHERE a.name = 'Talking Monkeys In Space';
+SELECT * FROM albums a WHERE a.name = 'Sticky & Sweet Tour';
+SELECT * FROM albums a WHERE a.name = 'Déjà Vu';
+SELECT * FROM albums a WHERE a.name = 'Siren';
+SELECT * FROM albums a WHERE a.name = 'A Leopard & Other Stories';
+SELECT * FROM albums a WHERE a.name = 'The Monitor';
+SELECT * FROM albums a WHERE a.name = 'Live at the Greek Theatre';
+SELECT * FROM albums a WHERE a.name = 'Well Done Europe';
+SELECT * FROM albums a WHERE a.name = 'Living The Dream';
+SELECT * FROM albums a WHERE a.name = 'The Green Album';
+SELECT * FROM albums a WHERE a.name = 'Passion: Awakening (Special Edition)';
+SELECT * FROM albums a WHERE a.name = 'Uomini D''onore';
+SELECT * FROM albums a WHERE a.name = 'Get Shot';
+SELECT * FROM albums a WHERE a.name = 'Bass Shakers Volume 1';
+SELECT * FROM albums a WHERE a.name = 'These Foolish Things';
+SELECT * FROM albums a WHERE a.name = 'Remembering The Future';
+SELECT * FROM albums a WHERE a.name = 'Live By Request';
+SELECT * FROM albums a WHERE a.name = 'Echoes Down The Hall';
+SELECT * FROM albums a WHERE a.name = 'Fresh';
+SELECT * FROM albums a WHERE a.name = 'Symbol Of Submission';
+SELECT * FROM albums a WHERE a.name = 'Assorted Chaos And Broken MacHinery';
+SELECT * FROM albums a WHERE a.name = 'Transparent For You All';
+SELECT * FROM albums a WHERE a.name = 'Deepentertained - The Compilation';
+SELECT * FROM albums a WHERE a.name = 'Ringrada';
+SELECT * FROM albums a WHERE a.name = 'Chopin Nocturnes';
+SELECT * FROM albums a WHERE a.name = 'Naughty Child';
+SELECT * FROM albums a WHERE a.name = 'Room For The Three Of Us';
+SELECT * FROM albums a WHERE a.name = 'The Blood Pressure Sessions';
+SELECT * FROM albums a WHERE a.name = 'Dernière bande (compile)';
+SELECT * FROM albums a WHERE a.name = 'Cold Shower';
+SELECT * FROM albums a WHERE a.name = 'Batalla De Corridos';
+SELECT * FROM albums a WHERE a.name = 'Beats vol.1: Amor';
+SELECT * FROM albums a WHERE a.name = 'Ready For The Fight - Part 2';
+SELECT * FROM albums a WHERE a.name = 'La Musique L''Amour';
+SELECT * FROM albums a WHERE a.name = 'Playa Shit';
+SELECT * FROM albums a WHERE a.name = 'Vintage Pop Nº 45 - EPs Collectors Guadalajara';
+SELECT * FROM albums a WHERE a.name = 'An Untamed Sense of Control';
+SELECT * FROM albums a WHERE a.name = 'Complete Originals Recordings';
+SELECT * FROM albums a WHERE a.name = 'Cante Grande De Mujer';
+SELECT * FROM albums a WHERE a.name = 'Truth';
+SELECT * FROM albums a WHERE a.name = 'The Ultimate Collection';
+SELECT * FROM albums a WHERE a.name = 'Everybody Seems To Be Obscure';
+SELECT * FROM albums a WHERE a.name = 'Love Love Love';
+SELECT * FROM albums a WHERE a.name = 'Back to Galaxy - by Astral Projection';
+SELECT * FROM albums a WHERE a.name = 'Awaken';
+SELECT * FROM albums a WHERE a.name = 'Guten Tach!';
+SELECT * FROM albums a WHERE a.name = 'Fémzene';
+SELECT * FROM albums a WHERE a.name = 'Aloha from Dallas';
+SELECT * FROM albums a WHERE a.name = 'Fragile Forest';
+SELECT * FROM albums a WHERE a.name = 'Play Pool';
+SELECT * FROM albums a WHERE a.name = 'Selexion 3';
+SELECT * FROM albums a WHERE a.name = 'Du Mal A Sconfier';
+SELECT * FROM albums a WHERE a.name = 'Golden 20ies';
+SELECT * FROM albums a WHERE a.name = 'Polymer''s Revolution';
+SELECT * FROM albums a WHERE a.name = 'Back To Boom';
+SELECT * FROM albums a WHERE a.name = 'Uprising 50ies';
+SELECT * FROM albums a WHERE a.name = 'Tribalground vol.2';
+SELECT * FROM albums a WHERE a.name = 'Dibiza';
+SELECT * FROM albums a WHERE a.name = 'Iberican Sound 2005 Remixes';
+SELECT * FROM albums a WHERE a.name = 'BBC In Concert (23rd March 1985)';
+SELECT * FROM albums a WHERE a.name = 'Cicero ep';
+SELECT * FROM albums a WHERE a.name = 'Original Hits - Jazz';
+SELECT * FROM albums a WHERE a.name = 'Soundtrack';
+SELECT * FROM albums a WHERE a.name = 'Crisis and Hope: Theirs and Ours';
+SELECT * FROM albums a WHERE a.name = 'Original Hits - Rap & Soul';
+SELECT * FROM albums a WHERE a.name = 'To Bestial Gods';
+SELECT * FROM albums a WHERE a.name = 'Original Hits - 80s Pop';
+SELECT * FROM albums a WHERE a.name = 'Dependence 2010';
+SELECT * FROM albums a WHERE a.name = 'Jazz Cafe - The Essential Jazz Singers';
+SELECT * FROM albums a WHERE a.name = 'On Broadway';
+SELECT * FROM albums a WHERE a.name = 'Sing Your Blues Away';
+SELECT * FROM albums a WHERE a.name = 'Total Reggae: Island Vibes';
+SELECT * FROM albums a WHERE a.name = 'In Concert: Merchants Of Cool';
+SELECT * FROM albums a WHERE a.name = 'Miranda directo!';
+SELECT * FROM albums a WHERE a.name = 'Bassline - The Very Best In House_ UK Garage & Drum & Bass';
+SELECT * FROM albums a WHERE a.name = 'Blessed Be Our Ever After';
+SELECT * FROM albums a WHERE a.name = 'El Exigente';
+SELECT * FROM albums a WHERE a.name = 'The Harvey Averne Dozen';
+SELECT * FROM albums a WHERE a.name = 'Tribute To Arsenio Rodriguez';
+SELECT * FROM albums a WHERE a.name = 'Tiqui_ Tiqui';
+SELECT * FROM albums a WHERE a.name = 'Palabras Del Capitán Cobarde';
+SELECT * FROM albums a WHERE a.name = 'Five Years Of Dirtybird';
+SELECT * FROM albums a WHERE a.name = 'Trio Tour';
+SELECT * FROM albums a WHERE a.name = 'R';
+SELECT * FROM albums a WHERE a.name = 'Favourite Arias_ Neopolitan Songs & Encores 1925-1955';
+SELECT * FROM albums a WHERE a.name = 'Divas of the Silver Screen';
+SELECT * FROM albums a WHERE a.name = 'Her Nibs_ Miss Gibbs!';
+SELECT * FROM albums a WHERE a.name = 'Wingspan';
+SELECT * FROM albums a WHERE a.name = 'A Deeper Faith II';
+SELECT * FROM albums a WHERE a.name = 'Prayer 101';
+SELECT * FROM albums a WHERE a.name = 'The Singer';
+SELECT * FROM albums a WHERE a.name = 'Un Secreto Terrible';
+SELECT * FROM albums a WHERE a.name = 'En Familia';
+SELECT * FROM albums a WHERE a.name = 'El Resto De Mi Vida';
+SELECT * FROM albums a WHERE a.name = 'The Last Holy Writer';
+SELECT * FROM albums a WHERE a.name = 'Rougeole';
+SELECT * FROM albums a WHERE a.name = '49 Arlington Gardens';
+SELECT * FROM albums a WHERE a.name = 'La Nueva Yma Sumac (Lo Que Nos Dejó La Revolución)';
+SELECT * FROM albums a WHERE a.name = 'Born and Bread a Thug (Futuristic Space Age Version)';
+SELECT * FROM albums a WHERE a.name = 'La rage du ghetto 2';
+SELECT * FROM albums a WHERE a.name = 'The Budapest String Quartet';
+SELECT * FROM albums a WHERE a.name = '4 the Tribe Excitment';
+SELECT * FROM albums a WHERE a.name = 'A Hiigher Place';
+SELECT * FROM albums a WHERE a.name = 'Wide Open Road: The Best Of The Triffids';
+SELECT * FROM albums a WHERE a.name = 'Can''t Live_ Can''t Breathe';
+SELECT * FROM albums a WHERE a.name = 'Little Things Mean a Lot';
+SELECT * FROM albums a WHERE a.name = 'Americano';
+SELECT * FROM albums a WHERE a.name = 'Virtues';
+SELECT * FROM albums a WHERE a.name = 'Solo';
+SELECT * FROM albums a WHERE a.name = 'Pacific Air Race';
+SELECT * FROM albums a WHERE a.name = 'Big Tunes - Back 2 The 80s';
+SELECT * FROM albums a WHERE a.name = 'Fever';
+SELECT * FROM albums a WHERE a.name = 'Always Rumble!';
+SELECT * FROM albums a WHERE a.name = 'Master Seven';
+SELECT * FROM albums a WHERE a.name = 'Loverz Road by Don Vitalo';
+SELECT * FROM albums a WHERE a.name = 'Heart Destruction';
+SELECT * FROM albums a WHERE a.name = 'Summer Days (Featuring Tinka)';
+SELECT * FROM albums a WHERE a.name = 'Manners';
+SELECT * FROM albums a WHERE a.name = 'Tewbk';
+SELECT * FROM albums a WHERE a.name = 'Jonah Jones At The Embers';
+SELECT * FROM albums a WHERE a.name = 'Mit Musik geht alles besser - Ein Lied sagt mehr als 1.000 Worte Vol. 4';
+SELECT * FROM albums a WHERE a.name = 'Foul Taste Of Freedom';
+SELECT * FROM albums a WHERE a.name = '18 And Ova';
+SELECT * FROM albums a WHERE a.name = 'Les réalisateurs: Les plus belles musiques de films de Jean-Pierre Mocky';
+SELECT * FROM albums a WHERE a.name = 'Las Venus Resort Palace Hotel';
+SELECT * FROM albums a WHERE a.name = 'Total Love';
+SELECT * FROM albums a WHERE a.name = 'Popcorn';
+SELECT * FROM albums a WHERE a.name = 'Dub_ Weed & Fyah';
+SELECT * FROM albums a WHERE a.name = 'The Truth Unveils';
+SELECT * FROM albums a WHERE a.name = 'Os soños que volven';
+SELECT * FROM albums a WHERE a.name = 'Hurt me';
+SELECT * FROM albums a WHERE a.name = 'T.W.O.';
+SELECT * FROM albums a WHERE a.name = 'Nino Nardini_ Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'T A X I';
+SELECT * FROM albums a WHERE a.name = 'Boleros De Amor';
+SELECT * FROM albums a WHERE a.name = 'Zume De Tierra';
+SELECT * FROM albums a WHERE a.name = 'Balls (+ Bonus Tracks)';
+SELECT * FROM albums a WHERE a.name = 'Zoo Is Sad_ People Are Cruel';
+SELECT * FROM albums a WHERE a.name = 'The Rise & Fall Of BMX Bandits';
+SELECT * FROM albums a WHERE a.name = 'Sonic Booms 1';
+SELECT * FROM albums a WHERE a.name = 'Lost My Way';
+SELECT * FROM albums a WHERE a.name = 'Terra Ferma / Show Me Your White Bits';
+SELECT * FROM albums a WHERE a.name = 'Benny Carter Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Liberi di fare';
+SELECT * FROM albums a WHERE a.name = 'Ana E Jorge';
+SELECT * FROM albums a WHERE a.name = 'Forgotten Freedom';
+SELECT * FROM albums a WHERE a.name = 'Imagine';
+SELECT * FROM albums a WHERE a.name = 'Absolute Trance Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Without You';
+SELECT * FROM albums a WHERE a.name = 'Indiana Road';
+SELECT * FROM albums a WHERE a.name = 'Balin';
+SELECT * FROM albums a WHERE a.name = 'Berlin Minimal Underground Vol. 4';
+SELECT * FROM albums a WHERE a.name = 'Light Years';
+SELECT * FROM albums a WHERE a.name = 'Soy Una Tostadora';
+SELECT * FROM albums a WHERE a.name = 'Solo''s_ Duo''s & Trio''s';
+SELECT * FROM albums a WHERE a.name = 'Music From Robert Creep & Other Instrumentals';
+SELECT * FROM albums a WHERE a.name = '4 Adaptations of Rossz Csillag Alatt Született';
+SELECT * FROM albums a WHERE a.name = 'The Best of Connie Francis';
+SELECT * FROM albums a WHERE a.name = 'Pure Ana: Version 1.5';
+SELECT * FROM albums a WHERE a.name = 'The Ultimate Collection';
+SELECT * FROM albums a WHERE a.name = 'The Warehouse Remixes';
+SELECT * FROM albums a WHERE a.name = 'Dime Pieces';
+SELECT * FROM albums a WHERE a.name = 'Three''s A Crowd / Blind Eye';
+SELECT * FROM albums a WHERE a.name = 'Shapes 10:01';
+SELECT * FROM albums a WHERE a.name = 'Very Best Of The Blues';
+SELECT * FROM albums a WHERE a.name = 'BKO';
+SELECT * FROM albums a WHERE a.name = '...and they have escaped the weight of darkness';
+SELECT * FROM albums a WHERE a.name = 'Oid';
+SELECT * FROM albums a WHERE a.name = 'I Can Feel';
+SELECT * FROM albums a WHERE a.name = 'Sonic Smash';
+SELECT * FROM albums a WHERE a.name = 'Better Late Than Never';
+SELECT * FROM albums a WHERE a.name = 'Date With The Devil';
+SELECT * FROM albums a WHERE a.name = 'The Wilde Flowers';
+SELECT * FROM albums a WHERE a.name = 'Rootsman (Digital Version)';
+SELECT * FROM albums a WHERE a.name = 'Vintage Sugar Minott_ U Brown and Sammy Dread';
+SELECT * FROM albums a WHERE a.name = 'Gold Guns Girls';
+SELECT * FROM albums a WHERE a.name = 'Ston Erota Den Yparchei Nikitis';
+SELECT * FROM albums a WHERE a.name = 'Rock para las Masas& (Cárnicas)';
+SELECT * FROM albums a WHERE a.name = 'The Best Of Grandmaster Flash & Sugar Hill';
+SELECT * FROM albums a WHERE a.name = 'Everything You''ve Been Looking For';
+SELECT * FROM albums a WHERE a.name = 'Liquid Confidence (Nothing To Lose)';
+SELECT * FROM albums a WHERE a.name = 'The Def Jam Yearz';
+SELECT * FROM albums a WHERE a.name = 'Conquest';
+SELECT * FROM albums a WHERE a.name = 'Fly to me now';
+SELECT * FROM albums a WHERE a.name = 'Rae of Sun';
+SELECT * FROM albums a WHERE a.name = 'Jazz For A Mellow Morning';
+SELECT * FROM albums a WHERE a.name = 'White Sand';
+SELECT * FROM albums a WHERE a.name = 'Heaven Is Whenever';
+SELECT * FROM albums a WHERE a.name = 'What We Want_ What We Get';
+SELECT * FROM albums a WHERE a.name = 'The Quick Hits';
+SELECT * FROM albums a WHERE a.name = 'Buddha-Lounge 7';
+SELECT * FROM albums a WHERE a.name = 'Solar Beam';
+SELECT * FROM albums a WHERE a.name = 'Live at Brushwood Lounge';
+SELECT * FROM albums a WHERE a.name = 'Do It Again';
+SELECT * FROM albums a WHERE a.name = 'Keep This Fire Burning ft. Amanda Wilson';
+SELECT * FROM albums a WHERE a.name = 'Mentalism by Bodhisattva 1320';
+SELECT * FROM albums a WHERE a.name = 'Trance';
+SELECT * FROM albums a WHERE a.name = 'What Is Love (Electro House Music)';
+SELECT * FROM albums a WHERE a.name = 'Año Zero';
+SELECT * FROM albums a WHERE a.name = 'Wonderfull Night';
+SELECT * FROM albums a WHERE a.name = 'Mott The Hoople Live - Thirtieth Anniversary Edition';
+SELECT * FROM albums a WHERE a.name = 'Washing Up';
+SELECT * FROM albums a WHERE a.name = 'Champion Sound';
+SELECT * FROM albums a WHERE a.name = 'Take Us Alive';
+SELECT * FROM albums a WHERE a.name = 'Spring Break Miami 2010';
+SELECT * FROM albums a WHERE a.name = 'Elektron[s] (V2 Remix)';
+SELECT * FROM albums a WHERE a.name = 'The Full Album';
+SELECT * FROM albums a WHERE a.name = 'Interior Design';
+SELECT * FROM albums a WHERE a.name = 'Punisher (Remixes)';
+SELECT * FROM albums a WHERE a.name = 'I Got Your Country Right Here';
+SELECT * FROM albums a WHERE a.name = 'Polkabilly Rebels';
+SELECT * FROM albums a WHERE a.name = 'Rote Lippen Soll Man Küssen (Das Beste Auf Deutsch)';
+SELECT * FROM albums a WHERE a.name = 'Here is to you (The ballad of Sacco and Vanzetti) -';
+SELECT * FROM albums a WHERE a.name = 'Hôtel Costes by Stéphane Pompougnac';
+SELECT * FROM albums a WHERE a.name = 'Hôtel Costes 7 by Stéphane Pompougnac';
+SELECT * FROM albums a WHERE a.name = 'Global DJ Broadcast Top 15 - May 2010';
+SELECT * FROM albums a WHERE a.name = 'Dipset Mania_ Vol. 7';
+SELECT * FROM albums a WHERE a.name = 'Dead End';
+SELECT * FROM albums a WHERE a.name = 'Progressive Movement Vol.2';
+SELECT * FROM albums a WHERE a.name = 'Arrive';
+SELECT * FROM albums a WHERE a.name = 'Tiger Bay';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits Volume 3: Deluxe Edition';
+SELECT * FROM albums a WHERE a.name = 'Blues Express';
+SELECT * FROM albums a WHERE a.name = 'Sauve Qui Peut';
+SELECT * FROM albums a WHERE a.name = 'EXCITED';
+SELECT * FROM albums a WHERE a.name = 'Music Mission 1';
+SELECT * FROM albums a WHERE a.name = 'Dear John OST';
+SELECT * FROM albums a WHERE a.name = 'Tonight';
+SELECT * FROM albums a WHERE a.name = 'Easy Listening Christmas Bliss';
+SELECT * FROM albums a WHERE a.name = 'Christmas Music Banjo';
+SELECT * FROM albums a WHERE a.name = 'Brabant';
+SELECT * FROM albums a WHERE a.name = 'Anytime Day Or Night';
+SELECT * FROM albums a WHERE a.name = 'All Cracked Up - The Demos And Rarities';
+SELECT * FROM albums a WHERE a.name = 'All The Hits Of The Tymes Plus More';
+SELECT * FROM albums a WHERE a.name = 'Recoil: Selected';
+SELECT * FROM albums a WHERE a.name = 'Live Performances';
+SELECT * FROM albums a WHERE a.name = 'All Night Long';
+SELECT * FROM albums a WHERE a.name = 'Breathe';
+SELECT * FROM albums a WHERE a.name = 'Romantic EP';
+SELECT * FROM albums a WHERE a.name = 'Party Heard Around The World';
+SELECT * FROM albums a WHERE a.name = 'Weekend Warrior';
+SELECT * FROM albums a WHERE a.name = 'I''m Not Featuring You';
+SELECT * FROM albums a WHERE a.name = 'The Greatest Hits from 40''s and 50''s_ Vol. 52';
+SELECT * FROM albums a WHERE a.name = 'Nectar EP';
+SELECT * FROM albums a WHERE a.name = 'Illegal Substance';
+SELECT * FROM albums a WHERE a.name = 'Well Dressed For The Art Show';
+SELECT * FROM albums a WHERE a.name = 'On Drive';
+SELECT * FROM albums a WHERE a.name = 'Those Were The Days: 100 Musical Wartime Memories';
+SELECT * FROM albums a WHERE a.name = 'Total 60s';
+SELECT * FROM albums a WHERE a.name = 'Our Mam In Havana 31. Cuban Music';
+SELECT * FROM albums a WHERE a.name = 'The Complete UK Upsetter Singles Collection - Volume 3';
+SELECT * FROM albums a WHERE a.name = 'Bittersweet';
+SELECT * FROM albums a WHERE a.name = 'The Original Bootleg Series From The Manticore Vaults: Volume Four';
+SELECT * FROM albums a WHERE a.name = 'Endymion: Sound Census';
+SELECT * FROM albums a WHERE a.name = 'R U Not Entertained';
+SELECT * FROM albums a WHERE a.name = 'Sing and Play Joy Division';
+SELECT * FROM albums a WHERE a.name = 'The Barbara Mandrell Collection';
+SELECT * FROM albums a WHERE a.name = 'Jersey Shore  Addicted to Drums Mix';
+SELECT * FROM albums a WHERE a.name = 'Grandes Exitos';
+SELECT * FROM albums a WHERE a.name = 'Ganz schön turbülent';
+SELECT * FROM albums a WHERE a.name = 'Rehearsal 4 Reality';
+SELECT * FROM albums a WHERE a.name = '18 Kilates';
+SELECT * FROM albums a WHERE a.name = 'Total Hits Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Tango';
+SELECT * FROM albums a WHERE a.name = 'Paintings Of The Soul';
+SELECT * FROM albums a WHERE a.name = '77';
+SELECT * FROM albums a WHERE a.name = 'A Camarón';
+SELECT * FROM albums a WHERE a.name = 'Mi mejor Navidad';
+SELECT * FROM albums a WHERE a.name = 'Gloria! Vivaldi''s Angels';
+SELECT * FROM albums a WHERE a.name = 'When I Grow Up_ I Wanna F*ck Like A Girl';
+SELECT * FROM albums a WHERE a.name = 'The Highway Is a Circle';
+SELECT * FROM albums a WHERE a.name = 'Latin';
+SELECT * FROM albums a WHERE a.name = 'El Paso - 25 Songs Of The West';
+SELECT * FROM albums a WHERE a.name = 'Crank it up EP';
+SELECT * FROM albums a WHERE a.name = 'Checkmate Reggae Squeeze Vol.2';
+SELECT * FROM albums a WHERE a.name = 'Which Side Are You On';
+SELECT * FROM albums a WHERE a.name = 'Vertically Challenged (Clean Ver)';
+SELECT * FROM albums a WHERE a.name = 'ROACH: Now / Traveler';
+SELECT * FROM albums a WHERE a.name = 'Broomientje';
+SELECT * FROM albums a WHERE a.name = 'Huellas';
+SELECT * FROM albums a WHERE a.name = 'True';
+SELECT * FROM albums a WHERE a.name = 'Ciclos';
+SELECT * FROM albums a WHERE a.name = 'The Sweet According to Sweden';
+SELECT * FROM albums a WHERE a.name = 'Zeig mir wo du bist ep';
+SELECT * FROM albums a WHERE a.name = 'Rolös';
+SELECT * FROM albums a WHERE a.name = 'Standing Steady';
+SELECT * FROM albums a WHERE a.name = 'L''odio del mondo rese l''uomo schiavo dell''amore';
+SELECT * FROM albums a WHERE a.name = 'Need You Now';
+SELECT * FROM albums a WHERE a.name = 'Escape From Babylon';
+SELECT * FROM albums a WHERE a.name = 'Kokoro no Hoshi';
+SELECT * FROM albums a WHERE a.name = 'Nocturno';
+SELECT * FROM albums a WHERE a.name = 'Infinite Arms';
+SELECT * FROM albums a WHERE a.name = 'Lucky Clover';
+SELECT * FROM albums a WHERE a.name = 'Stinga 1';
+SELECT * FROM albums a WHERE a.name = 'Lo Mejor De Sinatra';
+SELECT * FROM albums a WHERE a.name = 'The Best Of The Ejected';
+SELECT * FROM albums a WHERE a.name = 'Powder Monkey';
+SELECT * FROM albums a WHERE a.name = 'Next Stop ... Soweto Vol. 2: Soultown. R&B_ Funk & Psych Sounds from the Townships 1969-1976';
+SELECT * FROM albums a WHERE a.name = 'Live at Gruene Hall';
+SELECT * FROM albums a WHERE a.name = 'He Tenido Un Sueño (Extended Version)';
+SELECT * FROM albums a WHERE a.name = 'Rebirth';
+SELECT * FROM albums a WHERE a.name = 'Reflexion Bajo Un Flexo';
+SELECT * FROM albums a WHERE a.name = 'La Misiva (Edicion Especial)';
+SELECT * FROM albums a WHERE a.name = 'Distant Memories';
+SELECT * FROM albums a WHERE a.name = 'Otherview';
+SELECT * FROM albums a WHERE a.name = 'Escapade';
+SELECT * FROM albums a WHERE a.name = 'Orange Sky';
+SELECT * FROM albums a WHERE a.name = 'My Heart Goes Up';
+SELECT * FROM albums a WHERE a.name = 'The Japanese Compilation';
+SELECT * FROM albums a WHERE a.name = 'Thoughtspan';
+SELECT * FROM albums a WHERE a.name = 'Dirty Moons';
+SELECT * FROM albums a WHERE a.name = 'Total Woman';
+SELECT * FROM albums a WHERE a.name = 'This is .... Gordon';
+SELECT * FROM albums a WHERE a.name = 'Und Ewig Ruft Die Liebe';
+SELECT * FROM albums a WHERE a.name = 'Ladies Night';
+SELECT * FROM albums a WHERE a.name = 'Essential Drum & Bass Vol 2';
+SELECT * FROM albums a WHERE a.name = 'Brown Is Beautiful';
+SELECT * FROM albums a WHERE a.name = 'Dancing in the dark';
+SELECT * FROM albums a WHERE a.name = 'Drums Monsters';
+SELECT * FROM albums a WHERE a.name = 'Coleccion Estelar de Sabor Salsera';
+SELECT * FROM albums a WHERE a.name = 'Struggla / Born Inna System Remixes';
+SELECT * FROM albums a WHERE a.name = 'The Gatlin Brothers (Gospel Gold)';
+SELECT * FROM albums a WHERE a.name = 'Identity';
+SELECT * FROM albums a WHERE a.name = 'Farrah';
+SELECT * FROM albums a WHERE a.name = 'Deep Elm Sampler No. 3 - Sound Spirit Fury Fire';
+SELECT * FROM albums a WHERE a.name = 'The End of Irony';
+SELECT * FROM albums a WHERE a.name = 'Silver Summit';
+SELECT * FROM albums a WHERE a.name = 'Du Rififi à la Télé_ Vol. 4: Bandes originales de polars télévisés';
+SELECT * FROM albums a WHERE a.name = 'Zentone (Zenzile Meets High Tone)';
+SELECT * FROM albums a WHERE a.name = 'One Love';
+SELECT * FROM albums a WHERE a.name = 'Psionic Realms';
+SELECT * FROM albums a WHERE a.name = 'Infernal Angel';
+SELECT * FROM albums a WHERE a.name = '$100 Fine';
+SELECT * FROM albums a WHERE a.name = 'Kiss Your Heart Goodbye';
+SELECT * FROM albums a WHERE a.name = 'Despegue';
+SELECT * FROM albums a WHERE a.name = 'The New Jim Jones';
+SELECT * FROM albums a WHERE a.name = 'Tha Dogg Pound Gangsta LP';
+SELECT * FROM albums a WHERE a.name = 'Strictly Bob Sinclar';
+SELECT * FROM albums a WHERE a.name = 'Heaps of Nothing';
+SELECT * FROM albums a WHERE a.name = 'Ultraviolet';
+SELECT * FROM albums a WHERE a.name = 'Brazil Calyps''o Samba (Ile Axè - Brésil)';
+SELECT * FROM albums a WHERE a.name = '90 93';
+SELECT * FROM albums a WHERE a.name = 'Plunder_ Beg_ and Curse';
+SELECT * FROM albums a WHERE a.name = 'When The Broken Hearted Love Again';
+SELECT * FROM albums a WHERE a.name = 'Souls On Fire';
+SELECT * FROM albums a WHERE a.name = 'Unorthodox';
+SELECT * FROM albums a WHERE a.name = 'Jubileum II';
+SELECT * FROM albums a WHERE a.name = 'Is Hot !';
+SELECT * FROM albums a WHERE a.name = 'A Gershwin Songbook';
+SELECT * FROM albums a WHERE a.name = 'Take Five';
+SELECT * FROM albums a WHERE a.name = 'A Doodlin'' Song';
+SELECT * FROM albums a WHERE a.name = 'Oriental Christmas';
+SELECT * FROM albums a WHERE a.name = 'Punch Drunk';
+SELECT * FROM albums a WHERE a.name = 'Tru Thoughts Funk';
+SELECT * FROM albums a WHERE a.name = 'Circulos Concéntricos';
+SELECT * FROM albums a WHERE a.name = 'Sin Tiempo';
+SELECT * FROM albums a WHERE a.name = 'Cloud Cuckooland';
+SELECT * FROM albums a WHERE a.name = 'UK Rapscallion';
+SELECT * FROM albums a WHERE a.name = 'Huvafen Fushi Maldives Volume 2';
+SELECT * FROM albums a WHERE a.name = 'Dizzy 60''s';
+SELECT * FROM albums a WHERE a.name = 'Hot Piano';
+SELECT * FROM albums a WHERE a.name = 'Sámán';
+SELECT * FROM albums a WHERE a.name = 'Greatest Hits';
+SELECT * FROM albums a WHERE a.name = 'This One''s For The Ladies';
+SELECT * FROM albums a WHERE a.name = 'Easy Listening: Big Bands';
+SELECT * FROM albums a WHERE a.name = 'LIVE AT THE BLUES WAREHOUSE';
+SELECT * FROM albums a WHERE a.name = '45 R.P.M.';
+SELECT * FROM albums a WHERE a.name = 'Throw Your Spades Up';
+SELECT * FROM albums a WHERE a.name = 'The Sound of Dubstep';
+SELECT * FROM albums a WHERE a.name = 'Raydiation';
+SELECT * FROM albums a WHERE a.name = 'Dreamweaver';
+SELECT * FROM albums a WHERE a.name = 'Los Cadetes De Linares De Benjamín Guerrero Jr. - Grandes Éxitos';
+SELECT * FROM albums a WHERE a.name = 'Aren''t Women Wonderful';
+SELECT * FROM albums a WHERE a.name = 'Waveform Transmission Vol. 1';
+SELECT * FROM albums a WHERE a.name = 'Life in the Face of Death';
+SELECT * FROM albums a WHERE a.name = 'Ballad of the Round Ball';
+SELECT * FROM albums a WHERE a.name = 'For Your Consideration';
+SELECT * FROM albums a WHERE a.name = 'Prey on You';
+SELECT * FROM albums a WHERE a.name = 'I Want To Be Happy Cha Cha''s';
+SELECT * FROM albums a WHERE a.name = '100 Proof (The Hangover) - The Instrumentals';
+SELECT * FROM albums a WHERE a.name = 'Moving On';
+SELECT * FROM albums a WHERE a.name = 'Mixing On';
+SELECT * FROM albums a WHERE a.name = 'Album Minus Band';
+SELECT * FROM albums a WHERE a.name = 'Everything At Once';
+SELECT * FROM albums a WHERE a.name = 'Lucky 13';
+SELECT * FROM albums a WHERE a.name = 'A New Era Of Corruption';
+SELECT * FROM albums a WHERE a.name = 'Groovalicious';
+SELECT * FROM albums a WHERE a.name = 'The Joe Brown Story: The Piccadilly/Pye Anthology';
+SELECT * FROM albums a WHERE a.name = 'Coma Of Souls';
+SELECT * FROM albums a WHERE a.name = 'Lost In The City Of Sounds';
+SELECT * FROM albums a WHERE a.name = 'Come On_ Lets Go: The Best Of Tommy Steele';
+SELECT * FROM albums a WHERE a.name = 'Elettrodomestico';
+SELECT * FROM albums a WHERE a.name = 'Modapop';
+SELECT * FROM albums a WHERE a.name = 'Cracked Love & Other Drugs';
+SELECT * FROM albums a WHERE a.name = 'Ko and The Knockouts';
+SELECT * FROM albums a WHERE a.name = 'Karate Slut EP';
+SELECT * FROM albums a WHERE a.name = 'The Siren EP';
+SELECT * FROM albums a WHERE a.name = 'Lux';
+SELECT * FROM albums a WHERE a.name = 'Spelen met je leven';
+SELECT * FROM albums a WHERE a.name = 'Naked On The Inside';
+SELECT * FROM albums a WHERE a.name = 'Sus Grandes Creaciones';
+SELECT * FROM albums a WHERE a.name = 'Hard 2 Swallow';
+SELECT * FROM albums a WHERE a.name = 'Serie 20 Exitos';
+SELECT * FROM albums a WHERE a.name = 'American Fantasy';
+SELECT * FROM albums a WHERE a.name = 'Bloody Brilliant';
+SELECT * FROM albums a WHERE a.name = 'Children Go Where I Send You';
+SELECT * FROM albums a WHERE a.name = 'Panic Buton';
+SELECT * FROM albums a WHERE a.name = 'Goodbye Cool World';
+SELECT * FROM albums a WHERE a.name = 'Intolerance';
+SELECT * FROM albums a WHERE a.name = 'Share';
+SELECT * FROM albums a WHERE a.name = 'At Echo Lake';
+SELECT * FROM albums a WHERE a.name = 'Face à la Musique';
+SELECT * FROM albums a WHERE a.name = 'Grenzeloos';
+SELECT * FROM albums a WHERE a.name = 'Another Day';
+SELECT * FROM albums a WHERE a.name = 'George Baker Selection';
+SELECT * FROM albums a WHERE a.name = '30 Jaar Zwervend Bestaan';
+SELECT * FROM albums a WHERE a.name = 'Look at me now';
+SELECT * FROM albums a WHERE a.name = 'The Nightingale 5';
+SELECT * FROM albums a WHERE a.name = 'Sings Studio One Hits';
+SELECT * FROM albums a WHERE a.name = 'Magical Jet Light';
+SELECT * FROM albums a WHERE a.name = 'Tales from the Crypt';
+SELECT * FROM albums a WHERE a.name = 'NU12.041';
+SELECT * FROM albums a WHERE a.name = 'Cha Cha Cha - Volume 3';
+SELECT * FROM albums a WHERE a.name = 'Kansas City';

@@ -1,8 +1,0 @@
-malloc 93
-malloc 648
-malloc 1008
-malloc 1133
-malloc 3229
-malloc 3362
-malloc 3370
-malloc 5930
