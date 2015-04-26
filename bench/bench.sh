@@ -15,6 +15,9 @@ fi
 if [[ $1 == '-sql' || $2 == '-sql' ]]; then
 	sql=true
 	rm -f $sqlr_base/logs/*
+	cd source/sqlite-bench/
+	make
+	cd $BASE_DIR
 fi
 
 for a in $@; do
@@ -32,15 +35,15 @@ for a in $@; do
 			rm -f $ffr_base/**/perf/*
 		fi
 		if [[ $sql ]]; then
-			rm -f $sqlr_base/**/perf/*
+			rm -f $sqlr_base/perf/*
 		fi
 	elif [[ $a == '-trace' ]]; then
 		trace='-trace'
 		if [[ $ff ]]; then
-			rm -f $ffr_base/**/render/*
+			rm -f $ffr_base/**/trace/*
 		fi
 		if [[ $sql ]]; then
-			rm -f $sqlr_base/**/render/*
+			rm -f $sqlr_base/trace/*
 		fi
 	elif [[ $a == '-warmup' ]]; then
 		warmup=true
@@ -54,7 +57,7 @@ if [[ $warmup ]]; then
 else
 	jsi=3
 	reni=7
-	sqli=7
+	sqli=31
 fi
 
 sudo mount none -t tmpfs -o size=4G /ramdisk
@@ -75,6 +78,7 @@ fi
 
 if [[ $sql ]]; then
 	cd /ramdisk/bench/SQLite
+	./gen_queries.rb
 	./bench.rb $sqli $args
 fi
 

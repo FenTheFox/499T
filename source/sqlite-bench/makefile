@@ -9,52 +9,39 @@ OFILES=sqlite3.c sqlite3.h
 OBJS=speedtest.cpp
 LOG_OBJS=../inst/map.cpp ../inst/logger.cpp ../inst/rmmap.c
 MEMFLAGS=-DREPLACE_MALLOC
-MEM128kb=$(MEMFLAGS) -DMMAP_SIZE=131072 -DLOGGER_SAMPLES=999
-MEM128mb=$(MEMFLAGS) -DMMAP_SIZE=137438953472
+MEM32=$(MEMFLAGS) -DMMAP_SIZE=33554432
+MEM128=$(MEMFLAGS) -DMMAP_SIZE=134217728
 
 all: sqlite3-sys\
-	sqlite3-mem3-128kb sqlite3-mem5-128kb sqlite3-mem3log-128kb sqlite3-mem5log-128kb\
-	sqlite3-mem3-1mb sqlite3-mem5-1mb sqlite3-mem3log-1mb sqlite3-mem5log-1mb\
-	sqlite3-mem3-128mb sqlite3-mem5-128mb sqlite3-mem3log-128mb sqlite3-mem5log-128mb
+	sqlite3-mem3-32 sqlite3-mem5-32 sqlite3-mem3log-32 sqlite3-mem5log-32\
+	sqlite3-mem3-128 sqlite3-mem5-128 sqlite3-mem3log-128 sqlite3-mem5log-128
 
 sqlite3-sys: sqlite3.o $(OBJS)
 	$(CXX) $(CPPFLAGS) -o $@ $^
 
-sqlite3-mem3-128kb: sqlite3-mem3.o $(OBJS)
-	$(CXX) $(CPPFLAGS) $(MEM128kb) -o $@ $^
+sqlite3-mem3-32: sqlite3-mem3.o $(OBJS)
+	$(CXX) $(CPPFLAGS) $(MEM32) -o $@ $^
 
-sqlite3-mem3log-128kb: sqlite3-mem3log.o $(OBJS) $(LOG_OBJS)
-	$(CXX) $(CPPFLAGS) $(MEM128kb) -o $@ $^
+sqlite3-mem3log-32: sqlite3-mem3log.o $(OBJS) $(LOG_OBJS)
+	$(CXX) $(CPPFLAGS) $(MEM32) -o $@ $^
 
-sqlite3-mem3-1mb: sqlite3-mem3.o $(OBJS)
-	$(CXX) $(CPPFLAGS) $(MEMFLAGS) -o $@ $^
+sqlite3-mem3-128: sqlite3-mem3.o $(OBJS)
+	$(CXX) $(CPPFLAGS) $(MEM128) -o $@ $^
 
-sqlite3-mem3log-1mb: sqlite3-mem3log.o $(OBJS) $(LOG_OBJS)
-	$(CXX) $(CPPFLAGS) $(MEMFLAGS) -o $@ $^
+sqlite3-mem3log-128: sqlite3-mem3log.o $(OBJS) $(LOG_OBJS)
+	$(CXX) $(CPPFLAGS) $(MEM128) -o $@ $^
 
-sqlite3-mem3-128mb: sqlite3-mem3.o $(OBJS)
-	$(CXX) $(CPPFLAGS) $(MEM128mb) -o $@ $^
+sqlite3-mem5-32: sqlite3-mem5.o $(OBJS)
+	$(CXX) $(CPPFLAGS) $(MEM32) -o $@ $^
 
-sqlite3-mem3log-128mb: sqlite3-mem3log.o $(OBJS) $(LOG_OBJS)
-	$(CXX) $(CPPFLAGS) $(MEM128mb) -o $@ $^
+sqlite3-mem5log-32: sqlite3-mem5log.o $(OBJS) $(LOG_OBJS)
+	$(CXX) $(CPPFLAGS) $(MEM32) -o $@ $^
 
-sqlite3-mem5-128kb: sqlite3-mem5.o $(OBJS)
-	$(CXX) $(CPPFLAGS) $(MEM128kb) -o $@ $^
+sqlite3-mem5-128: sqlite3-mem5.o $(OBJS)
+	$(CXX) $(CPPFLAGS) $(MEM128) -o $@ $^
 
-sqlite3-mem5log-128kb: sqlite3-mem5log.o $(OBJS) $(LOG_OBJS)
-	$(CXX) $(CPPFLAGS) $(MEM128kb) -o $@ $^
-
-sqlite3-mem5-1mb: sqlite3-mem5.o $(OBJS)
-	$(CXX) $(CPPFLAGS) $(MEMFLAGS) -o $@ $^
-
-sqlite3-mem5log-1mb: sqlite3-mem5log.o $(OBJS) $(LOG_OBJS)
-	$(CXX) $(CPPFLAGS) $(MEMFLAGS) -o $@ $^
-
-sqlite3-mem5-128mb: sqlite3-mem5.o $(OBJS)
-	$(CXX) $(CPPFLAGS) $(MEM128mb) -o $@ $^
-
-sqlite3-mem5log-128mb: sqlite3-mem5log.o $(OBJS) $(LOG_OBJS)
-	$(CXX) $(CPPFLAGS) $(MEM128mb) -o $@ $^
+sqlite3-mem5log-128: sqlite3-mem5log.o $(OBJS) $(LOG_OBJS)
+	$(CXX) $(CPPFLAGS) $(MEM128) -o $@ $^
 
 sqlite3.o: $(OFILES)
 	$(CC) -c $(CFLAGS) -o $@ $<
