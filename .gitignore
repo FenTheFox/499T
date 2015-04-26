@@ -5,10 +5,7 @@ source/sqlite-bench/sqlite3-mem*
 source/sqlite-bench/sqlite3-sys
 
 **/xcuserdata/*
-
-bench/Firefox/logs
-bench/Firefox/js.sh
-bench/Firefox/render.sh
+**/*.kdev4
 
 results/**/perf/*.data*
 results/**/*.txt
