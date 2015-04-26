@@ -4,4 +4,4 @@ cd firefox
 ./parse.rb
 
 cd ../sqlite
-# ./results.rb
+./results.rb
