@@ -10,22 +10,23 @@ fh.syswrite("1\nstr\nSELECT * FROM albums a WHERE a.name = ?;\n")
 IO.foreach('csvs/albumnames.csv') { |row| fh.print(clean_str(row), "\n") }
 fh.close
 
-# # Find all songs that have * as a prefix/include * in the title
-# fh = File.new('query2.sql', 'w')
-# fh2 = File.new('query2-1.sql', 'w')
-# fh.syswrite("1\nstr\nSELECT * FROM songs s WHERE s.title like \"?%\";\n")
-# fh2.syswrite("1\nstr\nSELECT * FROM songs s WHERE s.title like \"%?%\";\n")
-# IO.foreach('csvs/songnames.csv') do |row|
-#   words = clean_str(row).split
-#   fh.print(words[0], "\n")
-#   fh2.print(words[1], "\n") unless words[1].nil?
-# end
-# fh.close
-# fh2.close
+# Find all songs that have * as a prefix/include * in the title
+fh = File.new('query2.sql', 'w')
+fh2 = File.new('query2-1.sql', 'w')
+fh.print("0;\n")
+fh2.print("0;\n")
+IO.foreach('csvs/songnames.csv') do |row|
+  clean_str(row)
+  words = row.split
+  fh.syswrite("SELECT * FROM songs s WHERE s.title like '#{words[0]}%';\n")
+  fh2.syswrite("SELECT * FROM songs s WHERE s.title like '%#{words[1]}%';\n") unless words[1].nil?
+end
+fh.close
+fh2.close
 
 # Return the (number of) rows in each table
 fh = File.new('query3.sql', 'w')
-fh.syswrite("0\nNULL\nSELECT COUNT(*) FROM albums;\n")
+fh.syswrite("0;\nSELECT COUNT(*) FROM albums;\n")
 fh.syswrite("SELECT COUNT(*) FROM artists;\n")
 fh.syswrite("SELECT COUNT(*) FROM songs;\n")
 fh.syswrite("SELECT COUNT(*) FROM tags;\n")

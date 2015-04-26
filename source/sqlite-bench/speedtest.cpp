@@ -100,19 +100,21 @@ void runThread(string fname, string dbfile, int idx) {
 	ifstream  f(fname);
 	int num;
 
-	getline(f, stmt);
-	num = atoi(stmt.c_str());
-	getline(f, type);
-	getline(f, stmt, ';');
-	f.ignore();
-	stmt.push_back(';');
-
 	checkErr(sqlite3_open_v2(dbfile.c_str(), &db, SQLITE_OPEN_READWRITE, NULL), __LINE__, db);
-	t.start();
-	checkErr(sqlite3_prepare_v2(db, stmt.c_str(), -1, &pstmt, NULL), __LINE__, db);
-	t.end();
 
-	runScriptFile(db,pstmt,f,num,type,idx);
+	getline(f, stmt);
+	if((num = atoi(stmt.c_str())) > 0) {
+		getline(f, type);
+		getline(f, stmt, ';');
+		f.ignore();
+		stmt.push_back(';');
+		t.start();
+		checkErr(sqlite3_prepare_v2(db, stmt.c_str(), -1, &pstmt, NULL), __LINE__, db);
+		t.end();
+		runScriptFile(db,pstmt,f,num,type,idx);
+	} else {
+		runScriptFile(db,fname,idx);
+	}
 
 	t.start();
 	sqlite3_close_v2(db);
