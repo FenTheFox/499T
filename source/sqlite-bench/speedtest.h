@@ -25,4 +25,14 @@
 
 #include "sqlite3.h"
 
+#include "time.h"
+#include "stringops.h"
+
+int checkErr(int err, int line, sqlite3 *db=NULL, string extra="");
+void prepareAndRun(sqlite3 *db, string stmt, timer &t);
+void runScriptFile(sqlite3 *db, string fname, int idx);
+void runScriptFile(sqlite3 *db, ifstream &script, int idx);
+void runScriptFile(sqlite3 *db, sqlite3_stmt *pstmt, ifstream &input, int num, string type, int idx);
+void runThread(string fname, string dbfile, int idx);
+
 #endif

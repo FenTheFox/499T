@@ -10,7 +10,7 @@ class Bench
 
 	@@flags = '-s 8'
 	@@schema = 'songdb.sql albums2.sql artists2.sql songs2.sql tags2.sql users2.sql usersongplays2.sql usersongratings2.sql'
-	@@queries = 'query1.sql query2.sql query2-1.sql query3.sql query4.sql query5.sql query5-1.sql query6.sql query6-1.sql query7.sql query7-1.sql query7-2.sql query7-3.sql query8.sql query8-1.sql query9.sql query10.sql query10-1.sql'
+	@@queries = 'query1.sql query2.sql query3.sql query4.sql query5.sql query6.sql query7.sql query7-1.sql query8.sql query8-1.sql query9.sql query10.sql query10-1.sql'
 
 	@@do_perf = @@do_trace = @@do_bench = false
 

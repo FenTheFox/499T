@@ -1,11 +1,8 @@
-#include "time.h"
-#include "stringops.h"
-
 #include "speedtest.h"
 
 #ifdef REPLACE_MALLOC
 #ifndef MMAP_SIZE
-	#define MMAP_SIZE 1048576
+	#define MMAP_SIZE 16777216
 #endif
 void *mmapPtr;
 #endif
@@ -16,11 +13,16 @@ using namespace std;
 auto timers = vector<timer>();
 mutex timer_mux, stmt_count, io_mux, err_mux;
 
-void checkErr(int err, int line, sqlite3 *db=NULL, string extra="") {
-	if(err == SQLITE_OK || err == SQLITE_ROW || err == SQLITE_DONE) return;
+int checkErr(int err, int line, sqlite3 *db, string extra) {
+	if(err == SQLITE_OK || err == SQLITE_ROW || err == SQLITE_DONE) return 0;
+
+	if(err == SQLITE_NOMEM) {
+		cerr << "mem used: " << sqlite3_memory_used() << endl;
+		return SQLITE_NOMEM;
+	}
 
 	lock_guard<mutex> lock(err_mux);
-	cerr << "At " << __FILE__ << " " << line << ": " << sqlite3_errstr(err) << endl;
+	cerr << "At " << __FILE__ << " " << line << ": " << sqlite3_errstr(err) << "(" << err << ")" << endl;
 	cerr << sqlite3_errmsg(db) << endl;
 	cerr << extra << endl;
 	exit(1);
@@ -33,7 +35,7 @@ void prepareAndRun(sqlite3 *db, string stmt, timer &t) {
 	sqlite3_stmt *pStmt;
 
 	t.start();
-	checkErr(sqlite3_prepare_v2(db, stmt.c_str(), -1, &pStmt, NULL), __LINE__, db);
+	checkErr(sqlite3_prepare_v2(db, stmt.c_str(), -1, &pStmt, NULL), __LINE__, db, stmt);
 	while (sqlite3_step(pStmt) == SQLITE_ROW);
 	checkErr(sqlite3_finalize(pStmt), __LINE__, db, stmt);
 	t.end();
@@ -42,8 +44,15 @@ void prepareAndRun(sqlite3 *db, string stmt, timer &t) {
 /**
  * run all of the statements in a file
  */
-void runScriptFile(sqlite3 *db, string name, int idx) {
-	ifstream script (name);
+void runScriptFile(sqlite3 *db, string fname, int idx) {
+	ifstream script(fname);
+	runScriptFile(db,script,idx);
+}
+
+/**
+ * run all of the statements in a file
+ */
+void runScriptFile(sqlite3 *db, ifstream &script, int idx) {
 	string stmt;
 	timer t = timer();
 
@@ -99,6 +108,9 @@ void runThread(string fname, string dbfile, int idx) {
 	timer t = timer();
 	ifstream  f(fname);
 	int num;
+	
+	if(!f.is_open())
+		cerr << "Could not open " << fname << endl;
 
 	checkErr(sqlite3_open_v2(dbfile.c_str(), &db, SQLITE_OPEN_READWRITE, NULL), __LINE__, db);
 
@@ -113,7 +125,7 @@ void runThread(string fname, string dbfile, int idx) {
 		t.end();
 		runScriptFile(db,pstmt,f,num,type,idx);
 	} else {
-		runScriptFile(db,fname,idx);
+		runScriptFile(db,f,idx);
 	}
 
 	t.start();
