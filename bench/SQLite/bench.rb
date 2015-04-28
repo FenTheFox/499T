@@ -60,7 +60,7 @@ private
 
 		cmd = ''
 		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
-		cmd_perf = cmd + "perf stat -e -o #{@@base_results_dir}/perf/#{resultsf}.txt "
+		cmd_perf = cmd + "perf stat -e -o #{@@results_dir}/perf/#{resultsf}.txt "
 		cmd += "#{c} >> #{@@results_dir}/#{resultsf}.txt"
 		cmd_perf += "#{c} >> #{@@results_dir}/logs/#{resultsf}perf.txt"
 
@@ -79,6 +79,7 @@ private
 			`rm db*`
 			puts $? while((result = Kernel.system(cmd_perf.gsub('stat', 'record').gsub('-e', '--call-graph dwarf').gsub('.txt', '.data'))) != true && (tries += 1) < 10)
 			`rm db*`
+			`mv "#{@@results_dir}/perf/*" "#{base_results_dir}/perf"`
 		end
 	end
 

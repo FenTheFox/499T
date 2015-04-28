@@ -20,6 +20,8 @@ if [[ $1 == '-sql' || $2 == '-sql' ]]; then
 	cd $BASE_DIR
 fi
 
+sz=2G
+
 for a in $@; do
 	if [[ $a == '-bench' ]]; then
 		bench='-bench'
@@ -31,6 +33,7 @@ for a in $@; do
 		fi
 	elif [[ $a == '-perf' ]]; then
 		perf='-perf'
+		sz=6G
 		if [[ $ff ]]; then
 			rm -f $ffr_base/**/perf/*
 		fi
@@ -60,7 +63,7 @@ else
 	sqli=31
 fi
 
-sudo mount none -t tmpfs -o size=4G /ramdisk
+sudo mount none -t tmpfs -o size=$sz /ramdisk
 
 cp -rfL bench bin Replace-Libs /ramdisk
 rsync -r -f '+ */' -f '- *' results /ramdisk
