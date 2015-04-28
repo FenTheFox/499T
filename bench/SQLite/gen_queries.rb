@@ -53,7 +53,7 @@ end
 fh.close
 
 # Show the title, album name, and artist name of all songs that are rated above 3 by *
-fh = File.new('query6-1.sql', 'w')
+fh = File.new('query6.sql', 'w')
 fh.print("1\nstr\nSELECT s.title, ab.name as albumname, ar.name as artistname\nFROM (\nSELECT ur.songid\nFROM usersongratings ur\nJOIN (\nSELECT u.id\nFROM users u\nWHERE u.name=?\n) UserID ON ur.userid = UserID.id\nWHERE ur.rating > 3) OverThreeSongID\nJOIN songs s ON OverThreeSongID.songid = s.id\nJOIN albums ab ON s.albumid = ab.id\nJOIN artists ar ON s.artistid = ar.id;\n")
 IO.foreach('csvs/usernames.csv') { |row| fh.print(clean_str(row), "\n") }
 fh.close
