@@ -35,7 +35,7 @@ class Tester
 	def do_test(bld, ittr = -1, lib = nil)
 		cmd = ''
 		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
-		cmd_perf = cmd + "perf stat -e -o #{@results_dir}/#{@profile}/perf/#{bld}#{lib}#{ittr}.txt "
+		cmd_perf = cmd + "perf stat -e -o #{@results_dir}/#{@profile}/perf/#{bld}#{lib}.txt "
 		ittr < 0 ? log = '' : log = "bld=#{lib.nil? ? bld : lib}-#{ittr}"
 		cmd += "#{@source_dir}#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?#{log} >&${logfd}"
 		cmd_perf += "#{@source_dir}#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php >&${logfd}"
@@ -44,7 +44,7 @@ class Tester
 			puts "echo '#{cmd}' >&0"
 			puts cmd
 		end
-		if(ittr >= 0 && @do_perf)
+		if(ittr == 0 && @do_perf)
 			puts cmd_perf.gsub('-e', '-e cycles,instructions,cache-misses,branch-misses,page-faults,cs')
 			puts cmd_perf.gsub('stat', 'record').gsub('-e', '-F 700 --call-graph dwarf').gsub('.txt', '.data')
 		end
