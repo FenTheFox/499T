@@ -35,7 +35,7 @@ class Tester
 	def do_test(bld, ittr = -1, lib = nil)
 		cmd = ''
 		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
-		cmd_perf = cmd + "perf stat -e -o #{@results_dir}/#{@profile}/perf/#{bld}#{lib}.txt "
+		cmd_perf = cmd + "perf stat -e -o #{@results_dir}/#{@profile}/perf/#{lib}.txt "
 		ittr < 0 ? log = '' : log = "bld=#{lib.nil? ? bld : lib}-#{ittr}"
 		cmd += "#{@source_dir}#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?#{log} >&${logfd}"
 		cmd_perf += "#{@source_dir}#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php >&${logfd}"
