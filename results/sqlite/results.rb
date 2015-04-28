@@ -15,6 +15,14 @@ class Results
 		nedmalloc: { create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 }
 	}
 
+	@@traces = {
+		mem3_32:  { objs: 0, total_mem: 0, mmap: 0, in_use: 0, max: 0, min: 100000, average: 0, ops: 0 },
+		mem3_128: { objs: 0, total_mem: 0, mmap: 0, in_use: 0, max: 0, min: 100000, average: 0, ops: 0 },
+		mem5_32:  { objs: 0, total_mem: 0, mmap: 0, in_use: 0, max: 0, min: 100000, average: 0, ops: 0 },
+		mem5_128: { objs: 0, total_mem: 0, mmap: 0, in_use: 0, max: 0, min: 100000, average: 0, ops: 0 },
+		hoard:    { objs: 0, total_mem: 0, mmap: 0, in_use: 0, max: 0, min: 100000, average: 0, ops: 0 }
+	}
+
 	# These are based off of the output of the c++ benchmark
 	@@create = 'Schema'
 	@@query = 'Query'
@@ -27,6 +35,33 @@ class Results
 			when @@query then :query
 			end
 			@@results[key][k] << r[1].to_i if !k.nil?
+		end
+	end
+
+	def self.parse_trace(file, key)
+		min = 100000
+		in_use = 0
+		mmap = 0
+		arr = @@traces[key]
+		CSV.foreach(file, col_sep: " ") do |l|
+			next if (sz = l[1].to_i) == 0
+			if(l[0] == 'malloc')
+				in_use += sz
+				arr[:objs] += 1
+				arr[:total_mem] += sz
+				arr[:in_use] = in_use if arr[:in_use] < in_use
+				arr[:max] = sz if arr[:max] < sz
+				arr[:min] = sz if arr[:min] > sz
+				arr[:ops] += 1
+			elsif (l[0] == 'free')
+				in_use -= sz
+				arr[:ops] += 1
+			elsif (l[0] == 'mmap')
+				mmap += sz
+				arr[:mmap] = mmap if mmap > arr[:mmap]
+			elsif (l[0] == 'munmap')
+				mmap -= sz
+			end
 		end
 	end
 
@@ -89,6 +124,30 @@ Dir.glob('*.txt') do |f|
 			Results.parse(f, :mem5_32)
 		else
 			Results.parse(f, :mem5_128)
+		end
+	end
+end
+
+Dir.glob('*.txt') do |f|
+	if(!f.index('sys').nil?)
+		Results.parse_trace(f, :sys)
+	elsif(!f.index('hoard').nil?)
+		Results.parse_trace(f, :hoard)
+	elsif(!f.index('jemalloc').nil?)
+		Results.parse_trace(f, :jemalloc)
+	elsif(!f.index('nedmalloc').nil?)
+		Results.parse_trace(f, :nedmalloc)
+	elsif(!f.index('mem3').nil?)
+		if(!f.index('32').nil?)
+			Results.parse_trace(f, :mem3_32)
+		else
+			Results.parse_trace(f, :mem3_128)
+		end
+	elsif(!f.index('mem5').nil?)
+		if(!f.index('32').nil?)
+			Results.parse_trace(f, :mem5_32)
+		else
+			Results.parse_trace(f, :mem5_128)
 		end
 	end
 end

@@ -5,13 +5,19 @@ require 'pry'
 
 class Results
 	@@results = {
-		default:	{ js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 },
-		hoard:		{ js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 },
-		jemalloc:	{ js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 },
-		# nedmalloc:	{ js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 }
+		default:     { js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 },
+		hoard:       { js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 },
+		jemalloc:    { js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 },
+		# nedmalloc: { js: [], render: [], js_mean: 0, render_mean: 0, js_stdev: 0, render_stdev: 0 }
 	}
 
-	# :( probably needs to actually go through and get the raw data
+	@@traces = {
+		default_js:     { objs: 0, total_mem: 0, mmap: 0, in_use: 0, max: 0, min: 100000, average: 0, ops: 0 },
+		hoard_js:       { objs: 0, total_mem: 0, mmap: 0, in_use: 0, max: 0, min: 100000, average: 0, ops: 0 },
+		default_render: { objs: 0, total_mem: 0, mmap: 0, in_use: 0, max: 0, min: 100000, average: 0, ops: 0 },
+		hoard_render:   { objs: 0, total_mem: 0, mmap: 0, in_use: 0, max: 0, min: 100000, average: 0, ops: 0 }
+	}
+
 	def self.parse_js(file, key)
 		File.open(file) do |fh|
 			arr = []
@@ -34,6 +40,34 @@ class Results
 
 		CSV.foreach(file, col_sep: ": ") do |l|
 			r[idx] += l[1].to_f
+		end
+	end
+
+	def self.parse_trace(file, key)
+		min = 100000
+		in_use = 0
+		mmap = 0
+		arr = @@traces[key]
+		CSV.foreach(file, col_sep: " ") do |l|
+			next if (sz = l[1].to_i) == 0
+			if(l[0] == 'malloc')
+				binding.pry if sz == 0
+				in_use += sz
+				arr[:objs] += 1
+				arr[:total_mem] += sz
+				arr[:in_use] = in_use if arr[:in_use] < in_use
+				arr[:max] = sz if arr[:max] < sz
+				arr[:min] = sz if arr[:min] > sz
+				arr[:ops] += 1
+			elsif (l[0] == 'free')
+				in_use -= sz
+				arr[:ops] += 1
+			elsif (l[0] == 'mmap')
+				mmap += sz
+				arr[:mmap] = mmap if mmap > arr[:mmap]
+			elsif (l[0] == 'munmap')
+				mmap -= sz
+			end
 		end
 	end
 
@@ -86,6 +120,14 @@ Dir.glob('js/*.txt') do |f|
 	end
 end
 
+Dir.glob('js/trace/*.txt') do |f|
+	if(!f.index('rmalloc').nil?)
+		Results.parse_trace(f, :default_js)
+	elsif(!f.index('hoard').nil?)
+		Results.parse_trace(f, :hoard_js)
+	end
+end
+
 Dir.glob('render/*.txt') do |f|
 	if(!f.index('bld').nil?)
 		Results.parse_render(f, :default)
@@ -95,6 +137,14 @@ Dir.glob('render/*.txt') do |f|
 		Results.parse_render(f, :jemalloc)
 	elsif(!f.index('nedmalloc').nil?)
 		Results.parse_render(f, :nedmalloc)
+	end
+end
+
+Dir.glob('render/trace/*.txt') do |f|
+	if(!f.index('rmalloc').nil?)
+		Results.parse_trace(f, :default_render)
+	elsif(!f.index('hoard').nil?)
+		Results.parse_trace(f, :hoard_render)
 	end
 end
 

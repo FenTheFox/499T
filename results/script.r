@@ -12,8 +12,15 @@ stat_mean <- function(map) {
   stat_summary(mapping = map, fun.y=mean, geom="bar")
 }
 
-plot_mean <- function(data, aesx, aesy, title) {
-  ggplot(data, aesx) + ggtitle(title) + stat_summary(mapping = aesy, fun.y=mean, geom="bar") + geom_errorbar(data = sqlstats, mapping = aes(ymin=create_mean-create_stdev, ymax=create_mean+create_stdev), width=0.5)
-}
-sql <- plot_mean(sqldata, aes(x=allocator, fill=allocator), aes(y = create), "Sqlite Create")
-ggsave(filename = "sqlc.png", sql)
+aes_alloc = aes(x=allocator, fill=allocator)
+
+sqlp <- ggplot(sqldata, aes_alloc)
+sqlc <- sqlp + ggtitle("Sqlite Create") + stat_summary(mapping=aes(y=create), fun.y=mean, geom="bar") + geom_errorbar(data=sqlstats, mapping=aes(ymin=create_mean-create_stdev, ymax=create_mean+create_stdev), width=0.6)
+ggsave(filename = "sqlc.png", sqlc)
+sqlq <- sqlp + ggtitle("Sqlite Query") + stat_summary(mapping=aes(y=query), fun.y=mean, geom="bar") + geom_errorbar(data=sqlstats, mapping=aes(ymin=query_mean-query_stdev, ymax=query_mean+query_stdev), width=0.6)
+ggsave(filename = "sqlq.png", sqlq)
+
+ffj <- ggplot(ffjsdata,aes_alloc) + ggtitle("Firefox JSBench") + stat_summary(mapping=aes(y=runtime), fun.y=mean, geom="bar") + geom_errorbar(data=ffjsstats, mapping=aes(ymin=mean-standard_dev, ymax=mean+standard_dev), width=0.6)
+ggsave(filename = "ffj.png", ffj)
+ffr <- ggplot(ffrenderdata,aes_alloc) + ggtitle("Firefox RenderBench") + stat_summary(mapping=aes(y=runtime), fun.y=mean, geom="bar") + geom_errorbar(data=ffrenderstats, mapping=aes(ymin=mean-standard_dev, ymax=mean+standard_dev), width=0.6)
+ggsave(filename = "ffr.png", ffr)
