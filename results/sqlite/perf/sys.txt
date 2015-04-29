@@ -1,0 +1,14 @@
+# started on Tue Apr 28 16:52:29 2015
+
+
+ Performance counter stats for '../../bin/sqlite/sqlite3-sys 1 -s 8 songdb.sql albums2.sql artists2.sql songs2.sql tags2.sql users2.sql usersongplays2.sql usersongratings2.sql query1.sql query2.sql query3.sql query4.sql query5.sql query6.sql query7.sql query7-1.sql query8.sql query8-1.sql query9.sql query10.sql query10-1.sql':
+
+   548,547,131,551      cycles                   
+   787,286,264,511      instructions              #    1.44  insns per cycle        
+        16,232,233      cache-misses                                                
+     1,350,287,219      branch-misses                                               
+             5,995      page-faults                                                 
+            12,983      cs                                                          
+
+      49.357044817 seconds time elapsed
+

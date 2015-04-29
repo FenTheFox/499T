@@ -11,23 +11,12 @@
 #include <new>
 
 #include <string.h>
+#include <stdlib.h>
 #include <unistd.h>
 #include <fcntl.h>
 
 #define OPEN_FLAGS (O_WRONLY | O_APPEND | O_CREAT)
 #define OPEN_MODE (S_IRUSR | S_IWUSR | S_IRGRP | S_IWGRP | S_IROTH | S_IWOTH)
-
-#if (LOGGER_SAMPLES == 999)
-#ifndef THOUSAND_FUNC
-	#define THOUSAND_FUNC 1
-	#ifdef __cplusplus
-	extern "C"
-	#endif
-	void thousand_func(int i) {
-		printf("This is a test\n");
-	}
-#endif
-#endif
 
 #pragma GCC diagnostic ignored "-Wwrite-strings"
 
@@ -46,7 +35,7 @@ extern "C" void doLog(enum event_type type, void* ptr, size_t sz)
 
 Logger::Logger()
 {
-	currMalloc = currMmap = maxMalloc = maxMmap = mmapSample = mallocSample = 0;
+	currMalloc = currMmap = maxMalloc = maxMmap = 0;
 	origMmapSize = lmap();
 	origMallocSize = lmap();
 	origMmapSize.init();
@@ -111,9 +100,6 @@ void Logger::log(event_type type, void* ptr, size_t sz)
 	}
 
 	if (type == MMAP) {
-		if (mmapSample++ < LOGGER_SAMPLES) return;
-		mmapSample = 0;
-
 		origMmapSize.insert((size_t)ptr, sz);
 		currMmap += sz;
 		if (currMmap > maxMmap) {
@@ -130,8 +116,7 @@ void Logger::log(event_type type, void* ptr, size_t sz)
 		origMmapSize.erase((size_t)ptr);
 		origMmapSize.insert((size_t)ptr+change, oldSz - change);
 	} else if (type == MALLOC) {
-		if (mallocSample++ < LOGGER_SAMPLES) return;
-		mallocSample = 0;
+		if(sz == 0 || (rand() % LOGGER_SAMPLES) != 0) return;
 
 		origMallocSize.insert((size_t)ptr, sz);
 		currMalloc += sz;
@@ -149,9 +134,6 @@ void Logger::log(event_type type, void* ptr, size_t sz)
 	}
 
 	memset(str, 0, len);
-	if (type == MMAP || type == MUNMAP)
-		snprintf(str, len, "%s %ld\n", typeToS(type), sz);
-	else if (type == MALLOC || type == FREE)
-		snprintf(str, len, "%s %ld\n", typeToS(type), sz);
+	snprintf(str, len, "%s %ld\n", typeToS(type), sz);
 	write(tracef, str, strlen(str, len));
 }

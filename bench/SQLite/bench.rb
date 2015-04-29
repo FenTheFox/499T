@@ -62,7 +62,7 @@ private
 		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
 		cmd_perf = cmd + "perf stat -e -o #{@@results_dir}/perf/#{resultsf}.txt "
 		cmd += "#{c} >> #{@@results_dir}/#{resultsf}.txt"
-		cmd_perf += "#{c} >> #{@@results_dir}/logs/#{resultsf}perf.txt"
+		cmd_perf += c.gsub("#{@@itrs}",'1') + " >> #{@@results_dir}/logs/#{resultsf}perf.txt"
 
 		tries = 0
 		if @@do_bench
@@ -73,13 +73,13 @@ private
 
 		if(!log && @@do_perf)
 			puts cmd_perf.gsub('-e', '-e cycles,instructions,cache-misses,branch-misses,page-faults,cs')
-			puts cmd_perf.gsub('stat', 'record').gsub('-e', '--call-graph dwarf').gsub('.txt', '.data')
-
 			puts $? while((result = Kernel.system(cmd_perf.gsub('-e', '-e cycles,instructions,cache-misses,branch-misses,page-faults,cs'))) != true && (tries += 1) < 10)
 			`rm db*`
-			puts $? while((result = Kernel.system(cmd_perf.gsub('stat', 'record').gsub('-e', '--call-graph dwarf').gsub('.txt', '.data'))) != true && (tries += 1) < 10)
+
+			puts cmd_perf.gsub!('stat', 'record').gsub!('-e', '--call-graph dwarf').gsub!('.txt', '.data')
+			puts $? while((result = Kernel.system(cmd_perf)) != true && (tries += 1) < 10)
 			`rm db*`
-			`mv "#{@@results_dir}/perf/*" "#{base_results_dir}/perf"`
+			`mv #{@@results_dir}/perf/* #{@@base_results_dir}/perf`
 		end
 	end
 

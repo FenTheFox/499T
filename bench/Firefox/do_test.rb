@@ -9,8 +9,8 @@ class Tester
 		@profile = profile
 		@timeout = timeout
 		@iters = ARGV[0].to_i
-		@results_dir = ENV['BASE_DIR'] + '/results/firefox'
-		@logs_dir = @results_dir + '/logs'
+		@results_dir = ENV['BASE_DIR'] + '/results/firefox/' + profile
+		@logs_dir = ENV['BASE_DIR'] + '/results/firefox/logs'
 		@source_dir = ENV['BASE_DIR'] + '/source/firefox-'
 		ARGV.each do |a|
 			@do_bench = true if a == '-bench'
@@ -35,7 +35,7 @@ class Tester
 	def do_test(bld, ittr = -1, lib = nil)
 		cmd = ''
 		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
-		cmd_perf = cmd + "perf stat -e -o #{@results_dir}/#{@profile}/perf/#{lib}.txt "
+		cmd_perf = cmd + "perf stat -e -o #{@results_dir}/perf/#{lib.nil? ? bld : lib}.txt "
 		ittr < 0 ? log = '' : log = "bld=#{lib.nil? ? bld : lib}-#{ittr}"
 		cmd += "#{@source_dir}#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?#{log} >&${logfd}"
 		cmd_perf += "#{@source_dir}#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php >&${logfd}"
@@ -45,8 +45,9 @@ class Tester
 			puts cmd
 		end
 		if(ittr == 0 && @do_perf)
-			puts cmd_perf.gsub('-e', '-e cycles,instructions,cache-misses,branch-misses,page-faults,cs')
-			puts cmd_perf.gsub('stat', 'record').gsub('-e', '-F 700 --call-graph dwarf').gsub('.txt', '.data')
+			# puts cmd_perf.gsub('-e', '-e cycles,instructions,cache-misses,branch-misses,page-faults,cs')
+			puts cmd_perf.gsub('stat', 'record').gsub("#{@results_dir}/perf/", '').gsub('-e', '--call-graph dwarf').gsub('.txt', '.data')
+			puts "mv *.data #{@results_dir}/perf"
 		end
 	end
 

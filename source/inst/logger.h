@@ -10,7 +10,7 @@
 #define __inst__logger__
 
 #ifndef LOGGER_SAMPLES
-#define LOGGER_SAMPLES 99
+#define LOGGER_SAMPLES 100
 #endif
 
 #include <stdio.h>
