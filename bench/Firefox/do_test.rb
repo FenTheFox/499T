@@ -1,14 +1,13 @@
 #!/usr/bin/ruby
 
 class Tester
-	@@root = 'localhost:8000'
+	@@PHProot = 'localhost:8000'
 	# @@libs = ['hoard', 'jemalloc', 'nedmalloc']
 	@@libs = ['hoard', 'jemalloc']
 
-	def initialize (profile, timeout)
+	def initialize (profile, docroot=nil)
 		@profile = profile
-		@timeout = timeout
-		@iters = ARGV[0].to_i
+		@DOCroot = docroot
 		@results_dir = ENV['BASE_DIR'] + '/results/firefox/' + profile
 		@logs_dir = ENV['BASE_DIR'] + '/results/firefox/logs'
 		@source_dir = ENV['BASE_DIR'] + '/source/firefox-'
@@ -27,25 +26,26 @@ class Tester
 		puts 'exec >&${glogfd} 2>&1'
 		puts ''
 
-		puts "echo \"gnome-terminal -e 'php -S #{@@root} -t #{profile}bench -c php.ini'\" >&0"
-		puts "gnome-terminal -e 'php -S #{@@root} -t #{profile}bench -c php.ini'"
+		puts "echo \"gnome-terminal -e 'php -S #{@@PHProot} -t #{profile}bench -c php.ini'\" >&0"
+		puts "gnome-terminal -e 'php -S #{@@PHProot} -t #{profile}bench -c php.ini'"
 		puts ''
 	end
 
 	def do_test(bld, ittr = -1, lib = nil)
+		page = @DOCroot.nil? ? "#{@@PHProot}/index.php" :
 		cmd = ''
 		cmd += "LD_PRELOAD=../../Replace-Libs/lib#{lib}.so " if !lib.nil?
 		cmd_perf = cmd + "perf stat -e -o #{@results_dir}/perf/#{lib.nil? ? bld : lib}.txt "
 		ittr < 0 ? log = '' : log = "bld=#{lib.nil? ? bld : lib}-#{ittr}"
-		cmd += "#{@source_dir}#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php\\?#{log} >&${logfd}"
-		cmd_perf += "#{@source_dir}#{bld}/dist/bin/firefox -P #{@profile}bench #{@@root}/index.php >&${logfd}"
+		cmd += "#{@source_dir}#{bld}/dist/bin/firefox -P #{@profile}bench #{page}\\?#{log} >&${logfd}"
+		cmd_perf += "#{@source_dir}#{bld}/dist/bin/firefox -P #{@profile}bench #{page} >&${logfd}"
 
 		if @do_bench
 			puts "echo '#{cmd}' >&0"
 			puts cmd
 		end
 		if(ittr == 0 && @do_perf)
-			# puts cmd_perf.gsub('-e', '-e cycles,instructions,cache-misses,branch-misses,page-faults,cs')
+			puts cmd_perf.gsub('-e', '-e cycles,instructions,cache-misses,branch-misses,page-faults,cs')
 			puts cmd_perf.gsub('stat', 'record').gsub("#{@results_dir}/perf/", '').gsub('-e', '--call-graph dwarf').gsub('.txt', '.data')
 			puts "mv *.data #{@results_dir}/perf"
 		end

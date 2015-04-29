@@ -5,5 +5,5 @@ $stdout.sync = true
 
 require './do_test.rb'
 
-test = Tester.new('js', 800)
+test = Tester.new('js', './jsbench/index.html')
 test.do_tests()
