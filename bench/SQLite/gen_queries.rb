@@ -7,7 +7,10 @@ end
 # Find all albums with the name *
 fh = File.new('query1.sql', 'w')
 fh.print("1\nstr\nSELECT * FROM albums a WHERE a.name = ?;\n")
-IO.foreach('csvs/albumnames.csv') { |row| fh.print(clean_str(row), "\n") }
+i = 0
+IO.foreach('csvs/albumnames.csv') do |row|
+	fh.print(clean_str(row), "\n") if (((i += 1) % 4) == 0)
+end
 fh.close
 
 # Find all songs that have * as a prefix/include * in the title
@@ -15,7 +18,7 @@ fh = File.new('query2.sql', 'w')
 fh.print("0\n")
 IO.foreach('csvs/songnames.csv') do |row|
 	words = row.split
-	fh.print("SELECT * FROM songs s WHERE s.title like '%#{clean_str(words[1])}%';\n") unless words[1].nil?
+	fh.print("SELECT * FROM songs s WHERE s.title like '%#{clean_str(words[1])}%';\n") if (((i += 1) % 5) == 0 && !words[1].nil?)
 end
 fh.close
 
@@ -47,15 +50,19 @@ fh.close
 # Show the number of user ratings for each rating value for the song with title *
 fh = File.new('query5.sql', 'w')
 fh.print("1\nstr\nSELECT r.rating, COUNT(*)\nFROM usersongratings r JOIN songs s ON r.songid = s.id\nWHERE s.title=?\nGROUP BY r.rating ORDER BY r.rating ASC;\n")
+i = 0
 IO.foreach('csvs/songnames.csv') do |row|
-  fh.print(clean_str(row), "\n")
+  fh.print(clean_str(row), "\n") if (((i += 1) % 7) == 0)
 end
 fh.close
 
 # Show the title, album name, and artist name of all songs that are rated above 3 by *
 fh = File.new('query6.sql', 'w')
 fh.print("1\nstr\nSELECT s.title, ab.name as albumname, ar.name as artistname\nFROM (\nSELECT ur.songid\nFROM usersongratings ur\nJOIN (\nSELECT u.id\nFROM users u\nWHERE u.name=?\n) UserID ON ur.userid = UserID.id\nWHERE ur.rating > 3) OverThreeSongID\nJOIN songs s ON OverThreeSongID.songid = s.id\nJOIN albums ab ON s.albumid = ab.id\nJOIN artists ar ON s.artistid = ar.id;\n")
-IO.foreach('csvs/usernames.csv') { |row| fh.print(clean_str(row), "\n") }
+i = 0
+IO.foreach('csvs/usernames.csv') do |row|
+	fh.print(clean_str(row), "\n") if (((i += 1) % 6) == 0)
+end
 fh.close
 
 # For each song that is rated (more then) * times, find the song id and the average age of the users who rate the song
@@ -73,8 +80,8 @@ fh2.close
 # Select the user names that have played the largest number of songs, each number of songs
 fh = File.new('query8.sql', 'w')
 fh2 = File.new('query8-1.sql', 'w')
-fh.print("0\nSELECT u.name\nFROM users u\nWHERE u.plays = (SELECT uu.plays FROM users uu ORDER BY uu.plays DESC LIMIT 1);\n")
-fh.print("SELECT u.name\nFROM users u JOIN usersongplays usp ON u.id = usp.userid\nWHERE u.plays = (SELECT uu.plays FROM users uu ORDER BY uu.plays DESC LIMIT 1)\n")
+fh.print("0\nSELECT u.name\nFROM users u\nWHERE u.plays = (SELECT uu.plays FROM users uu ORDER BY uu.plays DESC LIMIT 5);\n")
+fh.print("SELECT u.name\nFROM users u JOIN usersongplays usp ON u.id = usp.userid\nWHERE u.plays = (SELECT uu.plays FROM users uu ORDER BY uu.plays DESC LIMIT 5);\n")
 fh2.print("1\nint\nSELECT u.name\nFROM users u\nWHERE u.plays = ?;\n")
 IO.foreach('csvs/userplays.csv') { |row| fh2.print(clean_str(row), "\n") }
 fh.close

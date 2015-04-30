@@ -1,8 +1,9 @@
+#include "timer.h"
 #include "speedtest.h"
 
 #ifdef REPLACE_MALLOC
 #ifndef MMAP_SIZE
-	#define MMAP_SIZE 16777216
+#define MMAP_SIZE 16777216
 #endif
 void *mmapPtr;
 #endif
@@ -10,11 +11,11 @@ void *mmapPtr;
 using namespace std;
 
 // Global Variables
-auto timers = vector<timer>();
+vector<timer> timers;
 mutex timer_mux, stmt_count, io_mux, err_mux;
 
 int checkErr(int err, int line, sqlite3 *db, string extra) {
-	if(err == SQLITE_OK || err == SQLITE_ROW || err == SQLITE_DONE) return 0;
+	if(err == SQLITE_OK || err == SQLITE_ROW || err == SQLITE_DONE) return err;
 
 	if(err == SQLITE_NOMEM) {
 		cerr << "mem used: " << sqlite3_memory_used() << endl;
@@ -36,7 +37,7 @@ void prepareAndRun(sqlite3 *db, string stmt, timer &t) {
 
 	t.start();
 	checkErr(sqlite3_prepare_v2(db, stmt.c_str(), -1, &pStmt, NULL), __LINE__, db, stmt);
-	while (sqlite3_step(pStmt) == SQLITE_ROW);
+	while (checkErr(sqlite3_step(pStmt), __LINE__, db, stmt) == SQLITE_ROW);
 	checkErr(sqlite3_finalize(pStmt), __LINE__, db, stmt);
 	t.end();
 }
@@ -44,17 +45,17 @@ void prepareAndRun(sqlite3 *db, string stmt, timer &t) {
 /**
  * run all of the statements in a file
  */
-void runScriptFile(sqlite3 *db, string fname, int idx) {
+timer runScriptFile(sqlite3 *db, string fname, int idx) {
 	ifstream script(fname);
-	runScriptFile(db,script,idx);
+	return runScriptFile(db,script,idx);
 }
 
 /**
  * run all of the statements in a file
  */
-void runScriptFile(sqlite3 *db, ifstream &script, int idx) {
+timer runScriptFile(sqlite3 *db, ifstream &script, int idx) {
 	string stmt;
-	timer t = timer();
+	timer t;
 
 	while (getline(script, stmt, ';')) {
 		// Hit EOF or error
@@ -63,17 +64,15 @@ void runScriptFile(sqlite3 *db, ifstream &script, int idx) {
 		stmt = trim(stmt, "\r\n \t");
 		stmt.push_back(';');
 
-		if (sqlite3_complete(stmt.c_str()))
-			prepareAndRun(db, stmt, t);
+		prepareAndRun(db, stmt, t);
 	}
-	lock_guard<mutex> lock(timer_mux);
-	timers[idx].merge(t);
+	return t;
 }
 
 /**
  * run a prepared statement on everything in a file
  */
-void runScriptFile(sqlite3 *db, sqlite3_stmt *pstmt, ifstream &input, int num, string type, int idx) {
+timer runScriptFile(sqlite3 *db, sqlite3_stmt *pstmt, ifstream &input, int num, string type, int idx) {
 	string param;
 	timer t = timer();
 
@@ -97,15 +96,14 @@ void runScriptFile(sqlite3 *db, sqlite3_stmt *pstmt, ifstream &input, int num, s
 	checkErr(sqlite3_finalize(pstmt), __LINE__, db);
 	t.end();
 
-	lock_guard<mutex> lock(timer_mux);
-	timers[idx].merge(t);
+	return t;
 }
 
 void runThread(string fname, string dbfile, int idx) {
 	sqlite3 *db;
 	sqlite3_stmt *pstmt;
 	string stmt, type;
-	timer t = timer();
+	timer t;
 	ifstream  f(fname);
 	int num;
 	
@@ -123,15 +121,16 @@ void runThread(string fname, string dbfile, int idx) {
 		t.start();
 		checkErr(sqlite3_prepare_v2(db, stmt.c_str(), -1, &pstmt, NULL), __LINE__, db);
 		t.end();
-		runScriptFile(db,pstmt,f,num,type,idx);
+		t.merge(runScriptFile(db,pstmt,f,num,type,idx));
 	} else {
-		runScriptFile(db,f,idx);
+		t.merge(runScriptFile(db,f,idx));
 	}
 
 	t.start();
 	sqlite3_close_v2(db);
 	t.end();
 	lock_guard<mutex> lock(timer_mux);
+// 	cout << fname << " took " << t.dur().count() << endl;
 	timers[idx].merge(t);
 }
 
@@ -148,7 +147,6 @@ list<string> setup(int argc, char *argv[], sqlite3 **db, string dbfile, int idx)
 	#endif
 
 	checkErr(sqlite3_config(SQLITE_CONFIG_MULTITHREAD),__LINE__);
-	checkErr(sqlite3_config(SQLITE_CONFIG_URI, 1),__LINE__);
 	checkErr(sqlite3_open_v2(dbfile.c_str(), db, SQLITE_OPEN_CREATE | SQLITE_OPEN_READWRITE, NULL), __LINE__, *db);
 
 	if (argc >= 4 && strcmp(argv[1], "-s") == 0) {
@@ -157,7 +155,7 @@ list<string> setup(int argc, char *argv[], sqlite3 **db, string dbfile, int idx)
 		argc -= 2;
 
 		for (int i = 1; i <= n; i++)
-			runScriptFile(*db, argv[i], idx);
+			timers[idx].merge(runScriptFile(*db, argv[i], idx));
 
 		argv += n;
 		argc -= n;
@@ -177,20 +175,19 @@ list<string> setup(int argc, char *argv[], sqlite3 **db, string dbfile, int idx)
 	return scripts;
 }
 
-double test_main(int argc, char *argv[], int id) {
-	double schema_time, query_time;
+void test_main(int argc, char *argv[], int id) {
+	timer::duration_type schema_time;
 	sqlite3 *db;
 	unique_lock<mutex> lock(io_mux,defer_lock);
-	auto threads = vector<thread>();
+	vector<thread> threads;
 
-	string dbfile = "file:db";
+	string dbfile = "db";
 	dbfile += to_string(id);
 
 	list<string> scripts = setup(argc, argv, &db, dbfile, id);
 
-	schema_time = timers[id].total_duration();
 	lock.lock();
-	cout << "Schema:\t" << schema_time << endl;
+	cout << "Schema:\t" << (schema_time = timers[id].dur()).count() << endl;
 	lock.unlock();
 
 	for (string fname : scripts)
@@ -198,10 +195,9 @@ double test_main(int argc, char *argv[], int id) {
 
 	for (size_t i = 0; i < threads.size(); i++)
 		threads[i].join();
-
-	query_time = timers[id].total_duration() - schema_time;
+	
 	lock.lock();
-	cout << "Query:\t" << query_time << endl;
+	cout << "Query:\t" << (timers[id].dur() - schema_time).count() << endl;
 	lock.unlock();
 
 	sqlite3_close(db);
@@ -210,23 +206,18 @@ double test_main(int argc, char *argv[], int id) {
 	#ifdef REPLACE_MALLOC
 	munmap(mmapPtr, MMAP_SIZE);
 	#endif
-
-	return timers[id].total_duration();
 }
 
 int main(int argc, char *argv[]) {
 	int itrs = atoi(argv[1]);
-	auto threads = vector<thread>();
-	string dbfile;
 	cout.precision(15);
 
 	argc--;
 	argv++;
 
-	for(int i = 0; i < itrs; i++) {
-		timers.push_back(timer());
+	timers.resize(itrs);
+	for(int i = 0; i < itrs; i++)
 		test_main(argc,argv,i);
-	}
 
 	return 0;
 }
