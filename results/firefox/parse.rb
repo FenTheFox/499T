@@ -72,6 +72,7 @@ class Results
 	end
 
 	def self.calc_stats
+		p @@traces
 		@@results.each do |k, v|
 			js = v[:js]
 			render = v[:render]

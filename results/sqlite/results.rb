@@ -5,14 +5,14 @@ require 'pry'
 
 class Results
 	@@results = {
-		sys:       { create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		mem3_32:   { create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		mem3_128:  { create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		mem5_32:   { create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		mem5_128:  { create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		hoard:     { create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		jemalloc:  { create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		nedmalloc: { create: [], query: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 }
+		sys:       { create_runtime [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem3_32:   { create_runtime [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem3_128:  { create_runtime [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem5_32:   { create_runtime [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem5_128:  { create_runtime [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		hoard:     { create_runtime [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		jemalloc:  { create_runtime [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		nedmalloc: { create_runtime [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 }
 	}
 
 	@@traces = {
@@ -89,6 +89,7 @@ class Results
 	end
 
 	def self.print_results
+		p @@traces
 		calc_stats
 		rf = File.new('results.csv', 'w')
 		sf = File.new('stats.csv', 'w')
@@ -128,7 +129,7 @@ Dir.glob('*.txt') do |f|
 	end
 end
 
-Dir.glob('*.txt') do |f|
+Dir.glob('trace/*.txt') do |f|
 	if(!f.index('sys').nil?)
 		Results.parse_trace(f, :sys)
 	elsif(!f.index('hoard').nil?)

@@ -2,7 +2,7 @@ Allocator,num,sys,total
 sys,0,1505,523000
 hoard,1489,0,471000
 jemalloc,938,0,475000
-nedmalloc,940,0.472000
+nedmalloc,940,0,472000
 memsys3_32,1416,439,481000
 memsys3_128,1362,462,464000
 memsys5_32,1899,447,481000

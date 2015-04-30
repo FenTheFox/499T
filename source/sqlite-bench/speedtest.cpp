@@ -71,7 +71,7 @@ void runScriptFile(sqlite3 *db, ifstream &script, int idx) {
 }
 
 /**
- * run a prepared statement on evertyhing in a file
+ * run a prepared statement on everything in a file
  */
 void runScriptFile(sqlite3 *db, sqlite3_stmt *pstmt, ifstream &input, int num, string type, int idx) {
 	string param;
