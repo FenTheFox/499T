@@ -5,14 +5,14 @@ require 'pry'
 
 class Results
 	@@results = {
-		sys:       { create_runtime [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		mem3_32:   { create_runtime [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		mem3_128:  { create_runtime [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		mem5_32:   { create_runtime [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		mem5_128:  { create_runtime [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		hoard:     { create_runtime [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		jemalloc:  { create_runtime [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
-		nedmalloc: { create_runtime [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 }
+		sys:       { create_runtime: [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem3_32:   { create_runtime: [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem3_128:  { create_runtime: [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem5_32:   { create_runtime: [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		mem5_128:  { create_runtime: [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		hoard:     { create_runtime: [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		jemalloc:  { create_runtime: [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 },
+		nedmalloc: { create_runtime: [], query_runtime: [], total: [], create_mean: 0, query_mean: 0, total_mean: 0, create_stdev: 0, query_stdev: 0, total_stdev: 0 }
 	}
 
 	@@traces = {
@@ -31,8 +31,8 @@ class Results
 	def self.parse(file, key)
 		CSV.foreach(file, col_sep: ":\t") do |r|
 			k = case r[0]
-			when @@create then :create
-			when @@query then :query
+			when @@create then :create_runtime
+			when @@query then :query_runtime
 			end
 			@@results[key][k] << r[1].to_i if !k.nil?
 		end
@@ -67,8 +67,8 @@ class Results
 
 	def self.calc_stats
 		@@results.each do |k, v|
-			c = v[:create]
-			q = v[:query]
+			c = v[:create_runtime]
+			q = v[:query_runtime]
 			t = v[:total]
 			for i in 0..(c.length-1) do t << (c[i] + q[i]) end if @@total.empty?
 
@@ -97,8 +97,8 @@ class Results
 		rf.puts 'allocator,create,query,total'
 		sf.puts 'allocator,create_mean,query_mean,total_mean,create_stdev,query_stdev,total_stdev'
 		@@results.each do |k, v|
-			for i in 0..(v[:create].length-1)
-				rf.puts "#{k},#{v[:create][i]},#{v[:query][i]},#{v[:total][i]}"
+			for i in 0..(v[:create_runtime].length-1)
+				rf.puts "#{k},#{v[:create_runtime][i]},#{v[:query_runtime][i]},#{v[:total][i]}"
 			end
 			sf.puts "#{k},#{v[:create_mean]},#{v[:query_mean]},#{v[:total_mean]},#{v[:create_stdev]},#{v[:query_stdev]},#{v[:total_stdev]}"
 		end

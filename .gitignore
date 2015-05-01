@@ -8,7 +8,6 @@ source/sqlite-bench/sqlite3-sys
 **/*.kdev4
 
 results/**/perf/*.data*
-results/**/*.txt
 results/**/logs
 
 *.xlsx

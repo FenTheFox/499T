@@ -43,6 +43,7 @@ for a in $@; do
 		fi
 	elif [[ $a == '-trace' ]]; then
 		trace='-trace'
+		sz=6G
 		if [[ $ff ]]; then
 			rm -f $ffr_base/**/trace/*
 		fi

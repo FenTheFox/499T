@@ -1,0 +1,14 @@
+# started on Thu Apr 30 07:28:18 2015
+
+
+ Performance counter stats for '/home/timm/499T/source/firefox-bld/dist/bin/firefox -P jsbench ./jsbench/index.html':
+
+   545,032,049,323      cycles                   
+   831,799,860,703      instructions              #    1.53  insns per cycle        
+       735,732,192      cache-misses                                                
+     4,094,867,984      branch-misses                                               
+         5,196,374      page-faults                                                 
+           254,710      cs                                                          
+
+     297.960802391 seconds time elapsed
+

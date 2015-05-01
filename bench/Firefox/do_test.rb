@@ -41,7 +41,7 @@ class Tester
 		cmd += "#{@source_dir}#{bld}/dist/bin/firefox -P #{@profile}bench #{page}\\?#{log} >&${logfd}"
 		cmd_perf += "#{@source_dir}#{bld}/dist/bin/firefox -P #{@profile}bench #{page} >&${logfd}"
 
-		if @do_bench
+		if @do_bench || (ittr < 0 && @do_trace)
 			puts "echo '#{cmd}' >&0"
 			puts cmd
 		end
@@ -67,17 +67,15 @@ class Tester
 			puts ''
 		end
 
-		if @do_trace
-			['rmalloc', 'hoard'].each do |lib|
-				puts "logf=#{@logs_dir}/#{@profile}#{lib}-log.log"
-				puts 'exec {logfd} >> ${logf}'
-				puts 'du -h --max-depth=2 /ramdisk'
-				do_test('bld-rmalloc', -1, lib + '-log')
-				puts "mv ./max #{@results_dir}/#{@profile}/trace/max-#{lib}.txt"
-				puts "mv ./trace #{@results_dir}/#{@profile}/trace/trace-#{lib}.txt"
-				puts "echo 'end #{lib}-log' >&0"
-				puts ''
-			end
+		['rmalloc', 'hoard'].each do |lib|
+			puts "logf=#{@logs_dir}/#{@profile}#{lib}-log.log"
+			puts 'exec {logfd} >> ${logf}'
+			puts 'du -h --max-depth=2 /ramdisk'
+			do_test('bld-rmalloc', -1, lib + '-log')
+			puts "mv ./max #{@results_dir}/trace/max-#{lib}.txt"
+			puts "mv ./trace #{@results_dir}/trace/trace-#{lib}.txt"
+			puts "echo 'end #{lib}-log' >&0"
+			puts ''
 		end
 
 		puts 'kill `ps --no-header -C php -o pid`'
