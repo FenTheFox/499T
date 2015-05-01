@@ -214,7 +214,7 @@ void test_main(int argc, char *argv[], int id) {
 
 	sqlite3_close(db);
 	if(!(id%10))
-		cerr << "mem highwater: " << sqlite3_memory_highwater(false) << endl;
+		cerr << "mem highwater: " << sqlite3_memory_highwater(true) << endl;
 	sqlite3_shutdown();
 	#ifdef REPLACE_MALLOC
 	munmap(mmapPtr, MMAP_SIZE);
