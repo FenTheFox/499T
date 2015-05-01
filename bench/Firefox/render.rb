@@ -5,5 +5,5 @@ $stdout.sync = true
 
 require './do_test.rb'
 
-test = Tester.new('render', 800)
+test = Tester.new('render')
 test.do_tests()

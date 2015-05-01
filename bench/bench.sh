@@ -12,6 +12,7 @@ if [[ $1 == '-ff' || $2 == '-ff' ]]; then
 	ff=true
 	rm -rf $ffr_base/logs/*
 fi
+
 if [[ $1 == '-sql' || $2 == '-sql' ]]; then
 	sql=true
 	rm -f $sqlr_base/logs/*

@@ -8,8 +8,8 @@ OFILES=sqlite3.c sqlite3.h
 OBJS=speedtest.cpp timer.h
 LOG_OBJS=../inst/map.cpp ../inst/logger.cpp ../inst/rmmap.c
 MEMFLAGS=-DREPLACE_MALLOC
-MEM32=$(MEMFLAGS) -DMMAP_SIZE=33554432
-MEM128=$(MEMFLAGS) -DMMAP_SIZE=134217728
+MEM_MED=$(MEMFLAGS) -DMMAP_SIZE=50331648
+MEM_LG=$(MEMFLAGS) -DMMAP_SIZE=268435456
 
 all: sqlite3-sys\
 	sqlite3-mem3-32 sqlite3-mem5-32 sqlite3-mem3log-32 sqlite3-mem5log-32\
@@ -19,28 +19,28 @@ sqlite3-sys: sqlite3.o $(OBJS)
 	$(CXX) $(CPPFLAGS) -o $@ $^
 
 sqlite3-mem3-32: sqlite3_mem3.o $(OBJS)
-	$(CXX) $(CPPFLAGS) $(MEM32) -o $@ $^
+	$(CXX) $(CPPFLAGS) $(MEM_MED) -o $@ $^
 
 sqlite3-mem3log-32: sqlite3_mem3log.o $(OBJS) $(LOG_OBJS)
-	$(CXX) $(CPPFLAGS) $(MEM32) -o $@ $^
+	$(CXX) $(CPPFLAGS) $(MEM_MED) -o $@ $^
 
 sqlite3-mem3-128: sqlite3_mem3.o $(OBJS)
-	$(CXX) $(CPPFLAGS) $(MEM128) -o $@ $^
+	$(CXX) $(CPPFLAGS) $(MEM_LG) -o $@ $^
 
 sqlite3-mem3log-128: sqlite3_mem3log.o $(OBJS) $(LOG_OBJS)
-	$(CXX) $(CPPFLAGS) $(MEM128) -o $@ $^
+	$(CXX) $(CPPFLAGS) $(MEM_LG) -o $@ $^
 
 sqlite3-mem5-32: sqlite3_mem5.o $(OBJS)
-	$(CXX) $(CPPFLAGS) $(MEM32) -o $@ $^
+	$(CXX) $(CPPFLAGS) $(MEM_MED) -o $@ $^
 
 sqlite3-mem5log-32: sqlite3_mem5log.o $(OBJS) $(LOG_OBJS)
-	$(CXX) $(CPPFLAGS) $(MEM32) -o $@ $^
+	$(CXX) $(CPPFLAGS) $(MEM_MED) -o $@ $^
 
 sqlite3-mem5-128: sqlite3_mem5.o $(OBJS)
-	$(CXX) $(CPPFLAGS) $(MEM128) -o $@ $^
+	$(CXX) $(CPPFLAGS) $(MEM_LG) -o $@ $^
 
 sqlite3-mem5log-128: sqlite3_mem5log.o $(OBJS) $(LOG_OBJS)
-	$(CXX) $(CPPFLAGS) $(MEM128) -o $@ $^
+	$(CXX) $(CPPFLAGS) $(MEM_LG) -o $@ $^
 
 sqlite3.o: $(OFILES)
 	$(CC) -c $(CFLAGS) -o $@ $<
@@ -59,5 +59,5 @@ sqlite3_mem5log.o: $(OFILES)
 
 clean:
 	rm sqlite3-*
-really_clean: clean
+really_clean:
 	rm *.o

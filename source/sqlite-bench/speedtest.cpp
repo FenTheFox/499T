@@ -15,18 +15,28 @@ vector<timer> timers;
 mutex timer_mux, stmt_count, io_mux, err_mux;
 
 int checkErr(int err, int line, sqlite3 *db, string extra) {
-	if(err == SQLITE_OK || err == SQLITE_ROW || err == SQLITE_DONE) return err;
-
-	if(err == SQLITE_NOMEM) {
-		cerr << "mem used: " << sqlite3_memory_used() << endl;
-		return SQLITE_NOMEM;
-	}
-
 	lock_guard<mutex> lock(err_mux);
-	cerr << "At " << __FILE__ << " " << line << ": " << sqlite3_errstr(err) << "(" << err << ")" << endl;
-	cerr << sqlite3_errmsg(db) << endl;
-	cerr << extra << endl;
-	exit(1);
+	switch (err) {
+		case SQLITE_OK:
+		case SQLITE_ROW:
+		case SQLITE_DONE:
+			break;
+		case SQLITE_CONSTRAINT:
+			cerr << "At " << __FILE__ << " " << line << ": " << sqlite3_errstr(err) << "(" << err << ")" << endl;
+			cerr << sqlite3_errmsg(db) << endl;
+			cerr << extra << endl;
+			break;
+		case SQLITE_NOMEM:
+			cerr << line << " mem highwater: " << sqlite3_memory_highwater(false) << endl;
+			break;
+		default:
+			cerr << "At " << __FILE__ << " " << line << ": " << sqlite3_errstr(err) << "(" << err << ")" << endl;
+			cerr << sqlite3_errmsg(db) << endl;
+			cerr << extra << endl;
+			exit(1);
+	};
+
+	return err;
 }
 
 /**
@@ -45,7 +55,7 @@ void prepareAndRun(sqlite3 *db, string stmt, timer &t) {
 /**
  * run all of the statements in a file
  */
-timer runScriptFile(sqlite3 *db, string fname, int idx) {
+timer runScriptFile(sqlite3 *db, char *fname, int idx) {
 	ifstream script(fname);
 	return runScriptFile(db,script,idx);
 }
@@ -106,7 +116,7 @@ void runThread(string fname, string dbfile, int idx) {
 	timer t;
 	ifstream  f(fname);
 	int num;
-	
+
 	if(!f.is_open())
 		cerr << "Could not open " << fname << endl;
 
@@ -130,7 +140,7 @@ void runThread(string fname, string dbfile, int idx) {
 	sqlite3_close_v2(db);
 	t.end();
 	lock_guard<mutex> lock(timer_mux);
-// 	cout << fname << " took " << t.dur().count() << endl;
+	// cout << fname << " took " << t.dur().count() << endl;
 	timers[idx].merge(t);
 }
 
@@ -143,7 +153,7 @@ list<string> setup(int argc, char *argv[], sqlite3 **db, string dbfile, int idx)
 
 	#ifdef REPLACE_MALLOC
 	mmapPtr = mmap(NULL, MMAP_SIZE, PROT_READ | PROT_WRITE | PROT_EXEC, MAP_PRIVATE | MAP_ANON, -1, 0);
-	checkErr(sqlite3_config(SQLITE_CONFIG_HEAP, mmapPtr, MMAP_SIZE, 32), __LINE__);
+	checkErr(sqlite3_config(SQLITE_CONFIG_HEAP, mmapPtr, MMAP_SIZE, 16), __LINE__);
 	#endif
 
 	checkErr(sqlite3_config(SQLITE_CONFIG_MULTITHREAD),__LINE__);
@@ -154,8 +164,10 @@ list<string> setup(int argc, char *argv[], sqlite3 **db, string dbfile, int idx)
 		argv += 2;
 		argc -= 2;
 
+// 		prepareAndRun(*db,"PRAGMA foreign_keys = OFF;",timers[idx]);
 		for (int i = 1; i <= n; i++)
 			timers[idx].merge(runScriptFile(*db, argv[i], idx));
+// 		prepareAndRun(*db,"PRAGMA foreign_keys = ON;",timers[idx]);
 
 		argv += n;
 		argc -= n;
@@ -195,13 +207,14 @@ void test_main(int argc, char *argv[], int id) {
 
 	for (size_t i = 0; i < threads.size(); i++)
 		threads[i].join();
-	
+
 	lock.lock();
 	cout << "Query:\t" << (timers[id].dur() - schema_time).count() << endl;
 	lock.unlock();
 
 	sqlite3_close(db);
-
+	if(!(id%10))
+		cerr << "mem highwater: " << sqlite3_memory_highwater(false) << endl;
 	sqlite3_shutdown();
 	#ifdef REPLACE_MALLOC
 	munmap(mmapPtr, MMAP_SIZE);

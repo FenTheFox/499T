@@ -29,7 +29,7 @@
 #include "stringops.h"
 
 int checkErr(int err, int line, sqlite3 *db=NULL, string extra="");
-timer runScriptFile(sqlite3 *db, string fname, int idx);
+timer runScriptFile(sqlite3* db, char* fname, int idx);
 timer runScriptFile(sqlite3 *db, ifstream &script, int idx);
 timer runScriptFile(sqlite3 *db, sqlite3_stmt *pstmt, ifstream &input, int num, string type, int idx);
 void runThread(string fname, string dbfile, int idx);
