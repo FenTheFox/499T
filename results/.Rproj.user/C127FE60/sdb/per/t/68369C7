@@ -1,0 +1,16 @@
+{
+    "contents" : "allocator,benchmark,percent\ndefault,js,5\nhoard,js,4\njemalloc,js,4\ndefault,render,6\nhoard,render,3\njemalloc,render,3",
+    "created" : 1430599705553.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "675969054",
+    "id" : "68369C7",
+    "lastKnownWriteTime" : 1430600047,
+    "path" : "~/GitHub/499T/results/firefox/perf.csv",
+    "project_path" : "firefox/perf.csv",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "text"
+}
