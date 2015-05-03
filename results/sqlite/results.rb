@@ -63,9 +63,11 @@ class Results
 				mmap -= sz
 			end
 		end
+		arr[:average] = arr[:total_mem]/arr[:objs]
 	end
 
 	def self.calc_stats
+		p @@traces
 		@@results.each do |k, v|
 			c = v[:create_runtime]
 			q = v[:query_runtime]
