@@ -1,0 +1,262 @@
+               |--0.00%-- sqlite3_free
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- dentry_free
+               |--0.00%-- locks_free_lock
+               |--0.00%-- free
+               |--0.00%-- sqlite3_free
+               |          |--0.00%-- free_pages_and_swap_cache
+               |--0.00%-- _int_malloc
+               |--0.00%-- malloc_consolidate
+               |--0.00%-- malloc
+               |--0.00%-- free_hot_cold_page
+               |--0.00%-- selinux_file_free_security
+               |          |          |--0.00%-- dentry_free
+               |          |--0.00%-- locks_free_lock
+               |          |--0.00%-- free
+               |          |--0.00%-- sqlite3_free
+               |          |          |--0.00%-- free_pages_and_swap_cache
+               |          |--0.00%-- _int_malloc
+               |          |--0.00%-- malloc_consolidate
+               |          |--0.00%-- malloc
+               |          |--0.00%-- free_hot_cold_page
+               |          |--0.00%-- selinux_file_free_security
+               |--0.06%-- sqlite3_free
+               |          |          |--0.00%-- dentry_free
+               |          |--0.00%-- locks_free_lock
+               |          |--0.00%-- free
+               |          |--0.00%-- sqlite3_free
+               |          |          |--0.00%-- free_pages_and_swap_cache
+               |          |--0.00%-- malloc_consolidate
+               |          |--0.00%-- _int_malloc
+               |          |--0.00%-- malloc
+               |          |--0.00%-- free_hot_cold_page
+               |          |--0.00%-- selinux_file_free_security
+               |          |          |--0.00%-- dentry_free
+               |          |--0.00%-- locks_free_lock
+               |          |--0.00%-- free
+               |          |--0.00%-- sqlite3_free
+               |          |          |--0.00%-- free_pages_and_swap_cache
+               |          |--0.00%-- malloc_consolidate
+               |          |--0.00%-- _int_malloc
+               |          |--0.00%-- malloc
+               |          |--0.00%-- free_hot_cold_page
+               |          |--0.00%-- selinux_file_free_security
+               |          |--0.00%-- sqlite3_free
+               |--0.01%-- selinux_inode_free_security
+               |--0.00%-- shmem_free_inode
+               |--0.00%-- security_inode_free
+                --0.00%-- get_page_from_freelist
+               |          |          |--0.00%-- dentry_free
+               |          |--0.00%-- locks_free_lock
+               |          |--0.00%-- free
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- malloc_consolidate
+               |          |--0.00%-- malloc
+               |          |--0.00%-- free_hot_cold_page
+               |          |--0.00%-- selinux_file_free_security
+               |          |          |--0.00%-- dentry_free
+               |          |--0.00%-- locks_free_lock
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- free
+               |          |--0.00%-- malloc
+               |          |--0.00%-- selinux_file_free_security
+               |          |--0.00%-- malloc_consolidate
+               |          |--0.00%-- locks_free_lock
+               |          |          |--0.00%-- dentry_free
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- free
+               |          |--0.00%-- malloc
+               |          |--0.00%-- selinux_file_free_security
+               |          |--0.00%-- malloc_consolidate
+               |           --0.00%-- sqlite3_free
+               |          |          |--0.00%-- dentry_free
+               |          |--0.00%-- locks_free_lock
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- free
+               |          |--0.00%-- malloc
+               |          |--0.00%-- malloc_consolidate
+     0.19%     0.03%           276  sqlite3-mem3-12  sqlite3-mem3-128     [.] sqlite3_free                                                                                                                                                                                 
+               |          |          |--0.00%-- dentry_free
+               |          |--0.00%-- locks_free_lock
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- free
+               |          |--0.00%-- malloc_consolidate
+                           --0.00%-- locks_free_lock
+               |--0.05%-- dentry_free
+               |--0.01%-- selinux_inode_free_security
+               |--0.00%-- security_inode_free
+     0.14%     0.11%           880  sqlite3-mem3-12  [kernel.kallsyms]    [k] kmem_cache_free                                                                                                                                                                              
+               |--0.09%-- locks_free_lock
+               |--0.01%-- dentry_free
+     0.13%     0.02%           172  sqlite3-mem3-12  [kernel.kallsyms]    [k] locks_free_lock                                                                                                                                                                              
+                --0.00%-- free_pages_and_swap_cache
+               |--0.00%-- __kmalloc_track_caller
+               |--0.00%-- __kmalloc
+               |          |--0.00%-- __kmalloc
+               |           --0.00%-- __kmalloc_track_caller
+     0.10%     0.04%           337  sqlite3-mem3-12  libc-2.20.so         [.] malloc                                                                                                                                                                                       
+               |          |--0.03%-- dentry_free
+               |          |--0.01%-- selinux_inode_free_security
+                          |--0.00%-- dentry_free
+                           --0.00%-- selinux_inode_free_security
+               |          |--0.00%-- locks_free_lock
+               |          |--0.00%-- sqlite3_free
+               |--0.08%-- sqlite3_free
+               |          |--0.07%-- sqlite3_free
+               |          |--0.00%-- _int_malloc
+     0.07%     0.06%           515  sqlite3-mem3-12  libc-2.20.so         [.] free                                                                                                                                                                                         
+               |          |          |--0.00%-- _int_malloc
+     0.07%     0.03%           244  sqlite3-mem3-12  [kernel.kallsyms]    [k] get_page_from_freelist                                                                                                                                                                       
+               |                     |--0.00%-- __kmalloc
+               |                      --0.00%-- __kmalloc_track_caller
+     0.06%     0.00%            28  sqlite3-mem3-12  [kernel.kallsyms]    [k] dentry_free                                                                                                                                                                                  
+               |          |--0.02%-- dentry_free
+               |          |--0.01%-- selinux_inode_free_security
+               |--0.00%-- dentry_free
+               |--0.00%-- selinux_inode_free_security
+     0.06%     0.06%           454  sqlite3-mem3-12  libc-2.20.so         [.] _int_malloc                                                                                                                                                                                  
+               |--0.06%-- malloc
+               |          |--0.00%-- sqlite3_free
+     0.05%     0.01%            95  sqlite3-mem3-12  [kernel.kallsyms]    [k] free_hot_cold_page_list                                                                                                                                                                      
+               |           --0.00%-- free_pages_and_swap_cache
+               |          |          |--0.00%-- sqlite3_free
+     0.05%     0.05%           388  sqlite3-mem3-12  [kernel.kallsyms]    [k] kfree                                                                                                                                                                                        
+               |--0.01%-- selinux_file_free_security
+               |--0.01%-- security_file_free
+               |          |--0.00%-- sqlite3_free
+     0.04%     0.02%           198  sqlite3-mem3-12  [kernel.kallsyms]    [k] __slab_free                                                                                                                                                                                  
+               |--0.03%-- kmem_cache_free
+                --0.00%-- locks_free_lock
+               |          |--0.00%-- free
+               |          |--0.00%-- locks_free_lock
+     0.03%     0.03%           259  sqlite3-mem3-12  [kernel.kallsyms]    [k] __kmalloc                                                                                                                                                                                    
+               |           --0.00%-- sqlite3_free
+     0.03%     0.01%            91  sqlite3-mem3-12  [kernel.kallsyms]    [k] free_hot_cold_page                                                                                                                                                                           
+               |--0.03%-- free_hot_cold_page_list
+               |           --0.00%-- free_pages_and_swap_cache
+               |           --0.00%-- free_pages_and_swap_cache
+               |          |--0.00%-- locks_free_lock
+     0.03%     0.02%           203  sqlite3-mem3-12  [kernel.kallsyms]    [k] __kmalloc_track_caller                                                                                                                                                                       
+               |--0.01%-- get_page_from_freelist
+               |          |--0.00%-- get_page_from_freelist
+               |          |                      --0.00%-- __kmalloc
+     0.02%     0.01%            55  sqlite3-mem3-12  [kernel.kallsyms]    [k] selinux_inode_free_security                                                                                                                                                                  
+               |--0.02%-- security_inode_free
+               |          |--0.00%-- malloc
+               |          |--0.00%-- free
+     0.02%     0.00%             8  sqlite3-mem3-12  [kernel.kallsyms]    [k] security_inode_free                                                                                                                                                                          
+     0.02%     0.00%            28  sqlite3-mem3-12  [kernel.kallsyms]    [k] security_file_free                                                                                                                                                                           
+               |          |--0.00%-- sqlite3_free
+               |          |          |--0.00%-- locks_free_lock
+               |                     |          |          |          |          |          |--0.00%-- sqlite3_free
+               |                     |          |          |          |          |--0.00%-- _int_malloc
+               |                     |           --0.00%-- sqlite3_free
+               |          |--0.00%-- malloc
+               |          |--0.00%-- free
+               |          |--0.00%-- _int_malloc
+               |           --0.00%-- free_pages_and_swap_cache
+     0.02%     0.00%            37  sqlite3-mem3-12  [kernel.kallsyms]    [k] selinux_file_free_security                                                                                                                                                                   
+               |--0.02%-- security_file_free
+                --0.00%-- get_page_from_freelist
+               |--0.01%-- free_hot_cold_page
+               |           --0.00%-- free_pages_and_swap_cache
+                --0.01%-- free_hot_cold_page_list
+               |           --0.00%-- __kmalloc
+               |--0.00%-- free_hot_cold_page
+               |--0.00%-- free_hot_cold_page_list
+               |          |--0.00%-- __kmalloc_track_caller
+               |           --0.00%-- __kmalloc
+               |--0.00%-- __kmalloc
+               |          |--0.00%-- sqlite3_free
+               |--0.01%-- locks_free_lock
+               |--0.01%-- get_page_from_freelist
+               |          |--0.00%-- _int_malloc
+               |                      --0.00%-- __kmalloc_track_caller
+               |           --0.00%-- __kmalloc_track_caller
+                --0.00%-- get_page_from_freelist
+     0.02%     0.02%           124  sqlite3-mem3-12  [kernel.kallsyms]    [k] kmalloc_slab                                                                                                                                                                                 
+               |          |--0.00%-- free_hot_cold_page
+               |--0.00%-- locks_free_lock
+                          |--0.00%-- _int_malloc
+               |--0.01%-- sqlite3_free
+               |--0.00%-- sqlite3_free
+               |--0.01%-- __slab_free
+                --0.00%-- kmem_cache_free
+               |           --0.00%-- __kmalloc
+               |          |--0.00%-- free
+               |          |--0.00%-- sqlite3_free
+               |--0.00%-- get_page_from_freelist
+               |                      --0.00%-- __kmalloc
+                --0.00%-- free_pcppages_bulk
+               |          |           --0.00%-- dentry_free
+               |          |           --0.00%-- dentry_free
+               |--0.01%-- get_page_from_freelist
+     0.01%     0.01%            84  sqlite3-mem3-12  libc-2.20.so         [.] malloc_consolidate                                                                                                                                                                           
+               |--0.01%-- free
+               |          |          |          |--0.00%-- sqlite3_free
+               |          |          |--0.00%-- _int_malloc
+                          |--0.00%-- selinux_file_free_security
+               |          |--0.00%-- free
+     0.01%     0.01%            69  sqlite3-mem3-12  [kernel.kallsyms]    [k] free_pages_prepare                                                                                                                                                                           
+               |--0.01%-- free_hot_cold_page
+               |           --0.00%-- free_pages_and_swap_cache
+                --0.00%-- free_hot_cold_page_list
+               |          |           --0.00%-- dentry_free
+               |--0.00%-- sqlite3_free
+               |          |--0.00%-- sqlite3_free
+               |          |          |--0.00%-- locks_free_lock
+               |--0.00%-- get_page_from_freelist
+               |          |--0.00%-- malloc_consolidate
+               |--0.00%-- _int_malloc
+               |--0.00%-- get_page_from_freelist
+               |          |--0.00%-- __kmalloc
+               |           --0.00%-- __kmalloc_track_caller
+               |--0.00%-- __kmalloc_track_caller
+               |          |--0.00%-- _int_malloc
+                --0.00%-- get_page_from_freelist
+               |--0.00%-- _int_malloc
+     0.01%     0.00%            16  sqlite3-mem3-12  [kernel.kallsyms]    [k] shmem_free_inode                                                                                                                                                                             
+               |          |--0.00%-- locks_free_lock
+               |          |          |          |          |          |          |--0.00%-- sqlite3_free
+               |          |          |          |          |          |--0.00%-- _int_malloc
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- locks_free_lock
+                          |          |          |          |          |          |--0.00%-- sqlite3_free
+                          |          |          |          |          |--0.00%-- _int_malloc
+               |          |          |--0.00%-- sqlite3_free
+               |          |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- _int_malloc
+               |           --0.00%-- __kmalloc
+               |          |--0.00%-- locks_free_lock
+                          |          |          |          |          |          |--0.00%-- sqlite3_free
+                          |          |          |          |          |--0.00%-- _int_malloc
+               |          |          |--0.00%-- sqlite3_free
+                           --0.00%-- sqlite3_free
+     0.00%     0.00%            26  sqlite3-mem3-12  libstdc++.so.6.0.20  [.] free@plt                                                                                                                                                                                     
+                          |--0.00%-- free_hot_cold_page
+               |          |--0.00%-- _int_malloc
+               |--0.00%-- sqlite3_free
+               |          |--0.00%-- sqlite3_free
+               |--0.00%-- sqlite3_free
+     0.00%     0.00%            18  sqlite3-mem3-12  libstdc++.so.6.0.20  [.] malloc@plt                                                                                                                                                                                   
+               |--0.00%-- sqlite3_free
+               |           --0.00%-- sqlite3_free
+     0.00%     0.00%             0  sqlite3-mem3-12  [kernel.kallsyms]    [k] tlb_flush_mmu_free                                                                                                                                                                           
+     0.00%     0.00%             0  sqlite3-mem3-12  [kernel.kallsyms]    [k] free_pages_and_swap_cache                                                                                                                                                                    
+               |          |          |          |          |--0.00%-- sqlite3_free
+               |          |          |          |--0.00%-- _int_malloc
+                --0.00%-- __kmalloc
+               |--0.00%-- sqlite3_free
+               |          |          |          |          |--0.00%-- sqlite3_free
+               |          |          |          |--0.00%-- _int_malloc
+     0.00%     0.00%             2  sqlite3-mem3-12  [kernel.kallsyms]    [k] mpol_free_shared_policy                                                                                                                                                                      
+               |          |          |          |          |          |--0.00%-- sqlite3_free
+               |          |          |          |          |--0.00%-- _int_malloc
+               |          |--0.00%-- sqlite3_free
+               |--0.00%-- sqlite3_free
+     0.00%     0.00%             0  sqlite3-mem3-12  [kernel.kallsyms]    [k] free_pcppages_bulk                                                                                                                                                                           
+     0.00%     0.00%             0  sqlite3-mem3-12  libc-2.20.so         [.] malloc_hook_ini                                                                                                                                                                              
+     0.00%     0.00%             0  sqlite3-mem3-12  libc-2.20.so         [.] ptmalloc_init.part.8                                                                                                                                                                         
+               |--0.00%-- _int_malloc
+               |--0.00%-- _int_malloc
+     0.00%     0.00%             0  sqlite3-mem3-12  libc-2.20.so         [.] arena_get2.isra.4                                                                                                                                                                            

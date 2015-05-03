@@ -89,18 +89,22 @@ class Results
 	end
 
 	def self.print_results
-		p @@traces
 		calc_stats
 		rf = File.new('results.csv', 'w')
 		sf = File.new('stats.csv', 'w')
+		af = File.new('alloc.csv', 'w')
 
 		rf.puts 'allocator,create,query,total'
 		sf.puts 'allocator,create_mean,query_mean,total_mean,create_stdev,query_stdev,total_stdev'
+		af.puts 'allocator,objs,total_mem,in_use,average,ops'
 		@@results.each do |k, v|
 			for i in 0..(v[:create_runtime].length-1)
 				rf.puts "#{k},#{v[:create_runtime][i]},#{v[:query_runtime][i]},#{v[:total][i]}"
 			end
 			sf.puts "#{k},#{v[:create_mean]},#{v[:query_mean]},#{v[:total_mean]},#{v[:create_stdev]},#{v[:query_stdev]},#{v[:total_stdev]}"
+		end
+		@@traces.each do |k, v|
+			af.puts "#{k},#{v[:objs]},#{v[:total_mem]},#{v[:in_use]},#{v[:average]},#{v[:ops]}"
 		end
 	end
 end

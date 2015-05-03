@@ -1,0 +1,267 @@
+               |          |--0.00%-- sqlite3_free
+               |--0.00%-- sqlite3_free
+               |--0.08%-- sqlite3_free
+     0.39%     0.03%           270  sqlite3-sys  sqlite3-sys          [.] sqlite3_free                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+               |          |--0.00%-- sqlite3_free
+               |--0.01%-- selinux_inode_free_security
+               |--0.00%-- shmem_free_inode
+               |--0.00%-- security_inode_free
+     0.29%     0.18%          1492  sqlite3-sys  libhoard.so          [.] xxfree                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+               |--0.26%-- sqlite3_free
+               |--0.00%-- xxfree
+     0.27%     0.23%          1971  sqlite3-sys  libhoard.so          [.] xxmalloc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+               |          |--0.00%-- sqlite3_free
+               |           --0.00%-- dentry_free
+               |--0.00%-- xxmalloc
+               |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |--0.00%-- xxfree
+               |--0.00%-- xxfree@plt
+               |--0.00%-- __slab_free
+               |--0.00%-- get_page_from_freelist
+               |--0.00%-- xxmalloc@plt
+               |--0.00%-- free_hot_cold_page
+               |          |          |--0.00%-- sqlite3_free
+               |          |           --0.00%-- dentry_free
+               |          |--0.00%-- xxmalloc
+               |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |          |--0.00%-- xxfree
+               |          |--0.00%-- xxfree@plt
+               |          |--0.00%-- __slab_free
+               |          |--0.00%-- get_page_from_freelist
+               |          |--0.00%-- xxmalloc@plt
+               |          |--0.00%-- free_hot_cold_page
+               |          |          |--0.00%-- sqlite3_free
+               |          |           --0.00%-- dentry_free
+               |          |--0.00%-- xxmalloc
+               |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |          |--0.00%-- xxfree
+               |          |--0.00%-- xxfree@plt
+               |          |--0.00%-- __slab_free
+               |          |--0.00%-- free_hot_cold_page
+               |--0.05%-- dentry_free
+               |--0.01%-- selinux_inode_free_security
+                --0.00%-- security_inode_free
+               |          |          |--0.00%-- sqlite3_free
+               |          |           --0.00%-- dentry_free
+               |          |--0.00%-- xxmalloc
+               |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |          |--0.00%-- xxfree
+               |          |--0.00%-- xxfree@plt
+               |          |--0.00%-- __slab_free
+               |          |--0.00%-- free_hot_cold_page
+     0.13%     0.10%           868  sqlite3-sys  [kernel.kallsyms]    [k] kmem_cache_free                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+               |--0.08%-- locks_free_lock
+               |--0.01%-- dentry_free
+               |          |          |--0.00%-- sqlite3_free
+               |          |           --0.00%-- dentry_free
+               |          |--0.00%-- xxmalloc
+               |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |          |--0.00%-- xxfree
+               |          |--0.00%-- xxfree@plt
+               |          |--0.00%-- free_hot_cold_page
+     0.12%     0.02%           166  sqlite3-sys  [kernel.kallsyms]    [k] locks_free_lock                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                --0.00%-- free_pages_and_swap_cache
+               |--0.00%-- __kmalloc_track_caller
+               |--0.00%-- __kmalloc
+               |          |          |--0.00%-- sqlite3_free
+               |          |           --0.00%-- dentry_free
+               |          |--0.00%-- xxmalloc
+               |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |          |--0.00%-- xxfree
+               |          |--0.00%-- xxfree@plt
+               |          |--0.00%-- __kmalloc_track_caller
+               |           --0.00%-- __kmalloc
+               |          |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |          |--0.00%-- xxfree
+               |          |--0.00%-- xxmalloc
+               |          |--0.00%-- xxfree@plt
+               |          |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |          |--0.00%-- xxfree
+               |          |--0.00%-- xxmalloc
+               |          |--0.00%-- xxfree@plt
+               |          |--0.03%-- dentry_free
+               |          |--0.01%-- selinux_inode_free_security
+                          |--0.00%-- dentry_free
+                          |--0.00%-- selinux_inode_free_security
+               |          |--0.00%-- sqlite3_free
+               |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |--0.00%-- xxmalloc
+               |--0.00%-- xxfree@plt
+               |--0.00%-- xxfree
+               |          |--0.02%-- dentry_free
+               |          |--0.00%-- selinux_inode_free_security
+               |--0.00%-- dentry_free
+     0.06%     0.00%            30  sqlite3-sys  [kernel.kallsyms]    [k] dentry_free                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+     0.06%     0.06%           491  sqlite3-sys  [kernel.kallsyms]    [k] kfree                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+               |--0.02%-- selinux_file_free_security
+               |--0.00%-- security_file_free
+     0.05%     0.02%           202  sqlite3-sys  [kernel.kallsyms]    [k] get_page_from_freelist                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+               |                     |--0.00%-- __kmalloc_track_caller
+               |                      --0.00%-- __kmalloc
+     0.05%     0.01%            60  sqlite3-sys  [kernel.kallsyms]    [k] free_hot_cold_page_list                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+               |           --0.00%-- free_pages_and_swap_cache
+               |                     |--0.00%-- sqlite3_free
+               |          |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- xxmalloc@plt
+               |                     |--0.00%-- sqlite3_free
+     0.04%     0.04%           352  sqlite3-sys  [kernel.kallsyms]    [k] __kmalloc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+               |          |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- xxmalloc@plt
+               |--0.04%-- xxfree
+               |          |--0.04%-- sqlite3_free
+     0.03%     0.01%           107  sqlite3-sys  [kernel.kallsyms]    [k] free_hot_cold_page                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+               |--0.03%-- free_hot_cold_page_list
+               |           --0.00%-- free_pages_and_swap_cache
+               |          |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- xxfree@plt
+               |          |--0.00%-- xxfree
+               |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |          |--0.00%-- xxmalloc
+               |          |           --0.00%-- __kmalloc
+               |          |--0.01%-- get_page_from_freelist
+               |          |           --0.00%-- free_pages_and_swap_cache
+               |--0.01%-- get_page_from_freelist
+     0.03%     0.02%           167  sqlite3-sys  [kernel.kallsyms]    [k] __slab_free                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+               |--0.03%-- kmem_cache_free
+                --0.00%-- locks_free_lock
+     0.03%     0.03%           239  sqlite3-sys  libhoard.so          [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+               |--0.03%-- xxfree
+               |          |--0.03%-- sqlite3_free
+                --0.03%-- xxfree
+                          |--0.03%-- sqlite3_free
+     0.02%     0.00%            24  sqlite3-sys  [kernel.kallsyms]    [k] security_inode_free                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+               |          |--0.00%-- sqlite3_free
+               |--0.02%-- xxfree
+               |          |--0.01%-- sqlite3_free
+               |--0.01%-- xxmalloc
+                --0.00%-- xxmalloc_usable_size
+     0.02%     0.02%           171  sqlite3-sys  [kernel.kallsyms]    [k] __kmalloc_track_caller                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+     0.02%     0.00%            26  sqlite3-sys  [kernel.kallsyms]    [k] selinux_inode_free_security                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+               |--0.02%-- security_inode_free
+     0.02%     0.00%             8  sqlite3-sys  [kernel.kallsyms]    [k] security_file_free                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+               |           --0.00%-- __kmalloc
+               |--0.01%-- get_page_from_freelist
+               |           --0.00%-- free_pages_and_swap_cache
+               |           --0.00%-- xxmalloc
+               |--0.00%-- get_page_from_freelist
+               |--0.00%-- sqlite3_free
+     0.02%     0.00%            10  sqlite3-sys  [kernel.kallsyms]    [k] selinux_file_free_security                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+               |--0.02%-- security_file_free
+               |          |--0.00%-- __kmalloc_track_caller
+               |           --0.00%-- __kmalloc
+                --0.00%-- __kmalloc
+               |--0.01%-- free_hot_cold_page
+               |           --0.00%-- free_pages_and_swap_cache
+                --0.01%-- free_hot_cold_page_list
+     0.02%     0.02%           137  sqlite3-sys  [kernel.kallsyms]    [k] kmalloc_slab                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+               |          |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- xxfree@plt
+               |--0.00%-- free_hot_cold_page
+               |--0.00%-- free_hot_cold_page_list
+               |--0.00%-- get_page_from_freelist
+     0.01%     0.01%           111  sqlite3-sys  [kernel.kallsyms]    [k] free_pages_prepare                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+               |--0.01%-- free_hot_cold_page
+                --0.00%-- free_hot_cold_page_list
+                          |           --0.00%-- sqlite3_free
+               |--0.01%-- locks_free_lock
+               |          |--0.00%-- sqlite3_free
+               |--0.01%-- __slab_free
+                --0.00%-- kmem_cache_free
+               |                     |          |          |          |          |--0.00%-- sqlite3_free
+               |                     |          |                     |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |          |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |          |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- xxmalloc@plt
+               |          |--0.00%-- xxmalloc
+               |          |          |--0.00%-- xxfree@plt
+     0.01%     0.01%            81  sqlite3-sys  libhoard.so          [.] replace_malloc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+     0.01%     0.01%            79  sqlite3-sys  libhoard.so          [.] replace_free                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+               |--0.00%-- sqlite3_free
+               |--0.00%-- sqlite3_free
+               |--0.00%-- sqlite3_free
+               |          |           --0.00%-- sqlite3_free
+               |          |--0.00%-- xxmalloc
+               |          |--0.00%-- xxmalloc
+               |          |--0.00%-- xxfree
+               |--0.01%-- xxmalloc
+               |          |--0.00%-- __kmalloc_track_caller
+               |           --0.00%-- __kmalloc
+               |--0.00%-- sqlite3_free
+                --0.00%-- get_page_from_freelist
+               |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |--0.00%-- get_page_from_freelist
+               |          |--0.00%-- sqlite3_free
+               |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+     0.01%     0.01%            52  sqlite3-sys  [kernel.kallsyms]    [k] mpol_free_shared_policy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+               |          |--0.00%-- xxfree
+               |          |--0.00%-- xxmalloc
+     0.01%     0.00%            14  sqlite3-sys  [kernel.kallsyms]    [k] shmem_free_inode                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+               |--0.00%-- sqlite3_free
+                          |--0.00%-- __kmalloc
+               |          |--0.00%-- sqlite3_free
+               |--0.00%-- free_hot_cold_page
+               |--0.00%-- get_page_from_freelist
+               |--0.00%-- xxmalloc
+               |--0.00%-- xxfree
+               |          |--0.00%-- sqlite3_free
+               |          |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- free_hot_cold_page
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+     0.00%     0.00%            33  sqlite3-sys  libhoard.so          [.] xxfree@plt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+               |--0.00%-- sqlite3_free
+               |          |           --0.00%-- sqlite3_free
+               |          |--0.00%-- get_page_from_freelist
+     0.00%     0.00%            32  sqlite3-sys  libhoard.so          [.] replace_free@plt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+               |          |--0.00%-- sqlite3_free
+               |                     |--0.00%-- sqlite3_free
+               |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+                           --0.00%-- sqlite3_free
+     0.00%     0.00%            24  sqlite3-sys  libhoard.so          [.] xxmalloc@plt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+               |          |          |--0.00%-- sqlite3_free
+     0.00%     0.00%            22  sqlite3-sys  libhoard.so          [.] replace_malloc@plt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+               |--0.00%-- sqlite3_free
+               |           --0.00%-- xxfree
+               |--0.00%-- sqlite3_free
+                          |          |          |          |          |--0.00%-- sqlite3_free
+                          |          |                     |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+                          |          |          |          |          |--0.00%-- sqlite3_free
+                          |          |                     |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |           --0.00%-- xxfree
+                          |--0.00%-- sqlite3_free
+                          |--0.00%-- sqlite3_free
+                          |          |          |          |          |--0.00%-- sqlite3_free
+                          |          |                     |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |--0.00%-- get_page_from_freelist
+               |          |--0.00%-- sqlite3_free
+                           --0.00%-- sqlite3_free
+               |          |          |--0.00%-- sqlite3_free
+     0.00%     0.00%            13  sqlite3-sys  sqlite3-sys          [.] malloc@plt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+               |--0.00%-- __kmalloc_track_caller
+                --0.00%-- __kmalloc
+                          |--0.00%-- sqlite3_free
+               |--0.00%-- sqlite3_free
+               |          |          |          |--0.00%-- sqlite3_free
+               |                     |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+     0.00%     0.00%             6  sqlite3-sys  libhoard.so          [.] xxmalloc_usable_size                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+               |          |          |--0.00%-- xxmalloc
+     0.00%     0.00%             5  sqlite3-sys  libhoard.so          [.] replace_malloc_usable_size                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+     0.00%     0.00%             0  sqlite3-sys  [kernel.kallsyms]    [k] tlb_flush_mmu_free                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+     0.00%     0.00%             0  sqlite3-sys  [kernel.kallsyms]    [k] free_pages_and_swap_cache                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+     0.00%     0.00%             3  sqlite3-sys  libhoard.so          [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::EmptyHoardManager<Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> > >, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >::free
+               |--0.00%-- xxfree
+               |           --0.00%-- sqlite3_free
+     0.00%     0.00%             2  sqlite3-sys  sqlite3-sys          [.] free@plt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+     0.00%     0.00%             2  sqlite3-sys  [kernel.kallsyms]    [k] free_pcppages_bulk                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+                --0.00%-- sqlite3_free
+     0.00%     0.00%             1  sqlite3-sys  libhoard.so          [.] replace_malloc_usable_size@plt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+     0.00%     0.00%             1  sqlite3-sys  libhoard.so          [.] xxmalloc_usable_size@plt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+               |          |          |          |--0.00%-- sqlite3_free
+               |                     |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+                --0.00%-- sqlite3_free
+                           --0.00%-- sqlite3_free
+               |          |          |          |          |--0.00%-- sqlite3_free
+               |          |                     |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |           --0.00%-- sqlite3_free

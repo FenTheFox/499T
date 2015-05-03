@@ -47,7 +47,7 @@ class Tester
 		end
 		if(ittr == 0 && @do_perf)
 			puts cmd_perf.gsub('-e', '-e cycles,instructions,cache-misses,branch-misses,page-faults,cs')
-			puts cmd_perf.gsub('stat', 'record').gsub("#{@results_dir}/perf/", '').gsub('-e', '-F 500 --call-graph dwarf').gsub('.txt', '.data')
+			puts cmd_perf.gsub('stat', 'record').gsub("#{@results_dir}/perf/", '').gsub('-e', '--call-graph dwarf').gsub('.txt', '.data')
 			puts "mv *.data #{@results_dir}/perf"
 		end
 	end

@@ -1,0 +1,7 @@
+Allocator,bench,percent,cache misses,page faults
+default,js,7,752355420,5140580
+hoard,js,4.15,824476055,3773393
+jemalloc,js,6.57,814747750,4678923
+default,render,15.46,1008547257,1815586
+hoard,render,4.75,1077319680,1127102
+jemalloc,render,3.3,1015254710,919782

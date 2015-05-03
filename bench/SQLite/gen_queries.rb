@@ -9,7 +9,7 @@ fh = File.new('query1.sql', 'w')
 fh.print("1\nstr\nSELECT * FROM albums a WHERE a.name = ?;\n")
 i = 0
 IO.foreach('csvs/albumnames.csv') do |row|
-	fh.print(clean_str(row), "\n") if (((i += 1) % 4) == 0)
+	fh.print(clean_str(row), "\n")
 end
 fh.close
 
@@ -18,27 +18,29 @@ fh = File.new('query2.sql', 'w')
 fh.print("0\n")
 IO.foreach('csvs/songnames.csv') do |row|
 	words = row.split
-	fh.print("SELECT * FROM songs s WHERE s.title like '%#{clean_str(words[1])}%';\n") if (((i += 1) % 5) == 0 && !words[1].nil?)
+	fh.print("SELECT * FROM songs s WHERE s.title like '#{clean_str(words[0])}%';\n")
 end
 fh.close
 
 # Return the (number of) rows in each table
 fh = File.new('query3.sql', 'w')
 fh.print("0;\n")
-fh.print("SELECT COUNT(*) FROM albums;\n")
-fh.print("SELECT COUNT(*) FROM artists;\n")
-fh.print("SELECT COUNT(*) FROM songs;\n")
-fh.print("SELECT COUNT(*) FROM tags;\n")
-fh.print("SELECT COUNT(*) FROM users;\n")
-fh.print("SELECT COUNT(*) FROM usersongplays;\n")
-fh.print("SELECT COUNT(*) FROM usersongratings;\n")
-fh.print("SELECT * FROM albums;\n")
-fh.print("SELECT * FROM artists;\n")
-fh.print("SELECT * FROM songs;\n")
-fh.print("SELECT * FROM tags;\n")
-fh.print("SELECT * FROM users;\n")
-fh.print("SELECT * FROM usersongplays;\n")
-fh.print("SELECT * FROM usersongratings;\n")
+50.times do |d|
+	fh.print("SELECT COUNT(*) FROM albums;\n")
+	fh.print("SELECT COUNT(*) FROM artists;\n")
+	fh.print("SELECT COUNT(*) FROM songs;\n")
+	fh.print("SELECT COUNT(*) FROM tags;\n")
+	fh.print("SELECT COUNT(*) FROM users;\n")
+	fh.print("SELECT COUNT(*) FROM usersongplays;\n")
+	fh.print("SELECT COUNT(*) FROM usersongratings;\n")
+	fh.print("SELECT * FROM albums;\n")
+	fh.print("SELECT * FROM artists;\n")
+	fh.print("SELECT * FROM songs;\n")
+	fh.print("SELECT * FROM tags;\n")
+	fh.print("SELECT * FROM users;\n")
+	fh.print("SELECT * FROM usersongplays;\n")
+	fh.print("SELECT * FROM usersongratings;\n")
+end
 fh.close
 
 # Return the titles of the ten loudest songs of the year *
@@ -52,7 +54,7 @@ fh = File.new('query5.sql', 'w')
 fh.print("1\nstr\nSELECT r.rating, COUNT(*)\nFROM usersongratings r JOIN songs s ON r.songid = s.id\nWHERE s.title=?\nGROUP BY r.rating ORDER BY r.rating ASC;\n")
 i = 0
 IO.foreach('csvs/songnames.csv') do |row|
-  fh.print(clean_str(row), "\n") if (((i += 1) % 7) == 0)
+  fh.print(clean_str(row), "\n")
 end
 fh.close
 
@@ -61,7 +63,7 @@ fh = File.new('query6.sql', 'w')
 fh.print("1\nstr\nSELECT s.title, ab.name as albumname, ar.name as artistname\nFROM (\nSELECT ur.songid\nFROM usersongratings ur\nJOIN (\nSELECT u.id\nFROM users u\nWHERE u.name=?\n) UserID ON ur.userid = UserID.id\nWHERE ur.rating > 3) OverThreeSongID\nJOIN songs s ON OverThreeSongID.songid = s.id\nJOIN albums ab ON s.albumid = ab.id\nJOIN artists ar ON s.artistid = ar.id;\n")
 i = 0
 IO.foreach('csvs/usernames.csv') do |row|
-	fh.print(clean_str(row), "\n") if (((i += 1) % 6) == 0)
+	fh.print(clean_str(row), "\n")
 end
 fh.close
 

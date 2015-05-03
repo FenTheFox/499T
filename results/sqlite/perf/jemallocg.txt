@@ -1,0 +1,264 @@
+               |          |--0.00%-- sqlite3_free
+               |           --0.00%-- je_choose_arena_hard
+               |          |          |--0.00%-- arena_dalloc_bin_run
+               |--0.02%-- sqlite3_free
+                --0.00%-- je_choose_arena_hard
+               |--0.00%-- je_arena_tcache_fill_small
+               |--0.00%-- __kmalloc
+               |--0.00%-- locks_free_lock
+               |          |--0.00%-- locks_free_lock
+               |--0.01%-- selinux_inode_free_security
+               |           --0.00%-- sqlite3_free
+               |--0.00%-- shmem_free_inode
+               |--0.00%-- security_inode_free
+               |--0.00%-- get_page_from_freelist
+               |          |--0.00%-- locks_free_lock
+               |          |--0.00%-- locks_free_lock
+               |          |--0.00%-- locks_free_lock
+               |          |--0.00%-- locks_free_lock
+               |          |--0.00%-- locks_free_lock
+               |          |--0.00%-- locks_free_lock
+               |--0.05%-- dentry_free
+               |--0.01%-- selinux_inode_free_security
+                --0.00%-- security_inode_free
+     0.16%     0.15%          1239  sqlite3-sys  libjemalloc.so       [.] free                                                                                                                                                                                         
+               |--0.03%-- sqlite3_free
+     0.15%     0.15%          1176  sqlite3-sys  libjemalloc.so       [.] malloc                                                                                                                                                                                       
+     0.14%     0.10%           806  sqlite3-sys  [kernel.kallsyms]    [k] kmem_cache_free                                                                                                                                                                              
+               |--0.10%-- locks_free_lock
+               |--0.01%-- dentry_free
+               |--0.00%-- free_pages_and_swap_cache
+     0.13%     0.02%           157  sqlite3-sys  [kernel.kallsyms]    [k] locks_free_lock                                                                                                                                                                              
+               |          |--0.00%-- arena_bin_malloc_hard
+               |--0.00%-- __kmalloc_track_caller
+               |--0.00%-- __kmalloc
+               |                     |--0.00%-- arena_bin_malloc_hard
+               |           --0.00%-- __kmalloc_track_caller
+               |          |--0.03%-- dentry_free
+               |          |--0.01%-- selinux_inode_free_security
+                          |--0.00%-- dentry_free
+                          |--0.00%-- selinux_inode_free_security
+     0.08%     0.03%           239  sqlite3-sys  sqlite3-sys          [.] sqlite3_free                                                                                                                                                                                 
+               |          |--0.02%-- dentry_free
+               |          |--0.01%-- selinux_inode_free_security
+               |--0.00%-- dentry_free
+                --0.00%-- selinux_inode_free_security
+     0.07%     0.02%           201  sqlite3-sys  [kernel.kallsyms]    [k] get_page_from_freelist                                                                                                                                                                       
+               |                      --0.00%-- arena_bin_malloc_hard
+                           --0.00%-- __kmalloc_track_caller
+     0.06%     0.00%            38  sqlite3-sys  [kernel.kallsyms]    [k] dentry_free                                                                                                                                                                                  
+     0.06%     0.06%           473  sqlite3-sys  [kernel.kallsyms]    [k] kfree                                                                                                                                                                                        
+               |--0.02%-- selinux_file_free_security
+               |--0.01%-- security_file_free
+                --0.00%-- je_arena_new
+     0.05%     0.01%            65  sqlite3-sys  [kernel.kallsyms]    [k] free_hot_cold_page_list                                                                                                                                                                      
+               |          |--0.00%-- free_pages_and_swap_cache
+     0.05%     0.05%           365  sqlite3-sys  [kernel.kallsyms]    [k] __kmalloc                                                                                                                                                                                    
+               |          |          |--0.00%-- sqlite3_free
+               |          |           --0.00%-- je_choose_arena_hard
+               |          |--0.00%-- sqlite3_free
+               |           --0.00%-- je_choose_arena_hard
+               |--0.00%-- malloc
+               |--0.00%-- free
+               |          |--0.00%-- sqlite3_free
+                --0.00%-- je_arena_ralloc
+     0.04%     0.02%           182  sqlite3-sys  [kernel.kallsyms]    [k] __slab_free                                                                                                                                                                                  
+               |--0.03%-- kmem_cache_free
+                --0.00%-- locks_free_lock
+               |           --0.00%-- free_pages_and_swap_cache
+     0.03%     0.01%            78  sqlite3-sys  [kernel.kallsyms]    [k] free_hot_cold_page                                                                                                                                                                           
+               |--0.03%-- free_hot_cold_page_list
+               |           --0.00%-- free_pages_and_swap_cache
+                          |--0.00%-- arena_bin_malloc_hard
+               |          |--0.01%-- get_page_from_freelist
+               |          |                      --0.00%-- __kmalloc_track_caller
+               |          |           --0.00%-- free_pages_and_swap_cache
+               |          |                      --0.00%-- __kmalloc_track_caller
+               |           --0.00%-- free_pcppages_bulk
+               |--0.01%-- get_page_from_freelist
+     0.03%     0.00%            23  sqlite3-sys  [kernel.kallsyms]    [k] security_inode_free                                                                                                                                                                          
+               |          |           --0.00%-- sqlite3_free
+     0.03%     0.02%           200  sqlite3-sys  libjemalloc.so       [.] je_arena_dalloc_bin_locked                                                                                                                                                                   
+               |           --0.00%-- free_pages_and_swap_cache
+               |          |--0.00%-- sqlite3_free
+               |           --0.00%-- je_choose_arena_hard
+     0.02%     0.00%            32  sqlite3-sys  [kernel.kallsyms]    [k] selinux_inode_free_security                                                                                                                                                                  
+               |--0.02%-- security_inode_free
+     0.02%     0.02%           175  sqlite3-sys  [kernel.kallsyms]    [k] __kmalloc_track_caller                                                                                                                                                                       
+     0.02%     0.00%             3  sqlite3-sys  [kernel.kallsyms]    [k] security_file_free                                                                                                                                                                           
+               |--0.00%-- __kmalloc_track_caller
+                --0.00%-- __kmalloc
+               |          |--0.00%-- __kmalloc
+               |           --0.00%-- __kmalloc_track_caller
+               |           --0.00%-- __kmalloc
+               |--0.01%-- get_page_from_freelist
+               |--0.01%-- free_hot_cold_page
+               |           --0.00%-- free_pages_and_swap_cache
+                --0.01%-- free_hot_cold_page_list
+     0.02%     0.00%            23  sqlite3-sys  [kernel.kallsyms]    [k] selinux_file_free_security                                                                                                                                                                   
+               |--0.02%-- security_file_free
+               |                     |           --0.00%-- sqlite3_free
+     0.02%     0.02%           138  sqlite3-sys  libjemalloc.so       [.] je_arena_tcache_fill_small                                                                                                                                                                   
+               |           --0.00%-- free_pages_and_swap_cache
+               |--0.01%-- get_page_from_freelist
+               |                      --0.00%-- __kmalloc_track_caller
+               |           --0.00%-- free_pages_and_swap_cache
+               |                      --0.00%-- __kmalloc_track_caller
+                --0.00%-- free_pcppages_bulk
+               |--0.00%-- get_page_from_freelist
+               |--0.01%-- locks_free_lock
+               |--0.00%-- get_page_from_freelist
+               |                     |          |          |          |          |          |--0.00%-- sqlite3_free
+               |                     |          |          |          |          |           --0.00%-- je_choose_arena_hard
+               |                     |          |          |          |           --0.00%-- arena_bin_malloc_hard
+               |          |--0.00%-- sqlite3_free
+               |           --0.00%-- je_choose_arena_hard
+               |--0.00%-- free_hot_cold_page
+               |--0.00%-- get_page_from_freelist
+               |--0.00%-- free_hot_cold_page_list
+                --0.00%-- free_pcppages_bulk
+               |--0.01%-- __slab_free
+                --0.00%-- kmem_cache_free
+               |           --0.00%-- __kmalloc
+                --0.00%-- __kmalloc_track_caller
+               |--0.01%-- get_page_from_freelist
+     0.01%     0.01%           107  sqlite3-sys  [kernel.kallsyms]    [k] kmalloc_slab                                                                                                                                                                                 
+     0.01%     0.01%           103  sqlite3-sys  [kernel.kallsyms]    [k] free_pages_prepare                                                                                                                                                                           
+               |--0.01%-- free_hot_cold_page
+                --0.00%-- free_hot_cold_page_list
+               |           --0.00%-- sqlite3_free
+               |--0.00%-- sqlite3_free
+               |           --0.00%-- __kmalloc_track_caller
+     0.01%     0.01%            50  sqlite3-sys  libjemalloc.so       [.] je_tcache_bin_flush_small                                                                                                                                                                    
+               |--0.00%-- free
+               |--0.00%-- sqlite3_free
+               |--0.00%-- sqlite3_free
+               |--0.00%-- get_page_from_freelist
+                --0.00%-- free_hot_cold_page
+               |          |--0.00%-- __kmalloc
+                           --0.00%-- __kmalloc_track_caller
+               |           --0.00%-- free_pages_and_swap_cache
+               |--0.00%-- get_page_from_freelist
+               |          |          |          |--0.00%-- sqlite3_free
+               |          |          |           --0.00%-- je_choose_arena_hard
+               |                     |--0.00%-- arena_bin_malloc_hard
+               |                      --0.00%-- arena_chunk_alloc
+               |--0.00%-- arena_bin_malloc_hard
+               |--0.00%-- arena_run_split_remove
+               |--0.00%-- arena_chunk_alloc
+                          |--0.00%-- arena_bin_malloc_hard
+                          |--0.00%-- arena_run_split_remove
+                          |--0.00%-- arena_chunk_alloc
+               |--0.00%-- arena_bin_malloc_hard
+               |--0.00%-- arena_run_split_remove
+               |--0.00%-- arena_chunk_alloc
+     0.01%     0.00%            20  sqlite3-sys  [kernel.kallsyms]    [k] shmem_free_inode                                                                                                                                                                             
+               |          |--0.00%-- sqlite3_free
+               |           --0.00%-- je_choose_arena_hard
+               |          |--0.00%-- locks_free_lock
+               |--0.00%-- arena_bin_malloc_hard
+               |--0.00%-- arena_run_split_remove
+               |--0.00%-- arena_chunk_alloc
+               |          |          |--0.00%-- sqlite3_free
+               |          |           --0.00%-- je_choose_arena_hard
+                          |--0.00%-- arena_bin_malloc_hard
+                           --0.00%-- arena_chunk_alloc
+               |          |--0.00%-- arena_dalloc_bin_run
+               |          |--0.00%-- arena_dalloc_bin_run
+               |          |--0.00%-- arena_dalloc_bin_run
+     0.01%     0.01%            40  sqlite3-sys  libjemalloc.so       [.] __tls_get_addr@plt                                                                                                                                                                           
+               |--0.00%-- free
+               |          |--0.00%-- sqlite3_free
+                --0.00%-- malloc
+               |          |          |          |          |          |          |--0.00%-- sqlite3_free
+               |          |          |          |          |          |           --0.00%-- je_choose_arena_hard
+               |          |          |          |          |          |--0.00%-- arena_chunk_alloc
+               |          |          |          |          |           --0.00%-- arena_bin_malloc_hard
+     0.00%     0.00%            34  sqlite3-sys  [kernel.kallsyms]    [k] mpol_free_shared_policy                                                                                                                                                                      
+               |                     |          |          |          |          |          |--0.00%-- sqlite3_free
+               |                     |          |          |          |          |           --0.00%-- je_choose_arena_hard
+               |                     |          |          |          |          |--0.00%-- arena_chunk_alloc
+               |                     |          |          |          |           --0.00%-- arena_bin_malloc_hard
+                          |          |          |          |          |          |--0.00%-- sqlite3_free
+                          |          |          |          |          |           --0.00%-- je_choose_arena_hard
+                          |          |          |          |          |--0.00%-- arena_chunk_alloc
+                          |          |          |          |           --0.00%-- arena_bin_malloc_hard
+               |--0.00%-- get_page_from_freelist
+               |                     |--0.00%-- arena_dalloc_bin_run
+               |           --0.00%-- sqlite3_free
+               |           --0.00%-- sqlite3_free
+     0.00%     0.00%            18  sqlite3-sys  libjemalloc.so       [.] je_arena_ralloc                                                                                                                                                                              
+     0.00%     0.00%            19  sqlite3-sys  libjemalloc.so       [.] je_tcache_event_hard                                                                                                                                                                         
+               |--0.00%-- sqlite3_free
+     0.00%     0.00%             1  sqlite3-sys  libjemalloc.so       [.] je_tcache_alloc_small_hard                                                                                                                                                                   
+     0.00%     0.00%            14  sqlite3-sys  libjemalloc.so       [.] arena_bin_malloc_hard                                                                                                                                                                        
+               |           --0.00%-- sqlite3_free
+     0.00%     0.00%             0  sqlite3-sys  [kernel.kallsyms]    [k] tlb_flush_mmu_free                                                                                                                                                                           
+     0.00%     0.00%             0  sqlite3-sys  [kernel.kallsyms]    [k] free_pages_and_swap_cache                                                                                                                                                                    
+                          |--0.00%-- arena_dalloc_bin_run
+                          |--0.00%-- arena_dalloc_bin_run
+               |           --0.00%-- sqlite3_free
+               |--0.00%-- get_page_from_freelist
+               |          |           --0.00%-- __kmalloc_track_caller
+               |--0.00%-- arena_bin_malloc_hard
+     0.00%     0.00%            12  sqlite3-sys  sqlite3-sys          [.] malloc@plt                                                                                                                                                                                   
+     0.00%     0.00%            12  sqlite3-sys  libstdc++.so.6.0.20  [.] free@plt                                                                                                                                                                                     
+     0.00%     0.00%             8  sqlite3-sys  libjemalloc.so       [.] realloc                                                                                                                                                                                      
+               |                     |--0.00%-- arena_dalloc_bin_run
+     0.00%     0.00%            10  sqlite3-sys  libstdc++.so.6.0.20  [.] malloc@plt                                                                                                                                                                                   
+               |          |--0.00%-- dentry_free
+                          |--0.00%-- dentry_free
+     0.00%     0.00%             9  sqlite3-sys  libjemalloc.so       [.] arena_run_tree_remove                                                                                                                                                                        
+     0.00%     0.00%             1  sqlite3-sys  libjemalloc.so       [.] arena_dalloc_bin_run                                                                                                                                                                         
+     0.00%     0.00%             1  sqlite3-sys  libjemalloc.so       [.] arena_purge                                                                                                                                                                                  
+               |--0.00%-- arena_dalloc_bin_run
+               |                     |--0.00%-- arena_dalloc_bin_run
+     0.00%     0.00%             0  sqlite3-sys  libjemalloc.so       [.] je_pages_purge                                                                                                                                                                               
+               |--0.00%-- arena_dalloc_bin_run
+     0.00%     0.00%             7  sqlite3-sys  sqlite3-sys          [.] free@plt                                                                                                                                                                                     
+     0.00%     0.00%             7  sqlite3-sys  libjemalloc.so       [.] arena_run_tree_insert                                                                                                                                                                        
+               |           --0.00%-- sqlite3_free
+     0.00%     0.00%             6  sqlite3-sys  libjemalloc.so       [.] arena_avail_tree_remove                                                                                                                                                                      
+               |--0.00%-- arena_run_dalloc
+                --0.00%-- arena_run_split_remove
+     0.00%     0.00%             4  sqlite3-sys  [kernel.kallsyms]    [k] free_pcppages_bulk                                                                                                                                                                           
+     0.00%     0.00%             4  sqlite3-sys  libjemalloc.so       [.] arena_run_split_remove                                                                                                                                                                       
+                --0.00%-- __kmalloc
+     0.00%     0.00%             0  sqlite3-sys  libjemalloc.so       [.] je_tcache_thread_cleanup                                                                                                                                                                     
+     0.00%     0.00%             0  sqlite3-sys  libjemalloc.so       [.] je_tcache_destroy                                                                                                                                                                            
+               |          |          |          |          |--0.00%-- sqlite3_free
+               |          |          |          |           --0.00%-- je_choose_arena_hard
+               |          |          |          |--0.00%-- arena_bin_malloc_hard
+               |          |          |           --0.00%-- arena_chunk_alloc
+     0.00%     0.00%             1  sqlite3-sys  libjemalloc.so       [.] arena_run_split_small                                                                                                                                                                        
+               |          |          |          |          |--0.00%-- sqlite3_free
+               |          |          |          |           --0.00%-- je_choose_arena_hard
+               |          |          |          |--0.00%-- arena_chunk_alloc
+               |          |          |           --0.00%-- arena_bin_malloc_hard
+     0.00%     0.00%             2  sqlite3-sys  libjemalloc.so       [.] arena_avail_tree_insert                                                                                                                                                                      
+               |          |          |          |          |          |--0.00%-- sqlite3_free
+               |          |          |          |          |           --0.00%-- je_choose_arena_hard
+               |          |          |          |          |--0.00%-- arena_chunk_alloc
+               |          |          |          |           --0.00%-- arena_bin_malloc_hard
+     0.00%     0.00%             1  sqlite3-sys  libjemalloc.so       [.] memcpy@plt                                                                                                                                                                                   
+     0.00%     0.00%             0  sqlite3-sys  libjemalloc.so       [.] je_tcache_bin_flush_large                                                                                                                                                                    
+     0.00%     0.00%             0  sqlite3-sys  libjemalloc.so       [.] arena_run_dalloc                                                                                                                                                                             
+     0.00%     0.00%             1  sqlite3-sys  libjemalloc.so       [.] arena_chunk_dirty_insert                                                                                                                                                                     
+     0.00%     0.00%             1  sqlite3-sys  libjemalloc.so       [.] arena_avail_remove                                                                                                                                                                           
+     0.00%     0.00%             0  sqlite3-sys  libjemalloc.so       [.] je_choose_arena_hard                                                                                                                                                                         
+     0.00%     0.00%             0  sqlite3-sys  libjemalloc.so       [.] je_arena_new                                                                                                                                                                                 
+     0.00%     0.00%             0  sqlite3-sys  libjemalloc.so       [.] je_tcache_create                                                                                                                                                                             
+     0.00%     0.00%             0  sqlite3-sys  libjemalloc.so       [.] je_arena_malloc_large                                                                                                                                                                        
+     0.00%     0.00%             0  sqlite3-sys  libjemalloc.so       [.] arena_run_alloc_large                                                                                                                                                                        
+     0.00%     0.00%             0  sqlite3-sys  libjemalloc.so       [.] arena_chunk_alloc                                                                                                                                                                            
+               |--0.00%-- arena_bin_malloc_hard
+                --0.00%-- arena_chunk_alloc
+               |--0.00%-- arena_bin_malloc_hard
+                --0.00%-- arena_chunk_alloc
+     0.00%     0.00%             0  sqlite3-sys  libjemalloc.so       [.] jemalloc_constructor                                                                                                                                                                         
+     0.00%     0.00%             0  sqlite3-sys  libjemalloc.so       [.] malloc_init_hard                                                                                                                                                                             
+     0.00%     0.00%             0  sqlite3-sys  libjemalloc.so       [.] je_base_boot                                                                                                                                                                                 
+               |          |--0.00%-- sqlite3_free
+                          |           --0.00%-- sqlite3_free
+     0.00%     0.00%             0  sqlite3-sys  libjemalloc.so       [.] je_chunk_alloc                                                                                                                                                                               
+     0.00%     0.00%             0  sqlite3-sys  libjemalloc.so       [.] je_chunk_alloc_mmap                                                                                                                                                                          

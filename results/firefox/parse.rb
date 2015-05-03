@@ -95,16 +95,21 @@ class Results
 		jsf = File.new('js_stats.csv', 'w')
 		rf = File.new('render.csv', 'w')
 		rsf = File.new('render_stats.csv', 'w')
+		af = File.new('alloc.csv', 'w')
 
 		jf.puts 'allocator,runtime'
 		jsf.puts 'allocator,mean,standard_dev'
 		rf.puts 'allocator,runtime'
 		rsf.puts 'allocator,mean,standard_dev'
+		af.puts 'allocator,objs,total_mem,in_use,average,ops'
 		@@results.each do |k, v|
 			for i in 0..(v[:js].length-1) do jf.puts "#{k},#{v[:js][i]}" end
 			for i in 0..(v[:render].length-1) do rf.puts "#{k},#{v[:render][i]}" end
 			jsf.puts "#{k},#{v[:js_mean]},#{v[:js_stdev]}"
 			rsf.puts "#{k},#{v[:render_mean]},#{v[:render_stdev]}"
+		end
+		@@traces.each do |k, v|
+			af.puts "#{k},#{v[:objs]},#{v[:total_mem]},#{v[:in_use]},#{v[:average]},#{v[:ops]}"
 		end
 	end
 end

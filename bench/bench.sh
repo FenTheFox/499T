@@ -9,12 +9,12 @@ ffr_base=$BASE_DIR/results/firefox
 sqlr_base=$BASE_DIR/results/sqlite
 
 if [[ $1 == '-ff' || $2 == '-ff' ]]; then
-	ff=true
+	ff='-ff'
 	rm -rf $ffr_base/logs/*
 fi
 
 if [[ $1 == '-sql' || $2 == '-sql' ]]; then
-	sql=true
+	sql='-sql'
 	rm -f $sqlr_base/logs/*
 	cd source/sqlite-bench/
 	make
@@ -34,7 +34,7 @@ for a in $@; do
 		fi
 	elif [[ $a == '-perf' ]]; then
 		perf='-perf'
-		sz=6G
+		sz=8G
 		if [[ $ff ]]; then
 			rm -f $ffr_base/**/perf/*
 		fi
@@ -43,7 +43,7 @@ for a in $@; do
 		fi
 	elif [[ $a == '-trace' ]]; then
 		trace='-trace'
-		sz=6G
+		sz=4G
 		if [[ $ff ]]; then
 			rm -f $ffr_base/**/trace/*
 		fi
@@ -91,7 +91,7 @@ cp -rf /ramdisk/results/* $BASE_DIR/results
 
 if [[ $warmup != true ]]; then
 	cd $BASE_DIR/results
-	./results.sh
+	./results.sh $ff $sql $perf
 fi
 
 cd $BASE_DIR

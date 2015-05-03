@@ -1,0 +1,1603 @@
+               |--0.00%-- zlib_free
+    13.02%     0.00%             0  Analysis Helper  libhoard-rmalloc.so            [.] startMeUp
+                        --0.00%-- xxfree
+     1.88%     0.00%             0  mozStorage #1    libhoard-rmalloc.so            [.] startMeUp
+                       |          |--0.02%-- replace_calloc
+                       |          |          |--0.00%-- g_malloc0
+                       |          |          |--0.00%-- js::TempAllocPolicy::pod_calloc<js::detail::HashTableEntry<jsid const> >
+                       |          |--0.00%-- replace_calloc
+                       |          |--0.00%-- moz_xmalloc
+                       |          |--0.00%-- replace_calloc
+                       |          |--0.00%-- moz_xmalloc
+                       |          |--0.00%-- js::types::HeapTypeSetKey::freeze
+                       |--0.00%-- js::types::HeapTypeSetKey::freeze
+                       |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+                       |          |--0.24%-- xxfree
+                       |          |          |--0.00%-- js::LifoAlloc::freeAll
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |          |          |--0.00%-- g_try_malloc
+                       |          |          |--0.00%-- JS_malloc
+                       |                      --0.00%-- replace_calloc
+                       |          |          |--0.01%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |                     |--0.00%-- moz_xmalloc
+                       |                     |--0.00%-- replace_calloc
+                       |          |          |--0.02%-- replace_calloc
+                       |          |          |          |--0.00%-- g_malloc0
+                       |          |          |          |--0.00%-- js::TempAllocPolicy::pod_calloc<js::detail::HashTableEntry<jsid const> >
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |          |          |--0.00%-- js::types::HeapTypeSetKey::freeze
+                       |          |--0.00%-- js::types::HeapTypeSetKey::freeze
+                       |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+                       |          |          |--0.02%-- replace_calloc
+                       |          |          |          |--0.00%-- g_malloc0
+                       |          |          |          |--0.00%-- js::TempAllocPolicy::pod_calloc<js::detail::HashTableEntry<jsid const> >
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |          |          |--0.00%-- js::types::HeapTypeSetKey::freeze
+                       |          |--0.00%-- js::types::HeapTypeSetKey::freeze
+                       |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+     0.97%     0.89%          4425  firefox          libhoard-rmalloc.so            [.] xxmalloc
+                       |--0.07%-- moz_xmalloc
+                       |--0.06%-- replace_calloc
+                       |          |--0.00%-- g_malloc0
+                       |--0.01%-- g_malloc
+                       |--0.00%-- js::TempAllocPolicy::pod_malloc<JS::Value>
+                       |--0.00%-- js::TempAllocPolicy::pod_malloc<jsid>
+                       |--0.00%-- JS_malloc
+                       |--0.00%-- js::MallocProvider<JS::Zone>::pod_malloc<js::HeapSlot>
+                       |--0.00%-- replace_malloc_good_size
+                       |--0.00%-- xxfree
+                       |          |          |--0.01%-- replace_calloc
+                       |          |          |          |--0.00%-- g_malloc0
+                       |          |          |          |--0.00%-- js::TempAllocPolicy::pod_calloc<js::detail::HashTableEntry<jsid const> >
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |          |--0.00%-- js::types::HeapTypeSetKey::freeze
+                       |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+     0.81%     0.43%          2153  firefox          libhoard-rmalloc.so            [.] xxfree
+                       |--0.03%-- js::LifoAlloc::freeAll
+                       |--0.02%-- g_free
+                       |          |--0.00%-- g_key_file_key_value_pair_free
+                       |          |--0.00%-- g_error_free
+                       |--0.01%-- js::jit::JitRuntime::freeOsrTempData
+                       |--0.00%-- replace_malloc_good_size
+                       |          |          |--0.01%-- replace_calloc
+                       |          |          |          |--0.00%-- g_malloc0
+                       |          |          |--0.00%-- replace_calloc
+                       |          |           --0.00%-- moz_xmalloc
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |          |--0.00%-- js::types::HeapTypeSetKey::freeze
+                       |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+                       |          |          |          |--0.01%-- replace_calloc
+                       |          |          |          |          |--0.00%-- g_malloc0
+                       |          |          |          |--0.00%-- replace_calloc
+                       |          |          |          |--0.00%-- replace_calloc
+                       |          |          |          |--0.00%-- moz_xmalloc
+                       |          |          |--0.00%-- js::types::HeapTypeSetKey::freeze
+                       |          |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+                       |          |--0.01%-- __get_free_pages
+                       |          |          |--0.00%-- xxfree
+     0.49%     0.00%             0  StreamTrans #6   libhoard-rmalloc.so            [.] startMeUp
+               |--0.24%-- xxfree
+               |          |--0.00%-- js::LifoAlloc::freeAll
+               |          |--0.00%-- replace_calloc
+               |          |--0.00%-- moz_xmalloc
+               |          |--0.00%-- g_try_malloc
+               |          |--0.00%-- JS_malloc
+                           --0.00%-- replace_calloc
+               |--0.23%-- xxfree
+               |          |--0.00%-- js::LifoAlloc::freeAll
+               |          |--0.00%-- replace_calloc
+               |          |--0.00%-- moz_xmalloc
+               |          |--0.00%-- g_try_malloc
+               |          |--0.00%-- JS_malloc
+                           --0.00%-- replace_calloc
+                       |--0.00%-- xxmalloc
+               |--0.23%-- xxfree
+               |          |--0.00%-- js::LifoAlloc::freeAll
+               |          |--0.00%-- replace_calloc
+               |          |--0.00%-- moz_xmalloc
+               |          |--0.00%-- g_try_malloc
+               |          |--0.00%-- JS_malloc
+                           --0.00%-- replace_calloc
+                       |          |--0.23%-- xxfree
+                       |          |          |--0.00%-- js::LifoAlloc::freeAll
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |          |          |--0.00%-- g_try_malloc
+                       |          |          |--0.00%-- JS_malloc
+               |          |           --0.00%-- replace_calloc
+               |          |--0.05%-- xxfree
+               |          |           --0.00%-- replace_calloc
+                       |          |--0.00%-- obj_freeze
+                       |          |--0.21%-- xxfree
+                       |          |          |--0.00%-- js::LifoAlloc::freeAll
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                                   --0.00%-- replace_calloc
+     0.35%     0.01%            56  firefox          libhoard-rmalloc.so            [.] replace_realloc
+                       |          |          |          |--0.00%-- obj_freeze
+                       |          |--0.15%-- xxfree
+                       |          |           --0.00%-- js::LifoAlloc::freeAll
+               |           --0.00%-- replace_calloc
+               |          |--0.00%-- replace_calloc
+               |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+     0.25%     0.13%           628  Analysis Helper  libhoard-rmalloc.so            [.] xxfree
+               |--0.00%-- js::LifoAlloc::freeAll
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- replace_calloc
+                       |--0.20%-- free_pages_and_swap_cache
+                       |          |          |--0.11%-- xxfree
+                       |          |          |           --0.00%-- js::LifoAlloc::freeAll
+     0.21%     0.00%             2  firefox          [kernel.kallsyms]              [k] tlb_flush_mmu_free
+                       |          |          |--0.12%-- xxfree
+                       |          |          |           --0.00%-- js::LifoAlloc::freeAll
+     0.21%     0.00%            11  firefox          [kernel.kallsyms]              [k] free_pages_and_swap_cache
+                       |          |--0.12%-- xxfree
+                       |          |           --0.00%-- js::LifoAlloc::freeAll
+     0.20%     0.07%           398  firefox          [kernel.kallsyms]              [k] get_page_from_freelist
+                       |          |          |          |          |--0.00%-- replace_calloc
+                       |          |          |          |          |          |--0.00%-- g_malloc0
+                       |          |          |          |          |--0.00%-- replace_calloc
+                       |          |          |          |          |--0.00%-- replace_calloc
+                       |          |          |          |           --0.00%-- moz_xmalloc
+                       |          |          |          |--0.00%-- js::types::HeapTypeSetKey::freeze
+                       |          |          |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+                       |                     |--0.00%-- __get_free_pages
+                       |                     |           --0.00%-- xxfree
+                       |--0.04%-- replace_calloc
+                       |          |--0.00%-- g_malloc0
+                       |          |--0.00%-- js::TempAllocPolicy::pod_calloc<js::detail::HashTableEntry<jsid const> >
+                       |          |--0.00%-- moz_xcalloc
+               |           --0.00%-- replace_calloc
+               |--0.05%-- xxfree
+               |           --0.00%-- replace_calloc
+               |--0.05%-- xxfree
+               |          |           --0.00%-- replace_calloc
+               |          |--0.05%-- xxfree
+     0.19%     0.04%           183  firefox          libhoard-rmalloc.so            [.] HL::HybridHeap<8192, Hoard::ThreadPoolHeap<2048, 128, Hoard::PerThreadHoardHeap>, Hoard::BigHeap>::slowPath
+                       |--0.02%-- replace_calloc
+                       |          |--0.00%-- js::TempAllocPolicy::pod_calloc<js::detail::HashTableEntry<jsid const> >
+                       |--0.00%-- moz_xmalloc
+                       |--0.00%-- g_try_malloc
+                       |--0.00%-- JS_malloc
+                       |--0.00%-- xxmalloc
+                       |           --0.00%-- xxfree
+                       |           --0.00%-- xxfree
+                       |--0.00%-- xxfree
+                       |--0.00%-- replace_malloc
+                       |--0.00%-- free_rb_tree_fname
+                       |--0.00%-- moz_xmalloc
+                       |--0.00%-- free@plt
+                       |--0.00%-- malloc
+                       |--0.00%-- js::frontend::ParseNodeAllocator::freeTree
+               |          |           --0.00%-- replace_calloc
+               |          |--0.05%-- xxfree
+     0.18%     0.01%            83  StreamTrans #6   libhoard-rmalloc.so            [.] HL::HybridHeap<8192, Hoard::ThreadPoolHeap<2048, 128, Hoard::PerThreadHoardHeap>, Hoard::BigHeap>::slowPath
+               |          |           --0.00%-- replace_calloc
+               |          |          |--0.00%-- replace_calloc
+               |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+                       |--0.00%-- js::NativeObject::freeSlot
+               |          |          |--0.00%-- replace_calloc
+               |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+                       |          |--0.00%-- xxmalloc
+                       |          |           --0.00%-- xxfree
+                       |          |           --0.00%-- xxfree
+                       |          |--0.00%-- xxfree
+                       |          |--0.00%-- replace_malloc
+                       |          |--0.00%-- free_rb_tree_fname
+                       |          |--0.00%-- moz_xmalloc
+                       |          |--0.00%-- free@plt
+                       |          |--0.00%-- js::frontend::ParseNodeAllocator::freeTree
+     0.17%     0.02%           120  Analysis Helper  libhoard-rmalloc.so            [.] HL::HybridHeap<8192, Hoard::ThreadPoolHeap<2048, 128, Hoard::PerThreadHoardHeap>, Hoard::BigHeap>::slowPath
+               |--0.01%-- replace_calloc
+               |--0.09%-- replace_calloc
+               |          |          |--0.00%-- replace_calloc
+     0.15%     0.02%           108  firefox          libhoard-rmalloc.so            [.] replace_calloc
+                       |--0.01%-- g_malloc0
+                       |--0.00%-- js::TempAllocPolicy::pod_calloc<js::detail::HashTableEntry<jsid const> >
+                       |--0.00%-- moz_xcalloc
+                       |          |--0.01%-- replace_calloc
+                       |          |--0.00%-- moz_xmalloc
+                                  |--0.00%-- moz_xmalloc
+                                  |--0.00%-- replace_calloc
+                       |          |          |          |--0.01%-- replace_calloc
+                       |          |          |          |--0.00%-- moz_xmalloc
+                       |          |                     |--0.00%-- moz_xmalloc
+                       |          |                     |--0.00%-- replace_calloc
+                       |          |          |          |--0.01%-- replace_calloc
+                       |          |          |          |--0.00%-- moz_xmalloc
+                       |          |                     |--0.00%-- moz_xmalloc
+                       |          |                     |--0.00%-- replace_calloc
+                       |          |           --0.00%-- obj_freeze
+                       |--0.00%-- xxmalloc
+                       |           --0.00%-- xxfree
+                       |           --0.00%-- xxfree
+                       |--0.00%-- xxfree
+                       |--0.00%-- replace_malloc
+                       |--0.00%-- free_rb_tree_fname
+                       |--0.00%-- moz_xmalloc
+                       |--0.00%-- free@plt
+                       |--0.00%-- js::frontend::ParseNodeAllocator::freeTree
+     0.14%     0.14%           670  firefox          libxul.so                      [.] js::frontend::ParseNodeAllocator::freeTree
+                       |          |          |--0.01%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |                     |--0.00%-- moz_xmalloc
+                       |                     |--0.00%-- replace_calloc
+                       |          |--0.00%-- xxmalloc
+                       |          |           --0.00%-- xxfree
+                       |          |           --0.00%-- xxfree
+                       |          |--0.00%-- xxfree
+                       |          |--0.00%-- replace_malloc
+                       |          |--0.00%-- free_rb_tree_fname
+                       |          |--0.00%-- moz_xmalloc
+                       |          |--0.00%-- free@plt
+                       |          |--0.00%-- js::frontend::ParseNodeAllocator::freeTree
+     0.13%     0.00%             5  Analysis Helper  libhoard-rmalloc.so            [.] replace_realloc
+     0.13%     0.01%            38  firefox          [kernel.kallsyms]              [k] free_hot_cold_page_list
+                       |          |--0.13%-- free_pages_and_swap_cache
+                       |          |          |          |--0.07%-- xxfree
+                       |          |          |          |           --0.00%-- js::LifoAlloc::freeAll
+                       |          |          |--0.00%-- obj_freeze
+                                   --0.00%-- obj_freeze
+     0.13%     0.03%           142  firefox          [kernel.kallsyms]              [k] free_hot_cold_page
+                       |--0.12%-- free_hot_cold_page_list
+                       |          |          |--0.07%-- xxfree
+                       |          |          |           --0.00%-- js::LifoAlloc::freeAll
+                       |--0.00%-- __free_pages
+                       |          |--0.00%-- xxfree
+                                   --0.00%-- xxfree
+                       |          |          |          |--0.01%-- replace_calloc
+                       |          |          |          |--0.00%-- moz_xmalloc
+                       |          |                     |--0.00%-- moz_xmalloc
+                       |          |                     |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |          |--0.00%-- g_malloc0
+                       |          |--0.00%-- xxmalloc
+                       |          |           --0.00%-- xxfree
+                       |          |           --0.00%-- xxfree
+                       |          |--0.00%-- replace_malloc
+                       |          |--0.00%-- free_rb_tree_fname
+                       |          |--0.00%-- moz_xmalloc
+                       |          |--0.00%-- xxfree
+                       |          |--0.00%-- js::frontend::ParseNodeAllocator::freeTree
+     0.11%     0.00%             0  Timer            libhoard-rmalloc.so            [.] startMeUp
+               |          |--0.05%-- xxfree
+               |          |           --0.00%-- replace_calloc
+               |           --0.00%-- replace_calloc
+     0.11%     0.00%             6  Analysis Helper  libhoard-rmalloc.so            [.] replace_calloc
+               |          |           --0.00%-- replace_calloc
+                           --0.00%-- replace_calloc
+               |          |           --0.00%-- replace_calloc
+               |           --0.00%-- replace_calloc
+     0.10%     0.01%            36  firefox          libmozalloc.so                 [.] moz_xmalloc
+                       |          |--0.00%-- xxmalloc
+                       |          |           --0.00%-- xxfree
+                       |          |--0.00%-- replace_malloc
+                       |          |--0.00%-- free_rb_tree_fname
+                       |          |--0.00%-- moz_xmalloc
+                       |          |--0.00%-- xxfree
+                       |          |--0.00%-- js::frontend::ParseNodeAllocator::freeTree
+                       |          |--0.06%-- xxfree
+                       |          |           --0.00%-- js::LifoAlloc::freeAll
+                       |          |          |--0.00%-- replace_calloc
+                       |--0.00%-- g_slice_free1
+                       |          |--0.00%-- g_string_free
+                       |          |--0.00%-- gdk_event_free
+     0.10%     0.00%             0  URL Classifier   libhoard-rmalloc.so            [.] startMeUp
+               |          |           --0.00%-- replace_calloc
+                       |          |--0.05%-- xxfree
+                       |          |           --0.00%-- js::LifoAlloc::freeAll
+                       |          |           --0.00%-- replace_calloc
+               |          |          |--0.00%-- replace_calloc
+               |          |          |          |--0.00%-- replace_calloc
+               |          |--0.00%-- __get_free_pages
+     0.08%     0.05%           267  firefox          libxul.so                      [.] js::LifoAlloc::freeAll
+                       |          |          |          |--0.01%-- replace_calloc
+                       |          |          |          |--0.00%-- moz_xmalloc
+                       |          |                     |--0.00%-- moz_xmalloc
+                       |          |                      --0.00%-- replace_calloc
+                       |          |          |--0.00%-- replace_calloc
+                       |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+                       |          |           --0.00%-- obj_freeze
+               |--0.00%-- _cairo_scaled_font_freeze_cache
+                       |           --0.00%-- xxfree
+                       |--0.00%-- replace_malloc
+                       |--0.00%-- moz_xmalloc
+                       |--0.00%-- xxmalloc
+                       |--0.00%-- xxfree
+                       |          |           --0.00%-- xxfree
+                       |          |--0.00%-- moz_xmalloc
+                       |          |--0.00%-- xxmalloc
+                       |          |--0.00%-- xxfree
+     0.07%     0.07%           369  firefox          firefox                        [.] malloc
+                       |--0.01%-- moz_xmalloc
+                       |--0.00%-- g_malloc
+                       |--0.00%-- js::TempAllocPolicy::pod_malloc<JS::Value>
+                       |--0.00%-- js::TempAllocPolicy::pod_malloc<jsid>
+                       |          |          |--0.00%-- replace_calloc
+                                  |           --0.00%-- replace_calloc
+               |          |--0.00%-- zlib_free
+               |          |--0.03%-- xxfree
+     0.07%     0.05%           259  firefox          [kernel.kallsyms]              [k] free_pcppages_bulk
+                       |--0.07%-- free_hot_cold_page_list
+                       |          |          |--0.04%-- xxfree
+                        --0.00%-- __free_pages
+                                  |--0.00%-- xxfree
+     0.07%     0.07%           344  firefox          libhoard-rmalloc.so            [.] getCustomHeap
+                       |--0.02%-- xxfree
+                       |          |--0.01%-- js::jit::JitRuntime::freeOsrTempData
+                       |          |--0.00%-- g_free
+                       |--0.01%-- xxmalloc
+                       |          |--0.00%-- moz_xmalloc
+                       |          |--0.00%-- g_malloc
+                       |          |--0.00%-- replace_calloc
+                       |          |--0.00%-- js::TempAllocPolicy::pod_malloc<jsid>
+                        --0.00%-- xxmalloc_usable_size
+     0.07%     0.07%           335  firefox          libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::unlock
+                        --0.04%-- xxfree
+                                  |--0.00%-- js::LifoAlloc::freeAll
+                                  |--0.00%-- g_free
+                       |          |--0.00%-- js::jit::MacroAssembler::freeListAllocate
+     0.07%     0.07%           324  firefox          libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+                       |--0.00%-- js::LifoAlloc::freeAll
+                       |--0.00%-- g_free
+                       |                      --0.00%-- replace_calloc
+                       |          |                      --0.00%-- replace_calloc
+                       |          |                     |--0.00%-- moz_xmalloc
+                       |          |                     |--0.00%-- replace_calloc
+               |          |          |--0.00%-- zlib_free
+                                  |          |          |--0.00%-- obj_freeze
+                       |          |          |--0.00%-- replace_calloc
+               |                      --0.00%-- replace_calloc
+               |--0.06%-- free_pages_and_swap_cache
+               |          |          |          |--0.02%-- xxfree
+                       |          |          |          |           --0.00%-- replace_calloc
+                       |          |          |          |--0.00%-- js::types::HeapTypeSetKey::freeze
+                       |                     |--0.00%-- __get_free_pages
+                       |                     |           --0.00%-- xxfree
+                       |--0.01%-- get_page_from_freelist
+                       |          |          |          |           --0.00%-- replace_calloc
+                       |          |          |           --0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+                       |          |--0.01%-- xxfree
+                       |--0.01%-- free_pcppages_bulk
+                       |          |--0.01%-- free_hot_cold_page_list
+                       |          |          |          |--0.00%-- xxfree
+                       |           --0.00%-- __free_pages
+                       |                      --0.00%-- xxfree
+                       |          |--0.00%-- __kmalloc
+                       |--0.00%-- free_hot_cold_page
+                       |           --0.00%-- xxfree
+                       |--0.00%-- free_pages_and_swap_cache
+                       |           --0.00%-- xxfree
+                       |           --0.00%-- free_pgtables
+                       |--0.00%-- free_pgtables
+     0.06%     0.00%             0  Analysis Helper  [kernel.kallsyms]              [k] tlb_flush_mmu_free
+               |          |          |--0.02%-- xxfree
+     0.06%     0.00%             2  Analysis Helper  [kernel.kallsyms]              [k] free_pages_and_swap_cache
+               |          |          |--0.02%-- xxfree
+                       |          |                      --0.00%-- replace_calloc
+                       |          |          |                      --0.00%-- replace_calloc
+                       |          |          |                     |--0.00%-- moz_xmalloc
+                       |          |          |                     |--0.00%-- replace_calloc
+                       |          |          |          |          |           --0.00%-- replace_calloc
+                       |          |          |          |          |--0.00%-- js::types::HeapTypeSetKey::freeze
+                       |          |                     |--0.00%-- __get_free_pages
+                       |          |                     |           --0.00%-- xxfree
+                       |          |--0.01%-- get_page_from_freelist
+                       |          |          |          |          |           --0.00%-- replace_calloc
+                       |          |          |          |           --0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+                       |          |          |--0.00%-- xxfree
+                       |          |--0.01%-- free_pcppages_bulk
+                       |          |          |          |--0.00%-- xxfree
+                       |          |          |--0.00%-- __kmalloc
+                       |--0.00%-- get_page_from_freelist
+                       |--0.00%-- free_pcppages_bulk
+                       |           --0.00%-- xxfree
+                       |          |          |--0.00%-- replace_calloc
+                                  |                     |--0.00%-- replace_calloc
+                                  |                      --0.00%-- moz_xmalloc
+                       |          |          |--0.00%-- replace_calloc
+                       |          |--0.01%-- xxfree
+                       |          |          |--0.00%-- moz_xmalloc
+                       |          |          |--0.00%-- replace_calloc
+     0.06%     0.06%           276  firefox          libhoard-rmalloc.so            [.] isCustomHeapInitialized
+                       |--0.01%-- moz_xmalloc
+                       |--0.00%-- replace_calloc
+                       |--0.00%-- g_malloc
+                       |--0.00%-- JS_malloc
+                       |--0.00%-- js::TempAllocPolicy::pod_malloc<JS::Value>
+     0.05%     0.05%           274  firefox          firefox                        [.] free
+                       |--0.01%-- js::jit::JitRuntime::freeOsrTempData
+                       |--0.01%-- g_free
+                       |          |--0.00%-- g_key_file_key_value_pair_free
+                       |--0.00%-- js::LifoAlloc::freeAll
+                       |          |          |           --0.00%-- obj_freeze
+     0.05%     0.00%             7  mozStorage #1    libmozsqlite3.so               [.] mallocWithAlarm
+     0.05%     0.00%             0  HTML5 Parser     libhoard-rmalloc.so            [.] startMeUp
+               |          |          |--0.01%-- xxfree
+     0.05%     0.00%            10  firefox          [kernel.kallsyms]              [k] free_rb_tree_fname
+                       |          |--0.00%-- xxmalloc
+                       |          |--0.00%-- xxfree
+                                  |--0.00%-- replace_malloc
+               |          |           --0.00%-- replace_calloc
+               |           --0.00%-- xxfree
+                       |--0.05%-- get_page_from_freelist
+                       |          |          |          |           --0.00%-- replace_calloc
+                       |          |          |          |--0.00%-- js::types::HeapTypeSetKey::freeze
+                       |                     |--0.00%-- __get_free_pages
+                       |                     |           --0.00%-- xxfree
+               |          |--0.01%-- xxfree
+     0.05%     0.05%           221  Analysis Helper  libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::unlock
+               |--0.00%-- js::LifoAlloc::freeAll
+                       |          |--0.03%-- xxfree
+                       |          |--0.03%-- xxfree
+                       |          |          |--0.00%-- replace_calloc
+                       |--0.00%-- js::jit::MacroAssembler::freeListAllocate
+     0.04%     0.02%            92  firefox          [kernel.kallsyms]              [k] kfree
+                       |--0.04%-- free_rb_tree_fname
+                       |--0.00%-- selinux_file_free_security
+                        --0.00%-- skb_free_head
+                                  |--0.00%-- __dev_kfree_skb_any
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |          |          |--0.00%-- JS_malloc
+                       |           --0.00%-- xxfree
+                       |           --0.00%-- gtk_widget_freeze_child_notify
+                       |--0.02%-- get_page_from_freelist
+                       |                      --0.00%-- xxfree
+                        --0.00%-- free_hot_cold_page
+                                  |--0.00%-- free_hot_cold_page_list
+                                  |          |--0.00%-- xxfree
+                                   --0.00%-- __free_pages
+     0.04%     0.00%             9  Analysis Helper  [kernel.kallsyms]              [k] free_hot_cold_page_list
+               |          |          |          |--0.01%-- xxfree
+                 |--0.04%-- mallocWithAlarm
+               |          |          |--0.00%-- replace_calloc
+     0.04%     0.01%            59  Analysis Helper  [kernel.kallsyms]              [k] get_page_from_freelist
+               |          |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |                     |--0.00%-- moz_xmalloc
+     0.04%     0.00%             5  mozStorage #1    libhoard-rmalloc.so            [.] replace_malloc_good_size
+                 |--0.04%-- mallocWithAlarm
+     0.04%     0.03%           174  Analysis Helper  libhoard-rmalloc.so            [.] xxmalloc
+               |--0.01%-- replace_calloc
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |                     |--0.00%-- moz_xmalloc
+     0.04%     0.01%            34  Analysis Helper  [kernel.kallsyms]              [k] free_hot_cold_page
+               |--0.04%-- free_hot_cold_page_list
+               |          |          |          |--0.01%-- xxfree
+                       |          |          |          |--0.00%-- replace_calloc
+                       |          |          |          |--0.00%-- moz_xmalloc
+                       |          |          |--0.00%-- replace_calloc
+                       |                     |--0.00%-- moz_xmalloc
+                       |                      --0.00%-- replace_calloc
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |                     |--0.00%-- moz_xmalloc
+                       |          |          |          |--0.00%-- replace_calloc
+                       |          |          |          |--0.00%-- moz_xmalloc
+                       |          |                     |--0.00%-- moz_xmalloc
+     0.04%     0.01%            69  StreamTrans #6   [kernel.kallsyms]              [k] get_page_from_freelist
+               |          |          |           --0.00%-- replace_calloc
+               |          |          |--0.00%-- xxfree
+               |                     |          |--0.00%-- replace_calloc
+     0.03%     0.00%            18  firefox          libglib-2.0.so.0.4200.2        [.] g_free
+                       |--0.00%-- g_key_file_key_value_pair_free
+                       |          |--0.00%-- gdk_event_free
+                       |--0.00%-- g_error_free
+                       |          |           --0.00%-- replace_calloc
+                       |--0.01%-- get_page_from_freelist
+                       |                     |--0.00%-- __get_free_pages
+                       |--0.00%-- free_pcppages_bulk
+                       |           --0.00%-- xxfree
+                       |           --0.00%-- xxfree
+                       |           --0.00%-- xxfree
+                       |           --0.00%-- xxfree
+                       |--0.00%-- free_pages_and_swap_cache
+                       |           --0.00%-- xxfree
+                       |--0.00%-- free_hot_cold_page
+                       |           --0.00%-- xxfree
+               |          |          |          |           --0.00%-- replace_calloc
+               |          |          |          |--0.00%-- xxfree
+               |          |                     |          |--0.00%-- replace_calloc
+                       |          |           --0.00%-- g_malloc0
+                       |          |          |--0.00%-- replace_calloc
+                       |           --0.00%-- xxfree
+                       |--0.00%-- get_page_from_freelist
+                       |          |--0.00%-- xxmalloc
+                       |--0.00%-- free_pcppages_bulk
+                       |          |--0.00%-- free_hot_cold_page_list
+                       |          |           --0.00%-- xxfree
+                       |           --0.00%-- __free_pages
+     0.03%     0.03%           165  firefox          libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::lock
+                       |--0.00%-- js::LifoAlloc::freeAll
+                       |--0.00%-- g_free
+                                      --0.00%-- replace_calloc
+               |                      --0.00%-- replace_calloc
+                       |          |--0.00%-- xxmalloc
+                       |          |          |          |--0.00%-- replace_calloc
+                       |          |          |          |--0.00%-- moz_xmalloc
+                       |          |                     |--0.00%-- moz_xmalloc
+               |           --0.00%-- replace_calloc
+               |                     |--0.00%-- moz_xmalloc
+               |                      --0.00%-- replace_calloc
+               |                     |--0.00%-- moz_xmalloc
+               |                      --0.00%-- replace_calloc
+     0.03%     0.02%           101  mozStorage #1    libhoard-rmalloc.so            [.] xxfree
+                 |--0.01%-- sqlite3_free
+                 |--0.01%-- replace_malloc_good_size
+                 |          |--0.01%-- mallocWithAlarm
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |                     |--0.00%-- moz_xmalloc
+                       |                      --0.00%-- replace_calloc
+               |           --0.00%-- replace_calloc
+     0.03%     0.03%           144  firefox          libhoard-rmalloc.so            [.] replace_malloc
+                       |--0.00%-- moz_xmalloc
+                       |--0.00%-- replace_calloc
+                       |--0.00%-- g_malloc
+                       |--0.00%-- js::TempAllocPolicy::pod_malloc<JS::Value>
+     0.03%     0.02%            93  firefox          [kernel.kallsyms]              [k] __kmalloc
+     0.03%     0.03%           128  mozStorage #1    libhoard-rmalloc.so            [.] xxmalloc
+                 |--0.01%-- replace_malloc_good_size
+                 |          |--0.01%-- mallocWithAlarm
+                 |--0.01%-- mallocWithAlarm
+                 |--0.00%-- moz_xmalloc
+               |          |           --0.00%-- replace_calloc
+     0.03%     0.01%            34  firefox          libxul.so                      [.] js::jit::JitRuntime::freeOsrTempData
+     0.03%     0.01%            70  firefox          [kernel.kallsyms]              [k] __slab_free
+                       |--0.02%-- kfree
+                       |          |--0.02%-- free_rb_tree_fname
+                       |--0.00%-- kmem_cache_free
+                       |          |          |--0.00%-- free_pgtables
+                       |          |          |           --0.00%-- xxfree
+                       |          |           --0.00%-- xxfree
+                       |--0.00%-- free_rb_tree_fname
+     0.03%     0.00%             0  mozStorage #2    libhoard-rmalloc.so            [.] startMeUp
+     0.03%     0.03%           129  Analysis Helper  libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |--0.00%-- js::LifoAlloc::freeAll
+     0.03%     0.02%           110  firefox          libhoard-rmalloc.so            [.] xxmalloc_usable_size
+                       |          |          |--0.00%-- xxmalloc
+                       |--0.00%-- free_hot_cold_page
+                       |          |--0.00%-- free_hot_cold_page_list
+                       |          |          |--0.00%-- xxfree
+                       |           --0.00%-- __free_pages
+                       |                      --0.00%-- xxfree
+                       |           --0.00%-- xxfree
+                       |--0.00%-- get_page_from_freelist
+                       |--0.00%-- free_pcppages_bulk
+                       |           --0.00%-- xxfree
+                       |--0.00%-- free_hot_cold_page_list
+                       |--0.00%-- free_pages_and_swap_cache
+                       |           --0.00%-- xxfree
+                           --0.00%-- replace_calloc
+                           --0.00%-- replace_calloc
+                       |          |--0.00%-- xxmalloc
+                       |          |--0.00%-- xxfree
+                       |          |           --0.00%-- replace_calloc
+                       |          |          |          |--0.00%-- replace_calloc
+                       |          |          |          |--0.00%-- moz_xmalloc
+                       |          |                     |--0.00%-- moz_xmalloc
+                       |          |--0.00%-- xxmalloc
+                           --0.00%-- replace_calloc
+                       |          |--0.01%-- xxfree
+                                   --0.00%-- xxfree
+                                  |--0.00%-- xxmalloc
+     0.02%     0.02%           110  firefox          libhoard-rmalloc.so            [.] replace_free
+                       |--0.00%-- js::jit::JitRuntime::freeOsrTempData
+                       |--0.00%-- g_free
+                       |                      --0.00%-- gdk_event_free
+                       |--0.00%-- js::LifoAlloc::freeAll
+     0.02%     0.02%           101  firefox          libglib-2.0.so.0.4200.2        [.] g_slice_free_chain_with_offset
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |          |           --0.00%-- replace_calloc
+                       |           --0.00%-- xxfree
+                                  |                      --0.00%-- replace_calloc
+     0.02%     0.00%             5  firefox          [kernel.kallsyms]              [k] free_pgtables
+                       |          |--0.01%-- xxfree
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+     0.02%     0.01%            70  Analysis Helper  [kernel.kallsyms]              [k] free_pcppages_bulk
+               |          |           --0.01%-- xxfree
+     0.02%     0.00%             9  mozStorage #1    libmozsqlite3.so               [.] sqlite3_free
+                       |          |--0.00%-- xxmalloc
+                       |          |--0.00%-- free_rb_tree_fname
+                       |          |--0.00%-- js::frontend::ParseNodeAllocator::freeTree
+                       |          |--0.00%-- xxmalloc
+                       |          |--0.00%-- free_rb_tree_fname
+                       |          |--0.00%-- js::frontend::ParseNodeAllocator::freeTree
+                       |--0.02%-- free_pgtables
+                       |          |--0.01%-- xxfree
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+     0.02%     0.00%            10  mozStorage #1    libhoard-rmalloc.so            [.] HL::HybridHeap<8192, Hoard::ThreadPoolHeap<2048, 128, Hoard::PerThreadHoardHeap>, Hoard::BigHeap>::slowPath
+               |--0.01%-- get_page_from_freelist
+               |          |          |--0.00%-- replace_calloc
+               |--0.00%-- free_pcppages_bulk
+               |          |          |           --0.00%-- xxfree
+               |          |          |           --0.00%-- xxfree
+               |--0.00%-- free_pages_and_swap_cache
+               |--0.00%-- free_hot_cold_page
+               |--0.00%-- free_pgtables
+     0.02%     0.02%            89  Analysis Helper  libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::lock
+               |           --0.00%-- xxfree
+               |           --0.00%-- xxfree
+                       |--0.01%-- xxmalloc
+                       |          |--0.00%-- replace_calloc
+                       |          |--0.00%-- moz_xmalloc
+                       |--0.00%-- xxfree
+               |           --0.00%-- xxfree
+               |          |           --0.00%-- replace_calloc
+               |          |--0.00%-- Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+               |          |--0.01%-- get_page_from_freelist
+               |          |          |          |--0.00%-- replace_calloc
+               |          |--0.00%-- free_pcppages_bulk
+               |          |          |          |           --0.00%-- xxfree
+               |          |          |                      --0.00%-- xxfree
+               |--0.00%-- get_page_from_freelist
+               |--0.00%-- free_pcppages_bulk
+                       |          |           --0.00%-- replace_calloc
+                       |          |--0.00%-- js::types::HeapTypeSetKey::freeze
+                 |--0.00%-- sqlite3_free
+     0.02%     0.02%            82  firefox          firefox                        [.] calloc
+                       |--0.00%-- g_malloc0
+                       |          |           --0.00%-- replace_calloc
+                                  |          |--0.00%-- replace_calloc
+                                   --0.00%-- xxfree
+     0.02%     0.00%             0  URL Classifier   libfreebl3.so                  [.] MD5_Update
+     0.02%     0.02%           114  URL Classifier   libfreebl3.so                  [.] md5_compress
+     0.02%     0.00%            16  firefox          libglib-2.0.so.0.4200.2        [.] g_malloc
+                       |          |          |          |--0.00%-- replace_calloc
+                       |          |                      --0.00%-- replace_calloc
+                                  |--0.01%-- free_pgtables
+                                  |          |--0.01%-- xxfree
+                       |          |--0.00%-- obj_freeze
+               |                      --0.00%-- replace_calloc
+                          |          |--0.00%-- replace_calloc
+                       |          |          |          |--0.00%-- replace_calloc
+                       |--0.00%-- get_page_from_freelist
+                       |--0.00%-- obj_freeze
+                       |--0.01%-- __kmalloc
+                        --0.00%-- __kmalloc_node_track_caller
+               |          |           --0.01%-- xxfree
+                       |          |--0.00%-- xxmalloc
+               |           --0.01%-- xxfree
+     0.01%     0.00%            13  firefox          libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::slowPathMalloc
+                       |--0.00%-- replace_calloc
+                       |--0.00%-- moz_xmalloc
+               |          |                      --0.00%-- replace_calloc
+                --0.00%-- free_pages_and_swap_cache
+               |          |          |           --0.01%-- xxfree
+                       |          |--0.00%-- free_rb_tree_fname
+                       |          |--0.00%-- js::frontend::ParseNodeAllocator::freeTree
+                       |          |          |          |          |                      --0.00%-- replace_calloc
+                       |          |          |          |          |          |           --0.00%-- replace_calloc
+                       |          |          |          |          |          |          |--0.00%-- replace_calloc
+                       |          |          |          |          |          |           --0.00%-- moz_xmalloc
+     0.01%     0.01%            71  firefox          libhoard-rmalloc.so            [.] _Z13getCustomHeapv@plt
+                       |--0.00%-- xxfree
+                       |          |--0.00%-- g_free
+                       |--0.00%-- xxmalloc
+                       |          |--0.00%-- replace_calloc
+                       |          |--0.00%-- moz_xmalloc
+                       |          |--0.00%-- g_malloc
+                        --0.00%-- xxmalloc_usable_size
+                       |          |          |--0.00%-- replace_calloc
+                       |          |           --0.00%-- moz_xmalloc
+               |          |           --0.00%-- replace_calloc
+               |           --0.00%-- xxfree
+                       |          |           --0.00%-- obj_freeze
+               |                      --0.00%-- replace_calloc
+               |          |          |           --0.01%-- xxfree
+                       |--0.01%-- __slab_free
+                       |          |--0.01%-- kfree
+                       |          |          |--0.01%-- free_rb_tree_fname
+                       |           --0.00%-- kmem_cache_free
+                       |                     |          |--0.00%-- free_pgtables
+                       |                     |          |           --0.00%-- xxfree
+                       |                                 --0.00%-- xxfree
+                        --0.00%-- kfree
+                       |--0.00%-- gdk_event_free
+                          |--0.00%-- free_pgtables
+                          |          |--0.00%-- xxfree
+     0.01%     0.00%            11  firefox          libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::getAnotherSuperblock
+                       |--0.00%-- replace_calloc
+                       |--0.00%-- moz_xmalloc
+                |          |--0.00%-- xxfree
+                       |--0.01%-- get_page_from_freelist
+                       |          |          |           --0.00%-- replace_calloc
+                       |                      --0.00%-- xxfree
+               |          |          |--0.00%-- replace_calloc
+               |          |           --0.01%-- xxfree
+                       |          |          |--0.00%-- JS_malloc
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |           --0.00%-- xxfree
+                |--0.01%-- get_page_from_freelist
+                       |          |--0.00%-- xxfree
+                       |          |--0.00%-- xxfree
+                       |          |          |           --0.00%-- replace_calloc
+     0.01%     0.01%            60  firefox          [kernel.kallsyms]              [k] free_pages_prepare
+                       |--0.01%-- free_hot_cold_page
+                       |          |--0.01%-- free_hot_cold_page_list
+                       |          |           --0.01%-- xxfree
+                       |           --0.00%-- __free_pages
+                        --0.00%-- free_hot_cold_page_list
+                                   --0.00%-- xxfree
+               |          |           --0.01%-- xxfree
+                       |          |           --0.00%-- moz_xmalloc
+                       |          |          |--0.00%-- replace_calloc
+                       |                     |--0.00%-- moz_xmalloc
+     0.01%     0.01%            44  firefox          [kernel.kallsyms]              [k] kmem_cache_free
+                       |          |--0.00%-- free_pgtables
+                       |          |          |--0.00%-- xxfree
+                       |          |--0.00%-- xxfree
+                       |--0.00%-- free_pgtables
+                |          |--0.00%-- get_page_from_freelist
+                |--0.00%-- get_page_from_freelist
+                       |          |--0.01%-- xxfree
+                                   --0.00%-- xxfree
+               |          |          |           --0.00%-- xxfree
+                           --0.00%-- xxfree
+     0.01%     0.01%            57  firefox          libhoard-rmalloc.so            [.] xxfree@plt
+                       |--0.00%-- g_free
+                       |--0.00%-- js::jit::JitRuntime::freeOsrTempData
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |          |--0.00%-- xxfree
+                       |--0.00%-- tlb_flush_mmu_free
+                       |--0.00%-- free_pages_and_swap_cache
+                       |          |--0.00%-- xxmalloc
+                       |          |--0.00%-- xxfree
+                       |          |--0.00%-- replace_calloc
+                       |           --0.00%-- moz_xmalloc
+                        --0.00%-- xxfree
+                 |--0.00%-- xxfree
+                 |--0.00%-- try_to_free_buffers
+                 |          |--0.00%-- xxfree
+                 |          |--0.00%-- try_to_free_buffers
+                       |          |          |--0.00%-- replace_calloc
+                       |          |          |--0.00%-- moz_xmalloc
+                       |          |--0.00%-- xxfree
+                       |--0.00%-- free_pages_and_swap_cache
+                |--0.00%-- get_page_from_freelist
+                       |          |           --0.00%-- replace_calloc
+                        --0.00%-- get_page_from_freelist
+                       |          |--0.00%-- xxfree
+                       |          |--0.00%-- xxmalloc
+                       |--0.00%-- poll_freewait
+                       |          |--0.00%-- js::types::HeapTypeSetKey::freeze
+               |          |--0.00%-- replace_calloc
+                |--0.01%-- get_page_from_freelist
+               |           --0.00%-- xxfree
+               |          |          |--0.00%-- replace_calloc
+               |--0.00%-- get_page_from_freelist
+     0.01%     0.01%            29  Analysis Helper  libxul.so                      [.] js::LifoAlloc::freeAll
+               |                      --0.00%-- replace_calloc
+     0.01%     0.00%             2  Analysis Helper  [kernel.kallsyms]              [k] free_pgtables
+               |           --0.00%-- xxfree
+                       |--0.01%-- __get_free_pages
+                       |          |--0.00%-- xxfree
+               |          |          |--0.00%-- replace_calloc
+                       |          |--0.00%-- xxfree
+     0.01%     0.01%            45  Analysis Helper  libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::EmptyHoardManager<Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> > >, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >::unlock
+                --0.00%-- js::LifoAlloc::freeAll
+                       |          |--0.01%-- xxfree
+                        --0.00%-- free_pages_and_swap_cache
+                                   --0.00%-- xxfree
+                       |                     |--0.00%-- replace_calloc
+                       |           --0.00%-- xxfree
+                        --0.00%-- free_pages_and_swap_cache
+                                   --0.00%-- xxfree
+               |          |--0.00%-- replace_calloc
+     0.01%     0.01%            43  firefox          firefox                        [.] replace_free@plt
+                       |--0.00%-- g_free
+                       |--0.00%-- js::jit::JitRuntime::freeOsrTempData
+                       |--0.00%-- js::LifoAlloc::freeAll
+                       |--0.01%-- free_rb_tree_fname
+                 --0.00%-- free_pgtables
+     0.01%     0.00%             7  firefox          libxul.so                      [.] js::TempAllocPolicy::pod_malloc<JS::Value>
+                       |          |--0.00%-- xxfree
+                       |                      --0.00%-- replace_calloc
+                       |--0.01%-- free_hot_cold_page
+                       |          |--0.01%-- free_hot_cold_page_list
+                       |          |          |--0.00%-- xxfree
+                       |           --0.00%-- __free_pages
+                        --0.00%-- free_hot_cold_page_list
+                                   --0.00%-- xxfree
+     0.01%     0.01%            43  firefox          libhoard-rmalloc.so            [.] xxmalloc@plt
+                       |--0.00%-- moz_xmalloc
+                       |--0.00%-- g_malloc
+                       |--0.00%-- js::TempAllocPolicy::pod_malloc<JS::Value>
+                       |--0.00%-- replace_calloc
+                       |          |--0.00%-- xxmalloc
+                       |          |--0.00%-- replace_calloc
+                          |          |                      --0.00%-- replace_calloc
+                          |                                |--0.00%-- replace_calloc
+               |--0.00%-- get_page_from_freelist
+               |          |          |          |--0.00%-- replace_calloc
+                --0.00%-- free_hot_cold_page
+                          |          |           --0.00%-- xxfree
+                       |          |--0.00%-- moz_xmalloc
+               |--0.01%-- free_pgtables
+               |          |           --0.00%-- xxfree
+                       |          |--0.00%-- xxfree
+                       |--0.01%-- xxfree
+     0.01%     0.00%             3  firefox          [kernel.kallsyms]              [k] __get_free_pages
+                       |          |--0.00%-- xxfree
+     0.01%     0.00%            10  mozStorage #1    [kernel.kallsyms]              [k] get_page_from_freelist
+     0.01%     0.01%            38  firefox          libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::EmptyHoardManager<Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> > >, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >::free
+                        --0.00%-- js::LifoAlloc::freeAll
+               |          |          |--0.00%-- replace_calloc
+               |          |           --0.00%-- moz_xmalloc
+               |                      --0.00%-- replace_calloc
+     0.01%     0.01%            36  firefox          libxul.so                      [.] malloc@plt
+                       |--0.00%-- js::TempAllocPolicy::pod_malloc<jsid>
+                       |--0.00%-- js::TempAllocPolicy::pod_malloc<JS::Value>
+                       |--0.00%-- JS_malloc
+               |          |--0.00%-- xxfree
+     0.01%     0.01%            35  firefox          libhoard-rmalloc.so            [.] replace_malloc_usable_size
+                       |                                |--0.00%-- replace_calloc
+                                  |--0.00%-- xxmalloc
+               |           --0.00%-- xxfree
+               |--0.00%-- free_hot_cold_page
+               |          |          |           --0.00%-- xxfree
+               |--0.00%-- free_pcppages_bulk
+               |          |           --0.00%-- xxfree
+               |--0.00%-- get_page_from_freelist
+               |          |           --0.00%-- xxfree
+               |--0.00%-- free_pages_and_swap_cache
+                        --0.00%-- xxfree
+                 |--0.00%-- ext4_free_blocks
+                 |--0.00%-- ext4_free_blocks
+     0.01%     0.00%             1  firefox          libglib-2.0.so.0.4200.2        [.] g_malloc0
+     0.01%     0.01%            37  HTML5 Parser     libhoard-rmalloc.so            [.] xxmalloc
+                  |--0.00%-- moz_xmalloc
+                  |--0.00%-- replace_calloc
+                 |--0.00%-- xxfree
+                 |--0.00%-- try_to_free_buffers
+                       |          |          |--0.00%-- replace_calloc
+                       |          |           --0.00%-- moz_xmalloc
+     0.01%     0.01%            32  Analysis Helper  libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::EmptyHoardManager<Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> > >, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >::free
+     0.01%     0.00%            27  firefox          libglib-2.0.so.0.4200.2        [.] g_slice_free1
+                       |--0.00%-- g_string_free
+                       |--0.00%-- g_type_free_instance
+                       |--0.00%-- gdk_event_free
+                       |          |                      --0.00%-- replace_calloc
+                       |          |          |           --0.00%-- replace_calloc
+                       |          |                     |--0.00%-- replace_calloc
+                       |          |                      --0.00%-- moz_xmalloc
+                       |          |           --0.00%-- replace_calloc
+                 |--0.00%-- xxfree
+                 |--0.00%-- try_to_free_buffers
+                       |--0.00%-- xxfree
+               |--0.00%-- get_page_from_freelist
+               |          |--0.00%-- free_pages_and_swap_cache
+               |          |          |           --0.00%-- xxfree
+               |--0.00%-- free_pcppages_bulk
+               |--0.00%-- free_pages_and_swap_cache
+               |--0.00%-- free_hot_cold_page
+               |          |--0.00%-- xxfree
+                       |                     |--0.00%-- moz_xmalloc
+                       |           --0.00%-- xxfree
+                        --0.00%-- free_pgtables
+                       |          |--0.00%-- replace_calloc
+                       |           --0.00%-- moz_xmalloc
+     0.01%     0.01%            28  Analysis Helper  libhoard-rmalloc.so            [.] HL::SpinLockType::contendedLock
+               |--0.00%-- xxfree
+     0.01%     0.01%            29  mozStorage #1    libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::unlock
+                 |--0.00%-- xxfree
+                 |          |--0.00%-- replace_malloc_good_size
+                 |          |          |--0.00%-- mallocWithAlarm
+                 |           --0.00%-- sqlite3_free
+                 |--0.00%-- sqlite3_free
+                 |--0.00%-- mallocWithAlarm
+     0.01%     0.01%            28  firefox          libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::EmptyHoardManager<Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> > >, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >::get
+                       |--0.00%-- replace_calloc
+                       |--0.00%-- moz_xmalloc
+                       |          |--0.00%-- xxfree
+                                  |--0.00%-- xxfree
+                       |          |          |--0.00%-- replace_calloc
+                       |--0.00%-- xxmalloc
+                       |                     |                      --0.00%-- replace_calloc
+                       |          |           --0.00%-- xxfree
+     0.01%     0.01%            27  mozStorage #1    libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+                 |--0.00%-- sqlite3_free
+                  --0.00%-- replace_malloc_good_size
+     0.01%     0.01%            26  Analysis Helper  firefox                        [.] free
+                 |          |--0.00%-- xxfree
+                 |          |--0.00%-- try_to_free_buffers
+     0.01%     0.00%             1  StreamTrans #6   [kernel.kallsyms]              [k] free_pgtables
+                       |--0.00%-- g_slice_free1
+                       |           --0.00%-- g_string_free
+                        --0.00%-- g_slice_free_chain_with_offset
+     0.01%     0.01%            29  firefox          libmozalloc.so                 [.] moz_free
+     0.01%     0.01%            26  firefox          libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::EmptyHoardManager<Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> > >, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >::unlock
+                |          |--0.00%-- free_pgtables
+                |--0.00%-- get_page_from_freelist
+                       |           --0.00%-- xxfree
+                       |          |--0.00%-- xxfree
+                       |          |--0.00%-- xxfree
+     0.00%     0.00%            24  firefox          libxul.so                      [.] free@plt
+                |--0.00%-- free_pgtables
+                       |--0.00%-- xxmalloc
+     0.00%     0.00%            24  firefox          libhoard-rmalloc.so            [.] HL::SpinLockType::contendedLock
+                       |--0.00%-- xxfree
+                       |           --0.00%-- replace_calloc
+                       |--0.00%-- xxmalloc
+     0.00%     0.00%            25  Analysis Helper  libhoard-rmalloc.so            [.] getCustomHeap
+               |--0.00%-- xxfree
+                --0.00%-- xxmalloc
+                          |--0.00%-- replace_calloc
+     0.00%     0.00%            24  firefox          libhoard-rmalloc.so            [.] _Z23isCustomHeapInitializedv@plt
+                       |--0.00%-- g_malloc
+                       |--0.00%-- replace_calloc
+                       |--0.00%-- moz_xmalloc
+     0.00%     0.00%             0  Socket Thread    libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             4  firefox          libxul.so                      [.] js::TempAllocPolicy::pod_malloc<jsid>
+     0.00%     0.00%             0  DOM Worker       libhoard-rmalloc.so            [.] startMeUp
+                       |--0.00%-- get_page_from_freelist
+                 |--0.00%-- xxfree
+                 |--0.00%-- try_to_free_buffers
+     0.00%     0.00%             1  firefox          [kernel.kallsyms]              [k] free_pages
+                       |          |--0.00%-- xxfree
+                       |          |--0.00%-- xxfree
+                 |--0.00%-- xxfree
+                 |--0.00%-- try_to_free_buffers
+                  --0.00%-- ext4_free_blocks
+                       |          |          |          |                      --0.00%-- replace_calloc
+                       |          |          |          |          |           --0.00%-- replace_calloc
+                       |          |          |          |          |          |--0.00%-- replace_calloc
+                       |          |          |          |          |           --0.00%-- moz_xmalloc
+     0.00%     0.00%             3  firefox          [kernel.kallsyms]              [k] __free_pages
+                       |--0.00%-- free_pages
+                       |          |--0.00%-- xxfree
+                       |          |           --0.00%-- xxfree
+                       |           --0.00%-- xxfree
+                       |          |          |          |                      --0.00%-- replace_calloc
+                       |          |          |          |          |           --0.00%-- replace_calloc
+                       |          |          |          |          |          |--0.00%-- replace_calloc
+                       |          |          |          |          |           --0.00%-- moz_xmalloc
+     0.00%     0.00%            16  Analysis Helper  [kernel.kallsyms]              [k] kmem_cache_free
+               |          |--0.00%-- free_pgtables
+               |          |          |           --0.00%-- xxfree
+               |          |--0.00%-- xxfree
+               |--0.00%-- free_pgtables
+     0.00%     0.00%            22  firefox          firefox                        [.] replace_malloc@plt
+                       |--0.00%-- js::TempAllocPolicy::pod_malloc<JS::Value>
+                       |--0.00%-- moz_xmalloc
+                       |--0.00%-- g_malloc
+               |--0.00%-- xxmalloc
+                           --0.00%-- replace_calloc
+                       |           --0.00%-- xxfree
+                       |           --0.00%-- xxfree
+                       |--0.00%-- g_object_notify_queue_freeze
+                       |          |           --0.00%-- xxfree
+     0.00%     0.00%            20  Analysis Helper  libhoard-rmalloc.so            [.] xxmalloc_usable_size
+                       |                                           |--0.00%-- replace_calloc
+               |--0.00%-- get_page_from_freelist
+                 |--0.00%-- xxfree
+                 |--0.00%-- try_to_free_buffers
+                       |          |--0.00%-- xxmalloc
+                                   --0.00%-- xxmalloc
+               |                     |           --0.00%-- xxfree
+     0.00%     0.00%            21  firefox          libhoard-rmalloc.so            [.] pthread_self@plt
+                       |--0.00%-- replace_calloc
+                       |--0.00%-- moz_xmalloc
+     0.00%     0.00%             7  Analysis Helper  libxul.so                      [.] js::jit::LinearScanAllocator::freeAllocation
+                       |          |--0.00%-- gdk_event_free
+                       |          |          |          |                      --0.00%-- replace_calloc
+                       |          |          |          |          |           --0.00%-- replace_calloc
+                       |          |          |          |          |          |--0.00%-- replace_calloc
+                       |          |          |          |          |           --0.00%-- moz_xmalloc
+     0.00%     0.00%             8  firefox          libxul.so                      [.] js::types::HeapTypeSetKey::freeze
+     0.00%     0.00%             0  firefox          libxul.so                      [.] obj_freeze
+                       |           --0.00%-- xxfree
+                       |--0.00%-- free_pages_and_swap_cache
+                       |           --0.00%-- xxfree
+                       |          |                      --0.00%-- replace_calloc
+                       |          |          |           --0.00%-- replace_calloc
+                       |          |          |          |--0.00%-- replace_calloc
+                       |          |          |           --0.00%-- moz_xmalloc
+                       |          |--0.00%-- xxfree
+     0.00%     0.00%             1  Socket Thread    libfreebl3.so                  [.] scalar_mult
+               |--0.00%-- free_hot_cold_page
+               |          |           --0.00%-- xxfree
+                --0.00%-- free_hot_cold_page_list
+                           --0.00%-- xxfree
+     0.00%     0.00%            19  Analysis Helper  firefox                        [.] malloc
+                       |          |          |--0.00%-- replace_calloc
+                |--0.00%-- get_page_from_freelist
+                           --0.00%-- replace_calloc
+     0.00%     0.00%            18  Analysis Helper  libhoard-rmalloc.so            [.] isCustomHeapInitialized
+               |--0.00%-- replace_calloc
+     0.00%     0.00%            23  StreamTrans #6   [kernel.kallsyms]              [k] kmem_cache_free
+                |          |--0.00%-- free_pgtables
+     0.00%     0.00%            17  Analysis Helper  [kernel.kallsyms]              [k] free_pages_prepare
+               |          |           --0.00%-- xxfree
+                       |          |--0.00%-- xxmalloc
+     0.00%     0.00%            14  mozStorage #1    [kernel.kallsyms]              [k] kmem_cache_free
+                 |--0.00%-- free_buffer_head
+                 |--0.00%-- locks_free_lock
+                  --0.00%-- free_pgtables
+     0.00%     0.00%             0  mozStorage #1    [kernel.kallsyms]              [k] jbd2_journal_try_to_free_buffers
+     0.00%     0.00%            16  mozStorage #1    libhoard-rmalloc.so            [.] xxmalloc_usable_size
+                 |--0.00%-- sqlite3_free
+                  --0.00%-- mallocWithAlarm
+     0.00%     0.00%             1  HTML5 Parser     libmozalloc.so                 [.] moz_xmalloc
+                       |           --0.00%-- xxfree
+                                   --0.00%-- xxfree
+                       |--0.00%-- js::types::HeapTypeSetKey::freeze
+     0.00%     0.00%             2  firefox          libxul.so                      [.] JS_malloc
+     0.00%     0.00%            16  Analysis Helper  libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::EmptyHoardManager<Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> > >, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >::lock
+     0.00%     0.00%            17  Socket Thread    libfreebl3.so                  [.] felem_reduce_degree
+     0.00%     0.00%            16  firefox          [kernel.kallsyms]              [k] kmalloc_slab
+                        --0.00%-- __kmalloc_reserve.isra.27
+     0.00%     0.00%             0  SSL Cert #1      libhoard-rmalloc.so            [.] startMeUp
+                        --0.00%-- gtk_widget_freeze_child_notify
+                       |          |--0.00%-- free_rb_tree_fname
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] ec_GFp_nistp256_point_mul
+                 |--0.00%-- get_page_from_freelist
+                 |--0.00%-- free_pcppages_bulk
+                 |          |--0.00%-- get_page_from_freelist
+                 |           --0.00%-- free_pcppages_bulk
+                  --0.00%-- get_page_from_freelist
+               |--0.00%-- free_pgtables
+     0.00%     0.00%             3  mozStorage #1    [kernel.kallsyms]              [k] free_hot_cold_page_list
+                |--0.00%-- get_page_from_freelist
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] point_double
+                       |          |          |                      --0.00%-- replace_calloc
+                       |          |          |          |           --0.00%-- replace_calloc
+                       |          |          |          |          |--0.00%-- replace_calloc
+                       |          |          |          |           --0.00%-- moz_xmalloc
+                       |          |          |           --0.00%-- replace_calloc
+               |           --0.00%-- xxfree
+               |           --0.00%-- xxfree
+               |          |          |          |--0.00%-- replace_calloc
+               |                                 --0.00%-- replace_calloc
+                --0.00%-- xxfree
+     0.00%     0.00%             2  Socket Thread    libfreebl3.so                  [.] felem_square
+               |          |                      --0.00%-- replace_calloc
+               |           --0.00%-- xxfree
+     0.00%     0.00%            13  Analysis Helper  libhoard-rmalloc.so            [.] replace_malloc
+               |--0.00%-- replace_calloc
+     0.00%     0.00%             6  firefox          [kernel.kallsyms]              [k] poll_freewait
+     0.00%     0.00%             0  mozStorage #2    libmozsqlite3.so               [.] mallocWithAlarm
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] EC_ValidatePublicKey
+                       |--0.00%-- js::types::HeapTypeSetKey::freeze
+                 --0.00%-- get_page_from_freelist
+                       |                     |--0.00%-- replace_calloc
+                 |--0.00%-- jbd2_journal_try_to_free_buffers
+     0.00%     0.00%             0  firefox          libglib-2.0.so.0.4200.2        [.] g_string_free
+     0.00%     0.00%            11  firefox          libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::EmptyHoardManager<Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> > >, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >::lock
+                       |--0.00%-- xxfree
+               |          |--0.00%-- xxfree
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] ec_GFp_validate_point
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] ECPoint_mul
+               |          |           --0.00%-- xxfree
+               |          |           --0.00%-- xxfree
+                                             |--0.00%-- replace_calloc
+                 |--0.00%-- jbd2_journal_try_to_free_buffers
+                            |--0.00%-- ext4_free_blocks
+                       |          |--0.00%-- __kmalloc
+                        --0.00%-- unfreeze_partials.isra.41
+     0.00%     0.00%            12  HTML5 Parser     libhoard-rmalloc.so            [.] xxfree
+     0.00%     0.00%            11  firefox          libmozalloc.so                 [.] free@plt
+     0.00%     0.00%            11  firefox          libxul.so                      [.] moz_free@plt
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] ec_points_mul
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] ECPoints_mul
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] ec_GFp_nistp256_points_mul_vartime
+               |          |           --0.00%-- replace_calloc
+               |          |--0.00%-- xxfree
+                          |          |--0.00%-- replace_calloc
+               |          |           --0.00%-- replace_calloc
+               |          |--0.00%-- xxfree
+                          |          |--0.00%-- replace_calloc
+                       |          |--0.00%-- g_object_notify_queue_freeze
+     0.00%     0.00%            11  firefox          libhoard-rmalloc.so            [.] xxmalloc_usable_size@plt
+     0.00%     0.00%            10  mozStorage #1    libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::lock
+                 |--0.00%-- replace_malloc_good_size
+                  --0.00%-- sqlite3_free
+     0.00%     0.00%            10  Analysis Helper  firefox                        [.] calloc
+     0.00%     0.00%             2  mozStorage #1    [kernel.kallsyms]              [k] free_hot_cold_page
+               |                     |--0.00%-- moz_xmalloc
+               |                     |--0.00%-- replace_calloc
+               |                     |--0.00%-- replace_calloc
+     0.00%     0.00%            10  Analysis Helper  libhoard-rmalloc.so            [.] _Z13getCustomHeapv@plt
+               |--0.00%-- xxfree
+               |--0.00%-- xxmalloc_usable_size
+                --0.00%-- xxmalloc
+                       |           --0.00%-- xxfree
+     0.00%     0.00%             0  mozStorage #1    [kernel.kallsyms]              [k] try_to_free_buffers
+               |                     |--0.00%-- moz_xmalloc
+               |                     |--0.00%-- replace_calloc
+               |                     |--0.00%-- replace_calloc
+                       |          |--0.00%-- xxfree
+                 |--0.00%-- mallocWithAlarm
+     0.00%     0.00%             0  StreamTrans #5   libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             0  mozStorage #4    libhoard-rmalloc.so            [.] startMeUp
+                                             |--0.00%-- replace_calloc
+     0.00%     0.00%             1  mozStorage #1    libmozalloc.so                 [.] moz_xmalloc
+                        --0.00%-- g_object_notify_queue_freeze
+               |          |          |           --0.00%-- xxfree
+     0.00%     0.00%             8  firefox          libxul.so                      [.] calloc@plt
+               |           --0.00%-- xxfree
+               |          |          |          |--0.00%-- replace_calloc
+               |                                 --0.00%-- replace_calloc
+     0.00%     0.00%             0  mozStorage #2    libhoard-rmalloc.so            [.] replace_malloc_good_size
+                 |--0.00%-- mallocWithAlarm
+     0.00%     0.00%             8  StreamTrans #6   libhoard-rmalloc.so            [.] xxmalloc
+                 --0.00%-- moz_xmalloc
+     0.00%     0.00%            10  StreamTrans #6   libhoard-rmalloc.so            [.] HL::SpinLockType::contendedLock
+     0.00%     0.00%             7  mozStorage #2    libhoard-rmalloc.so            [.] xxmalloc
+                 |--0.00%-- replace_malloc_good_size
+                 |--0.00%-- moz_xmalloc
+                  --0.00%-- mallocWithAlarm
+     0.00%     0.00%             0  firefox          libxul.so                      [.] js::TempAllocPolicy::pod_calloc<js::detail::HashTableEntry<jsid const> >
+     0.00%     0.00%             7  firefox          libhoard-rmalloc.so            [.] replace_malloc_usable_size@plt
+                       |                     |--0.00%-- replace_calloc
+     0.00%     0.00%             1  firefox          libxul.so                      [.] js::NativeObject::freeSlot
+     0.00%     0.00%             6  firefox          [kernel.kallsyms]              [k] free_pgd_range
+                       |--0.00%-- free_pgtables
+                       |          |--0.00%-- xxfree
+                |           --0.00%-- replace_calloc
+     0.00%     0.00%             7  firefox          libglib-2.0.so.0.4200.2        [.] g_mem_is_system_malloc
+                       |          |--0.00%-- __kmalloc
+                 |--0.00%-- sqlite3_free
+                  --0.00%-- mallocWithAlarm
+                       |--0.00%-- xxmalloc
+     0.00%     0.00%             2  Socket Thread    libfreebl3.so                  [.] felem_mul
+     0.00%     0.00%             0  mozStorage #5    libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             7  Analysis Helper  libxul.so                      [.] free@plt
+                 --0.00%-- get_page_from_freelist
+               |           --0.00%-- xxfree
+                  --0.00%-- mallocWithAlarm
+     0.00%     0.00%             7  mozStorage #2    libhoard-rmalloc.so            [.] xxmalloc_usable_size
+                  --0.00%-- mallocWithAlarm
+     0.00%     0.00%             6  firefox          libmozalloc.so                 [.] malloc@plt
+     0.00%     0.00%             4  mozStorage #1    [kernel.kallsyms]              [k] free_pcppages_bulk
+                       |          |--0.00%-- xxmalloc
+               |          |          |          |--0.00%-- replace_calloc
+               |                                 --0.00%-- replace_calloc
+                       |--0.00%-- xxmalloc
+     0.00%     0.00%             1  StreamTrans #6   libmozalloc.so                 [.] moz_xmalloc
+                       |           --0.00%-- xxfree
+                                  |--0.00%-- xxfree
+     0.00%     0.00%             0  URL Classifier   libhoard-rmalloc.so            [.] replace_realloc
+     0.00%     0.00%             2  Analysis Helper  [kernel.kallsyms]              [k] __slab_free
+               |           --0.00%-- xxfree
+                          |--0.00%-- free_pgtables
+     0.00%     0.00%             6  firefox          firefox                        [.] replace_calloc@plt
+                        --0.00%-- g_malloc0
+     0.00%     0.00%             8  StreamTrans #6   firefox                        [.] malloc
+                 --0.00%-- moz_xmalloc
+     0.00%     0.00%             0  StreamTrans #5   libhoard-rmalloc.so            [.] HL::HybridHeap<8192, Hoard::ThreadPoolHeap<2048, 128, Hoard::PerThreadHoardHeap>, Hoard::BigHeap>::slowPath
+                 --0.00%-- replace_calloc
+                 --0.00%-- replace_calloc
+                 --0.00%-- replace_calloc
+                 --0.00%-- replace_calloc
+                 --0.00%-- replace_calloc
+                    |          |--0.00%-- replace_calloc
+                    |          |--0.00%-- replace_calloc
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] ECDSA_VerifyDigest
+     0.00%     0.00%             2  mozStorage #1    libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::slowPathMalloc
+     0.00%     0.00%             1  firefox          libxul.so                      [.] _cairo_scaled_font_freeze_cache
+                                  |--0.00%-- free_rb_tree_fname
+     0.00%     0.00%             5  Analysis Helper  libhoard-rmalloc.so            [.] replace_free
+                 |--0.00%-- get_page_from_freelist
+                 |--0.00%-- free_pcppages_bulk
+                 |--0.00%-- ext4_free_blocks
+                 |--0.00%-- ext4_free_blocks
+                  --0.00%-- ext4_free_blocks
+     0.00%     0.00%             0  mozStorage #1    [kernel.kallsyms]              [k] ext4_free_blocks
+     0.00%     0.00%             2  mozStorage #1    [kernel.kallsyms]              [k] free_buffer_head
+                 |--0.00%-- try_to_free_buffers
+                  --0.00%-- jbd2_journal_try_to_free_buffers
+     0.00%     0.00%             5  firefox          libhoard-rmalloc.so            [.] _ZN2HL10HybridHeapILi8192EN5Hoard14ThreadPoolHeapILi2048ELi128ENS1_18PerThreadHoardHeapEEENS1_7BigHeapEE8slowPathEm@plt
+                  --0.00%-- get_page_from_freelist
+     0.00%     0.00%             3  URL Classifier   libhoard-rmalloc.so            [.] xxmalloc
+                 --0.00%-- moz_xmalloc
+     0.00%     0.00%             2  firefox          libfreetype.so.6.11.2          [.] cf2_interpT2CharString
+     0.00%     0.00%             5  mozStorage #1    firefox                        [.] malloc_usable_size
+                 |--0.00%-- sqlite3_free
+                  --0.00%-- mallocWithAlarm
+     0.00%     0.00%             2  URL Classifier   libhoard-rmalloc.so            [.] xxfree
+                       |           --0.00%-- xxfree
+     0.00%     0.00%             5  firefox          libhoard-rmalloc.so            [.] memcpy@plt
+                                  |--0.00%-- replace_calloc
+     0.00%     0.00%             5  firefox          libxul.so                      [.] moz_xmalloc@plt
+     0.00%     0.00%             5  StreamTrans #6   libhoard-rmalloc.so            [.] xxfree
+     0.00%     0.00%             4  Analysis Helper  [kernel.kallsyms]              [k] free_pgd_range
+     0.00%     0.00%             0  firefox          libgdk-x11-2.0.so.0.2400.27    [.] gdk_event_free
+     0.00%     0.00%             4  mozStorage #1    libhoard-rmalloc.so            [.] replace_malloc_usable_size
+                  --0.00%-- replace_malloc_good_size
+     0.00%     0.00%             4  firefox          libmozalloc.so                 [.] moz_malloc
+     0.00%     0.00%             4  mozStorage #1    libhoard-rmalloc.so            [.] getCustomHeap
+                --0.00%-- get_page_from_freelist
+                        --0.00%-- js::jit::MacroAssembler::freeListAllocate
+     0.00%     0.00%             4  firefox          libgobject-2.0.so.0.4200.2     [.] g_type_free_instance
+                --0.00%-- xxfree
+     0.00%     0.00%             3  firefox          libfontconfig.so.1.8.0         [.] free@plt
+                --0.00%-- free_pages_and_swap_cache
+     0.00%     0.00%             0  HTML5 Parser     libhoard-rmalloc.so            [.] replace_realloc
+                  --0.00%-- sqlite3_free
+     0.00%     0.00%             4  mozStorage #1    firefox                        [.] malloc
+                 |--0.00%-- mallocWithAlarm
+                  --0.00%-- moz_xmalloc
+                 |--0.00%-- get_page_from_freelist
+     0.00%     0.00%             4  mozStorage #1    firefox                        [.] malloc_good_size
+                 |--0.00%-- mallocWithAlarm
+     0.00%     0.00%             0  mozStorage #1    [kernel.kallsyms]              [k] free_pgtables
+     0.00%     0.00%             4  mozStorage #1    libxul.so                      [.] moz_malloc_usable_size@plt
+                       |--0.00%-- gdk_event_free
+     0.00%     0.00%             4  mozStorage #1    libhoard-rmalloc.so            [.] isCustomHeapInitialized
+                 |--0.00%-- replace_malloc_good_size
+                 |--0.00%-- mallocWithAlarm
+                  --0.00%-- moz_xmalloc
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] ECDH_Derive
+               |          |          |                      --0.00%-- replace_calloc
+               |          |                                |--0.00%-- replace_calloc
+               |          |          |                      --0.00%-- replace_calloc
+               |          |                                |--0.00%-- replace_calloc
+               |          |          |                      --0.00%-- replace_calloc
+               |          |                                |--0.00%-- replace_calloc
+                       |           --0.00%-- xxfree
+     0.00%     0.00%             4  Analysis Helper  libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::slowPathFree
+               |--0.00%-- js::LifoAlloc::freeAll
+     0.00%     0.00%             5  mozStorage #2    libhoard-rmalloc.so            [.] xxfree
+                 |--0.00%-- sqlite3_free
+                  --0.00%-- replace_malloc_good_size
+     0.00%     0.00%             0  Cache2 I/O       libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             5  HTML5 Parser     firefox                        [.] malloc
+     0.00%     0.00%             0  firefox          [kernel.kallsyms]              [k] __kmalloc_reserve.isra.27
+     0.00%     0.00%             0  firefox          libhoard-rmalloc.so            [.] replace_posix_memalign
+     0.00%     0.00%             0  firefox          libhoard-rmalloc.so            [.] replace_memalign
+     0.00%     0.00%             0  localStorage DB  libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             1  mozStorage #1    libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::getAnotherSuperblock
+     0.00%     0.00%             3  firefox          libglib-2.0.so.0.4200.2        [.] g_malloc0_n
+                |--0.00%-- free_pages_and_swap_cache
+     0.00%     0.00%             1  firefox          libfreetype.so.6.11.2          [.] cf2_glyphpath_moveTo
+                  --0.00%-- sqlite3_free
+     0.00%     0.00%             4  HTML5 Parser     libhoard-rmalloc.so            [.] isCustomHeapInitialized
+                        --0.00%-- xxfree
+     0.00%     0.00%             3  firefox          libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::unlocked_put
+                |--0.00%-- xxfree
+                |--0.00%-- xxfree
+                |--0.00%-- xxfree
+                |--0.00%-- xxfree
+                |--0.00%-- xxfree
+     0.00%     0.00%             0  mozStorage #1    [kernel.kallsyms]              [k] locks_free_lock
+                 |--0.00%-- ext4_free_blocks
+                  --0.00%-- jbd2_journal_try_to_free_buffers
+                 |          |--0.00%-- ext4_free_blocks
+     0.00%     0.00%             3  firefox          libglib-2.0.so.0.4200.2        [.] g_malloc_n
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] scalar_base_mult
+     0.00%     0.00%             3  mozStorage #1    libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::EmptyHoardManager<Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> > >, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >::get
+     0.00%     0.00%             1  mozStorage #1    [kernel.kallsyms]              [k] __slab_free
+                 |--0.00%-- free_buffer_head
+                  --0.00%-- locks_free_lock
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] FT_Load_Glyph
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] TT_Load_Glyph
+     0.00%     0.00%             3  firefox          libxul.so                      [.] _cairo_freelist_alloc
+     0.00%     0.00%             3  firefox          libhoard-rmalloc.so            [.] memset@plt
+     0.00%     0.00%             3  Analysis Helper  firefox                        [.] replace_free@plt
+     0.00%     0.00%             3  Analysis Helper  libhoard-rmalloc.so            [.] replace_malloc_usable_size
+                       |--0.00%-- gdk_event_free
+     0.00%     0.00%             4  StreamTrans #6   libhoard-rmalloc.so            [.] isCustomHeapInitialized
+     0.00%     0.00%             2  mozStorage #2    libhoard-rmalloc.so            [.] HL::HybridHeap<8192, Hoard::ThreadPoolHeap<2048, 128, Hoard::PerThreadHoardHeap>, Hoard::BigHeap>::slowPath
+               |           --0.00%-- free_pgtables
+     0.00%     0.00%             0  firefox          libglib-2.0.so.0.4200.2        [.] g_key_file_key_value_pair_free
+                 --0.00%-- replace_calloc
+     0.00%     0.00%             3  mozStorage #1    libmozalloc.so                 [.] moz_malloc_usable_size
+                 |--0.00%-- mallocWithAlarm
+                  --0.00%-- sqlite3_free
+                   --0.00%-- xxmalloc
+     0.00%     0.00%             2  firefox          [kernel.kallsyms]              [k] __kmalloc_node_track_caller
+     0.00%     0.00%             2  Analysis Helper  libhoard-rmalloc.so            [.] replace_malloc_usable_size@plt
+     0.00%     0.00%             0  firefox          libhoard-rmalloc.so            [.] 0x000000000024ef88
+     0.00%     0.00%             3  StreamTrans #6   libhoard-rmalloc.so            [.] mmap@plt
+     0.00%     0.00%             2  Analysis Helper  libxul.so                      [.] malloc@plt
+     0.00%     0.00%             0  firefox          libxul.so                      [.] js::jit::MacroAssembler::freeListAllocate
+     0.00%     0.00%             0  firefox          libmozsqlite3.so               [.] mallocWithAlarm
+     0.00%     0.00%             0  firefox          libhoard-rmalloc.so            [.] replace_malloc_good_size
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] FT_New_Face
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] FT_Open_Face
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] open_face
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] tt_face_init
+                 |--0.00%-- free_hot_cold_page_list
+                  --0.00%-- free_hot_cold_page
+     0.00%     0.00%             2  mozStorage #1    firefox                        [.] replace_malloc_usable_size@plt
+                 |--0.00%-- mallocWithAlarm
+                  --0.00%-- sqlite3_free
+     0.00%     0.00%             2  Analysis Helper  libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::EmptyHoardManager<Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> > >, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >::unlocked_put
+     0.00%     0.00%             0  URL Classifier   [kernel.kallsyms]              [k] tlb_flush_mmu_free
+     0.00%     0.00%             0  URL Classifier   [kernel.kallsyms]              [k] free_pages_and_swap_cache
+                 |--0.00%-- sqlite3_free
+               |--0.00%-- unfreeze_partials.isra.41
+     0.00%     0.00%             0  URL Classifier   [kernel.kallsyms]              [k] free_hot_cold_page_list
+                 --0.00%-- free_pages_and_swap_cache
+     0.00%     0.00%             0  URL Classifier   [kernel.kallsyms]              [k] free_hot_cold_page
+                 --0.00%-- free_pages_and_swap_cache
+     0.00%     0.00%             2  URL Classifier   [kernel.kallsyms]              [k] free_pcppages_bulk
+                 --0.00%-- free_pages_and_swap_cache
+     0.00%     0.00%             1  Analysis Helper  libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::EmptyHoardManager<Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> > >, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >::put
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] cf2_hintmap_build
+     0.00%     0.00%             0  firefox          libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             2  mozStorage #1    libmozsqlite3.so               [.] sqlite3_malloc
+     0.00%     0.00%             0  firefox          libhoard-rmalloc.so            [.] 0x0000000000214900
+     0.00%     0.00%             2  firefox          libglib-2.0.so.0.4200.2        [.] g_strfreev
+     0.00%     0.00%             3  firefox          libglib-2.0.so.0.4200.2        [.] g_slist_free
+                       |--0.00%-- g_object_notify_queue_free
+     0.00%     0.00%             2  mozStorage #1    libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::EmptyHoardManager<Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> > >, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >::unlock
+     0.00%     0.00%             2  Analysis Helper  firefox                        [.] replace_malloc@plt
+     0.00%     0.00%             0  URL Classifier   libmozalloc.so                 [.] moz_xmalloc
+     0.00%     0.00%             2  mozStorage #1    libxul.so                      [.] moz_free@plt
+                  --0.00%-- sqlite3_free
+     0.00%     0.00%             0  firefox          libgobject-2.0.so.0.4200.2     [.] g_object_notify_queue_freeze
+     0.00%     0.00%             2  mozStorage #1    libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::EmptyHoardManager<Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> > >, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >::free
+     0.00%     0.00%             1  firefox          libglib-2.0.so.0.4200.2        [.] g_error_free
+     0.00%     0.00%             2  mozStorage #1    libhoard-rmalloc.so            [.] _Z23isCustomHeapInitializedv@plt
+     0.00%     0.00%             2  mozStorage #1    libhoard-rmalloc.so            [.] _Z13getCustomHeapv@plt
+     0.00%     0.00%             2  mozStorage #1    libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::unlocked_put
+     0.00%     0.00%             2  mozStorage #1    libmozalloc.so                 [.] free@plt
+     0.00%     0.00%             2  Analysis Helper  libhoard-rmalloc.so            [.] xxfree@plt
+                 |--0.00%-- free_buffer_head
+                  --0.00%-- locks_free_lock
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] load_truetype_glyph
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] TT_Hint_Glyph
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] TT_RunIns
+               |--0.00%-- __get_free_pages
+     0.00%     0.00%             0  DNS Resolver #1  libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] point_add_mixed
+     0.00%     0.00%             0  mozStorage #2    libmozsqlite3.so               [.] sqlite3_free
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] EC_NewKey
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] ec_NewKey
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] ec_GFp_nistp256_base_point_mul
+     0.00%     0.00%             2  mozStorage #1    [kernel.kallsyms]              [k] free_pages_prepare
+                 |--0.00%-- free_hot_cold_page_list
+                  --0.00%-- free_hot_cold_page
+     0.00%     0.00%             2  firefox          libmozgnome.so                 [.] g_free@plt
+     0.00%     0.00%             0  firefox          libglib-2.0.so.0.4200.2        [.] g_slist_free_full
+     0.00%     0.00%             2  HTML5 Parser     libmozalloc.so                 [.] moz_free
+                 --0.00%-- free_pgtables
+     0.00%     0.00%             0  firefox          libhoard-rmalloc.so            [.] 0x0000000000212240
+     0.00%     0.00%             0  HTML5 Parser     libhoard-rmalloc.so            [.] replace_calloc
+     0.00%     0.00%             1  DOM Worker       libhoard-rmalloc.so            [.] xxfree
+     0.00%     0.00%             0  JS Watchdog      libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             0  mozStorage #4    libmozalloc.so                 [.] moz_xmalloc
+     0.00%     0.00%             2  mozStorage #4    libhoard-rmalloc.so            [.] xxmalloc
+     0.00%     0.00%             2  StreamTrans #6   libmozalloc.so                 [.] malloc@plt
+                 --0.00%-- moz_xmalloc
+     0.00%     0.00%             1  Analysis Helper  firefox                        [.] replace_calloc@plt
+     0.00%     0.00%             2  mozStorage #2    libhoard-rmalloc.so            [.] replace_malloc_usable_size
+                --0.00%-- sqlite3_free
+     0.00%     0.00%             0  StreamTrans #4   libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             0  StreamTrans #5   libhoard-rmalloc.so            [.] replace_calloc
+     0.00%     0.00%             0  gdbus            libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             2  StreamTrans #6   [kernel.kallsyms]              [k] kfree
+     0.00%     0.00%             2  SSL Cert #1      libhoard-rmalloc.so            [.] xxfree
+     0.00%     0.00%             0  SSL Cert #1      libfreebl3.so                  [.] SHA256_Update
+     0.00%     0.00%             2  SSL Cert #1      libfreebl3.so                  [.] SHA256_Compress
+     0.00%     0.00%             0  DOM Worker       libhoard-rmalloc.so            [.] HL::HybridHeap<8192, Hoard::ThreadPoolHeap<2048, 128, Hoard::PerThreadHoardHeap>, Hoard::BigHeap>::slowPath
+                    |--0.00%-- replace_calloc
+     0.00%     0.00%             0  ImageDecoder #2  libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             1  mozStorage #2    libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::unlock
+     0.00%     0.00%             0  mozStorage #2    libmozalloc.so                 [.] moz_xmalloc
+     0.00%     0.00%             1  Analysis Helper  libhoard-rmalloc.so            [.] replace_free@plt
+     0.00%     0.00%             2  HTML5 Parser     libhoard-rmalloc.so            [.] getCustomHeap
+                  |--0.00%-- moz_xmalloc
+     0.00%     0.00%             0  SSL Cert #2      libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             2  firefox          libhoard-rmalloc.so            [.] replace_malloc@plt
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] ECGroup_free
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] mp_clear
+     0.00%     0.00%             0  Socket Thread    libhoard-rmalloc.so            [.] xxfree
+     0.00%     0.00%             1  Socket Thread    libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+     0.00%     0.00%             0  mozStorage #1    libhoard-rmalloc.so            [.] 0x000000000021c3b0
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] AES_CreateContext
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] AES_InitContext
+     0.00%     0.00%             0  mozStorage #1    libhoard-rmalloc.so            [.] 0x0000000000212240
+     0.00%     0.00%             0  Analysis Helper  libxul.so                      [.] zlib_free
+     0.00%     0.00%             1  mozStorage #1    [kernel.kallsyms]              [k] mb_free_blocks
+     0.00%     0.00%             0  Analysis Helper  [kernel.kallsyms]              [k] unfreeze_partials.isra.41
+     0.00%     0.00%             0  firefox          libglib-2.0.so.0.4200.2        [.] g_try_malloc
+     0.00%     0.00%             0  firefox          libxul.so                      [.] js::MallocProvider<JS::Zone>::pod_malloc<js::HeapSlot>
+     0.00%     0.00%             1  mozStorage #2    firefox                        [.] malloc_good_size
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] sfnt_init_face
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] tt_face_load_font_dir
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] FT_Stream_ReadULong
+     0.00%     0.00%             1  firefox          libhoard-rmalloc.so            [.] _ZN5Hoard12HoardManagerINS_21AlignedSuperblockHeapIN2HL12SpinLockTypeELm65536ENS_10MmapSourceEEENS_10GlobalHeapILm65536ELi8ES4_S3_EENS_15HoardSuperblockIS3_Li65536ENS_9SmallHeapEEELi8ES3_NS_27hoardThresholdFunctionClassES9_E20getAnotherSuperblockEm@plt
+     0.00%     0.00%             1  firefox          libfreetype.so.6.11.2          [.] _iup_worker_interpolate
+     0.00%     0.00%             0  firefox          libgobject-2.0.so.0.4200.2     [.] g_object_notify_queue_free
+     0.00%     0.00%             1  firefox          libfontconfig.so.1.8.0         [.] malloc@plt
+     0.00%     0.00%             0  firefox          [kernel.kallsyms]              [k] unfreeze_partials.isra.41
+     0.00%     0.00%             0  firefox          [kernel.kallsyms]              [k] security_file_free
+     0.00%     0.00%             0  firefox          [kernel.kallsyms]              [k] selinux_file_free_security
+     0.00%     0.00%             0  firefox          libmozalloc.so                 [.] moz_xcalloc
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] sfnt_load_face
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] tt_face_load_maxp
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] FT_Stream_ReadFields
+     0.00%     0.00%             1  mozStorage #1    libhoard-rmalloc.so            [.] xxmalloc@plt
+     0.00%     0.00%             1  URL Classifier   [kernel.kallsyms]              [k] kfree
+     0.00%     0.00%             1  firefox          libhoard-rmalloc.so            [.] munmap@plt
+     0.00%     0.00%             1  firefox          libhoard-rmalloc.so            [.] replace_free@plt
+     0.00%     0.00%             0  Analysis Helper  [kernel.kallsyms]              [k] __get_free_pages
+     0.00%     0.00%             1  URL Classifier   libhoard-rmalloc.so            [.] replace_malloc
+     0.00%     0.00%             1  Analysis Helper  libhoard-rmalloc.so            [.] pthread_self@plt
+     0.00%     0.00%             1  mozStorage #1    [kernel.kallsyms]              [k] __kmalloc
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] tt_loader_init
+     0.00%     0.00%             1  firefox          libfreetype.so.6.11.2          [.] FT_GlyphLoader_Rewind
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] FT_DivFix
+     0.00%     0.00%             1  firefox          libfreetype.so.6.11.2          [.] ft_div64by32.part.0
+     0.00%     0.00%             1  mozStorage #1    libxul.so                      [.] moz_malloc@plt
+     0.00%     0.00%             1  firefox          libfreetype.so.6.11.2          [.] cf2_hint_init
+     0.00%     0.00%             1  mozStorage #1    firefox                        [.] replace_malloc@plt
+     0.00%     0.00%             1  DOM Worker       libxul.so                      [.] js::frontend::ParseNodeAllocator::freeTree
+     0.00%     0.00%             2  StreamTrans #6   [kernel.kallsyms]              [k] free_hot_cold_page_list
+     0.00%     0.00%             1  firefox          libglib-2.0.so.0.4200.2        [.] g_ptr_array_free
+     0.00%     0.00%             0  Analysis Helper  [kernel.kallsyms]              [k] free_pages
+     0.00%     0.00%             1  Analysis Helper  [kernel.kallsyms]              [k] __free_pages
+     0.00%     0.00%             1  mozStorage #1    libhoard-rmalloc.so            [.] replace_free
+     0.00%     0.00%             1  mozStorage #1    [kernel.kallsyms]              [k] free_pgd_range
+     0.00%     0.00%             1  mozStorage #1    [kernel.kallsyms]              [k] kfree
+     0.00%     0.00%             0  StreamTrans #3   libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             1  Analysis Helper  libhoard-rmalloc.so            [.] _ZN2HL12SpinLockType13contendedLockEv@plt
+     0.00%     0.00%             0  mozStorage #1    libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::EmptyHoardManager<Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> > >, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >::put
+     0.00%     0.00%             1  mozStorage #1    libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::EmptyHoardManager<Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> > >, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >::unlocked_put
+     0.00%     0.00%             1  firefox          libhoard-rmalloc.so            [.] _ZN5Hoard12HoardManagerINS_21AlignedSuperblockHeapIN2HL12SpinLockTypeELm65536ENS_10MmapSourceEEENS_10GlobalHeapILm65536ELi8ES4_S3_EENS_15HoardSuperblockIS3_Li65536ENS_9SmallHeapEEELi8ES3_NS_27hoardThresholdFunctionClassES9_E12unlocked_putEPSA_m@plt
+     0.00%     0.00%             0  localStorage DB  libmozsqlite3.so               [.] mallocWithAlarm
+     0.00%     0.00%             1  localStorage DB  libhoard-rmalloc.so            [.] replace_malloc_good_size
+     0.00%     0.00%             1  URL Classifier   libhoard-rmalloc.so            [.] _Z23isCustomHeapInitializedv@plt
+     0.00%     0.00%             1  mozStorage #2    libhoard-rmalloc.so            [.] replace_malloc
+     0.00%     0.00%             1  mozStorage #1    libhoard-rmalloc.so            [.] xxmalloc_usable_size@plt
+     0.00%     0.00%             0  URL Classifier   libhoard-rmalloc.so            [.] HL::HybridHeap<8192, Hoard::ThreadPoolHeap<2048, 128, Hoard::PerThreadHoardHeap>, Hoard::BigHeap>::slowPath
+     0.00%     0.00%             1  firefox          libxul.so                      [.] js::MallocProvider<js::ThreadSafeContext>::pod_malloc<unsigned char>
+     0.00%     0.00%             1  mozStorage #1    [kernel.kallsyms]              [k] ext4_es_free_extent
+     0.00%     0.00%             1  mozStorage #1    libhoard-rmalloc.so            [.] mmap@plt
+     0.00%     0.00%             1  Analysis Helper  libhoard-rmalloc.so            [.] memcpy@plt
+     0.00%     0.00%             1  mozStorage #1    firefox                        [.] free
+     0.00%     0.00%             1  firefox          [kernel.kallsyms]              [k] __kmalloc_track_caller
+     0.00%     0.00%             1  URL Classifier   [kernel.kallsyms]              [k] get_page_from_freelist
+     0.00%     0.00%             0  URL Classifier   libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::slowPathMalloc
+     0.00%     0.00%             1  URL Classifier   libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::getAnotherSuperblock
+     0.00%     0.00%             1  URL Classifier   libhoard-rmalloc.so            [.] getCustomHeap
+     0.00%     0.00%             1  firefox          libxul.so                      [.] _cairo_freelist_free
+     0.00%     0.00%             1  DOM Worker       libxul.so                      [.] moz_xmalloc@plt
+     0.00%     0.00%             1  mozStorage #2    firefox                        [.] malloc
+     0.00%     0.00%             1  mozStorage #1    libhoard-rmalloc.so            [.] replace_malloc_usable_size@plt
+     0.00%     0.00%             0  DOM Worker       libhoard-rmalloc.so            [.] xxmalloc
+     0.00%     0.00%             0  DOM Worker       libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::slowPathMalloc
+     0.00%     0.00%             0  DOM Worker       libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::getAnotherSuperblock
+     0.00%     0.00%             0  firefox          libgtk-x11-2.0.so.0.2400.27    [.] gtk_widget_freeze_child_notify
+     0.00%     0.00%             1  SSL Cert #3      libhoard-rmalloc.so            [.] getCustomHeap
+     0.00%     0.00%             0  SSL Cert #3      libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             0  Analysis Helper  libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::slowPathMalloc
+     0.00%     0.00%             0  Analysis Helper  libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::getAnotherSuperblock
+     0.00%     0.00%             1  Analysis Helper  libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::EmptyHoardManager<Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> > >, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >::get
+     0.00%     0.00%             1  firefox          libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::slowPathFree
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] Ins_SxVTL
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] Normalize.isra.40
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] FT_Hypot
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] FT_Vector_Length
+     0.00%     0.00%             1  firefox          libfreetype.so.6.11.2          [.] ft_trig_pseudo_polarize
+     0.00%     0.00%             1  StreamTrans #6   libhoard-rmalloc.so            [.] xxmalloc@plt
+     0.00%     0.00%             1  DOM Worker       [kernel.kallsyms]              [k] get_page_from_freelist
+     0.00%     0.00%             0  StreamTrans #6   libmozalloc.so                 [.] moz_xcalloc
+     0.00%     0.00%             1  StreamTrans #6   firefox                        [.] calloc
+     0.00%     0.00%             1  Analysis Helper  libhoard-rmalloc.so            [.] xxmalloc_usable_size@plt
+     0.00%     0.00%             1  StreamTrans #6   [kernel.kallsyms]              [k] tlb_flush_mmu_free
+                           --0.00%-- sqlite3_free
+     0.00%     0.00%             0  localStorage DB  libhoard-rmalloc.so            [.] HL::HybridHeap<8192, Hoard::ThreadPoolHeap<2048, 128, Hoard::PerThreadHoardHeap>, Hoard::BigHeap>::slowPath
+     0.00%     0.00%             1  mozStorage #2    libhoard-rmalloc.so            [.] isCustomHeapInitialized
+                               |          |          |--0.00%-- replace_calloc
+     0.00%     0.00%             1  StreamTrans #6   firefox                        [.] free
+     0.00%     0.00%             1  StreamTrans #6   [kernel.kallsyms]              [k] free_pgd_range
+     0.00%     0.00%             1  HTML5 Parser     libhoard-rmalloc.so            [.] xxmalloc@plt
+     0.00%     0.00%             1  StreamTrans #6   libhoard-rmalloc.so            [.] replace_malloc
+     0.00%     0.00%             1  StreamTrans #6   libhoard-rmalloc.so            [.] replace_free
+     0.00%     0.00%             0  StreamTrans #2   libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             1  DOM Worker       firefox                        [.] calloc
+     0.00%     0.00%             1  StreamTrans #6   libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::EmptyHoardManager<Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> > >, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::ProcessHeap<65536ul, 8, HL::SpinLockType, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>::bogusThresholdFunctionClass, Hoard::MmapSource> >::free
+     0.00%     0.00%             1  StreamTrans #6   libmozalloc.so                 [.] moz_malloc
+     0.00%     0.00%             1  StreamTrans #6   libhoard-rmalloc.so            [.] _Z13getCustomHeapv@plt
+     0.00%     0.00%             1  Socket Thread    libfreebl3.so                  [.] felem_diff
+     0.00%     0.00%             0  gdbus            libglib-2.0.so.0.4200.2        [.] g_free
+     0.00%     0.00%             1  gdbus            libhoard-rmalloc.so            [.] xxfree
+     0.00%     0.00%             0  StreamTrans #6   [kernel.kallsyms]              [k] __slab_free
+     0.00%     0.00%             1  HTML5 Parser     libhoard-rmalloc.so            [.] replace_free@plt
+     0.00%     0.00%             0  SSL Cert #1      libfreebl3.so                  [.] SHA1_End
+     0.00%     0.00%             1  SSL Cert #1      libfreebl3.so                  [.] shaCompress
+     0.00%     0.00%             1  SSL Cert #1      libhoard-rmalloc.so            [.] xxmalloc
+     0.00%     0.00%             1  StreamTrans #6   libhoard-rmalloc.so            [.] xxfree@plt
+     0.00%     0.00%             1  mozStorage #1    libxul.so                      [.] malloc_good_size@plt
+     0.00%     0.00%             1  mozStorage #2    libxul.so                      [.] moz_malloc@plt
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] s_mp_invmod_odd_m
+     0.00%     0.00%             0  Socket Thread    libfreebl3.so                  [.] s_mp_almost_inverse
+     0.00%     0.00%             1  Socket Thread    libfreebl3.so                  [.] mp_sub
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] FT_Render_Glyph_Internal
+     0.00%     0.00%             0  firefox          libfreetype.so.6.11.2          [.] ft_smooth_render_generic
+     0.00%     0.00%             1  firefox          libfreetype.so.6.11.2          [.] gray_convert_glyph
+     0.00%     0.00%             1  HTML5 Parser     libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::free
+     0.00%     0.00%             1  DOM Worker       libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::unlock
+     0.00%     0.00%             1  HTML5 Parser     libhoard-rmalloc.so            [.] xxmalloc_usable_size
+     0.00%     0.00%             0  Socket Thread    libhoard-rmalloc.so            [.] HL::HybridHeap<8192, Hoard::ThreadPoolHeap<2048, 128, Hoard::PerThreadHoardHeap>, Hoard::BigHeap>::slowPath
+     0.00%     0.00%             1  HTML5 Parser     firefox                        [.] replace_malloc@plt
+     0.00%     0.00%             1  firefox          libgdk-x11-2.0.so.0.2400.27    [.] gdk_threads_dispatch_free
+     0.00%     0.00%             0  Socket Thread    [kernel.kallsyms]              [k] poll_freewait
+     0.00%     0.00%             1  HTML5 Parser     libhoard-rmalloc.so            [.] xxfree@plt
+     0.00%     0.00%             1  StreamTrans #6   libmozalloc.so                 [.] moz_free
+     0.00%     0.00%             0  URL Classifier   [kernel.kallsyms]              [k] jbd2_journal_try_to_free_buffers
+     0.00%     0.00%             1  Analysis Helper  libhoard-rmalloc.so            [.] xxmalloc@plt
+     0.00%     0.00%             1  URL Classifier   [kernel.kallsyms]              [k] kmem_cache_free
+     0.00%     0.00%             1  ImageDecoder #1  libhoard-rmalloc.so            [.] startMeUp
+                       |--0.00%-- __dev_kfree_skb_any
+                       |--0.00%-- __dev_kfree_skb_any
+                       |--0.00%-- __dev_kfree_skb_any
+     0.00%     0.00%             0  firefox          [kernel.kallsyms]              [k] skb_free_head
+                       |--0.00%-- __dev_kfree_skb_any
+     0.00%     0.00%             1  mozStorage #2    libhoard-rmalloc.so            [.] _Z23isCustomHeapInitializedv@plt
+     0.00%     0.00%             0  firefox          [kernel.kallsyms]              [k] __dev_kfree_skb_any
+     0.00%     0.00%             0  firefox          libglib-2.0.so.0.4200.2        [.] g_variant_iter_free
+     0.00%     0.00%             0  DOM Worker       libhoard-rmalloc.so            [.] replace_calloc
+                    |--0.00%-- replace_calloc
+                    |--0.00%-- replace_calloc
+                    |--0.00%-- replace_calloc
+     0.00%     0.00%             0  firefox          libhoard-rmalloc.so            [.] pthread_create
+     0.00%     0.00%             1  DOM Worker       firefox                        [.] free
+     0.00%     0.00%             0  SSL Cert #1      libhoard-rmalloc.so            [.] HL::HybridHeap<8192, Hoard::ThreadPoolHeap<2048, 128, Hoard::PerThreadHoardHeap>, Hoard::BigHeap>::slowPath
+     0.00%     0.00%             0  SSL Cert #1      [kernel.kallsyms]              [k] get_page_from_freelist
+     0.00%     0.00%             0  Cache2 I/O       firefox                        [.] malloc
+                    |          |          |--0.00%-- replace_calloc
+                    |          |          |--0.00%-- replace_calloc
+                    |          |          |--0.00%-- replace_calloc
+                    |          |--0.00%-- replace_calloc
+                    |          |--0.00%-- replace_calloc
+                    |--0.00%-- replace_calloc
+                    |--0.00%-- replace_calloc
+                    |--0.00%-- replace_calloc
+                    |--0.00%-- replace_calloc
+               |           --0.00%-- sqlite3_free
+               |           --0.00%-- sqlite3_free
+               |           --0.00%-- sqlite3_free
+               |           --0.00%-- sqlite3_free
+                --0.00%-- sqlite3_free
+                --0.00%-- sqlite3_free
+                --0.00%-- sqlite3_free
+                --0.00%-- sqlite3_free
+                --0.00%-- sqlite3_free
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- sqlite3_free
+                    |          |          |--0.00%-- replace_calloc
+                    |          |          |--0.00%-- replace_calloc
+                    |          |          |--0.00%-- replace_calloc
+                    |          |          |--0.00%-- replace_calloc
+                    |          |          |--0.00%-- replace_calloc
+     0.00%     0.00%             0  StreamTrans #4   libhoard-rmalloc.so            [.] HL::HybridHeap<8192, Hoard::ThreadPoolHeap<2048, 128, Hoard::PerThreadHoardHeap>, Hoard::BigHeap>::slowPath
+     0.00%     0.00%             0  localStorage DB  libmozsqlite3.so               [.] sqlite3_free
+     0.00%     0.00%             0  Socket Thread    libhoard-rmalloc.so            [.] replace_calloc
+     0.00%     0.00%             0  Socket Thread    libhoard-rmalloc.so            [.] xxmalloc
+     0.00%     0.00%             0  Socket Thread    libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::slowPathMalloc
+     0.00%     0.00%             0  Socket Thread    libhoard-rmalloc.so            [.] Hoard::HoardManager<Hoard::AlignedSuperblockHeap<HL::SpinLockType, 65536ul, Hoard::MmapSource>, Hoard::GlobalHeap<65536ul, 8, Hoard::MmapSource, HL::SpinLockType>, Hoard::HoardSuperblock<HL::SpinLockType, 65536, Hoard::SmallHeap>, 8, HL::SpinLockType, Hoard::hoardThresholdFunctionClass, Hoard::SmallHeap>::getAnotherSuperblock
+     0.00%     0.00%             0  GMPThread        libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             0  IPDL Background  libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             0  StreamTrans #2   libhoard-rmalloc.so            [.] HL::HybridHeap<8192, Hoard::ThreadPoolHeap<2048, 128, Hoard::PerThreadHoardHeap>, Hoard::BigHeap>::slowPath
+     0.00%     0.00%             0  mozStorage #3    libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             0  Cache I/O        libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             0  Compositor       libhoard-rmalloc.so            [.] startMeUp
+     0.00%     0.00%             0  Gecko_IOThread   libhoard-rmalloc.so            [.] startMeUp

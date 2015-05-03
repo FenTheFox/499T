@@ -1,0 +1,304 @@
+               |--0.00%-- nedpmalloc2
+               |          |--0.00%-- nedpfree2
+               |          |--0.00%-- sqlite3_free
+               |--0.00%-- nedpmalloc2
+               |--0.02%-- sqlite3_free
+               |           --0.00%-- sqlite3_free
+               |--0.01%-- selinux_inode_free_security
+               |--0.00%-- shmem_free_inode
+               |          |--0.00%-- free_hot_cold_page
+               |--0.00%-- security_inode_free
+               |          |--0.00%-- nedpmalloc2
+               |          |--0.00%-- nedpmalloc2
+               |          |          |--0.00%-- nedpfree2
+               |--0.00%-- free_hot_cold_page
+               |--0.00%-- sqlite3_free
+               |--0.00%-- nedpmalloc2
+               |--0.00%-- __slab_free
+               |--0.00%-- shmem_free_inode
+               |--0.00%-- locks_free_lock
+                --0.00%-- tmalloc_large
+               |          |          |--0.00%-- nedpmalloc2
+               |          |          |--0.00%-- nedpmalloc2
+               |          |          |          |--0.00%-- nedpfree2
+               |          |--0.00%-- free_hot_cold_page
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- nedpmalloc2
+               |          |--0.00%-- __slab_free
+               |          |--0.00%-- shmem_free_inode
+               |          |--0.00%-- locks_free_lock
+     0.17%     0.16%          1240  sqlite3-sys  libnedmalloc.so      [.] nedpmalloc2                                                                                                                                                                                  
+               |--0.00%-- nedpfree2
+               |          |          |--0.00%-- nedpmalloc2
+               |          |          |          |--0.00%-- nedpfree2
+               |          |--0.00%-- free_hot_cold_page
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- __slab_free
+               |          |--0.00%-- locks_free_lock
+               |          |          |--0.00%-- nedpmalloc2
+               |          |          |          |--0.00%-- nedpfree2
+               |          |--0.00%-- free_hot_cold_page
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- __slab_free
+               |          |--0.00%-- locks_free_lock
+               |--0.05%-- dentry_free
+               |--0.01%-- selinux_inode_free_security
+               |--0.00%-- security_inode_free
+     0.14%     0.11%           852  sqlite3-sys  [kernel.kallsyms]    [k] kmem_cache_free                                                                                                                                                                              
+               |--0.10%-- locks_free_lock
+               |--0.00%-- dentry_free
+               |          |          |--0.00%-- nedpmalloc2
+               |          |          |          |--0.00%-- nedpfree2
+               |          |--0.00%-- free_hot_cold_page
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- __slab_free
+               |          |--0.00%-- locks_free_lock
+                --0.00%-- free_pages_and_swap_cache
+     0.13%     0.02%           143  sqlite3-sys  [kernel.kallsyms]    [k] locks_free_lock                                                                                                                                                                              
+               |          |          |--0.00%-- nedpmalloc2
+               |          |          |          |--0.00%-- nedpfree2
+               |          |--0.00%-- free_hot_cold_page
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- __slab_free
+               |          |--0.00%-- mspace_malloc2
+               |          |--0.00%-- tmalloc_large
+               |--0.00%-- __kmalloc_track_caller
+               |--0.00%-- __kmalloc
+               |          |          |--0.00%-- nedpmalloc2
+               |          |--0.00%-- free_hot_cold_page
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- __slab_free
+               |          |          |--0.00%-- nedpmalloc2
+               |          |--0.00%-- free_hot_cold_page
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- __slab_free
+               |          |--0.03%-- dentry_free
+               |          |--0.01%-- selinux_inode_free_security
+                          |--0.00%-- dentry_free
+                          |--0.00%-- selinux_inode_free_security
+               |                     |--0.00%-- mspace_malloc2
+               |                     |--0.00%-- tmalloc_large
+               |          |--0.00%-- __kmalloc_track_caller
+               |           --0.00%-- __kmalloc
+     0.08%     0.03%           213  sqlite3-sys  sqlite3-sys          [.] sqlite3_free                                                                                                                                                                                 
+     0.08%     0.06%           456  sqlite3-sys  libnedmalloc.so      [.] nedpfree2                                                                                                                                                                                    
+               |--0.03%-- sqlite3_free
+     0.08%     0.08%           609  sqlite3-sys  libnedmalloc.so      [.] nedblksize                                                                                                                                                                                   
+               |--0.02%-- nedpfree2
+               |          |--0.01%-- sqlite3_free
+               |          |          |--0.00%-- nedpmalloc2
+               |          |          |--0.00%-- nedpmalloc2
+               |          |          |          |--0.00%-- nedpfree2
+               |          |--0.00%-- free_hot_cold_page
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- nedpmalloc2
+               |           --0.00%-- nedpmalloc2
+               |--0.00%-- sqlite3_free
+               |--0.00%-- __slab_free
+               |          |--0.02%-- dentry_free
+               |          |--0.00%-- selinux_inode_free_security
+               |--0.00%-- dentry_free
+                --0.00%-- selinux_inode_free_security
+               |          |          |--0.00%-- nedpmalloc2
+               |          |          |--0.00%-- nedpmalloc2
+               |          |--0.00%-- free_hot_cold_page
+               |          |--0.00%-- sqlite3_free
+     0.06%     0.00%            30  sqlite3-sys  [kernel.kallsyms]    [k] dentry_free                                                                                                                                                                                  
+     0.06%     0.06%           462  sqlite3-sys  [kernel.kallsyms]    [k] kfree                                                                                                                                                                                        
+               |--0.02%-- selinux_file_free_security
+               |--0.00%-- security_file_free
+               |                     |--0.00%-- sqlite3_free
+     0.06%     0.02%           172  sqlite3-sys  [kernel.kallsyms]    [k] get_page_from_freelist                                                                                                                                                                       
+               |          |                      --0.00%-- mspace_malloc2
+               |          |           --0.00%-- __kmalloc_track_caller
+     0.06%     0.01%            87  sqlite3-sys  [kernel.kallsyms]    [k] free_hot_cold_page_list                                                                                                                                                                      
+               |           --0.00%-- free_pages_and_swap_cache
+               |--0.01%-- nedpmalloc2
+               |--0.00%-- nedpfree2
+               |          |--0.00%-- sqlite3_free
+               |                     |--0.00%-- sqlite3_free
+     0.05%     0.05%           363  sqlite3-sys  [kernel.kallsyms]    [k] __kmalloc                                                                                                                                                                                    
+               |          |           --0.00%-- nedpmalloc2
+               |          |--0.00%-- free_hot_cold_page
+               |          |           --0.00%-- nedpmalloc2
+               |          |--0.00%-- sqlite3_free
+     0.04%     0.02%           189  sqlite3-sys  [kernel.kallsyms]    [k] __slab_free                                                                                                                                                                                  
+               |--0.03%-- kmem_cache_free
+                --0.00%-- locks_free_lock
+     0.04%     0.01%            84  sqlite3-sys  [kernel.kallsyms]    [k] free_hot_cold_page                                                                                                                                                                           
+               |--0.03%-- free_hot_cold_page_list
+               |           --0.00%-- free_pages_and_swap_cache
+               |          |--0.00%-- get_page_from_freelist
+               |          |          |                      --0.00%-- mspace_malloc2
+               |          |          |          |           --0.00%-- mspace_malloc2
+               |           --0.00%-- free_pcppages_bulk
+               |--0.01%-- get_page_from_freelist
+               |          |--0.00%-- sqlite3_free
+     0.03%     0.00%            16  sqlite3-sys  [kernel.kallsyms]    [k] security_inode_free                                                                                                                                                                          
+               |--0.00%-- sqlite3_free
+     0.02%     0.00%            28  sqlite3-sys  [kernel.kallsyms]    [k] selinux_inode_free_security                                                                                                                                                                  
+               |--0.02%-- security_inode_free
+                                      --0.00%-- sqlite3_free
+     0.02%     0.02%           161  sqlite3-sys  [kernel.kallsyms]    [k] __kmalloc_track_caller                                                                                                                                                                       
+               |--0.01%-- free_hot_cold_page
+                --0.01%-- free_hot_cold_page_list
+               |          |--0.00%-- __kmalloc_track_caller
+               |           --0.00%-- __kmalloc
+               |           --0.00%-- __kmalloc
+     0.02%     0.00%             2  sqlite3-sys  [kernel.kallsyms]    [k] security_file_free                                                                                                                                                                           
+               |           --0.00%-- __kmalloc
+                --0.00%-- __kmalloc
+               |--0.01%-- get_page_from_freelist
+               |          |                      --0.00%-- mspace_malloc2
+               |          |          |           --0.00%-- mspace_malloc2
+                --0.00%-- free_pcppages_bulk
+     0.02%     0.00%             5  sqlite3-sys  [kernel.kallsyms]    [k] selinux_file_free_security                                                                                                                                                                   
+               |--0.02%-- security_file_free
+               |          |           --0.00%-- nedpmalloc2
+               |--0.01%-- get_page_from_freelist
+               |                      --0.00%-- __kmalloc_track_caller
+                --0.00%-- get_page_from_freelist
+               |                     |          |          |          |          |--0.00%-- sqlite3_free
+               |                     |          |          |          |          |--0.00%-- mspace_malloc2
+               |                     |          |          |          |           --0.00%-- tmalloc_large
+               |                      --0.00%-- sqlite3_free
+     0.02%     0.02%           126  sqlite3-sys  [kernel.kallsyms]    [k] kmalloc_slab                                                                                                                                                                                 
+               |--0.01%-- locks_free_lock
+               |--0.00%-- free_hot_cold_page
+     0.01%     0.01%           112  sqlite3-sys  libnedmalloc.so      [.] nedpmalloc                                                                                                                                                                                   
+                --0.00%-- sqlite3_free
+               |          |          |--0.00%-- nedpmalloc2
+               |          |--0.00%-- sqlite3_free
+     0.01%     0.01%           101  sqlite3-sys  libnedmalloc.so      [.] malloc                                                                                                                                                                                       
+               |          |--0.00%-- free_hot_cold_page
+               |--0.00%-- __kmalloc_track_caller
+                --0.00%-- __kmalloc
+               |          |          |--0.00%-- sqlite3_free
+               |          |          |--0.00%-- mspace_malloc2
+               |          |           --0.00%-- tmalloc_large
+     0.01%     0.01%            98  sqlite3-sys  [kernel.kallsyms]    [k] free_pages_prepare                                                                                                                                                                           
+               |--0.01%-- free_hot_cold_page
+                --0.01%-- free_hot_cold_page_list
+               |--0.01%-- __slab_free
+                --0.00%-- kmem_cache_free
+               |          |--0.00%-- sqlite3_free
+               |           --0.00%-- sqlite3_free
+               |--0.00%-- sqlite3_free
+     0.01%     0.01%            89  sqlite3-sys  libnedmalloc.so      [.] free                                                                                                                                                                                         
+               |--0.00%-- sqlite3_free
+               |          |          |--0.00%-- nedpmalloc2
+     0.01%     0.01%            84  sqlite3-sys  libnedmalloc.so      [.] GetThreadCache_cold1                                                                                                                                                                         
+               |--0.00%-- nedpmalloc2
+                --0.00%-- nedpfree2
+                          |--0.00%-- sqlite3_free
+               |--0.01%-- get_page_from_freelist
+               |--0.00%-- sqlite3_free
+               |--0.00%-- sqlite3_free
+               |          |          |--0.00%-- nedpmalloc2
+               |           --0.00%-- sqlite3_free
+     0.01%     0.01%            62  sqlite3-sys  libnedmalloc.so      [.] nedpfree                                                                                                                                                                                     
+               |--0.00%-- sqlite3_free
+               |--0.00%-- mspace_malloc2
+               |--0.00%-- tmalloc_large
+               |--0.00%-- get_page_from_freelist
+               |--0.00%-- sqlite3_free
+               |          |--0.00%-- sqlite3_free
+               |          |--0.00%-- mspace_malloc2
+               |           --0.00%-- tmalloc_large
+                --0.00%-- get_page_from_freelist
+               |          |--0.00%-- locks_free_lock
+               |          |--0.00%-- mspace_malloc2
+               |          |--0.00%-- tmalloc_large
+               |--0.00%-- mspace_malloc2
+               |--0.00%-- tmalloc_large
+     0.01%     0.01%            47  sqlite3-sys  [kernel.kallsyms]    [k] mpol_free_shared_policy                                                                                                                                                                      
+     0.01%     0.00%            17  sqlite3-sys  libnedmalloc.so      [.] mspace_malloc2                                                                                                                                                                               
+     0.01%     0.00%            14  sqlite3-sys  [kernel.kallsyms]    [k] shmem_free_inode                                                                                                                                                                             
+     0.01%     0.01%            40  sqlite3-sys  libstdc++.so.6.0.20  [.] free@plt                                                                                                                                                                                     
+               |--0.00%-- mspace_malloc2
+               |--0.00%-- tmalloc_large
+               |--0.00%-- get_page_from_freelist
+                          |          |          |          |          |--0.00%-- sqlite3_free
+                          |          |          |          |          |--0.00%-- mspace_malloc2
+                          |          |          |          |           --0.00%-- tmalloc_large
+                          |          |          |          |          |--0.00%-- sqlite3_free
+                          |          |          |          |          |--0.00%-- mspace_malloc2
+                          |          |          |          |           --0.00%-- tmalloc_large
+     0.00%     0.00%            28  sqlite3-sys  libnedmalloc.so      [.] nedpmalloc@plt                                                                                                                                                                               
+               |                     |--0.00%-- sqlite3_free
+     0.00%     0.00%            25  sqlite3-sys  libnedmalloc.so      [.] nedpfree2@plt                                                                                                                                                                                
+                --0.00%-- sqlite3_free
+               |           --0.00%-- nedpmalloc2
+                          |          |          |          |          |--0.00%-- sqlite3_free
+                          |          |          |          |          |--0.00%-- mspace_malloc2
+                          |          |          |          |           --0.00%-- tmalloc_large
+     0.00%     0.00%            21  sqlite3-sys  libstdc++.so.6.0.20  [.] malloc@plt                                                                                                                                                                                   
+                --0.00%-- sqlite3_free
+                --0.00%-- sqlite3_free
+               |--0.00%-- __kmalloc_track_caller
+                --0.00%-- __kmalloc
+     0.00%     0.00%            18  sqlite3-sys  libnedmalloc.so      [.] nedpfree@plt                                                                                                                                                                                 
+     0.00%     0.00%            17  sqlite3-sys  libnedmalloc.so      [.] nedpmalloc2@plt                                                                                                                                                                              
+               |--0.00%-- mspace_malloc2
+               |--0.00%-- tmalloc_large
+     0.00%     0.00%            16  sqlite3-sys  libnedmalloc.so      [.] pthread_getspecific@plt                                                                                                                                                                      
+               |--0.00%-- nedpfree2
+               |          |--0.00%-- sqlite3_free
+                --0.00%-- nedpmalloc2
+                --0.00%-- sqlite3_free
+     0.00%     0.00%            16  sqlite3-sys  libnedmalloc.so      [.] tmalloc_large                                                                                                                                                                                
+               |          |--0.00%-- dentry_free
+               |--0.00%-- nedpfree2
+                --0.00%-- sqlite3_free
+     0.00%     0.00%            13  sqlite3-sys  libnedmalloc.so      [.] nedblksize@plt                                                                                                                                                                               
+               |--0.00%-- sqlite3_free
+     0.00%     0.00%            11  sqlite3-sys  sqlite3-sys          [.] malloc@plt                                                                                                                                                                                   
+     0.00%     0.00%            11  sqlite3-sys  libnedmalloc.so      [.] mspace_free.constprop.11                                                                                                                                                                     
+               |          |          |          |--0.00%-- sqlite3_free
+               |          |          |          |--0.00%-- mspace_malloc2
+               |          |          |           --0.00%-- tmalloc_large
+               |                      --0.00%-- mspace_malloc2
+     0.00%     0.00%             0  sqlite3-sys  [kernel.kallsyms]    [k] tlb_flush_mmu_free                                                                                                                                                                           
+     0.00%     0.00%             0  sqlite3-sys  [kernel.kallsyms]    [k] free_pages_and_swap_cache                                                                                                                                                                    
+     0.00%     0.00%             6  sqlite3-sys  sqlite3-sys          [.] free@plt                                                                                                                                                                                     
+               |          |--0.00%-- dentry_free
+     0.00%     0.00%             5  sqlite3-sys  libnedmalloc.so      [.] realloc                                                                                                                                                                                      
+     0.00%     0.00%             3  sqlite3-sys  libnedmalloc.so      [.] RemoveCacheEntries.isra.3                                                                                                                                                                    
+                --0.00%-- sqlite3_free
+               |          |          |          |          |--0.00%-- sqlite3_free
+               |          |          |          |          |--0.00%-- mspace_malloc2
+               |          |          |          |           --0.00%-- tmalloc_large
+               |           --0.00%-- free_hot_cold_page
+                          |           --0.00%-- sqlite3_free
+     0.00%     0.00%             3  sqlite3-sys  libnedmalloc.so      [.] nedprealloc2                                                                                                                                                                                 
+     0.00%     0.00%             2  sqlite3-sys  [kernel.kallsyms]    [k] free_pcppages_bulk                                                                                                                                                                           
+                --0.00%-- mspace_malloc2
+                --0.00%-- mspace_malloc2
+     0.00%     0.00%             0  sqlite3-sys  libnedmalloc.so      [.] 0x000000000020d280                                                                                                                                                                           
+     0.00%     0.00%             0  sqlite3-sys  libnedmalloc.so      [.] ReleaseFreeInCache.isra.5                                                                                                                                                                    
+                --0.00%-- mspace_malloc2
+               |          |          |          |          |--0.00%-- sqlite3_free
+               |          |          |          |          |--0.00%-- mspace_malloc2
+               |          |          |          |           --0.00%-- tmalloc_large
+                --0.00%-- mspace_malloc2
+     0.00%     0.00%             0  sqlite3-sys  libpthread-2.20.so   [.] __free_tcb                                                                                                                                                                                   
+     0.00%     0.00%             0  sqlite3-sys  [kernel.kallsyms]    [k] free_pgtables                                                                                                                                                                                
+     0.00%     0.00%             1  sqlite3-sys  libnedmalloc.so      [.] release_unused_segments                                                                                                                                                                      
+     0.00%     0.00%             1  sqlite3-sys  libnedmalloc.so      [.] nedprealloc@plt                                                                                                                                                                              
+               |--0.00%-- mspace_malloc2
+                --0.00%-- tmalloc_large
+               |--0.00%-- mspace_malloc2
+                --0.00%-- tmalloc_large
+               |          |--0.00%-- sqlite3_free
+               |           --0.00%-- sqlite3_free
+               |           --0.00%-- sqlite3_free
+                           --0.00%-- sqlite3_free
+                           --0.00%-- sqlite3_free
+                           --0.00%-- sqlite3_free
+                           --0.00%-- sqlite3_free
+                           --0.00%-- sqlite3_free
+                           --0.00%-- sqlite3_free
+     0.00%     0.00%             1  sqlite3-sys  libnedmalloc.so      [.] tmalloc_small                                                                                                                                                                                
+               |           --0.00%-- sqlite3_free
+     0.00%     0.00%             0  sqlite3-sys  libnedmalloc.so      [.] FindMSpace                                                                                                                                                                                   
+     0.00%     0.00%             0  sqlite3-sys  libnedmalloc.so      [.] init_user_mstate                                                                                                                                                                             

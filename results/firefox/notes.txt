@@ -1,0 +1,11 @@
+moz_malloc, moz_free, moz_realloc, moz_malloc_usable_size, moz_malloc_size_of
+arena_
+
+^( +([\D\S]|0x).*\n|\n)
+.*\[k\].*\n
+.*((m|r|c)alloc[^A-Z]|(moz_|replace_| )free[^btz]|arena)
+^\s*0.00%.*0.00%.*\n?
+^( *|[0-9]{1,2}.[0-9]{2}%)*[0-9]+.*((m|r|c)alloc|free|arena)[^btz]*?
+moz[^\s]*so
+
+[^mrc]alloc
