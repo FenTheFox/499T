@@ -126,7 +126,7 @@ Dir.glob('js/*.txt') do |f|
 	end
 end
 
-Dir.glob('js/trace/*.txt') do |f|
+Dir.glob('js/trace/trace-*.txt') do |f|
 	if(!f.index('rmalloc').nil?)
 		Results.parse_trace(f, :default_js)
 	elsif(!f.index('hoard').nil?)
@@ -146,7 +146,7 @@ Dir.glob('render/*.txt') do |f|
 	end
 end
 
-Dir.glob('render/trace/*.txt') do |f|
+Dir.glob('render/trace/trace-*.txt') do |f|
 	if(!f.index('rmalloc').nil?)
 		Results.parse_trace(f, :default_render)
 	elsif(!f.index('hoard').nil?)

@@ -109,6 +109,8 @@ class Results
 	end
 end
 
+puts "Starting"
+
 Dir.glob('*.txt') do |f|
 	if(!f.index('sys').nil?)
 		Results.parse(f, :sys)
@@ -133,7 +135,7 @@ Dir.glob('*.txt') do |f|
 	end
 end
 
-Dir.glob('trace/*.txt') do |f|
+Dir.glob('trace/trace-*.txt') do |f|
 	if(!f.index('sys').nil?)
 		Results.parse_trace(f, :sys)
 	elsif(!f.index('hoard').nil?)

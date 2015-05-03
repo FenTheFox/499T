@@ -18,16 +18,16 @@ stat_mean <- function(map) {
 aes_alloc = aes(x=allocator, fill=allocator)
 
 ffj <- ggplot(ffjsdata,aes_alloc) + ggtitle("JSBench") + stat_summary(mapping=aes(y=runtime), fun.y=mean, geom="bar") + geom_errorbar(data=ffjsstats, mapping=aes(ymin=mean-standard_dev, ymax=mean+standard_dev), width=0.6)
-ggsave(filename = "ffj.png", ffj, height = 4.5)
+ggsave(filename = "ffj.png", ffj, width = 3.25, height = 4.25)
 ffr <- ggplot(ffrenderdata,aes_alloc) + ggtitle("RenderBench") + stat_summary(mapping=aes(y=runtime), fun.y=mean, geom="bar") + geom_errorbar(data=ffrenderstats, mapping=aes(ymin=mean-standard_dev, ymax=mean+standard_dev), width=0.6)
-ggsave(filename = "ffr.png", ffr, height = 4.5)
+ggsave(filename = "ffr.png", ffr, width = 3.25, height = 4.25)
 
 sqlc <- ggplot(sqldata, aes_alloc) + ggtitle("CreateBench") + ylab("runtime") + stat_summary(mapping=aes(y=create), fun.y=mean, geom="bar") + geom_errorbar(data=sqlstats, mapping=aes(ymin=create_mean-create_stdev, ymax=create_mean+create_stdev), width=0.6)
-ggsave(filename = "sqlc.png", sqlc, height = 4.5)
+ggsave(filename = "sqlc.png", sqlc, width = 7.5, height = 4.25)
 sqlq <- ggplot(sqldata, aes_alloc) + ggtitle("QueryBench") + ylab("runtime") + stat_summary(mapping=aes(y=query), fun.y=mean, geom="bar") + geom_errorbar(data=sqlstats, mapping=aes(ymin=query_mean-query_stdev, ymax=query_mean+query_stdev), width=0.6)
-ggsave(filename = "sqlq.png", sqlq, height = 4.5)
+ggsave(filename = "sqlq.png", sqlq, width = 7.5, height = 4.25)
 
 ffa <- ggplot(ffperf, aes(x=allocator, fill=benchmark)) + ggtitle("Time Firefox Spent in Allocator") + geom_bar(aes(y=percent), position = "dodge", stat = "identity")
-ggsave(filename = "ffa.png", ffa, height = 4.5)
-sqla <- ggplot(sqldata, aes_alloc) + ggtitle("Time SQLite Spent in Allocator") + geom_bar(aes(y=percent), stat = "identity")
-ggsave(filename = "sqla.png", sqla, height = 4.5)
+ggsave(filename = "ffa.png", ffa, width = 7.5, height = 4.25)
+sqla <- ggplot(sqlperf, aes_alloc) + ggtitle("Time SQLite Spent in Allocator") + geom_bar(aes(y=percent), stat = "identity")
+ggsave(filename = "sqla.png", sqla, width = 7.5, height = 4.25)
