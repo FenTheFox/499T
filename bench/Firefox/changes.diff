@@ -1,0 +1,39 @@
+--- C:\Users\Timm\Downloads\jsbench-2013.1/harness.html	2012-04-10 15:53:41 -0400
++++ jsbench/harness.html	2015-05-07 12:26:00 -0400
+@@ -3,6 +3,7 @@
+     <head>
+         <title>JSBench Benchmark Harness</title>
+         <script type="text/javascript" src="harness.js"></script>
++	<script>window.addEventListener("load", function (e) { document.getElementById('go').click(); }, false);</script>
+     </head>
+     <body>
+         <h1>JSBench Harness</h1>
+--- C:\Users\Timm\Downloads\jsbench-2013.1/harness.js	2013-08-06 14:41:47 -0400
++++ jsbench/harness.js	2015-05-07 12:27:59 -0400
+@@ -286,6 +286,14 @@
+             printarr(presults);
+             print("Raw results:");
+             printarr(praw);
++			rs = 'results=' + document.getElementById('output').innerHTML;
++			rs = rs.replace(/<br>/g, '\n').replace(/&nbsp;&nbsp;/g, '\t');
++			var req = new XMLHttpRequest();
++			req.open("POST", "http://localhost:8000/report.php");
++			req.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
++			req.setRequestHeader("Content-length", rs.length);
++			req.setRequestHeader("Connection", "close");
++			req.send(rs);
+         }
+ 
+         return totals;
+--- C:\Users\Timm\Downloads\jsbench-2013.1/index.html	2012-04-10 15:53:41 -0400
++++ jsbench/index.html	2015-05-01 04:25:04 -0400
+@@ -4,6 +4,9 @@
+         <title>JSBench Browser Check</title>
+         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+         <script type="text/javascript" src="browsercheck.js"></script>
++        <script type="text/javascript">
++            $.ajax('http://localhost:8000' + window.location.search + "\n");
++        </script>
+     </head>
+     <body>
+         <h1>JSBench browser check</h1>
