@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1430933496420.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "713183D6",
+    "lastKnownWriteTime" : 32370124835913834,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "ffperf",
+        "contentUrl" : "content?title=ffperf&file=1a58c0940a574735b4f720e3ae6ff6db.htm",
+        "displayedObservations" : 6,
+        "displayedVariables" : 5,
+        "totalObservations" : 6,
+        "variables" : 5
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

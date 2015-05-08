@@ -12,12 +12,10 @@
 #ifndef sqlite_test_stringops_h
 #define sqlite_test_stringops_h
 
-using namespace std;
-
-string trim(string str, string whitespace = " \t")
+std::string trim(std::string str, std::string whitespace = " \t")
 {
 	auto strBegin = str.find_first_not_of(whitespace);
-	if (strBegin == string::npos)
+	if (strBegin == std::string::npos)
 		return ""; // no content
 
 	auto strEnd = str.find_last_not_of(whitespace);

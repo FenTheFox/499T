@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1430933554608.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "52008834",
+    "lastKnownWriteTime" : 31244048835477601,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "ffrenderstats",
+        "contentUrl" : "content?title=ffrenderstats&file=506ee1a038cf4910963f7e48476fb649.htm",
+        "displayedObservations" : 3,
+        "displayedVariables" : 3,
+        "totalObservations" : 3,
+        "variables" : 3
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

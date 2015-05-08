@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1430933543636.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C78F9DC2",
+    "lastKnownWriteTime" : 31244048835477601,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "sqlstats",
+        "contentUrl" : "content?title=sqlstats&file=93e7a59d52a9404b9b538225b02f9e8b.htm",
+        "displayedObservations" : 8,
+        "displayedVariables" : 7,
+        "totalObservations" : 8,
+        "variables" : 7
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
