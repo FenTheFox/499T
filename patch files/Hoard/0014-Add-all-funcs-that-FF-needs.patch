@@ -1,0 +1,95 @@
+From 7a4c1d4973fe56653229b885b042f6e01c8fe944 Mon Sep 17 00:00:00 2001
+From: Timm Allman <tallman@umass.edu>
+Date: Thu, 23 Apr 2015 23:38:48 -0400
+Subject: [PATCH 14/14] Add all funcs that FF needs
+
+---
+ src/include/malloc_decls.h   |  1 +
+ src/include/replace_malloc.h |  1 +
+ src/source/libhoard.cpp      | 16 +++++++++-------
+ 3 files changed, 11 insertions(+), 7 deletions(-)
+ create mode 120000 src/include/malloc_decls.h
+ create mode 120000 src/include/replace_malloc.h
+
+diff --git a/src/include/malloc_decls.h b/src/include/malloc_decls.h
+new file mode 120000
+index 0000000..5a91a90
+--- /dev/null
++++ b/src/include/malloc_decls.h
+@@ -0,0 +1 @@
++../../../../../source/repl_malloc/malloc_decls.h
+\ No newline at end of file
+diff --git a/src/include/replace_malloc.h b/src/include/replace_malloc.h
+new file mode 120000
+index 0000000..a07c6f4
+--- /dev/null
++++ b/src/include/replace_malloc.h
+@@ -0,0 +1 @@
++../../../../../source/repl_malloc/replace_malloc.h
+\ No newline at end of file
+diff --git a/src/source/libhoard.cpp b/src/source/libhoard.cpp
+index 15ed237..d9accb4 100644
+--- a/src/source/libhoard.cpp
++++ b/src/source/libhoard.cpp
+@@ -5,19 +5,19 @@
+   www.hoard.org
+ 
+   Author: Emery Berger, http://www.cs.umass.edu/~emery
+- 
++
+   Copyright (c) 1998-2012 Emery Berger
+ 
+   This program is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License, or
+   (at your option) any later version.
+-  
++
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+-  
++
+   You should have received a copy of the GNU General Public License
+   along with this program; if not, write to the Free Software
+   Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+@@ -39,7 +39,7 @@ using namespace HL;
+ // linkage.  Otherwise, our versions here won't replace them.  It is
+ // IMPERATIVE that this line appear before any files get included.
+ 
+-#undef __GXX_WEAK__ 
++#undef __GXX_WEAK__
+ 
+ #if defined(_WIN32)
+ #define WIN32_LEAN_AND_MEAN
+@@ -66,16 +66,16 @@ volatile bool anyThreadCreated = false;
+ #endif
+ 
+ namespace Hoard {
+-  
++
+   // HOARD_MMAP_PROTECTION_MASK defines the protection flags used for
+   // freshly-allocated memory. The default case is that heap memory is
+   // NOT executable, thus preventing the class of attacks that inject
+   // executable code on the heap.
+-  // 
++  //
+   // While this is not recommended, you can define HL_EXECUTABLE_HEAP as
+   // 1 in heaplayers/heaplayers.h if you really need to (i.e., you're
+   // doing dynamic code generation into malloc'd space).
+-  
++
+ #if HL_EXECUTABLE_HEAP
+ #define HOARD_MMAP_PROTECTION_MASK (PROT_READ | PROT_WRITE | PROT_EXEC)
+ #else
+@@ -149,3 +149,5 @@ extern "C" {
+   }
+ 
+ }
++
++#include "replace_malloc.h"
+\ No newline at end of file
+-- 
+1.9.5.github.0
+

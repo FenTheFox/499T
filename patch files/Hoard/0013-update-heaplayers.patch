@@ -1,0 +1,19 @@
+From 3debb2f26b6e425f5cb1786a679cedb4d713f684 Mon Sep 17 00:00:00 2001
+From: Timm Allman <tallman@umass.edu>
+Date: Wed, 22 Apr 2015 17:38:14 -0400
+Subject: [PATCH 13/14] update heaplayers
+
+---
+ src/Heap-Layers | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/src/Heap-Layers b/src/Heap-Layers
+index 9120307..fb13dba 160000
+--- a/src/Heap-Layers
++++ b/src/Heap-Layers
+@@ -1 +1 @@
+-Subproject commit 9120307555e3b9991959a1e69b28e48429f93cb5
++Subproject commit fb13dba3d954932c24bc9037f7a99b3b5fc9cb00
+-- 
+1.9.5.github.0
+

@@ -1,0 +1,71 @@
+From 38d930f0f35d2f3651cd52a65a180bf637458a99 Mon Sep 17 00:00:00 2001
+From: Timm Allman <tallman@umass.edu>
+Date: Tue, 13 Jan 2015 10:49:32 -0500
+Subject: [PATCH 04/14] add files that wern't added by commit -a
+
+---
+ src/include/logger.h  | 1 +
+ src/include/map.h     | 1 +
+ src/source/logger.cpp | 1 +
+ src/source/main.cpp   | 1 +
+ src/source/map.cpp    | 1 +
+ src/source/rmmap.cpp  | 1 +
+ 6 files changed, 6 insertions(+)
+ create mode 120000 src/include/logger.h
+ create mode 120000 src/include/map.h
+ create mode 120000 src/source/logger.cpp
+ create mode 120000 src/source/main.cpp
+ create mode 120000 src/source/map.cpp
+ create mode 120000 src/source/rmmap.cpp
+
+diff --git a/src/include/logger.h b/src/include/logger.h
+new file mode 120000
+index 0000000..a05a9d5
+--- /dev/null
++++ b/src/include/logger.h
+@@ -0,0 +1 @@
++/Users/Timm/499T/inst/logger.h
+\ No newline at end of file
+diff --git a/src/include/map.h b/src/include/map.h
+new file mode 120000
+index 0000000..44bbdd3
+--- /dev/null
++++ b/src/include/map.h
+@@ -0,0 +1 @@
++/Users/Timm/499T/inst/map.h
+\ No newline at end of file
+diff --git a/src/source/logger.cpp b/src/source/logger.cpp
+new file mode 120000
+index 0000000..c9857ee
+--- /dev/null
++++ b/src/source/logger.cpp
+@@ -0,0 +1 @@
++/Users/Timm/499T/inst/logger.cpp
+\ No newline at end of file
+diff --git a/src/source/main.cpp b/src/source/main.cpp
+new file mode 120000
+index 0000000..9c0b77a
+--- /dev/null
++++ b/src/source/main.cpp
+@@ -0,0 +1 @@
++/Users/Timm/499T/inst/main.cpp
+\ No newline at end of file
+diff --git a/src/source/map.cpp b/src/source/map.cpp
+new file mode 120000
+index 0000000..2152dc0
+--- /dev/null
++++ b/src/source/map.cpp
+@@ -0,0 +1 @@
++/Users/Timm/499T/inst/map.cpp
+\ No newline at end of file
+diff --git a/src/source/rmmap.cpp b/src/source/rmmap.cpp
+new file mode 120000
+index 0000000..8096ce5
+--- /dev/null
++++ b/src/source/rmmap.cpp
+@@ -0,0 +1 @@
++/Users/Timm/499T/inst/rmmap.cpp
+\ No newline at end of file
+-- 
+1.9.5.github.0
+

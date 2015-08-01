@@ -1,0 +1,19 @@
+From 9bf1d6c24bbf1586b031ac309d5bdd01e03e6500 Mon Sep 17 00:00:00 2001
+From: Timm Allman <timm@localhost.localdomain>
+Date: Mon, 19 Jan 2015 21:17:50 -0500
+Subject: [PATCH 08/14] fix submodule errors
+
+---
+ src/Heap-Layers | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/src/Heap-Layers b/src/Heap-Layers
+index 1256db6..a94c2dc 160000
+--- a/src/Heap-Layers
++++ b/src/Heap-Layers
+@@ -1 +1 @@
+-Subproject commit 1256db6a2d1d633fbbe93fe5349e2c54e072f8ae
++Subproject commit a94c2dcad608081ad6da8669b0e4fa5396935ee5
+-- 
+1.9.5.github.0
+

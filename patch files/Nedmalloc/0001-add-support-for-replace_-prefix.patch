@@ -1,0 +1,50 @@
+From 9db169bead5bcda84f8f6776b1fb23bf2ae50024 Mon Sep 17 00:00:00 2001
+From: Timm Allman <tallman@umass.edu>
+Date: Wed, 22 Apr 2015 17:00:02 -0400
+Subject: [PATCH 1/2] add support for replace_ prefix
+
+---
+ nedmalloc.h | 20 +++++++++++++++++++-
+ 1 file changed, 19 insertions(+), 1 deletion(-)
+
+diff --git a/nedmalloc.h b/nedmalloc.h
+index ba699be..d54da03 100644
+--- a/nedmalloc.h
++++ b/nedmalloc.h
+@@ -228,7 +228,8 @@ Always turns on ENABLE_TOLERANT_NEDMALLOC.
+  #ifndef ENABLE_TOLERANT_NEDMALLOC
+   #define ENABLE_TOLERANT_NEDMALLOC 1
+  #endif
+- #ifndef WIN32	/* We have a dedicated patcher for Windows */
++  #define STRUCT_MALLINFO_DECLARED 1
++ #ifndef WIN32  /* We have a dedicated patcher for Windows */
+   #define nedmalloc               malloc
+   #define nedmalloc2              malloc2
+   #define nedcalloc               calloc
+@@ -248,6 +249,23 @@ Always turns on ENABLE_TOLERANT_NEDMALLOC.
+    #define nedmemsize             malloc_usable_size
+   #endif
+  #endif
++#elif defined USE_REPLACE_PREFIX
++  #define nedmalloc               replace_malloc
++  #define nedmalloc2              replace_malloc2
++  #define nedcalloc               replace_calloc
++  #define nedrealloc              replace_realloc
++  #define nedrealloc2             replace_realloc2
++  #define nedfree                 replace_free
++  #define nedfree2                replace_free2
++  #define nedmemalign             replace_memalign
++  #define nedmallinfo             replace_mallinfo
++  #define nedmallopt              replace_mallopt
++  #define nedmalloc_trim          replace_malloc_trim
++  #define nedmalloc_stats         replace_malloc_stats
++  #define nedmalloc_footprint     replace_malloc_footprint
++  #define nedindependent_calloc   replace_independent_calloc
++  #define nedindependent_comalloc replace_independent_comalloc
++  #define nedmemsize              replace_malloc_usable_size
+ #endif
+ 
+ /*! \def ENABLE_TOLERANT_NEDMALLOC
+-- 
+1.9.5.github.0
+

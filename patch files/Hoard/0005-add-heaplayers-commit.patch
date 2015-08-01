@@ -1,0 +1,19 @@
+From 72bfe9623a99672f9749a2e0fa1ea3679584161b Mon Sep 17 00:00:00 2001
+From: Timm Allman <tallman@umass.edu>
+Date: Tue, 13 Jan 2015 10:50:28 -0500
+Subject: [PATCH 05/14] add heaplayers commit
+
+---
+ src/Heap-Layers | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/src/Heap-Layers b/src/Heap-Layers
+index dcdaf9b..0b4d5b5 160000
+--- a/src/Heap-Layers
++++ b/src/Heap-Layers
+@@ -1 +1 @@
+-Subproject commit dcdaf9bb28d6fec8c1439e2f758c4d59b0d7d037
++Subproject commit 0b4d5b5a2bd13a1d2c5a90e94846759eac0526bb
+-- 
+1.9.5.github.0
+

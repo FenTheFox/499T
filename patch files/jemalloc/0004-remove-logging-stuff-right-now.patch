@@ -1,0 +1,35 @@
+From fda7ef3184c6cfe30a8df447d89d5da64d18be05 Mon Sep 17 00:00:00 2001
+From: Timm Allman <tallman@umass.edu>
+Date: Wed, 22 Apr 2015 16:51:59 -0400
+Subject: [PATCH 4/5] remove logging stuff right now
+
+---
+ src/chunk_mmap.c | 1 -
+ src/jemalloc.c   | 1 -
+ 2 files changed, 2 deletions(-)
+
+diff --git a/src/chunk_mmap.c b/src/chunk_mmap.c
+index 8d6d88e..83839f9 100644
+--- a/src/chunk_mmap.c
++++ b/src/chunk_mmap.c
+@@ -1,6 +1,5 @@
+ #define	JEMALLOC_CHUNK_MMAP_C_
+ #include "jemalloc/internal/jemalloc_internal.h"
+-#include "rmmap.h"
+ 
+ /******************************************************************************/
+ /* Function prototypes for non-inline static functions. */
+diff --git a/src/jemalloc.c b/src/jemalloc.c
+index 2685e6a..38359fd 100644
+--- a/src/jemalloc.c
++++ b/src/jemalloc.c
+@@ -1,6 +1,5 @@
+ #define	JEMALLOC_C_
+ #include "jemalloc/internal/jemalloc_internal.h"
+-#include "logger.h"
+ 
+ /******************************************************************************/
+ /* Data. */
+-- 
+1.9.5.github.0
+

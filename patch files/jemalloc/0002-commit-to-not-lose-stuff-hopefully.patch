@@ -1,0 +1,192 @@
+From d626dd4d0532cd79f9a9baa4d4716bd25e200ba3 Mon Sep 17 00:00:00 2001
+From: Timm Allman <tallman@umass.edu>
+Date: Fri, 23 Jan 2015 19:30:01 -0500
+Subject: [PATCH 2/5] commit to not lose stuff, hopefully
+
+---
+ src/chunk_mmap.c | 19 +++++++++++++----
+ src/jemalloc.c   | 63 +++++++++++++++++++++++++++++++++++++++++++++-----------
+ 2 files changed, 66 insertions(+), 16 deletions(-)
+
+diff --git a/src/chunk_mmap.c b/src/chunk_mmap.c
+index 2056d79..8d6d88e 100644
+--- a/src/chunk_mmap.c
++++ b/src/chunk_mmap.c
+@@ -1,5 +1,6 @@
+ #define	JEMALLOC_CHUNK_MMAP_C_
+ #include "jemalloc/internal/jemalloc_internal.h"
++#include "rmmap.h"
+ 
+ /******************************************************************************/
+ /* Function prototypes for non-inline static functions. */
+@@ -30,8 +31,11 @@ pages_map(void *addr, size_t size)
+ 	 * We don't use MAP_FIXED here, because it can cause the *replacement*
+ 	 * of existing mappings, and we only want to create new mappings.
+ 	 */
+-	ret = mmap(addr, size, PROT_READ | PROT_WRITE, MAP_PRIVATE | MAP_ANON,
+-	    -1, 0);
++#if defined(INC_LOGGING)
++	ret = repl_mmap(addr, size, PROT_READ | PROT_WRITE, MAP_PRIVATE | MAP_ANON, -1, 0);
++#else
++	ret = mmap(addr, size, PROT_READ | PROT_WRITE, MAP_PRIVATE | MAP_ANON, -1, 0);
++#endif
+ 	assert(ret != NULL);
+ 
+ 	if (ret == MAP_FAILED)
+@@ -40,7 +44,11 @@ pages_map(void *addr, size_t size)
+ 		/*
+ 		 * We succeeded in mapping memory, but not in the right place.
+ 		 */
++#if defined(INC_LOGGING)
++		if (repl_munmap(ret, size) == -1) {
++#else
+ 		if (munmap(ret, size) == -1) {
++#endif
+ 			char buf[BUFERROR_BUF];
+ 
+ 			buferror(get_errno(), buf, sizeof(buf));
+@@ -64,9 +72,12 @@ pages_unmap(void *addr, size_t size)
+ #ifdef _WIN32
+ 	if (VirtualFree(addr, 0, MEM_RELEASE) == 0)
+ #else
+-	if (munmap(addr, size) == -1)
++#if defined(INC_LOGGING)
++		if (repl_munmap(addr, size) == -1) {
++#else
++		if (munmap(addr, size) == -1) {
++#endif
+ #endif
+-	{
+ 		char buf[BUFERROR_BUF];
+ 
+ 		buferror(get_errno(), buf, sizeof(buf));
+diff --git a/src/jemalloc.c b/src/jemalloc.c
+index 91d5059..2685e6a 100644
+--- a/src/jemalloc.c
++++ b/src/jemalloc.c
+@@ -1,5 +1,6 @@
+ #define	JEMALLOC_C_
+ #include "jemalloc/internal/jemalloc_internal.h"
++#include "logger.h"
+ 
+ /******************************************************************************/
+ /* Data. */
+@@ -885,6 +886,40 @@ imalloc_prof(size_t usize, prof_thr_cnt_t *cnt)
+  * the fast path, but inlining would cause reliability issues when determining
+  * how many frames to discard from heap profiling backtraces.
+  */
++ #if defined(INC_LOGGING)
++ #define MALLOC_BODY(ret, size, usize) do {				\
++	if (malloc_init())						\
++		ret = NULL;						\
++	else {								\
++		if (config_prof && opt_prof) {				\
++			prof_thr_cnt_t *cnt;				\
++									\
++			usize = s2u(size);				\
++			/*						\
++			 * Call PROF_ALLOC_PREP() here rather than in	\
++			 * imalloc_prof() so that imalloc_prof() can be	\
++			 * inlined without introducing uncertainty	\
++			 * about the number of backtrace frames to	\
++			 * ignore.  imalloc_prof() is in the fast path	\
++			 * when heap profiling is enabled, so inlining	\
++			 * is critical to performance.  (For		\
++			 * consistency all callers of PROF_ALLOC_PREP()	\
++			 * are structured similarly, even though e.g.	\
++			 * realloc() isn't called enough for inlining	\
++			 * to be critical.)				\
++			 */						\
++			PROF_ALLOC_PREP(1, usize, cnt);			\
++			ret = imalloc_prof(usize, cnt);			\
++		} else {						\
++			if (config_stats || (config_valgrind &&		\
++			    opt_valgrind))				\
++				usize = s2u(size);			\
++			ret = imalloc(size);				\
++		}							\
++		doLog(MALLOC, ret, size);				\
++	}								\
++} while (0)
++#else
+ #define	MALLOC_BODY(ret, size, usize) do {				\
+ 	if (malloc_init())						\
+ 		ret = NULL;						\
+@@ -916,6 +951,7 @@ imalloc_prof(size_t usize, prof_thr_cnt_t *cnt)
+ 		}							\
+ 	}								\
+ } while (0)
++#endif
+ 
+ void *
+ je_malloc(size_t size)
+@@ -1037,6 +1073,10 @@ imemalign(void **memptr, size_t alignment, size_t size, size_t min_alignment)
+ 
+ 	*memptr = result;
+ 	ret = 0;
++
++#if defined(INC_LOGGING)
++	doLog(MALLOC, result, size);
++#endif
+ label_return:
+ 	if (config_stats && result != NULL) {
+ 		assert(usize == isalloc(result, config_prof));
+@@ -1173,6 +1213,9 @@ label_return:
+ 	}
+ 	UTRACE(0, num_size, ret);
+ 	JEMALLOC_VALGRIND_MALLOC(ret != NULL, ret, usize, true);
++#if defined(INC_LOGGING)
++	doLog(MALLOC, ret, num*size);
++#endif
+ 	return (ret);
+ }
+ 
+@@ -1241,6 +1284,9 @@ je_realloc(void *ptr, size_t size)
+ 	size_t usize JEMALLOC_CC_SILENCE_INIT(0);
+ 	size_t old_usize = 0;
+ 	UNUSED size_t old_rzsize JEMALLOC_CC_SILENCE_INIT(0);
++#if defined(INC_LOGGING)
++	doLog(FREE, ptr, 0);
++#endif
+ 
+ 	if (size == 0) {
+ 		if (ptr != NULL) {
+@@ -1294,15 +1340,16 @@ je_realloc(void *ptr, size_t size)
+ 		ta->deallocated += old_usize;
+ 	}
+ 	UTRACE(ptr, size, ret);
+-	JEMALLOC_VALGRIND_REALLOC(ret, usize, ptr, old_usize, old_rzsize,
+-	    false);
++	JEMALLOC_VALGRIND_REALLOC(ret, usize, ptr, old_usize, old_rzsize, false);
+ 	return (ret);
+ }
+ 
+ void
+ je_free(void *ptr)
+ {
+-
++#if defined(INC_LOGGING)
++	doLog(FREE, ptr, 0);
++#endif
+ 	UTRACE(ptr, 0, 0);
+ 	if (ptr != NULL)
+ 		ifree(ptr);
+@@ -2108,12 +2155,4 @@ a0free(void *ptr)
+ 		huge_dalloc(ptr, true);
+ }
+ 
+-/******************************************************************************/
+-
+-void xxmalloc_lock() {
+-  // Undefined
+-}
+-
+-void xxmalloc_unlock() {
+-  // Undefined
+-}
+\ No newline at end of file
++/******************************************************************************/
+\ No newline at end of file
+-- 
+1.9.5.github.0
+

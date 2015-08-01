@@ -1,0 +1,19 @@
+From cc346594c3a8cbf8e7dcc6b3bbf80db5382fda70 Mon Sep 17 00:00:00 2001
+From: Timm Allman <tallman@umass.edu>
+Date: Wed, 14 Jan 2015 17:59:31 -0500
+Subject: [PATCH 06/14] use magic
+
+---
+ src/Heap-Layers | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/src/Heap-Layers b/src/Heap-Layers
+index 0b4d5b5..1256db6 160000
+--- a/src/Heap-Layers
++++ b/src/Heap-Layers
+@@ -1 +1 @@
+-Subproject commit 0b4d5b5a2bd13a1d2c5a90e94846759eac0526bb
++Subproject commit 1256db6a2d1d633fbbe93fe5349e2c54e072f8ae
+-- 
+1.9.5.github.0
+

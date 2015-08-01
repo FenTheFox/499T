@@ -1,0 +1,51 @@
+From bf82c0ecd6f11943bc0f526b9d7928f0503f1fac Mon Sep 17 00:00:00 2001
+From: Timm Allman <tallman@umass.edu>
+Date: Thu, 23 Apr 2015 23:39:17 -0400
+Subject: [PATCH 5/5] Add all funcs that FF needs
+
+---
+ include/malloc_decls.h   | 1 +
+ include/replace_malloc.h | 1 +
+ src/jemalloc.c           | 9 ++++++++-
+ 3 files changed, 10 insertions(+), 1 deletion(-)
+ create mode 120000 include/malloc_decls.h
+ create mode 120000 include/replace_malloc.h
+
+diff --git a/include/malloc_decls.h b/include/malloc_decls.h
+new file mode 120000
+index 0000000..867ba1b
+--- /dev/null
++++ b/include/malloc_decls.h
+@@ -0,0 +1 @@
++../../../../source/repl_malloc/malloc_decls.h
+\ No newline at end of file
+diff --git a/include/replace_malloc.h b/include/replace_malloc.h
+new file mode 120000
+index 0000000..1ca4c11
+--- /dev/null
++++ b/include/replace_malloc.h
+@@ -0,0 +1 @@
++../../../../source/repl_malloc/replace_malloc.h
+\ No newline at end of file
+diff --git a/src/jemalloc.c b/src/jemalloc.c
+index 38359fd..ecca797 100644
+--- a/src/jemalloc.c
++++ b/src/jemalloc.c
+@@ -2154,4 +2154,11 @@ a0free(void *ptr)
+ 		huge_dalloc(ptr, true);
+ }
+ 
+-/******************************************************************************/
+\ No newline at end of file
++/******************************************************************************/
++
++#include "replace_malloc.h"
++
++JEMALLOC_EXPORT size_t replace_malloc_good_size(size_t size)
++{
++	return size;
++}
+\ No newline at end of file
+-- 
+1.9.5.github.0
+

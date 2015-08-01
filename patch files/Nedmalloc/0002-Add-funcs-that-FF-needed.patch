@@ -1,0 +1,272 @@
+From c0515f58c5fdc4855f4c592738ed7ac735663c5f Mon Sep 17 00:00:00 2001
+From: Timm Allman <tallman@umass.edu>
+Date: Thu, 23 Apr 2015 23:42:36 -0400
+Subject: [PATCH 2/2] Add funcs that FF needed
+
+---
+ Makefile         |   3 +-
+ malloc_decls.h   |   1 +
+ nedmalloc.h      | 132 ++++++++++++++++++++++++++++++++++++-------------------
+ replace_malloc.h |   1 +
+ 4 files changed, 91 insertions(+), 46 deletions(-)
+ create mode 120000 malloc_decls.h
+ create mode 120000 replace_malloc.h
+
+diff --git a/Makefile b/Makefile
+index 485fc27..92027de 100644
+--- a/Makefile
++++ b/Makefile
+@@ -6,4 +6,5 @@ debug:
+ release:
+ 	scons -k
+ clean:
+-	scons -c
++	scons -c; \
++	rm -rf .scon* *.so
+diff --git a/malloc_decls.h b/malloc_decls.h
+new file mode 120000
+index 0000000..2b02a40
+--- /dev/null
++++ b/malloc_decls.h
+@@ -0,0 +1 @@
++../../../source/repl_malloc/malloc_decls.h
+\ No newline at end of file
+diff --git a/nedmalloc.h b/nedmalloc.h
+index d54da03..01898f9 100644
+--- a/nedmalloc.h
++++ b/nedmalloc.h
+@@ -250,6 +250,8 @@ Always turns on ENABLE_TOLERANT_NEDMALLOC.
+   #endif
+  #endif
+ #elif defined USE_REPLACE_PREFIX
++  #include <unistd.h>
++  #include <errno.h>
+   #define nedmalloc               replace_malloc
+   #define nedmalloc2              replace_malloc2
+   #define nedcalloc               replace_calloc
+@@ -331,48 +333,48 @@ extern "C" {
+ being developed for inclusion into the C1X programming language standard
+ 
+ For the v1.10 release which was generously sponsored by
+-<a href="http://www.ara.com/" target="_blank">Applied Research Associates (USA)</a>, 
+-a new general purpose allocator API was designed which is intended to remedy many 
+-of the long standing problems and inefficiencies introduced by the ISO C allocator 
+-API. Internally nedalloc's implementations of nedmalloc(), nedcalloc(), nedmemalign() 
++<a href="http://www.ara.com/" target="_blank">Applied Research Associates (USA)</a>,
++a new general purpose allocator API was designed which is intended to remedy many
++of the long standing problems and inefficiencies introduced by the ISO C allocator
++API. Internally nedalloc's implementations of nedmalloc(), nedcalloc(), nedmemalign()
+ and nedrealloc() call into this API:
+ 
+ <ul>
+ 	<li><code>void* malloc2(size_t bytes, size_t alignment, unsigned flags)</code></li>
+-	<li><code>void* realloc2(void* mem, size_t bytes, size_t alignment, unsigned 
++	<li><code>void* realloc2(void* mem, size_t bytes, size_t alignment, unsigned
+ 	flags)</code></li>
+ 	<li><code>void free2(void* mem, unsigned flags)</code></li>
+ </ul>
+ 
+-If nedmalloc.h is being included by C++ code, the alignment and flags parameters 
+-default to zero which makes the new API identical to the old API (roll on the introduction 
++If nedmalloc.h is being included by C++ code, the alignment and flags parameters
++default to zero which makes the new API identical to the old API (roll on the introduction
+ of default parameters to C!). The ability for realloc2() to take an alignment is
+-<em>particularly</em> useful for extending aligned vector arrays such as SSE/AVX 
+-vector arrays. Hitherto SSE/AVX vector code had to jump through all sorts of unpleasant 
++<em>particularly</em> useful for extending aligned vector arrays such as SSE/AVX
++vector arrays. Hitherto SSE/AVX vector code had to jump through all sorts of unpleasant
+ hoops to maintain alignment :(.
+ 
+-Note that using any of these flags other than M2_ZERO_MEMORY or any alignment 
++Note that using any of these flags other than M2_ZERO_MEMORY or any alignment
+ other than zero inhibits the threadcache.
+ 
+-Currently MREMAP support is limited to Linux and Windows. Patches implementing 
++Currently MREMAP support is limited to Linux and Windows. Patches implementing
+ support for other platforms are welcome.
+ 
+-On Linux the non portable mremap() kernel function is currently used, so in fact 
++On Linux the non portable mremap() kernel function is currently used, so in fact
+ the M2_RESERVE_* options are currently ignored.
+ 
+-On Windows, there are two different MREMAP implementations which are chosen according 
+-to whether a 32 bit or a 64 bit build is being performed. The 32 bit implementation 
+-is based on Win32 file mappings where it reserves the address space within the Windows 
+-VM system, so you can safely specify silly reservation quantities like 2Gb per block 
+-and not exhaust local process address space. Note however that on x86 this costs 
+-2Kb (1Kb if PAE is off) of kernel memory per Mb reserved, and as kernel memory has 
+-a hard limit of 447Mb on x86 you will find the total address space reservable in 
+-the system is limited. On x64, or if you define WIN32_DIRECT_USE_FILE_MAPPINGS=0 
+-on x86, a much faster implementation of using VirtualAlloc(MEM_RESERVE) to directly 
++On Windows, there are two different MREMAP implementations which are chosen according
++to whether a 32 bit or a 64 bit build is being performed. The 32 bit implementation
++is based on Win32 file mappings where it reserves the address space within the Windows
++VM system, so you can safely specify silly reservation quantities like 2Gb per block
++and not exhaust local process address space. Note however that on x86 this costs
++2Kb (1Kb if PAE is off) of kernel memory per Mb reserved, and as kernel memory has
++a hard limit of 447Mb on x86 you will find the total address space reservable in
++the system is limited. On x64, or if you define WIN32_DIRECT_USE_FILE_MAPPINGS=0
++on x86, a much faster implementation of using VirtualAlloc(MEM_RESERVE) to directly
+ reserve the address space is used.
+ 
+-When using M2_RESERVE_* with realloc2(), the setting only takes effect when the 
+-mmapped chunk has exceeded its reservation space and a new reservation space needs 
++When using M2_RESERVE_* with realloc2(), the setting only takes effect when the
++mmapped chunk has exceeded its reservation space and a new reservation space needs
+ to be created.
+ */
+ 
+@@ -381,31 +383,31 @@ to be created.
+ 
+ /*! \def M2_ZERO_MEMORY
+ \ingroup v2malloc
+-\brief Sets the contents of the allocated block (or any increase in the allocated 
++\brief Sets the contents of the allocated block (or any increase in the allocated
+ block) to zero.
+ 
+-Note that this zeroes only the increase from what dlmalloc thinks 
+-the chunk's size is, so if you realloc2() a block which wasn't allocated using 
+-malloc2() using this flag then you may have garbage just before the newly extended 
++Note that this zeroes only the increase from what dlmalloc thinks
++the chunk's size is, so if you realloc2() a block which wasn't allocated using
++malloc2() using this flag then you may have garbage just before the newly extended
+ space.
+ 
+-\li <strong>Rationale:</strong> Memory returned by the system is guaranteed to 
+-be zero on most platforms, and hence dlmalloc knows when it can skip zeroing 
++\li <strong>Rationale:</strong> Memory returned by the system is guaranteed to
++be zero on most platforms, and hence dlmalloc knows when it can skip zeroing
+ memory. This improves performance.
+ */
+ #define M2_ZERO_MEMORY          (1<<0)
+ 
+ /*! \def M2_PREVENT_MOVE
+ \ingroup v2malloc
+-\brief Cause realloc2() to attempt to extend a block in place, but to never move 
++\brief Cause realloc2() to attempt to extend a block in place, but to never move
+ it.
+ 
+-\li <strong>Rationale:</strong> C++ makes almost no use of realloc(), even for 
+-contiguous arrays such as std::vector<> because most C++ objects cannot be relocated 
+-in memory without a copy or rvalue construction (though some clever STL implementations 
+-specialise for Plain Old Data (POD) types, and use realloc() then and only then). 
+-This flag allows C++ containers to speculatively try to extend in place, thus 
+-improving performance <em>especially</em> for large allocations which will use 
++\li <strong>Rationale:</strong> C++ makes almost no use of realloc(), even for
++contiguous arrays such as std::vector<> because most C++ objects cannot be relocated
++in memory without a copy or rvalue construction (though some clever STL implementations
++specialise for Plain Old Data (POD) types, and use realloc() then and only then).
++This flag allows C++ containers to speculatively try to extend in place, thus
++improving performance <em>especially</em> for large allocations which will use
+ mmap().
+ */
+ #define M2_PREVENT_MOVE         (1<<1)
+@@ -414,13 +416,13 @@ mmap().
+ \ingroup v2malloc
+ \brief Always allocate as though mmap_threshold were being exceeded.
+ 
+-In the case of realloc2(), note that setting this bit will not necessarily mmap a chunk 
+-which isn't already mmapped, but it will force a mmapped chunk if new memory 
++In the case of realloc2(), note that setting this bit will not necessarily mmap a chunk
++which isn't already mmapped, but it will force a mmapped chunk if new memory
+ needs allocating.
+ 
+-\li <strong>Rationale:</strong> If you know that an array you are allocating 
+-is going to be repeatedly extended up into the hundred of kilobytes range, then 
+-you can avoid the constant memory copying into larger blocks by specifying this 
++\li <strong>Rationale:</strong> If you know that an array you are allocating
++is going to be repeatedly extended up into the hundred of kilobytes range, then
++you can avoid the constant memory copying into larger blocks by specifying this
+ flag at the beginning along with one of the M2_RESERVE_* flags below. This can
+ <strong>greatly</strong> improve performance for large arrays.
+ */
+@@ -438,14 +440,14 @@ This lets you set a multiplier (bit 15 set) or a 1<< shift value.
+ 
+ /*! \def M2_RESERVE_MULT(n)
+ \ingroup v2malloc
+-\brief Reserve n times as much address space such that mmapped realloc2(size <= 
++\brief Reserve n times as much address space such that mmapped realloc2(size <=
+ n * original size) avoids memory copying and hence is much faster.
+ */
+ #define M2_RESERVE_MULT(n)      (M2_RESERVE_ISMULTIPLIER|(((n)<<8)&M2_RESERVE_MASK))
+ 
+ /*! \def M2_RESERVE_SHIFT(n)
+ \ingroup v2malloc
+-\brief Reserve (1<<n) bytes of address space such that mmapped realloc2(size <= 
++\brief Reserve (1<<n) bytes of address space such that mmapped realloc2(size <=
+ (1<<n)) avoids memory copying and hence is much faster.
+ */
+ #define M2_RESERVE_SHIFT(n)     (((n)<<8)&M2_RESERVE_MASK)
+@@ -769,7 +771,7 @@ the performance of STL containers by making use of nedalloc's additional feature
+ Sounds difficult to use? Not really. Simply do this:
+ \code
+ using namespace nedalloc;
+-typedef nedallocatorise<std::vector, unsigned int, 
++typedef nedallocatorise<std::vector, unsigned int,
+ 	nedpolicy::typeIsPOD<true>::policy,
+ 	nedpolicy::mmap<>::policy,
+ 	nedpolicy::reserveN<26>::policy			// 1<<26 = 64Mb. 10,000,000 * sizeof(unsigned int) = 38Mb.
+@@ -1504,7 +1506,7 @@ is to specialise a STL container implementation to make full use of nedalloc's
+ advanced facilities, so for example if you do:
+ \code
+ using namespace nedalloc;
+-typedef nedallocatorise<std::vector, unsigned int, 
++typedef nedallocatorise<std::vector, unsigned int,
+ 	nedpolicy::typeIsPOD<true>::policy,
+ 	nedpolicy::mmap<>::policy,
+ 	nedpolicy::reserveN<26>::policy			// 1<<26 = 64Mb. 10,000,000 * sizeof(unsigned int) = 38Mb.
+@@ -1636,3 +1638,43 @@ if you turn this on as the sheer volume of data output can make execution very s
+ #endif
+ 
+ #endif
++
++#ifdef USE_REPLACE_PREFIX
++  #include "replace_malloc.h"
++
++  MOZ_EXPORT int replace_posix_memalign(void **ptr, size_t alignment, size_t size)
++  {
++    if (size == 0) {
++      *ptr = NULL;
++      return 0;
++    }
++    /* alignment must be a power of two and a multiple of sizeof(void *) */
++    if (((alignment - 1) & alignment) != 0 || (alignment % sizeof(void *)))
++      return EINVAL;
++    *ptr = replace_memalign(alignment, size);
++    return *ptr ? 0 : ENOMEM;
++  }
++
++  MOZ_EXPORT void *replace_valloc(size_t size)
++  {
++    return replace_memalign(sysconf(_SC_PAGESIZE), size);
++  }
++
++  MOZ_EXPORT size_t replace_memsize(void* ptr)
++  {
++    return replace_malloc_usable_size(ptr);
++  }
++
++  MOZ_EXPORT void *replace_aligned_alloc(size_t alignment, size_t size)
++  {
++    /* size should be a multiple of alignment */
++    if (size % alignment)
++      return NULL;
++    return replace_memalign(alignment, size);
++  }
++
++  MOZ_EXPORT size_t replace_malloc_good_size(size_t size)
++  {
++    return size;
++  }
++#endif
+diff --git a/replace_malloc.h b/replace_malloc.h
+new file mode 120000
+index 0000000..09af69b
+--- /dev/null
++++ b/replace_malloc.h
+@@ -0,0 +1 @@
++../../../source/repl_malloc/replace_malloc.h
+\ No newline at end of file
+-- 
+1.9.5.github.0
+

@@ -1,0 +1,19 @@
+From 4da5e6f4399c14e246440a3683dd1a7dab55b12a Mon Sep 17 00:00:00 2001
+From: Timm Allman <tallman@umass.edu>
+Date: Wed, 15 Oct 2014 00:09:12 -0400
+Subject: [PATCH 01/14] pull heap layers
+
+---
+ src/Heap-Layers | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/src/Heap-Layers b/src/Heap-Layers
+index 0251d12..dcdaf9b 160000
+--- a/src/Heap-Layers
++++ b/src/Heap-Layers
+@@ -1 +1 @@
+-Subproject commit 0251d12b497f7514b5009412ed29bfc1f1d62bc4
++Subproject commit dcdaf9bb28d6fec8c1439e2f758c4d59b0d7d037
+-- 
+1.9.5.github.0
+

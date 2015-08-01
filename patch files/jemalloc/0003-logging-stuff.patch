@@ -1,0 +1,51 @@
+From 375b4cbf87f9001398f8f139b20d37ec19a161a0 Mon Sep 17 00:00:00 2001
+From: Timm Allman <tallman@umass.edu>
+Date: Sat, 24 Jan 2015 18:04:31 -0500
+Subject: [PATCH 3/5] logging stuff
+
+---
+ include/logger.h  | 1 +
+ include/rmmap.h   | 1 +
+ src/repl_malloc.c | 1 +
+ src/repl_malloc.h | 1 +
+ 4 files changed, 4 insertions(+)
+ create mode 120000 include/logger.h
+ create mode 120000 include/rmmap.h
+ create mode 120000 src/repl_malloc.c
+ create mode 120000 src/repl_malloc.h
+
+diff --git a/include/logger.h b/include/logger.h
+new file mode 120000
+index 0000000..c8fa4c9
+--- /dev/null
++++ b/include/logger.h
+@@ -0,0 +1 @@
++../../../../inst/logger.h
+\ No newline at end of file
+diff --git a/include/rmmap.h b/include/rmmap.h
+new file mode 120000
+index 0000000..657e804
+--- /dev/null
++++ b/include/rmmap.h
+@@ -0,0 +1 @@
++../../../../inst/rmmap.h
+\ No newline at end of file
+diff --git a/src/repl_malloc.c b/src/repl_malloc.c
+new file mode 120000
+index 0000000..970b21d
+--- /dev/null
++++ b/src/repl_malloc.c
+@@ -0,0 +1 @@
++../../../../repl_malloc/repl_malloc.c
+\ No newline at end of file
+diff --git a/src/repl_malloc.h b/src/repl_malloc.h
+new file mode 120000
+index 0000000..25bec0e
+--- /dev/null
++++ b/src/repl_malloc.h
+@@ -0,0 +1 @@
++../../../../repl_malloc/repl_malloc.h
+\ No newline at end of file
+-- 
+1.9.5.github.0
+
